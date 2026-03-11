@@ -1,0 +1,35 @@
+{
+  "entity_key": "AFL:US",
+  "symbol": "AFL",
+  "name": "Aflac Inc",
+  "bbg_ticker": "AFL:US",
+  "memberships": [
+    "sp500"
+  ],
+  "latest_records": [
+    {
+      "dataset": "sp500",
+      "as_of_date": "2026-03-10",
+      "as_of_utc": "2026-03-10T20:29:13.792Z",
+      "name": "Aflac Inc",
+      "entity_key": "AFL:US",
+      "symbol": "AFL",
+      "source_ticker": "AFL.US",
+      "bbg_ticker": "AFL:US",
+      "price": 110.3,
+      "change": 0.12,
+      "change_pct": 0.11,
+      "currency": null,
+      "weight": null,
+      "market_cap_m": null,
+      "extra": {}
+    }
+  ],
+  "membership_history": [
+    {
+      "dataset": "sp500",
+      "date": "2026-03-10",
+      "action": "present"
+    }
+  ]
+}

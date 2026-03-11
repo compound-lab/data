@@ -1,0 +1,35 @@
+{
+  "entity_key": "MNG:LN",
+  "symbol": "MNG",
+  "name": "M&G PLC ORD £0.05",
+  "bbg_ticker": "MNG:LN",
+  "memberships": [
+    "ftse"
+  ],
+  "latest_records": [
+    {
+      "dataset": "ftse",
+      "as_of_date": "2026-03-10",
+      "as_of_utc": "2026-03-10T17:38:30.517Z",
+      "name": "M&G PLC ORD £0.05",
+      "entity_key": "MNG:LN",
+      "symbol": "MNG",
+      "source_ticker": "MNG.LN",
+      "bbg_ticker": "MNG:LN",
+      "price": 303.1,
+      "change": 6.1,
+      "change_pct": 2.05,
+      "currency": "GBX",
+      "weight": null,
+      "market_cap_m": 7156.36,
+      "extra": {}
+    }
+  ],
+  "membership_history": [
+    {
+      "dataset": "ftse",
+      "date": "2026-03-10",
+      "action": "present"
+    }
+  ]
+}

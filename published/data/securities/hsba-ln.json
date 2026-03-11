@@ -1,0 +1,35 @@
+{
+  "entity_key": "HSBA:LN",
+  "symbol": "HSBA",
+  "name": "HSBC HLDGS PLC ORD $0.50 (UK REG)",
+  "bbg_ticker": "HSBA:LN",
+  "memberships": [
+    "ftse"
+  ],
+  "latest_records": [
+    {
+      "dataset": "ftse",
+      "as_of_date": "2026-03-10",
+      "as_of_utc": "2026-03-10T17:38:30.517Z",
+      "name": "HSBC HLDGS PLC ORD $0.50 (UK REG)",
+      "entity_key": "HSBA:LN",
+      "symbol": "HSBA",
+      "source_ticker": "HSBA.LN",
+      "bbg_ticker": "HSBA:LN",
+      "price": 1280.0,
+      "change": 29.0,
+      "change_pct": 2.32,
+      "currency": "GBX",
+      "weight": null,
+      "market_cap_m": 214862.25,
+      "extra": {}
+    }
+  ],
+  "membership_history": [
+    {
+      "dataset": "ftse",
+      "date": "2026-03-10",
+      "action": "present"
+    }
+  ]
+}

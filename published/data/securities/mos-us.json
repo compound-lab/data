@@ -1,0 +1,35 @@
+{
+  "entity_key": "MOS:US",
+  "symbol": "MOS",
+  "name": "Mosaic Company",
+  "bbg_ticker": "MOS:US",
+  "memberships": [
+    "sp500"
+  ],
+  "latest_records": [
+    {
+      "dataset": "sp500",
+      "as_of_date": "2026-03-10",
+      "as_of_utc": "2026-03-10T20:29:13.792Z",
+      "name": "Mosaic Company",
+      "entity_key": "MOS:US",
+      "symbol": "MOS",
+      "source_ticker": "MOS.US",
+      "bbg_ticker": "MOS:US",
+      "price": 26.48,
+      "change": -0.44,
+      "change_pct": -1.63,
+      "currency": null,
+      "weight": null,
+      "market_cap_m": null,
+      "extra": {}
+    }
+  ],
+  "membership_history": [
+    {
+      "dataset": "sp500",
+      "date": "2026-03-10",
+      "action": "present"
+    }
+  ]
+}
