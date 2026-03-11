@@ -6110,6 +6110,16 @@
     "security_path": "/data/securities/sre-us.json"
   },
   {
+    "entity_key": "SSE:LN",
+    "symbol": "SSE",
+    "name": "SSE PLC ORD 50P",
+    "bbg_ticker": "SSE:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/sse-ln.json"
+  },
+  {
     "entity_key": "STAN:LN",
     "symbol": "STAN",
     "name": "STANDARD CHARTERED PLC ORD USD0.50",
