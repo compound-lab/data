@@ -900,6 +900,16 @@
     "security_path": "/data/securities/ben-us.json"
   },
   {
+    "entity_key": "BEZ:LN",
+    "symbol": "BEZ",
+    "name": "BEAZLEY PLC ORD 5P",
+    "bbg_ticker": "BEZ:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/bez-ln.json"
+  },
+  {
     "entity_key": "BF.B:US",
     "symbol": "BF.B",
     "name": "Brown–Forman",
@@ -6098,16 +6108,6 @@
       "sp500"
     ],
     "security_path": "/data/securities/sre-us.json"
-  },
-  {
-    "entity_key": "SSE:LN",
-    "symbol": "SSE",
-    "name": "SSE PLC ORD 50P",
-    "bbg_ticker": "SSE:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/sse-ln.json"
   },
   {
     "entity_key": "STAN:LN",
