@@ -1,0 +1,35 @@
+{
+  "entity_key": "SDR:LN",
+  "symbol": "SDR",
+  "name": "SCHRODERS PLC ORD 20P",
+  "bbg_ticker": "SDR:LN",
+  "memberships": [
+    "ftse"
+  ],
+  "latest_records": [
+    {
+      "dataset": "ftse",
+      "as_of_date": "2026-03-10",
+      "as_of_utc": "2026-03-10T17:38:30.517Z",
+      "name": "SCHRODERS PLC ORD 20P",
+      "entity_key": "SDR:LN",
+      "symbol": "SDR",
+      "source_ticker": "SDR.LN",
+      "bbg_ticker": "SDR:LN",
+      "price": 586.0,
+      "change": 1.0,
+      "change_pct": 0.17,
+      "currency": "GBX",
+      "weight": null,
+      "market_cap_m": 9422.66,
+      "extra": {}
+    }
+  ],
+  "membership_history": [
+    {
+      "dataset": "ftse",
+      "date": "2026-03-10",
+      "action": "present"
+    }
+  ]
+}

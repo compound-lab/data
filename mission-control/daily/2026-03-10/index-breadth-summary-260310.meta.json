@@ -1,0 +1,52 @@
+{
+  "ts": "2026-03-10T21:37:27.575Z",
+  "status": "success",
+  "dateUK": "2026-03-10",
+  "jsonOut": "/home/henry/.openclaw/workspace/mission-control/daily/2026-03-10/index-breadth-summary-260310.json",
+  "csvOut": "/home/henry/.openclaw/workspace/mission-control/daily/2026-03-10/index-breadth-summary-260310.csv",
+  "inputs": [
+    {
+      "index": "CAC 40",
+      "source": "Euronext",
+      "prefix": "cac40-constituents-",
+      "changeField": "% Change",
+      "kind": "constituents"
+    },
+    {
+      "index": "DAX",
+      "source": "MarketScreener",
+      "prefix": "dax_ms-constituents-",
+      "changeField": "Change",
+      "kind": "constituents"
+    },
+    {
+      "index": "FTSE 100",
+      "source": "LSE",
+      "prefix": "ftse100-lse-constituents-",
+      "changeField": "Change %",
+      "kind": "constituents"
+    },
+    {
+      "index": "IBEX 35",
+      "source": "BME Exchange",
+      "prefix": "ibex35-constituents-",
+      "changeField": "% Diff",
+      "kind": "constituents"
+    },
+    {
+      "index": "S&P 500",
+      "source": "Barchart (Download)",
+      "prefix": "sp500-barchart-download-components-",
+      "changeField": "percentChange",
+      "kind": "constituents"
+    },
+    {
+      "index": "TSX",
+      "source": "TMX Money (Market Summary)",
+      "prefix": "tsx-market-summary-",
+      "changeField": null,
+      "kind": "marketSummary"
+    }
+  ],
+  "errors": []
+}

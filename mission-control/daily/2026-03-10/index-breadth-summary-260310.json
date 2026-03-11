@@ -1,0 +1,79 @@
+{
+  "ts": "2026-03-10T21:37:27.575Z",
+  "dateUK": "2026-03-10",
+  "rows": [
+    {
+      "Index": "CAC 40",
+      "Source": "Euronext",
+      "Total": 40,
+      "Up": 35,
+      "Down": 5,
+      "Unchanged": 0,
+      "Unknown": 0,
+      "InputFile": "cac40-constituents-260310.json",
+      "Timestamp": "2026-03-10T21:37:27.575Z",
+      "DateUK": "2026-03-10"
+    },
+    {
+      "Index": "DAX",
+      "Source": "MarketScreener",
+      "Total": 40,
+      "Up": 33,
+      "Down": 7,
+      "Unchanged": 0,
+      "Unknown": 0,
+      "InputFile": "dax_ms-constituents-260310.json",
+      "Timestamp": "2026-03-10T21:37:27.575Z",
+      "DateUK": "2026-03-10"
+    },
+    {
+      "Index": "FTSE 100",
+      "Source": "LSE",
+      "Total": 100,
+      "Up": 87,
+      "Down": 12,
+      "Unchanged": 0,
+      "Unknown": 1,
+      "InputFile": "ftse100-lse-constituents-260310.json",
+      "Timestamp": "2026-03-10T21:37:27.575Z",
+      "DateUK": "2026-03-10"
+    },
+    {
+      "Index": "IBEX 35",
+      "Source": "BME Exchange",
+      "Total": 35,
+      "Up": 32,
+      "Down": 3,
+      "Unchanged": 0,
+      "Unknown": 0,
+      "InputFile": "ibex35-constituents-260310.json",
+      "Timestamp": "2026-03-10T21:37:27.575Z",
+      "DateUK": "2026-03-10"
+    },
+    {
+      "Index": "S&P 500",
+      "Source": "Barchart (Download)",
+      "Total": 503,
+      "Up": 149,
+      "Down": 354,
+      "Unchanged": 0,
+      "Unknown": 0,
+      "InputFile": "sp500-barchart-download-components-260310.json",
+      "Timestamp": "2026-03-10T21:37:27.575Z",
+      "DateUK": "2026-03-10"
+    },
+    {
+      "Index": "TSX",
+      "Source": "TMX Money (Market Summary)",
+      "Total": 2283,
+      "Up": 1274,
+      "Down": 861,
+      "Unchanged": 148,
+      "Unknown": 0,
+      "InputFile": "tsx-market-summary-2026-03-10.json",
+      "Timestamp": "2026-03-10T21:37:27.575Z",
+      "DateUK": "2026-03-10"
+    }
+  ],
+  "errors": []
+}

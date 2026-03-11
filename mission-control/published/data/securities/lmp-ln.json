@@ -1,0 +1,35 @@
+{
+  "entity_key": "LMP:LN",
+  "symbol": "LMP",
+  "name": "LONDONMETRIC PROPERTY PLC ORD 10P",
+  "bbg_ticker": "LMP:LN",
+  "memberships": [
+    "ftse"
+  ],
+  "latest_records": [
+    {
+      "dataset": "ftse",
+      "as_of_date": "2026-03-10",
+      "as_of_utc": "2026-03-10T17:38:30.517Z",
+      "name": "LONDONMETRIC PROPERTY PLC ORD 10P",
+      "entity_key": "LMP:LN",
+      "symbol": "LMP",
+      "source_ticker": "LMP.LN",
+      "bbg_ticker": "LMP:LN",
+      "price": 200.2,
+      "change": 3.6,
+      "change_pct": 1.83,
+      "currency": "GBX",
+      "weight": null,
+      "market_cap_m": 4609.1,
+      "extra": {}
+    }
+  ],
+  "membership_history": [
+    {
+      "dataset": "ftse",
+      "date": "2026-03-10",
+      "action": "present"
+    }
+  ]
+}

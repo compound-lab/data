@@ -1,0 +1,38 @@
+{
+  "ts": "2026-03-07T22:36:16.926Z",
+  "status": 200,
+  "contentType": "application/json",
+  "csrfPresent": true,
+  "xsrfPresent": true,
+  "cookieNames": [
+    "XSRF-TOKEN",
+    "__cmpcccx149100",
+    "__cmpconsentx149100",
+    "__eoi",
+    "_twpid",
+    "ab.storage.deviceId.bf243db8-6e0e-43fa-9ce4-2afc85959789",
+    "ab.storage.sessionId.bf243db8-6e0e-43fa-9ce4-2afc85959789",
+    "ab.storage.userId.bf243db8-6e0e-43fa-9ce4-2afc85959789",
+    "bcFreeUserPageView",
+    "g_state",
+    "laravel_session",
+    "laravel_token",
+    "lastPage",
+    "market",
+    "remember_web_3dc7a913ef5fd4b890ecabe3487085573e16cf82",
+    "viewedOuibounceModal",
+    "webinarClosed"
+  ],
+  "capturedDownloadRequest": {
+    "didCapture": true,
+    "hadPostData": true,
+    "capturedUrl": "https://www.barchart.com/my/download"
+  },
+  "note": "If Barchart returns {error:{message:\"moreDownloads\"}}, you likely hit the daily download cap for your account tier.",
+  "payloadJson": {
+    "error": {
+      "message": "moreDownloads"
+    }
+  },
+  "payloadText": null
+}

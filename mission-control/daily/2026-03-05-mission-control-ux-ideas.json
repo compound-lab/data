@@ -1,0 +1,98 @@
+# Mission Control UX ideas (data websites vibe)
+
+Date: 2026-03-05
+
+Mission Control already has the “ops cockpit” vibe. To make it feel more like Barchart/Bloomberg (but still calm, utility-first), I’d add **three layers**: (1) a market “at-a-glance” surface, (2) drill-down exploration, (3) strong data quality + provenance.
+
+Here are the highest-leverage UX additions given the data you’re already scraping.
+
+## 1) A real “Dashboard” (not just a list of automations)
+**Add a homepage module grid** that answers: *What changed? What matters? What should I do?*
+
+- **Global status strip (top bar):**
+  - “Last successful run” per dataset (DAX, CAC, FTSE, IBEX, TSX summary, SP500 constituents/components)
+  - Red/amber/green states (missing today / stale / ok)
+  - One-click: “Run all critical” (manual batch)
+
+- **Market pulse cards (simple, dense):**
+  - TSX: adv/dec/unch + index price (you already have this)
+  - “Europe constituents refresh” (counts + last updated)
+  - “US constituents refresh” (SP500) with row count + timestamp
+  - Show *delta vs yesterday*: counts changed, new symbols, removed symbols
+
+This turns Mission Control from “automation runner” into “market ops UI”.
+
+## 2) A proper “Data” experience: browse, diff, and search
+Right now files exist, but the UX doesn’t *use* them.
+
+- **Dataset browser** (like Bloomberg’s function pages):
+  - Left nav: DAX / CAC / FTSE / IBEX / SP500 (SlickCharts) / SP500 (Barchart) / TSX summary
+  - Main: table with latest snapshot + filters + export
+
+- **Diff view (killer feature):**
+  - “What changed since yesterday?” for each constituents dataset:
+    - Added symbols
+    - Removed symbols
+    - Renames / corporate actions (best-effort via Name changes)
+  - For SP500 components: highlight weight changes / sector changes if present in the download
+
+This is the biggest “feel like Bloomberg” upgrade because it makes data *actionable*.
+
+- **Universal search** (top-right search bar):
+  - Search symbol/name across all indices you have
+  - Clicking result opens a “Security page” (see next)
+
+## 3) “Security page” (single-name view, Bloomberg-style)
+Even if you’re mostly ETF-level now, this page becomes your core primitive.
+
+For any symbol:
+- Membership badges: “In S&P 500”, “In FTSE 100”, etc.
+- Latest scraped fields across sources (name, last price if available, 52w stats if you have them, etc.)
+- History of membership changes (added/removed dates)
+- Links out: Barchart/Bloomberg pages
+
+This gives the app a “terminal” feel: everything is a function of `symbol`.
+
+## 4) Make automation runs feel reliable (provenance + observability)
+Barchart/Bloomberg UIs feel trustworthy because you can always see *as-of* and source.
+
+Add:
+- **As-of timestamp + timezone** on every module (you already parse TSX “AsOf”; extend this pattern)
+- **Row count + expected row count** checks (e.g., SP500 ≈ 503)
+- **Run logs inline** (not just artifacts): show last 20 lines, show “download limit hit” as a friendly state not a failure
+- **Retry + diagnose** buttons:
+  - Retry
+  - “Open source page” (in browser)
+  - “Show raw response”
+
+## 5) Better tables (Bloomberg ergonomics)
+For any dataset table:
+- Sticky header + column pinning (Symbol/Name pinned left)
+- Fast client-side filtering (symbol contains, sector, etc.)
+- Column chooser (“View presets” like Barchart: main / fundamentals / technical)
+- Download CSV/JSON from UI
+
+Even basic “pin + filter + presets” dramatically upgrades perceived quality.
+
+## 6) A “Morning Brief” page powered by your own data
+Not news. Just *your datasets* summarized:
+- Constituents changes (biggest adds/removes)
+- TSX breadth snapshot
+- Any scrape failures/staleness
+- “Data to review” queue: datasets that changed materially
+
+This becomes your daily ritual page.
+
+## 7) Visual identity tweaks (small, high impact)
+To get closer to Bloomberg/Barchart polish:
+- Use a **dark, low-chroma theme** option (not pure black; deep slate)
+- Tight typography scale (12–14px UI text, strong hierarchy)
+- More whitespace *between blocks*, less inside tables
+- Consistent “chip” language for statuses (OK / Stale / Failed / Limited)
+
+---
+
+### Next 3 things to build (max UX impact)
+1) **Dataset browser + diff (“added/removed since yesterday”)** for each constituents set
+2) **Symbol search + security page**
+3) **Status strip + data quality checks (row counts/as-of/staleness)**

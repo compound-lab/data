@@ -1,0 +1,4529 @@
+[
+  {
+    "Symbol": "NVDA",
+    "Company": "Nvidia",
+    "Weight": "7.07%",
+    "Price": "177.44",
+    "Chg": "-5.90",
+    "% Chg": "-3.22%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "AAPL",
+    "Company": "Apple Inc.",
+    "Weight": "6.19%",
+    "Price": "256.98",
+    "Chg": "-3.31",
+    "% Chg": "-1.27%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MSFT",
+    "Company": "Microsoft",
+    "Weight": "4.97%",
+    "Price": "408.42",
+    "Chg": "-2.26",
+    "% Chg": "-0.55%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "AMZN",
+    "Company": "Amazon",
+    "Weight": "3.74%",
+    "Price": "212.67",
+    "Chg": "-6.27",
+    "% Chg": "-2.86%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "GOOGL",
+    "Company": "Alphabet Inc. (Class A)",
+    "Weight": "3.06%",
+    "Price": "298.03",
+    "Chg": "-2.85",
+    "% Chg": "-0.95%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "GOOG",
+    "Company": "Alphabet Inc. (Class C)",
+    "Weight": "2.85%",
+    "Price": "297.79",
+    "Chg": "-3.12",
+    "% Chg": "-1.04%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "META",
+    "Company": "Meta Platforms",
+    "Weight": "2.67%",
+    "Price": "642.88",
+    "Chg": "-17.69",
+    "% Chg": "-2.68%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "AVGO",
+    "Company": "Broadcom",
+    "Weight": "2.57%",
+    "Price": "330.08",
+    "Chg": "-2.69",
+    "% Chg": "-0.81%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "TSLA",
+    "Company": "Tesla, Inc.",
+    "Weight": "2.44%",
+    "Price": "396.37",
+    "Chg": "-9.19",
+    "% Chg": "-2.26%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "BRK.B",
+    "Company": "Berkshire Hathaway",
+    "Weight": "1.76%",
+    "Price": "498.68",
+    "Chg": "-1.72",
+    "% Chg": "-0.34%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "WMT",
+    "Company": "Walmart",
+    "Weight": "1.62%",
+    "Price": "123.63",
+    "Chg": "0.32",
+    "% Chg": "0.26%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "LLY",
+    "Company": "Lilly (Eli)",
+    "Weight": "1.45%",
+    "Price": "989.82",
+    "Chg": "6.56",
+    "% Chg": "0.67%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "JPM",
+    "Company": "JPMorgan Chase",
+    "Weight": "1.28%",
+    "Price": "288.69",
+    "Chg": "-4.86",
+    "% Chg": "-1.65%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "XOM",
+    "Company": "ExxonMobil",
+    "Weight": "1.03%",
+    "Price": "151.34",
+    "Chg": "0.58",
+    "% Chg": "0.38%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "V",
+    "Company": "Visa Inc.",
+    "Weight": "1.00%",
+    "Price": "316.84",
+    "Chg": "-2.96",
+    "% Chg": "-0.93%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "JNJ",
+    "Company": "Johnson & Johnson",
+    "Weight": "0.94%",
+    "Price": "239.04",
+    "Chg": "-0.59",
+    "% Chg": "-0.25%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MA",
+    "Company": "Mastercard",
+    "Weight": "0.76%",
+    "Price": "518.60",
+    "Chg": "-6.06",
+    "% Chg": "-1.16%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "COST",
+    "Company": "Costco",
+    "Weight": "0.73%",
+    "Price": "997.04",
+    "Chg": "14.47",
+    "% Chg": "1.47%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ORCL",
+    "Company": "Oracle Corporation",
+    "Weight": "0.72%",
+    "Price": "152.80",
+    "Chg": "-1.99",
+    "% Chg": "-1.29%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "NFLX",
+    "Company": "Netflix",
+    "Weight": "0.68%",
+    "Price": "98.88",
+    "Chg": "-0.30",
+    "% Chg": "-0.30%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MU",
+    "Company": "Micron Technology",
+    "Weight": "0.68%",
+    "Price": "370.04",
+    "Chg": "-27.01",
+    "% Chg": "-6.80%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ABBV",
+    "Company": "AbbVie",
+    "Weight": "0.67%",
+    "Price": "230.03",
+    "Chg": "-2.32",
+    "% Chg": "-1.00%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CVX",
+    "Company": "Chevron Corporation",
+    "Weight": "0.62%",
+    "Price": "190.03",
+    "Chg": "0.13",
+    "% Chg": "0.07%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "PLTR",
+    "Company": "Palantir Technologies",
+    "Weight": "0.61%",
+    "Price": "156.69",
+    "Chg": "4.02",
+    "% Chg": "2.64%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "HD",
+    "Company": "Home Depot (The)",
+    "Weight": "0.59%",
+    "Price": "359.08",
+    "Chg": "-2.60",
+    "% Chg": "-0.72%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "PG",
+    "Company": "Procter & Gamble",
+    "Weight": "0.59%",
+    "Price": "153.51",
+    "Chg": "-0.48",
+    "% Chg": "-0.31%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "BAC",
+    "Company": "Bank of America",
+    "Weight": "0.57%",
+    "Price": "48.57",
+    "Chg": "-1.24",
+    "% Chg": "-2.49%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "GE",
+    "Company": "GE Aerospace",
+    "Weight": "0.56%",
+    "Price": "322.75",
+    "Chg": "-4.24",
+    "% Chg": "-1.30%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "KO",
+    "Company": "Coca-Cola Company (The)",
+    "Weight": "0.54%",
+    "Price": "77.11",
+    "Chg": "0.08",
+    "% Chg": "0.10%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CAT",
+    "Company": "Caterpillar Inc.",
+    "Weight": "0.52%",
+    "Price": "680.59",
+    "Chg": "-25.49",
+    "% Chg": "-3.61%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "AMD",
+    "Company": "Advanced Micro Devices",
+    "Weight": "0.51%",
+    "Price": "192.48",
+    "Chg": "-6.97",
+    "% Chg": "-3.49%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CSCO",
+    "Company": "Cisco",
+    "Weight": "0.51%",
+    "Price": "78.47",
+    "Chg": "-1.54",
+    "% Chg": "-1.92%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MRK",
+    "Company": "Merck & Co.",
+    "Weight": "0.47%",
+    "Price": "115.35",
+    "Chg": "-0.72",
+    "% Chg": "-0.62%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "RTX",
+    "Company": "RTX Corporation",
+    "Weight": "0.46%",
+    "Price": "210.22",
+    "Chg": "6.36",
+    "% Chg": "3.12%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "PM",
+    "Company": "Philip Morris International",
+    "Weight": "0.43%",
+    "Price": "170.25",
+    "Chg": "0.55",
+    "% Chg": "0.32%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "UNH",
+    "Company": "UnitedHealth Group",
+    "Weight": "0.42%",
+    "Price": "285.83",
+    "Chg": "-2.94",
+    "% Chg": "-1.02%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "AMAT",
+    "Company": "Applied Materials",
+    "Weight": "0.42%",
+    "Price": "324.94",
+    "Chg": "-21.59",
+    "% Chg": "-6.23%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MS",
+    "Company": "Morgan Stanley",
+    "Weight": "0.42%",
+    "Price": "160.00",
+    "Chg": "-2.55",
+    "% Chg": "-1.57%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "LRCX",
+    "Company": "Lam Research",
+    "Weight": "0.41%",
+    "Price": "199.45",
+    "Chg": "-15.23",
+    "% Chg": "-7.09%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "WFC",
+    "Company": "Wells Fargo",
+    "Weight": "0.40%",
+    "Price": "80.02",
+    "Chg": "-2.09",
+    "% Chg": "-2.55%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "GS",
+    "Company": "Goldman Sachs",
+    "Weight": "0.40%",
+    "Price": "820.32",
+    "Chg": "-15.14",
+    "% Chg": "-1.81%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "TMUS",
+    "Company": "T-Mobile US",
+    "Weight": "0.40%",
+    "Price": "220.60",
+    "Chg": "0.06",
+    "% Chg": "0.03%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "IBM",
+    "Company": "IBM",
+    "Weight": "0.40%",
+    "Price": "258.46",
+    "Chg": "1.91",
+    "% Chg": "0.74%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MCD",
+    "Company": "McDonald's",
+    "Weight": "0.38%",
+    "Price": "328.86",
+    "Chg": "1.41",
+    "% Chg": "0.43%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "LIN",
+    "Company": "Linde plc",
+    "Weight": "0.37%",
+    "Price": "485.19",
+    "Chg": "-4.87",
+    "% Chg": "-0.99%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "PEP",
+    "Company": "PepsiCo",
+    "Weight": "0.36%",
+    "Price": "158.87",
+    "Chg": "-1.83",
+    "% Chg": "-1.14%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "INTC",
+    "Company": "Intel",
+    "Weight": "0.36%",
+    "Price": "43.40",
+    "Chg": "-2.55",
+    "% Chg": "-5.54%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "VZ",
+    "Company": "Verizon",
+    "Weight": "0.35%",
+    "Price": "51.00",
+    "Chg": "-0.18",
+    "% Chg": "-0.35%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "GEV",
+    "Company": "GE Vernova",
+    "Weight": "0.35%",
+    "Price": "787.25",
+    "Chg": "-27.76",
+    "% Chg": "-3.41%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "AXP",
+    "Company": "American Express",
+    "Weight": "0.34%",
+    "Price": "301.00",
+    "Chg": "-6.21",
+    "% Chg": "-2.02%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "T",
+    "Company": "AT&T",
+    "Weight": "0.33%",
+    "Price": "28.62",
+    "Chg": "-0.35",
+    "% Chg": "-1.21%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "AMGN",
+    "Company": "Amgen",
+    "Weight": "0.33%",
+    "Price": "368.76",
+    "Chg": "1.16",
+    "% Chg": "0.32%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "NEE",
+    "Company": "NextEra Energy",
+    "Weight": "0.31%",
+    "Price": "91.38",
+    "Chg": "0.25",
+    "% Chg": "0.27%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ABT",
+    "Company": "Abbott Laboratories",
+    "Weight": "0.31%",
+    "Price": "109.35",
+    "Chg": "-1.69",
+    "% Chg": "-1.52%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "TMO",
+    "Company": "Thermo Fisher Scientific",
+    "Weight": "0.31%",
+    "Price": "503.00",
+    "Chg": "-15.84",
+    "% Chg": "-3.05%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CRM",
+    "Company": "Salesforce",
+    "Weight": "0.31%",
+    "Price": "200.50",
+    "Chg": "-0.89",
+    "% Chg": "-0.44%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "C",
+    "Company": "Citigroup",
+    "Weight": "0.30%",
+    "Price": "106.09",
+    "Chg": "-2.86",
+    "% Chg": "-2.63%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "BA",
+    "Company": "Boeing",
+    "Weight": "0.30%",
+    "Price": "230.41",
+    "Chg": "8.35",
+    "% Chg": "3.76%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "DIS",
+    "Company": "Walt Disney Company (The)",
+    "Weight": "0.29%",
+    "Price": "101.47",
+    "Chg": "-0.94",
+    "% Chg": "-0.92%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "GILD",
+    "Company": "Gilead Sciences",
+    "Weight": "0.29%",
+    "Price": "143.16",
+    "Chg": "-1.97",
+    "% Chg": "-1.36%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "TJX",
+    "Company": "TJX Companies",
+    "Weight": "0.29%",
+    "Price": "158.94",
+    "Chg": "-1.99",
+    "% Chg": "-1.24%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "KLAC",
+    "Company": "KLA Corporation",
+    "Weight": "0.29%",
+    "Price": "1342.00",
+    "Chg": "-87.36",
+    "% Chg": "-6.11%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "TXN",
+    "Company": "Texas Instruments",
+    "Weight": "0.29%",
+    "Price": "192.96",
+    "Chg": "-5.02",
+    "% Chg": "-2.54%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ISRG",
+    "Company": "Intuitive Surgical",
+    "Weight": "0.29%",
+    "Price": "490.32",
+    "Chg": "-6.38",
+    "% Chg": "-1.28%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ANET",
+    "Company": "Arista Networks",
+    "Weight": "0.28%",
+    "Price": "134.41",
+    "Chg": "-4.99",
+    "% Chg": "-3.58%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "APP",
+    "Company": "AppLovin Corporation",
+    "Weight": "0.28%",
+    "Price": "499.62",
+    "Chg": "-8.94",
+    "% Chg": "-1.76%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "SCHW",
+    "Company": "Charles Schwab Corporation",
+    "Weight": "0.28%",
+    "Price": "94.61",
+    "Chg": "-0.80",
+    "% Chg": "-0.83%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "APH",
+    "Company": "Amphenol",
+    "Weight": "0.27%",
+    "Price": "131.98",
+    "Chg": "-4.26",
+    "% Chg": "-3.12%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "DE",
+    "Company": "Deere & Company",
+    "Weight": "0.26%",
+    "Price": "584.06",
+    "Chg": "-6.63",
+    "% Chg": "-1.12%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "UBER",
+    "Company": "Uber",
+    "Weight": "0.25%",
+    "Price": "75.16",
+    "Chg": "-0.28",
+    "% Chg": "-0.38%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "LMT",
+    "Company": "Lockheed Martin",
+    "Weight": "0.25%",
+    "Price": "672.01",
+    "Chg": "17.01",
+    "% Chg": "2.60%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ADI",
+    "Company": "Analog Devices",
+    "Weight": "0.25%",
+    "Price": "315.12",
+    "Chg": "-14.60",
+    "% Chg": "-4.43%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "PFE",
+    "Company": "Pfizer",
+    "Weight": "0.25%",
+    "Price": "27.02",
+    "Chg": "0.41",
+    "% Chg": "1.54%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "UNP",
+    "Company": "Union Pacific Corporation",
+    "Weight": "0.25%",
+    "Price": "254.26",
+    "Chg": "-5.94",
+    "% Chg": "-2.28%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "HON",
+    "Company": "Honeywell",
+    "Weight": "0.25%",
+    "Price": "236.75",
+    "Chg": "-1.63",
+    "% Chg": "-0.69%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "BLK",
+    "Company": "BlackRock",
+    "Weight": "0.24%",
+    "Price": "954.94",
+    "Chg": "-80.06",
+    "% Chg": "-7.74%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "QCOM",
+    "Company": "Qualcomm",
+    "Weight": "0.24%",
+    "Price": "135.60",
+    "Chg": "-1.40",
+    "% Chg": "-1.02%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "BKNG",
+    "Company": "Booking Holdings",
+    "Weight": "0.24%",
+    "Price": "4560.91",
+    "Chg": "-52.36",
+    "% Chg": "-1.14%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "COP",
+    "Company": "ConocoPhillips",
+    "Weight": "0.23%",
+    "Price": "117.03",
+    "Chg": "0.22",
+    "% Chg": "0.18%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "WELL",
+    "Company": "Welltower",
+    "Weight": "0.23%",
+    "Price": "204.22",
+    "Chg": "-0.83",
+    "% Chg": "-0.40%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "LOW",
+    "Company": "Lowe's",
+    "Weight": "0.23%",
+    "Price": "252.57",
+    "Chg": "-2.14",
+    "% Chg": "-0.84%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "SYK",
+    "Company": "Stryker Corporation",
+    "Weight": "0.23%",
+    "Price": "369.75",
+    "Chg": "-0.75",
+    "% Chg": "-0.20%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "DHR",
+    "Company": "Danaher Corporation",
+    "Weight": "0.23%",
+    "Price": "197.50",
+    "Chg": "-4.50",
+    "% Chg": "-2.23%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ETN",
+    "Company": "Eaton Corporation",
+    "Weight": "0.22%",
+    "Price": "347.82",
+    "Chg": "-6.97",
+    "% Chg": "-1.96%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "PANW",
+    "Company": "Palo Alto Networks",
+    "Weight": "0.22%",
+    "Price": "164.97",
+    "Chg": "1.81",
+    "% Chg": "1.11%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "SPGI",
+    "Company": "S&P Global",
+    "Weight": "0.22%",
+    "Price": "449.75",
+    "Chg": "-1.36",
+    "% Chg": "-0.30%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "INTU",
+    "Company": "Intuit",
+    "Weight": "0.22%",
+    "Price": "479.97",
+    "Chg": "13.18",
+    "% Chg": "2.82%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ACN",
+    "Company": "Accenture",
+    "Weight": "0.21%",
+    "Price": "212.80",
+    "Chg": "-1.20",
+    "% Chg": "-0.56%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "NOW",
+    "Company": "ServiceNow",
+    "Weight": "0.21%",
+    "Price": "124.30",
+    "Chg": "3.92",
+    "% Chg": "3.25%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CB",
+    "Company": "Chubb Limited",
+    "Weight": "0.21%",
+    "Price": "327.88",
+    "Chg": "-4.57",
+    "% Chg": "-1.38%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "NEM",
+    "Company": "Newmont",
+    "Weight": "0.21%",
+    "Price": "116.25",
+    "Chg": "0.16",
+    "% Chg": "0.13%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "PLD",
+    "Company": "Prologis",
+    "Weight": "0.21%",
+    "Price": "134.97",
+    "Chg": "-2.88",
+    "% Chg": "-2.09%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "PGR",
+    "Company": "Progressive Corporation",
+    "Weight": "0.20%",
+    "Price": "211.19",
+    "Chg": "0.61",
+    "% Chg": "0.29%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "BMY",
+    "Company": "Bristol Myers Squibb",
+    "Weight": "0.20%",
+    "Price": "60.05",
+    "Chg": "-0.69",
+    "% Chg": "-1.13%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "HCA",
+    "Company": "HCA Healthcare",
+    "Weight": "0.20%",
+    "Price": "532.99",
+    "Chg": "-1.49",
+    "% Chg": "-0.28%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MDT",
+    "Company": "Medtronic",
+    "Weight": "0.19%",
+    "Price": "90.89",
+    "Chg": "-2.13",
+    "% Chg": "-2.28%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "COF",
+    "Company": "Capital One",
+    "Weight": "0.19%",
+    "Price": "187.50",
+    "Chg": "-6.77",
+    "% Chg": "-3.48%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "PH",
+    "Company": "Parker Hannifin",
+    "Weight": "0.19%",
+    "Price": "923.87",
+    "Chg": "-41.55",
+    "% Chg": "-4.30%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ADBE",
+    "Company": "Adobe Inc.",
+    "Weight": "0.19%",
+    "Price": "283.31",
+    "Chg": "1.57",
+    "% Chg": "0.56%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "VRTX",
+    "Company": "Vertex Pharmaceuticals",
+    "Weight": "0.19%",
+    "Price": "455.00",
+    "Chg": "-5.82",
+    "% Chg": "-1.26%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CEG",
+    "Company": "Constellation Energy",
+    "Weight": "0.19%",
+    "Price": "318.69",
+    "Chg": "-13.38",
+    "% Chg": "-4.03%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CME",
+    "Company": "CME Group",
+    "Weight": "0.19%",
+    "Price": "317.12",
+    "Chg": "0.31",
+    "% Chg": "0.10%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CMCSA",
+    "Company": "Comcast",
+    "Weight": "0.19%",
+    "Price": "31.61",
+    "Chg": "0.00",
+    "% Chg": "0.02%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MCK",
+    "Company": "McKesson Corporation",
+    "Weight": "0.18%",
+    "Price": "919.25",
+    "Chg": "-12.10",
+    "% Chg": "-1.30%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "SBUX",
+    "Company": "Starbucks",
+    "Weight": "0.18%",
+    "Price": "98.83",
+    "Chg": "0.14",
+    "% Chg": "0.14%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MO",
+    "Company": "Altria",
+    "Weight": "0.18%",
+    "Price": "66.44",
+    "Chg": "-0.54",
+    "% Chg": "-0.80%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "SO",
+    "Company": "Southern Company",
+    "Weight": "0.18%",
+    "Price": "96.85",
+    "Chg": "-0.35",
+    "% Chg": "-0.36%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CRWD",
+    "Company": "CrowdStrike",
+    "Weight": "0.18%",
+    "Price": "428.75",
+    "Chg": "2.59",
+    "% Chg": "0.61%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "NOC",
+    "Company": "Northrop Grumman",
+    "Weight": "0.18%",
+    "Price": "757.97",
+    "Chg": "17.96",
+    "% Chg": "2.43%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "BSX",
+    "Company": "Boston Scientific",
+    "Weight": "0.17%",
+    "Price": "71.64",
+    "Chg": "-1.35",
+    "% Chg": "-1.86%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "GLW",
+    "Company": "Corning Inc.",
+    "Weight": "0.17%",
+    "Price": "122.61",
+    "Chg": "-12.13",
+    "% Chg": "-9.00%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "DUK",
+    "Company": "Duke Energy",
+    "Weight": "0.17%",
+    "Price": "131.66",
+    "Chg": "0.05",
+    "% Chg": "0.04%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "HWM",
+    "Company": "Howmet Aerospace",
+    "Weight": "0.17%",
+    "Price": "251.25",
+    "Chg": "-1.14",
+    "% Chg": "-0.45%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CVS",
+    "Company": "CVS Health",
+    "Weight": "0.16%",
+    "Price": "77.90",
+    "Chg": "-0.79",
+    "% Chg": "-1.01%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "WM",
+    "Company": "Waste Management",
+    "Weight": "0.16%",
+    "Price": "245.25",
+    "Chg": "-0.84",
+    "% Chg": "-0.34%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "GD",
+    "Company": "General Dynamics",
+    "Weight": "0.16%",
+    "Price": "362.06",
+    "Chg": "1.36",
+    "% Chg": "0.38%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "DELL",
+    "Company": "Dell Technologies",
+    "Weight": "0.16%",
+    "Price": "145.92",
+    "Chg": "-0.60",
+    "% Chg": "-0.41%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "TT",
+    "Company": "Trane Technologies",
+    "Weight": "0.15%",
+    "Price": "422.90",
+    "Chg": "-13.46",
+    "% Chg": "-3.08%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ICE",
+    "Company": "Intercontinental Exchange",
+    "Weight": "0.15%",
+    "Price": "164.46",
+    "Chg": "0.46",
+    "% Chg": "0.28%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "EQIX",
+    "Company": "Equinix",
+    "Weight": "0.15%",
+    "Price": "935.90",
+    "Chg": "-17.10",
+    "% Chg": "-1.79%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "WMB",
+    "Company": "Williams Companies",
+    "Weight": "0.15%",
+    "Price": "74.41",
+    "Chg": "-0.36",
+    "% Chg": "-0.49%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ADP",
+    "Company": "Automatic Data Processing",
+    "Weight": "0.15%",
+    "Price": "225.16",
+    "Chg": "2.47",
+    "% Chg": "1.11%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MRSH",
+    "Company": "Marsh & McLennan Companies, Inc.",
+    "Weight": "0.15%",
+    "Price": "183.40",
+    "Chg": "-1.60",
+    "% Chg": "-0.87%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "UPS",
+    "Company": "United Parcel Service",
+    "Weight": "0.14%",
+    "Price": "102.35",
+    "Chg": "-1.72",
+    "% Chg": "-1.65%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "AMT",
+    "Company": "American Tower",
+    "Weight": "0.14%",
+    "Price": "186.03",
+    "Chg": "-1.61",
+    "% Chg": "-0.86%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "BX",
+    "Company": "Blackstone Inc.",
+    "Weight": "0.14%",
+    "Price": "110.14",
+    "Chg": "-5.41",
+    "% Chg": "-4.69%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MAR",
+    "Company": "Marriott International",
+    "Weight": "0.14%",
+    "Price": "323.88",
+    "Chg": "-9.16",
+    "% Chg": "-2.75%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "FCX",
+    "Company": "Freeport-McMoRan",
+    "Weight": "0.14%",
+    "Price": "59.39",
+    "Chg": "-3.27",
+    "% Chg": "-5.21%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "FDX",
+    "Company": "FedEx",
+    "Weight": "0.14%",
+    "Price": "360.57",
+    "Chg": "-12.78",
+    "% Chg": "-3.42%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "NKE",
+    "Company": "Nike, Inc.",
+    "Weight": "0.14%",
+    "Price": "56.98",
+    "Chg": "-1.04",
+    "% Chg": "-1.78%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "SNPS",
+    "Company": "Synopsys",
+    "Weight": "0.14%",
+    "Price": "436.23",
+    "Chg": "-6.07",
+    "% Chg": "-1.37%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MCO",
+    "Company": "Moody's Corporation",
+    "Weight": "0.14%",
+    "Price": "471.01",
+    "Chg": "0.96",
+    "% Chg": "0.21%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "PNC",
+    "Company": "PNC Financial Services",
+    "Weight": "0.14%",
+    "Price": "206.13",
+    "Chg": "-6.24",
+    "% Chg": "-2.94%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "WDC",
+    "Company": "Western Digital",
+    "Weight": "0.14%",
+    "Price": "244.91",
+    "Chg": "-14.12",
+    "% Chg": "-5.45%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CDNS",
+    "Company": "Cadence Design Systems",
+    "Weight": "0.13%",
+    "Price": "297.71",
+    "Chg": "-2.13",
+    "% Chg": "-0.71%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "KKR",
+    "Company": "KKR",
+    "Weight": "0.13%",
+    "Price": "91.83",
+    "Chg": "-3.76",
+    "% Chg": "-3.93%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "SHW",
+    "Company": "Sherwin-Williams",
+    "Weight": "0.13%",
+    "Price": "329.83",
+    "Chg": "-5.62",
+    "% Chg": "-1.68%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "USB",
+    "Company": "U.S. Bancorp",
+    "Weight": "0.13%",
+    "Price": "52.35",
+    "Chg": "-1.55",
+    "% Chg": "-2.88%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "JCI",
+    "Company": "Johnson Controls",
+    "Weight": "0.13%",
+    "Price": "132.40",
+    "Chg": "-4.78",
+    "% Chg": "-3.49%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CTAS",
+    "Company": "Cintas",
+    "Weight": "0.13%",
+    "Price": "202.25",
+    "Chg": "-2.28",
+    "% Chg": "-1.11%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MMM",
+    "Company": "3M",
+    "Weight": "0.13%",
+    "Price": "153.41",
+    "Chg": "-2.80",
+    "% Chg": "-1.79%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "PWR",
+    "Company": "Quanta Services",
+    "Weight": "0.13%",
+    "Price": "536.10",
+    "Chg": "-13.13",
+    "% Chg": "-2.39%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ABNB",
+    "Company": "Airbnb",
+    "Weight": "0.13%",
+    "Price": "133.57",
+    "Chg": "-2.28",
+    "% Chg": "-1.68%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ITW",
+    "Company": "Illinois Tool Works",
+    "Weight": "0.13%",
+    "Price": "277.17",
+    "Chg": "-5.34",
+    "% Chg": "-1.89%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ECL",
+    "Company": "Ecolab",
+    "Weight": "0.13%",
+    "Price": "282.69",
+    "Chg": "-4.25",
+    "% Chg": "-1.48%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ORLY",
+    "Company": "O'Reilly Auto Parts",
+    "Weight": "0.13%",
+    "Price": "94.61",
+    "Chg": "0.25",
+    "% Chg": "0.26%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "BK",
+    "Company": "BNY Mellon",
+    "Weight": "0.13%",
+    "Price": "115.27",
+    "Chg": "-1.44",
+    "% Chg": "-1.24%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "REGN",
+    "Company": "Regeneron Pharmaceuticals",
+    "Weight": "0.13%",
+    "Price": "748.64",
+    "Chg": "-16.28",
+    "% Chg": "-2.13%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "STX",
+    "Company": "Seagate Technology",
+    "Weight": "0.13%",
+    "Price": "352.29",
+    "Chg": "-15.05",
+    "% Chg": "-4.10%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "SNDK",
+    "Company": "Sandisk Corporation",
+    "Weight": "0.13%",
+    "Price": "525.67",
+    "Chg": "-39.92",
+    "% Chg": "-7.06%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "EMR",
+    "Company": "Emerson Electric",
+    "Weight": "0.13%",
+    "Price": "137.96",
+    "Chg": "-4.26",
+    "% Chg": "-3.00%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "DASH",
+    "Company": "DoorDash",
+    "Weight": "0.13%",
+    "Price": "177.98",
+    "Chg": "-5.50",
+    "% Chg": "-3.00%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MSI",
+    "Company": "Motorola Solutions",
+    "Weight": "0.13%",
+    "Price": "460.72",
+    "Chg": "-6.44",
+    "% Chg": "-1.38%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "RCL",
+    "Company": "Royal Caribbean Group",
+    "Weight": "0.12%",
+    "Price": "277.32",
+    "Chg": "-5.74",
+    "% Chg": "-2.03%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "KMI",
+    "Company": "Kinder Morgan",
+    "Weight": "0.12%",
+    "Price": "33.59",
+    "Chg": "0.20",
+    "% Chg": "0.58%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CSX",
+    "Company": "CSX Corporation",
+    "Weight": "0.12%",
+    "Price": "40.08",
+    "Chg": "-1.07",
+    "% Chg": "-2.61%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CMI",
+    "Company": "Cummins",
+    "Weight": "0.12%",
+    "Price": "539.23",
+    "Chg": "-16.85",
+    "% Chg": "-3.03%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MDLZ",
+    "Company": "Mondelez International",
+    "Weight": "0.12%",
+    "Price": "58.05",
+    "Chg": "-0.13",
+    "% Chg": "-0.23%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MNST",
+    "Company": "Monster Beverage",
+    "Weight": "0.12%",
+    "Price": "75.00",
+    "Chg": "-1.70",
+    "% Chg": "-2.22%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "TDG",
+    "Company": "TransDigm Group",
+    "Weight": "0.12%",
+    "Price": "1294.24",
+    "Chg": "-0.72",
+    "% Chg": "-0.06%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "AON",
+    "Company": "Aon",
+    "Weight": "0.12%",
+    "Price": "340.63",
+    "Chg": "1.87",
+    "% Chg": "0.55%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CL",
+    "Company": "Colgate-Palmolive",
+    "Weight": "0.12%",
+    "Price": "90.94",
+    "Chg": "-1.73",
+    "% Chg": "-1.87%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CI",
+    "Company": "Cigna",
+    "Weight": "0.12%",
+    "Price": "271.75",
+    "Chg": "-9.52",
+    "% Chg": "-3.38%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "AEP",
+    "Company": "American Electric Power",
+    "Weight": "0.12%",
+    "Price": "132.25",
+    "Chg": "0.21",
+    "% Chg": "0.16%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "RSG",
+    "Company": "Republic Services",
+    "Weight": "0.12%",
+    "Price": "231.04",
+    "Chg": "-0.63",
+    "% Chg": "-0.27%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CRH",
+    "Company": "CRH plc",
+    "Weight": "0.12%",
+    "Price": "106.40",
+    "Chg": "-4.70",
+    "% Chg": "-4.23%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "EOG",
+    "Company": "EOG Resources",
+    "Weight": "0.12%",
+    "Price": "131.53",
+    "Chg": "0.50",
+    "% Chg": "0.38%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "SLB",
+    "Company": "Schlumberger",
+    "Weight": "0.12%",
+    "Price": "47.05",
+    "Chg": "-0.35",
+    "% Chg": "-0.74%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "COR",
+    "Company": "Cencora",
+    "Weight": "0.11%",
+    "Price": "358.37",
+    "Chg": "-0.91",
+    "% Chg": "-0.25%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "WBD",
+    "Company": "Warner Bros. Discovery",
+    "Weight": "0.11%",
+    "Price": "27.86",
+    "Chg": "-0.14",
+    "% Chg": "-0.48%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "HOOD",
+    "Company": "Robinhood Markets, Inc.",
+    "Weight": "0.11%",
+    "Price": "76.73",
+    "Chg": "-3.83",
+    "% Chg": "-4.75%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "LHX",
+    "Company": "L3Harris",
+    "Weight": "0.11%",
+    "Price": "369.36",
+    "Chg": "9.26",
+    "% Chg": "2.57%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "HLT",
+    "Company": "Hilton Worldwide",
+    "Weight": "0.11%",
+    "Price": "300.75",
+    "Chg": "-6.61",
+    "% Chg": "-2.15%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "VLO",
+    "Company": "Valero Energy",
+    "Weight": "0.11%",
+    "Price": "224.50",
+    "Chg": "-3.53",
+    "% Chg": "-1.55%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ROST",
+    "Company": "Ross Stores",
+    "Weight": "0.11%",
+    "Price": "211.43",
+    "Chg": "-3.40",
+    "% Chg": "-1.58%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "GM",
+    "Company": "General Motors",
+    "Weight": "0.11%",
+    "Price": "75.11",
+    "Chg": "-1.09",
+    "% Chg": "-1.44%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "NSC",
+    "Company": "Norfolk Southern Railway",
+    "Weight": "0.11%",
+    "Price": "302.01",
+    "Chg": "-8.91",
+    "% Chg": "-2.87%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "PSX",
+    "Company": "Phillips 66",
+    "Weight": "0.11%",
+    "Price": "166.00",
+    "Chg": "-0.44",
+    "% Chg": "-0.26%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "TRV",
+    "Company": "Travelers Companies (The)",
+    "Weight": "0.11%",
+    "Price": "306.29",
+    "Chg": "-0.35",
+    "% Chg": "-0.12%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "PCAR",
+    "Company": "Paccar",
+    "Weight": "0.10%",
+    "Price": "120.29",
+    "Chg": "-3.05",
+    "% Chg": "-2.48%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MPC",
+    "Company": "Marathon Petroleum",
+    "Weight": "0.10%",
+    "Price": "214.43",
+    "Chg": "-2.94",
+    "% Chg": "-1.35%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ELV",
+    "Company": "Elevance Health",
+    "Weight": "0.10%",
+    "Price": "285.50",
+    "Chg": "-0.98",
+    "% Chg": "-0.34%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "SPG",
+    "Company": "Simon Property Group",
+    "Weight": "0.10%",
+    "Price": "193.19",
+    "Chg": "-7.84",
+    "% Chg": "-3.90%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "APO",
+    "Company": "Apollo Global Management",
+    "Weight": "0.10%",
+    "Price": "107.99",
+    "Chg": "-3.25",
+    "% Chg": "-2.92%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "FTNT",
+    "Company": "Fortinet",
+    "Weight": "0.10%",
+    "Price": "83.20",
+    "Chg": "-1.22",
+    "% Chg": "-1.45%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "SRE",
+    "Company": "Sempra",
+    "Weight": "0.10%",
+    "Price": "93.62",
+    "Chg": "-0.32",
+    "% Chg": "-0.34%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "DLR",
+    "Company": "Digital Realty",
+    "Weight": "0.10%",
+    "Price": "176.34",
+    "Chg": "-3.41",
+    "% Chg": "-1.89%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "APD",
+    "Company": "Air Products",
+    "Weight": "0.10%",
+    "Price": "271.77",
+    "Chg": "-4.58",
+    "% Chg": "-1.66%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "TEL",
+    "Company": "TE Connectivity",
+    "Weight": "0.10%",
+    "Price": "205.75",
+    "Chg": "-4.81",
+    "% Chg": "-2.28%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "O",
+    "Company": "Realty Income",
+    "Weight": "0.10%",
+    "Price": "64.70",
+    "Chg": "-0.09",
+    "% Chg": "-0.15%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "AZO",
+    "Company": "AutoZone",
+    "Weight": "0.10%",
+    "Price": "3641.32",
+    "Chg": "-100.70",
+    "% Chg": "-2.69%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "TFC",
+    "Company": "Truist Financial",
+    "Weight": "0.10%",
+    "Price": "46.95",
+    "Chg": "-1.53",
+    "% Chg": "-3.17%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "BKR",
+    "Company": "Baker Hughes",
+    "Weight": "0.10%",
+    "Price": "59.86",
+    "Chg": "-0.33",
+    "% Chg": "-0.55%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "AJG",
+    "Company": "Arthur J. Gallagher & Co.",
+    "Weight": "0.10%",
+    "Price": "228.01",
+    "Chg": "-1.64",
+    "% Chg": "-0.71%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "AFL",
+    "Company": "Aflac",
+    "Weight": "0.09%",
+    "Price": "111.28",
+    "Chg": "0.24",
+    "% Chg": "0.22%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "D",
+    "Company": "Dominion Energy",
+    "Weight": "0.09%",
+    "Price": "62.87",
+    "Chg": "-0.13",
+    "% Chg": "-0.21%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ALL",
+    "Company": "Allstate",
+    "Weight": "0.09%",
+    "Price": "212.34",
+    "Chg": "0.72",
+    "% Chg": "0.34%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ADSK",
+    "Company": "Autodesk",
+    "Weight": "0.09%",
+    "Price": "261.01",
+    "Chg": "-3.11",
+    "% Chg": "-1.18%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "OKE",
+    "Company": "ONEOK",
+    "Weight": "0.09%",
+    "Price": "86.78",
+    "Chg": "1.18",
+    "% Chg": "1.38%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "TGT",
+    "Company": "Target Corporation",
+    "Weight": "0.09%",
+    "Price": "120.25",
+    "Chg": "-0.11",
+    "% Chg": "-0.09%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "PSA",
+    "Company": "Public Storage",
+    "Weight": "0.09%",
+    "Price": "308.19",
+    "Chg": "1.25",
+    "% Chg": "0.41%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "VST",
+    "Company": "Vistra Corp.",
+    "Weight": "0.09%",
+    "Price": "158.88",
+    "Chg": "-8.52",
+    "% Chg": "-5.09%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "OXY",
+    "Company": "Occidental Petroleum",
+    "Weight": "0.09%",
+    "Price": "54.25",
+    "Chg": "1.01",
+    "% Chg": "1.90%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "FAST",
+    "Company": "Fastenal",
+    "Weight": "0.09%",
+    "Price": "46.16",
+    "Chg": "-1.14",
+    "% Chg": "-2.42%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "GWW",
+    "Company": "W. W. Grainger",
+    "Weight": "0.09%",
+    "Price": "1111.84",
+    "Chg": "-33.87",
+    "% Chg": "-2.96%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "COIN",
+    "Company": "Coinbase Global",
+    "Weight": "0.09%",
+    "Price": "196.66",
+    "Chg": "-9.05",
+    "% Chg": "-4.40%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "TRGP",
+    "Company": "Targa Resources",
+    "Weight": "0.09%",
+    "Price": "241.53",
+    "Chg": "2.52",
+    "% Chg": "1.05%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "FANG",
+    "Company": "Diamondback Energy",
+    "Weight": "0.08%",
+    "Price": "181.20",
+    "Chg": "2.16",
+    "% Chg": "1.21%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CAH",
+    "Company": "Cardinal Health",
+    "Weight": "0.08%",
+    "Price": "218.75",
+    "Chg": "2.73",
+    "% Chg": "1.26%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CTVA",
+    "Company": "Corteva",
+    "Weight": "0.08%",
+    "Price": "76.50",
+    "Chg": "-0.09",
+    "% Chg": "-0.12%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ZTS",
+    "Company": "Zoetis",
+    "Weight": "0.08%",
+    "Price": "121.42",
+    "Chg": "-0.81",
+    "% Chg": "-0.66%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "NXPI",
+    "Company": "NXP Semiconductors",
+    "Weight": "0.08%",
+    "Price": "202.12",
+    "Chg": "-8.47",
+    "% Chg": "-4.02%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "URI",
+    "Company": "United Rentals",
+    "Weight": "0.08%",
+    "Price": "809.68",
+    "Chg": "-33.25",
+    "% Chg": "-3.94%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "AME",
+    "Company": "Ametek",
+    "Weight": "0.08%",
+    "Price": "222.03",
+    "Chg": "-4.81",
+    "% Chg": "-2.12%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "EXC",
+    "Company": "Exelon",
+    "Weight": "0.08%",
+    "Price": "49.36",
+    "Chg": "0.59",
+    "% Chg": "1.21%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "NDAQ",
+    "Company": "Nasdaq, Inc.",
+    "Weight": "0.08%",
+    "Price": "88.03",
+    "Chg": "-0.24",
+    "% Chg": "-0.27%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MPWR",
+    "Company": "Monolithic Power Systems",
+    "Weight": "0.08%",
+    "Price": "1024.37",
+    "Chg": "-54.08",
+    "% Chg": "-5.01%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "EA",
+    "Company": "Electronic Arts",
+    "Weight": "0.08%",
+    "Price": "198.77",
+    "Chg": "-1.99",
+    "% Chg": "-0.99%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "XEL",
+    "Company": "Xcel Energy",
+    "Weight": "0.08%",
+    "Price": "82.52",
+    "Chg": "0.14",
+    "% Chg": "0.17%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CARR",
+    "Company": "Carrier Global",
+    "Weight": "0.08%",
+    "Price": "58.33",
+    "Chg": "-2.07",
+    "% Chg": "-3.44%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "F",
+    "Company": "Ford Motor Company",
+    "Weight": "0.08%",
+    "Price": "12.14",
+    "Chg": "-0.20",
+    "% Chg": "-1.62%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "IDXX",
+    "Company": "Idexx Laboratories",
+    "Weight": "0.08%",
+    "Price": "605.81",
+    "Chg": "-13.11",
+    "% Chg": "-2.12%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "BDX",
+    "Company": "Becton Dickinson",
+    "Weight": "0.08%",
+    "Price": "167.07",
+    "Chg": "-2.87",
+    "% Chg": "-1.69%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ETR",
+    "Company": "Entergy",
+    "Weight": "0.08%",
+    "Price": "104.70",
+    "Chg": "-0.78",
+    "% Chg": "-0.73%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "EW",
+    "Company": "Edwards Lifesciences",
+    "Weight": "0.08%",
+    "Price": "81.64",
+    "Chg": "-2.25",
+    "% Chg": "-2.68%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "KR",
+    "Company": "Kroger",
+    "Weight": "0.08%",
+    "Price": "74.38",
+    "Chg": "2.81",
+    "% Chg": "3.92%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MET",
+    "Company": "MetLife",
+    "Weight": "0.08%",
+    "Price": "71.84",
+    "Chg": "-1.09",
+    "% Chg": "-1.50%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "KEYS",
+    "Company": "Keysight Technologies",
+    "Weight": "0.08%",
+    "Price": "271.11",
+    "Chg": "-13.40",
+    "% Chg": "-4.71%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "AXON",
+    "Company": "Axon Enterprise",
+    "Weight": "0.08%",
+    "Price": "573.15",
+    "Chg": "2.66",
+    "% Chg": "0.47%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CMG",
+    "Company": "Chipotle Mexican Grill",
+    "Weight": "0.08%",
+    "Price": "35.33",
+    "Chg": "-1.73",
+    "% Chg": "-4.67%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "YUM",
+    "Company": "Yum! Brands",
+    "Weight": "0.08%",
+    "Price": "165.75",
+    "Chg": "7.13",
+    "% Chg": "4.50%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "GRMN",
+    "Company": "Garmin",
+    "Weight": "0.08%",
+    "Price": "237.66",
+    "Chg": "-2.51",
+    "% Chg": "-1.04%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "HSY",
+    "Company": "Hershey Company (The)",
+    "Weight": "0.07%",
+    "Price": "224.99",
+    "Chg": "-1.59",
+    "% Chg": "-0.70%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CVNA",
+    "Company": "Carvana Co.",
+    "Weight": "0.07%",
+    "Price": "318.25",
+    "Chg": "-12.91",
+    "% Chg": "-3.90%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "FIX",
+    "Company": "Comfort Systems USA, Inc.",
+    "Weight": "0.07%",
+    "Price": "1272.39",
+    "Chg": "-75.83",
+    "% Chg": "-5.62%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "DDOG",
+    "Company": "Datadog",
+    "Weight": "0.07%",
+    "Price": "125.78",
+    "Chg": "3.42",
+    "% Chg": "2.79%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "PYPL",
+    "Company": "PayPal",
+    "Weight": "0.07%",
+    "Price": "46.95",
+    "Chg": "-0.70",
+    "% Chg": "-1.46%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "TER",
+    "Company": "Teradyne",
+    "Weight": "0.07%",
+    "Price": "275.89",
+    "Chg": "-29.69",
+    "% Chg": "-9.72%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "DHI",
+    "Company": "D. R. Horton",
+    "Weight": "0.07%",
+    "Price": "147.24",
+    "Chg": "-2.64",
+    "% Chg": "-1.76%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "FITB",
+    "Company": "Fifth Third Bancorp",
+    "Weight": "0.07%",
+    "Price": "47.23",
+    "Chg": "-1.45",
+    "% Chg": "-2.99%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "AMP",
+    "Company": "Ameriprise Financial",
+    "Weight": "0.07%",
+    "Price": "462.30",
+    "Chg": "-10.59",
+    "% Chg": "-2.24%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "AIG",
+    "Company": "American International Group",
+    "Weight": "0.07%",
+    "Price": "78.48",
+    "Chg": "-1.58",
+    "% Chg": "-1.98%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MSCI",
+    "Company": "MSCI",
+    "Weight": "0.07%",
+    "Price": "569.18",
+    "Chg": "2.97",
+    "% Chg": "0.53%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "WAB",
+    "Company": "Wabtec",
+    "Weight": "0.07%",
+    "Price": "244.68",
+    "Chg": "-6.90",
+    "% Chg": "-2.74%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "PEG",
+    "Company": "Public Service Enterprise Group",
+    "Weight": "0.07%",
+    "Price": "83.36",
+    "Chg": "-0.56",
+    "% Chg": "-0.67%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "EBAY",
+    "Company": "eBay",
+    "Weight": "0.07%",
+    "Price": "92.78",
+    "Chg": "-0.27",
+    "% Chg": "-0.28%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ROK",
+    "Company": "Rockwell Automation",
+    "Weight": "0.07%",
+    "Price": "369.85",
+    "Chg": "-8.65",
+    "% Chg": "-2.29%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CIEN",
+    "Company": "Ciena Corporation",
+    "Weight": "0.07%",
+    "Price": "293.65",
+    "Chg": "-5.65",
+    "% Chg": "-1.89%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ED",
+    "Company": "Consolidated Edison",
+    "Weight": "0.07%",
+    "Price": "112.86",
+    "Chg": "2.15",
+    "% Chg": "1.94%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "SYY",
+    "Company": "Sysco",
+    "Weight": "0.07%",
+    "Price": "85.01",
+    "Chg": "-0.77",
+    "% Chg": "-0.90%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "VTR",
+    "Company": "Ventas",
+    "Weight": "0.07%",
+    "Price": "84.88",
+    "Chg": "-0.08",
+    "% Chg": "-0.09%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ODFL",
+    "Company": "Old Dominion",
+    "Weight": "0.07%",
+    "Price": "193.01",
+    "Chg": "-17.67",
+    "% Chg": "-8.39%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CBRE",
+    "Company": "CBRE Group",
+    "Weight": "0.07%",
+    "Price": "136.11",
+    "Chg": "-5.08",
+    "% Chg": "-3.60%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "PCG",
+    "Company": "PG&E Corporation",
+    "Weight": "0.07%",
+    "Price": "18.18",
+    "Chg": "0.05",
+    "% Chg": "0.25%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "WDAY",
+    "Company": "Workday, Inc.",
+    "Weight": "0.06%",
+    "Price": "150.70",
+    "Chg": "3.52",
+    "% Chg": "2.39%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "XYZ",
+    "Company": "Block, Inc.",
+    "Weight": "0.06%",
+    "Price": "66.15",
+    "Chg": "-1.23",
+    "% Chg": "-1.83%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CCI",
+    "Company": "Crown Castle",
+    "Weight": "0.06%",
+    "Price": "90.45",
+    "Chg": "0.34",
+    "% Chg": "0.38%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "TTWO",
+    "Company": "Take-Two Interactive",
+    "Weight": "0.06%",
+    "Price": "211.02",
+    "Chg": "-1.51",
+    "% Chg": "-0.71%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "EQT",
+    "Company": "EQT Corporation",
+    "Weight": "0.06%",
+    "Price": "62.12",
+    "Chg": "0.45",
+    "% Chg": "0.73%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "NUE",
+    "Company": "Nucor",
+    "Weight": "0.06%",
+    "Price": "168.75",
+    "Chg": "-3.35",
+    "% Chg": "-1.95%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "DAL",
+    "Company": "Delta Air Lines",
+    "Weight": "0.06%",
+    "Price": "59.12",
+    "Chg": "-2.19",
+    "% Chg": "-3.57%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "KDP",
+    "Company": "Keurig Dr Pepper",
+    "Weight": "0.06%",
+    "Price": "28.30",
+    "Chg": "0.25",
+    "% Chg": "0.89%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "HIG",
+    "Company": "Hartford (The)",
+    "Weight": "0.06%",
+    "Price": "139.24",
+    "Chg": "-0.44",
+    "% Chg": "-0.32%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ROP",
+    "Company": "Roper Technologies",
+    "Weight": "0.06%",
+    "Price": "367.48",
+    "Chg": "1.46",
+    "% Chg": "0.40%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "WEC",
+    "Company": "WEC Energy Group",
+    "Weight": "0.06%",
+    "Price": "115.78",
+    "Chg": "-0.31",
+    "% Chg": "-0.27%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "RMD",
+    "Company": "ResMed",
+    "Weight": "0.06%",
+    "Price": "252.84",
+    "Chg": "-2.48",
+    "% Chg": "-0.97%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MLM",
+    "Company": "Martin Marietta Materials",
+    "Weight": "0.06%",
+    "Price": "610.10",
+    "Chg": "-22.83",
+    "% Chg": "-3.61%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "LYV",
+    "Company": "Live Nation Entertainment",
+    "Weight": "0.06%",
+    "Price": "156.16",
+    "Chg": "-3.62",
+    "% Chg": "-2.27%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "PAYX",
+    "Company": "Paychex",
+    "Weight": "0.06%",
+    "Price": "100.83",
+    "Chg": "2.45",
+    "% Chg": "2.49%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "TPL",
+    "Company": "Texas Pacific Land Corporation",
+    "Weight": "0.06%",
+    "Price": "523.90",
+    "Chg": "0.60",
+    "% Chg": "0.11%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "VMC",
+    "Company": "Vulcan Materials Company",
+    "Weight": "0.06%",
+    "Price": "276.40",
+    "Chg": "-10.83",
+    "% Chg": "-3.77%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MCHP",
+    "Company": "Microchip Technology",
+    "Weight": "0.06%",
+    "Price": "66.66",
+    "Chg": "-1.15",
+    "% Chg": "-1.70%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CPRT",
+    "Company": "Copart",
+    "Weight": "0.06%",
+    "Price": "37.42",
+    "Chg": "-0.60",
+    "% Chg": "-1.59%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "LVS",
+    "Company": "Las Vegas Sands",
+    "Weight": "0.06%",
+    "Price": "53.55",
+    "Chg": "-1.59",
+    "% Chg": "-2.88%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CCL",
+    "Company": "Carnival",
+    "Weight": "0.06%",
+    "Price": "25.75",
+    "Chg": "-1.41",
+    "% Chg": "-5.18%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ACGL",
+    "Company": "Arch Capital Group",
+    "Weight": "0.06%",
+    "Price": "97.80",
+    "Chg": "0.73",
+    "% Chg": "0.75%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "KVUE",
+    "Company": "Kenvue",
+    "Weight": "0.06%",
+    "Price": "18.23",
+    "Chg": "-0.02",
+    "% Chg": "-0.14%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "KMB",
+    "Company": "Kimberly-Clark",
+    "Weight": "0.06%",
+    "Price": "104.65",
+    "Chg": "-0.26",
+    "% Chg": "-0.25%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "OTIS",
+    "Company": "Otis Worldwide",
+    "Weight": "0.06%",
+    "Price": "89.19",
+    "Chg": "-1.45",
+    "% Chg": "-1.59%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "FICO",
+    "Company": "Fair Isaac",
+    "Weight": "0.06%",
+    "Price": "1460.00",
+    "Chg": "-15.09",
+    "% Chg": "-1.02%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "GEHC",
+    "Company": "GE HealthCare",
+    "Weight": "0.06%",
+    "Price": "74.75",
+    "Chg": "-2.36",
+    "% Chg": "-3.07%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "IR",
+    "Company": "Ingersoll Rand",
+    "Weight": "0.06%",
+    "Price": "86.41",
+    "Chg": "-4.10",
+    "% Chg": "-4.53%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "PRU",
+    "Company": "Prudential Financial",
+    "Weight": "0.06%",
+    "Price": "97.13",
+    "Chg": "-2.02",
+    "% Chg": "-2.03%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "STT",
+    "Company": "State Street Corporation",
+    "Weight": "0.06%",
+    "Price": "121.06",
+    "Chg": "-4.08",
+    "% Chg": "-3.26%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "FISV",
+    "Company": "Fiserv, Inc.",
+    "Weight": "0.06%",
+    "Price": "62.98",
+    "Chg": "-0.88",
+    "% Chg": "-1.38%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "EL",
+    "Company": "Estée Lauder Companies (The)",
+    "Weight": "0.05%",
+    "Price": "92.52",
+    "Chg": "-3.35",
+    "% Chg": "-3.49%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "NRG",
+    "Company": "NRG Energy",
+    "Weight": "0.05%",
+    "Price": "155.38",
+    "Chg": "-5.09",
+    "% Chg": "-3.17%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "HBAN",
+    "Company": "Huntington Bancshares",
+    "Weight": "0.05%",
+    "Price": "16.20",
+    "Chg": "-0.48",
+    "% Chg": "-2.88%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "A",
+    "Company": "Agilent Technologies",
+    "Weight": "0.05%",
+    "Price": "115.50",
+    "Chg": "-2.61",
+    "% Chg": "-2.21%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ADM",
+    "Company": "Archer Daniels Midland",
+    "Weight": "0.05%",
+    "Price": "67.44",
+    "Chg": "0.91",
+    "% Chg": "1.37%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "DG",
+    "Company": "Dollar General",
+    "Weight": "0.05%",
+    "Price": "146.28",
+    "Chg": "-0.27",
+    "% Chg": "-0.18%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CTSH",
+    "Company": "Cognizant",
+    "Weight": "0.05%",
+    "Price": "66.42",
+    "Chg": "0.64",
+    "% Chg": "0.98%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "VICI",
+    "Company": "Vici Properties",
+    "Weight": "0.05%",
+    "Price": "29.65",
+    "Chg": "-0.04",
+    "% Chg": "-0.14%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CBOE",
+    "Company": "Cboe Global Markets",
+    "Weight": "0.05%",
+    "Price": "301.19",
+    "Chg": "3.70",
+    "% Chg": "1.24%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "EME",
+    "Company": "EMCOR Group, Inc.",
+    "Weight": "0.05%",
+    "Price": "701.42",
+    "Chg": "-17.59",
+    "% Chg": "-2.45%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MTB",
+    "Company": "M&T Bank",
+    "Weight": "0.05%",
+    "Price": "210.44",
+    "Chg": "-5.56",
+    "% Chg": "-2.57%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "DTE",
+    "Company": "DTE Energy",
+    "Weight": "0.05%",
+    "Price": "150.13",
+    "Chg": "1.50",
+    "% Chg": "1.01%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "IRM",
+    "Company": "Iron Mountain",
+    "Weight": "0.05%",
+    "Price": "105.19",
+    "Chg": "-2.11",
+    "% Chg": "-1.97%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "EXR",
+    "Company": "Extra Space Storage",
+    "Weight": "0.05%",
+    "Price": "146.65",
+    "Chg": "-0.85",
+    "% Chg": "-0.58%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "AEE",
+    "Company": "Ameren",
+    "Weight": "0.05%",
+    "Price": "111.51",
+    "Chg": "0.10",
+    "% Chg": "0.09%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "EXPE",
+    "Company": "Expedia Group",
+    "Weight": "0.05%",
+    "Price": "248.69",
+    "Chg": "-2.85",
+    "% Chg": "-1.13%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "XYL",
+    "Company": "Xylem Inc.",
+    "Weight": "0.05%",
+    "Price": "123.80",
+    "Chg": "-2.39",
+    "% Chg": "-1.89%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "WAT",
+    "Company": "Waters Corporation",
+    "Weight": "0.05%",
+    "Price": "306.96",
+    "Chg": "-8.63",
+    "% Chg": "-2.73%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "TDY",
+    "Company": "Teledyne Technologies",
+    "Weight": "0.05%",
+    "Price": "647.63",
+    "Chg": "-7.23",
+    "% Chg": "-1.10%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "RJF",
+    "Company": "Raymond James Financial",
+    "Weight": "0.05%",
+    "Price": "152.06",
+    "Chg": "-4.24",
+    "% Chg": "-2.71%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ATO",
+    "Company": "Atmos Energy",
+    "Weight": "0.05%",
+    "Price": "180.74",
+    "Chg": "-4.64",
+    "% Chg": "-2.51%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "UAL",
+    "Company": "United Airlines Holdings",
+    "Weight": "0.05%",
+    "Price": "91.92",
+    "Chg": "-3.51",
+    "% Chg": "-3.67%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "IBKR",
+    "Company": "Interactive Brokers Group",
+    "Weight": "0.05%",
+    "Price": "66.65",
+    "Chg": "-1.40",
+    "% Chg": "-2.06%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "VRSK",
+    "Company": "Verisk Analytics",
+    "Weight": "0.05%",
+    "Price": "214.91",
+    "Chg": "3.69",
+    "% Chg": "1.74%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "IQV",
+    "Company": "IQVIA",
+    "Weight": "0.05%",
+    "Price": "174.50",
+    "Chg": "-4.00",
+    "% Chg": "-2.24%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CHTR",
+    "Company": "Charter Communications",
+    "Weight": "0.05%",
+    "Price": "232.19",
+    "Chg": "2.25",
+    "% Chg": "0.98%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "FE",
+    "Company": "FirstEnergy",
+    "Weight": "0.05%",
+    "Price": "50.84",
+    "Chg": "0.52",
+    "% Chg": "1.04%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "TPR",
+    "Company": "Tapestry, Inc.",
+    "Weight": "0.05%",
+    "Price": "143.95",
+    "Chg": "-5.65",
+    "% Chg": "-3.78%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "KHC",
+    "Company": "Kraft Heinz",
+    "Weight": "0.05%",
+    "Price": "24.48",
+    "Chg": "0.25",
+    "% Chg": "1.05%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "PPL",
+    "Company": "PPL Corporation",
+    "Weight": "0.05%",
+    "Price": "38.55",
+    "Chg": "0.59",
+    "% Chg": "1.54%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "HAL",
+    "Company": "Halliburton",
+    "Weight": "0.05%",
+    "Price": "34.36",
+    "Chg": "0.20",
+    "% Chg": "0.59%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ULTA",
+    "Company": "Ulta Beauty",
+    "Weight": "0.05%",
+    "Price": "642.31",
+    "Chg": "-11.33",
+    "% Chg": "-1.73%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CNP",
+    "Company": "CenterPoint Energy",
+    "Weight": "0.05%",
+    "Price": "43.56",
+    "Chg": "0.16",
+    "% Chg": "0.37%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "DOV",
+    "Company": "Dover Corporation",
+    "Weight": "0.05%",
+    "Price": "208.45",
+    "Chg": "-7.13",
+    "% Chg": "-3.31%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ROL",
+    "Company": "Rollins, Inc.",
+    "Weight": "0.05%",
+    "Price": "58.29",
+    "Chg": "0.12",
+    "% Chg": "0.21%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "HPE",
+    "Company": "Hewlett Packard Enterprise",
+    "Weight": "0.05%",
+    "Price": "21.09",
+    "Chg": "-0.38",
+    "% Chg": "-1.77%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "WTW",
+    "Company": "Willis Towers Watson",
+    "Weight": "0.05%",
+    "Price": "294.56",
+    "Chg": "-5.96",
+    "% Chg": "-1.98%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ES",
+    "Company": "Eversource Energy",
+    "Weight": "0.05%",
+    "Price": "73.70",
+    "Chg": "-0.17",
+    "% Chg": "-0.23%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "DVN",
+    "Company": "Devon Energy",
+    "Weight": "0.05%",
+    "Price": "44.55",
+    "Chg": "0.03",
+    "% Chg": "0.07%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "EIX",
+    "Company": "Edison International",
+    "Weight": "0.05%",
+    "Price": "71.76",
+    "Chg": "0.54",
+    "% Chg": "0.76%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "BIIB",
+    "Company": "Biogen",
+    "Weight": "0.04%",
+    "Price": "184.82",
+    "Chg": "-3.26",
+    "% Chg": "-1.73%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "STLD",
+    "Company": "Steel Dynamics",
+    "Weight": "0.04%",
+    "Price": "181.57",
+    "Chg": "-8.41",
+    "% Chg": "-4.43%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "TSCO",
+    "Company": "Tractor Supply",
+    "Weight": "0.04%",
+    "Price": "50.17",
+    "Chg": "-0.34",
+    "% Chg": "-0.67%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "AWK",
+    "Company": "American Water Works",
+    "Weight": "0.04%",
+    "Price": "135.06",
+    "Chg": "0.43",
+    "% Chg": "0.32%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "OMC",
+    "Company": "Omnicom Group",
+    "Weight": "0.04%",
+    "Price": "84.92",
+    "Chg": "0.16",
+    "% Chg": "0.18%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "FIS",
+    "Company": "Fidelity National Information Services",
+    "Weight": "0.04%",
+    "Price": "51.04",
+    "Chg": "0.46",
+    "% Chg": "0.92%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "DXCM",
+    "Company": "Dexcom",
+    "Weight": "0.04%",
+    "Price": "68.08",
+    "Chg": "-2.61",
+    "% Chg": "-3.69%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "WRB",
+    "Company": "W. R. Berkley Corporation",
+    "Weight": "0.04%",
+    "Price": "69.30",
+    "Chg": "-0.27",
+    "% Chg": "-0.39%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "NTRS",
+    "Company": "Northern Trust",
+    "Weight": "0.04%",
+    "Price": "138.56",
+    "Chg": "-4.94",
+    "% Chg": "-3.44%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "EXE",
+    "Company": "Expand Energy",
+    "Weight": "0.04%",
+    "Price": "106.81",
+    "Chg": "0.14",
+    "% Chg": "0.13%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CINF",
+    "Company": "Cincinnati Financial",
+    "Weight": "0.04%",
+    "Price": "163.55",
+    "Chg": "-2.79",
+    "% Chg": "-1.67%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "JBL",
+    "Company": "Jabil",
+    "Weight": "0.04%",
+    "Price": "240.12",
+    "Chg": "-12.09",
+    "% Chg": "-4.79%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "STZ",
+    "Company": "Constellation Brands",
+    "Weight": "0.04%",
+    "Price": "146.20",
+    "Chg": "-1.10",
+    "% Chg": "-0.75%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "HUBB",
+    "Company": "Hubbell Incorporated",
+    "Weight": "0.04%",
+    "Price": "471.77",
+    "Chg": "-4.74",
+    "% Chg": "-0.99%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "BRO",
+    "Company": "Brown & Brown",
+    "Weight": "0.04%",
+    "Price": "73.52",
+    "Chg": "0.40",
+    "% Chg": "0.55%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "EFX",
+    "Company": "Equifax",
+    "Weight": "0.04%",
+    "Price": "207.83",
+    "Chg": "0.95",
+    "% Chg": "0.46%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "LEN",
+    "Company": "Lennar",
+    "Weight": "0.04%",
+    "Price": "100.95",
+    "Chg": "-3.35",
+    "% Chg": "-3.21%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "AVB",
+    "Company": "AvalonBay Communities",
+    "Weight": "0.04%",
+    "Price": "177.88",
+    "Chg": "-1.41",
+    "% Chg": "-0.79%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ARES",
+    "Company": "Ares Management Corporation",
+    "Weight": "0.04%",
+    "Price": "109.95",
+    "Chg": "-7.09",
+    "% Chg": "-6.05%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CFG",
+    "Company": "Citizens Financial Group",
+    "Weight": "0.04%",
+    "Price": "58.00",
+    "Chg": "-1.54",
+    "% Chg": "-2.59%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MTD",
+    "Company": "Mettler Toledo",
+    "Weight": "0.04%",
+    "Price": "1209.64",
+    "Chg": "-51.57",
+    "% Chg": "-4.09%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "PHM",
+    "Company": "PulteGroup",
+    "Weight": "0.04%",
+    "Price": "127.86",
+    "Chg": "-1.80",
+    "% Chg": "-1.38%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "PPG",
+    "Company": "PPG Industries",
+    "Weight": "0.04%",
+    "Price": "106.85",
+    "Chg": "-5.02",
+    "% Chg": "-4.49%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CHD",
+    "Company": "Church & Dwight",
+    "Weight": "0.04%",
+    "Price": "100.72",
+    "Chg": "0.86",
+    "% Chg": "0.86%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "DOW",
+    "Company": "Dow Inc.",
+    "Weight": "0.04%",
+    "Price": "33.08",
+    "Chg": "-0.64",
+    "% Chg": "-1.90%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "EQR",
+    "Company": "Equity Residential",
+    "Weight": "0.04%",
+    "Price": "62.72",
+    "Chg": "-0.39",
+    "% Chg": "-0.62%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "GIS",
+    "Company": "General Mills",
+    "Weight": "0.04%",
+    "Price": "44.32",
+    "Chg": "0.75",
+    "% Chg": "1.73%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CMS",
+    "Company": "CMS Energy",
+    "Weight": "0.04%",
+    "Price": "77.15",
+    "Chg": "-0.05",
+    "% Chg": "-0.06%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "Q",
+    "Company": "Qnity Electronics",
+    "Weight": "0.04%",
+    "Price": "112.86",
+    "Chg": "-3.06",
+    "% Chg": "-2.64%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CTRA",
+    "Company": "Coterra",
+    "Weight": "0.04%",
+    "Price": "30.95",
+    "Chg": "-0.20",
+    "% Chg": "-0.64%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "DRI",
+    "Company": "Darden Restaurants",
+    "Weight": "0.04%",
+    "Price": "203.22",
+    "Chg": "-2.99",
+    "% Chg": "-1.45%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "VLTO",
+    "Company": "Veralto",
+    "Weight": "0.04%",
+    "Price": "94.35",
+    "Chg": "-0.84",
+    "% Chg": "-0.88%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "RF",
+    "Company": "Regions Financial Corporation",
+    "Weight": "0.04%",
+    "Price": "27.04",
+    "Chg": "-0.70",
+    "% Chg": "-2.54%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "SYF",
+    "Company": "Synchrony Financial",
+    "Weight": "0.04%",
+    "Price": "66.59",
+    "Chg": "-2.38",
+    "% Chg": "-3.46%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "BR",
+    "Company": "Broadridge Financial Solutions",
+    "Weight": "0.04%",
+    "Price": "197.19",
+    "Chg": "6.30",
+    "% Chg": "3.30%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "DLTR",
+    "Company": "Dollar Tree",
+    "Weight": "0.04%",
+    "Price": "114.86",
+    "Chg": "-1.05",
+    "% Chg": "-0.91%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "STE",
+    "Company": "Steris",
+    "Weight": "0.04%",
+    "Price": "230.51",
+    "Chg": "-8.00",
+    "% Chg": "-3.35%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "L",
+    "Company": "Loews Corporation",
+    "Weight": "0.04%",
+    "Price": "109.67",
+    "Chg": "-0.33",
+    "% Chg": "-0.30%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "BG",
+    "Company": "Bunge Global",
+    "Weight": "0.04%",
+    "Price": "116.67",
+    "Chg": "3.47",
+    "% Chg": "3.07%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "LDOS",
+    "Company": "Leidos",
+    "Weight": "0.04%",
+    "Price": "177.93",
+    "Chg": "2.27",
+    "% Chg": "1.29%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ON",
+    "Company": "ON Semiconductor",
+    "Weight": "0.04%",
+    "Price": "56.84",
+    "Chg": "-4.01",
+    "% Chg": "-6.59%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "SW",
+    "Company": "Smurfit WestRock",
+    "Weight": "0.04%",
+    "Price": "42.85",
+    "Chg": "-1.74",
+    "% Chg": "-3.89%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "VRSN",
+    "Company": "Verisign",
+    "Weight": "0.04%",
+    "Price": "243.75",
+    "Chg": "5.05",
+    "% Chg": "2.12%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "WSM",
+    "Company": "Williams-Sonoma",
+    "Weight": "0.04%",
+    "Price": "186.19",
+    "Chg": "-7.40",
+    "% Chg": "-3.82%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "NI",
+    "Company": "NiSource",
+    "Weight": "0.04%",
+    "Price": "46.45",
+    "Chg": "-0.59",
+    "% Chg": "-1.26%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "LH",
+    "Company": "LabCorp",
+    "Weight": "0.04%",
+    "Price": "269.00",
+    "Chg": "-6.92",
+    "% Chg": "-2.51%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CPAY",
+    "Company": "Corpay",
+    "Weight": "0.04%",
+    "Price": "314.40",
+    "Chg": "-9.93",
+    "% Chg": "-3.06%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "DGX",
+    "Company": "Quest Diagnostics",
+    "Weight": "0.04%",
+    "Price": "199.21",
+    "Chg": "-4.77",
+    "% Chg": "-2.34%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CHRW",
+    "Company": "C.H. Robinson",
+    "Weight": "0.04%",
+    "Price": "183.74",
+    "Chg": "-1.07",
+    "% Chg": "-0.58%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "HUM",
+    "Company": "Humana",
+    "Weight": "0.04%",
+    "Price": "179.50",
+    "Chg": "-1.25",
+    "% Chg": "-0.69%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "LYB",
+    "Company": "LyondellBasell",
+    "Weight": "0.04%",
+    "Price": "66.98",
+    "Chg": "1.11",
+    "% Chg": "1.68%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "TSN",
+    "Company": "Tyson Foods",
+    "Weight": "0.04%",
+    "Price": "61.26",
+    "Chg": "-0.80",
+    "% Chg": "-1.29%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "KEY",
+    "Company": "KeyCorp",
+    "Weight": "0.04%",
+    "Price": "19.78",
+    "Chg": "-0.59",
+    "% Chg": "-2.90%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "GPN",
+    "Company": "Global Payments",
+    "Weight": "0.03%",
+    "Price": "76.06",
+    "Chg": "-2.23",
+    "% Chg": "-2.84%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CNC",
+    "Company": "Centene Corporation",
+    "Weight": "0.03%",
+    "Price": "42.96",
+    "Chg": "-0.31",
+    "% Chg": "-0.72%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "IP",
+    "Company": "International Paper",
+    "Weight": "0.03%",
+    "Price": "39.76",
+    "Chg": "-1.55",
+    "% Chg": "-3.75%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "SBAC",
+    "Company": "SBA Communications",
+    "Weight": "0.03%",
+    "Price": "196.58",
+    "Chg": "0.89",
+    "% Chg": "0.45%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MRNA",
+    "Company": "Moderna",
+    "Weight": "0.03%",
+    "Price": "52.15",
+    "Chg": "-1.68",
+    "% Chg": "-3.13%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CSGP",
+    "Company": "CoStar Group",
+    "Weight": "0.03%",
+    "Price": "48.82",
+    "Chg": "-0.09",
+    "% Chg": "-0.19%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "RL",
+    "Company": "Ralph Lauren Corporation",
+    "Weight": "0.03%",
+    "Price": "337.70",
+    "Chg": "-15.72",
+    "% Chg": "-4.45%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "LUV",
+    "Company": "Southwest Airlines",
+    "Weight": "0.03%",
+    "Price": "41.45",
+    "Chg": "-2.45",
+    "% Chg": "-5.57%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "FSLR",
+    "Company": "First Solar",
+    "Weight": "0.03%",
+    "Price": "188.31",
+    "Chg": "-3.49",
+    "% Chg": "-1.82%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "JBHT",
+    "Company": "J.B. Hunt",
+    "Weight": "0.03%",
+    "Price": "212.09",
+    "Chg": "-14.27",
+    "% Chg": "-6.30%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "PKG",
+    "Company": "Packaging Corporation of America",
+    "Weight": "0.03%",
+    "Price": "222.63",
+    "Chg": "-3.59",
+    "% Chg": "-1.59%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "PFG",
+    "Company": "Principal Financial Group",
+    "Weight": "0.03%",
+    "Price": "92.25",
+    "Chg": "-1.25",
+    "% Chg": "-1.33%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "NTAP",
+    "Company": "NetApp",
+    "Weight": "0.03%",
+    "Price": "100.86",
+    "Chg": "-1.25",
+    "% Chg": "-1.22%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "AMCR",
+    "Company": "Amcor",
+    "Weight": "0.03%",
+    "Price": "43.15",
+    "Chg": "-0.54",
+    "% Chg": "-1.23%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "LULU",
+    "Company": "Lululemon Athletica",
+    "Weight": "0.03%",
+    "Price": "169.76",
+    "Chg": "-3.42",
+    "% Chg": "-1.97%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "TROW",
+    "Company": "T. Rowe Price",
+    "Weight": "0.03%",
+    "Price": "90.20",
+    "Chg": "-1.84",
+    "% Chg": "-2.00%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "EXPD",
+    "Company": "Expeditors International",
+    "Weight": "0.03%",
+    "Price": "146.85",
+    "Chg": "0.13",
+    "% Chg": "0.09%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "NVR",
+    "Company": "NVR, Inc.",
+    "Weight": "0.03%",
+    "Price": "6950.00",
+    "Chg": "-124.84",
+    "% Chg": "-1.76%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "PTC",
+    "Company": "PTC Inc.",
+    "Weight": "0.03%",
+    "Price": "162.69",
+    "Chg": "-1.56",
+    "% Chg": "-0.95%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "SNA",
+    "Company": "Snap-on",
+    "Weight": "0.03%",
+    "Price": "372.10",
+    "Chg": "-10.17",
+    "% Chg": "-2.66%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "EVRG",
+    "Company": "Evergy",
+    "Weight": "0.03%",
+    "Price": "83.36",
+    "Chg": "0.46",
+    "% Chg": "0.55%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ALB",
+    "Company": "Albemarle Corporation",
+    "Weight": "0.03%",
+    "Price": "162.64",
+    "Chg": "-1.29",
+    "% Chg": "-0.79%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "INCY",
+    "Company": "Incyte",
+    "Weight": "0.03%",
+    "Price": "95.94",
+    "Chg": "-1.39",
+    "% Chg": "-1.43%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "IFF",
+    "Company": "International Flavors & Fragrances",
+    "Weight": "0.03%",
+    "Price": "73.75",
+    "Chg": "-1.63",
+    "% Chg": "-2.16%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "SMCI",
+    "Company": "Supermicro",
+    "Weight": "0.03%",
+    "Price": "31.28",
+    "Chg": "-0.96",
+    "% Chg": "-2.98%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "DD",
+    "Company": "DuPont",
+    "Weight": "0.03%",
+    "Price": "45.54",
+    "Chg": "-1.18",
+    "% Chg": "-2.53%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ZBH",
+    "Company": "Zimmer Biomet",
+    "Weight": "0.03%",
+    "Price": "94.12",
+    "Chg": "0.67",
+    "% Chg": "0.72%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "LNT",
+    "Company": "Alliant Energy",
+    "Weight": "0.03%",
+    "Price": "71.55",
+    "Chg": "0.21",
+    "% Chg": "0.29%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "LII",
+    "Company": "Lennox International",
+    "Weight": "0.03%",
+    "Price": "517.48",
+    "Chg": "-11.25",
+    "% Chg": "-2.13%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "FTV",
+    "Company": "Fortive",
+    "Weight": "0.03%",
+    "Price": "57.38",
+    "Chg": "-0.65",
+    "% Chg": "-1.11%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "HPQ",
+    "Company": "HP Inc.",
+    "Weight": "0.03%",
+    "Price": "19.54",
+    "Chg": "0.20",
+    "% Chg": "1.03%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CF",
+    "Company": "CF Industries",
+    "Weight": "0.03%",
+    "Price": "115.91",
+    "Chg": "5.13",
+    "% Chg": "4.63%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "WST",
+    "Company": "West Pharmaceutical Services",
+    "Weight": "0.03%",
+    "Price": "245.82",
+    "Chg": "1.47",
+    "% Chg": "0.60%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "WY",
+    "Company": "Weyerhaeuser",
+    "Weight": "0.03%",
+    "Price": "24.50",
+    "Chg": "-0.13",
+    "% Chg": "-0.53%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MKC",
+    "Company": "McCormick & Company",
+    "Weight": "0.03%",
+    "Price": "64.86",
+    "Chg": "-0.41",
+    "% Chg": "-0.62%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "HOLX",
+    "Company": "Hologic",
+    "Weight": "0.03%",
+    "Price": "75.67",
+    "Chg": "-0.08",
+    "% Chg": "-0.10%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "HII",
+    "Company": "Huntington Ingalls Industries",
+    "Weight": "0.03%",
+    "Price": "429.14",
+    "Chg": "7.97",
+    "% Chg": "1.89%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "PODD",
+    "Company": "Insulet Corporation",
+    "Weight": "0.03%",
+    "Price": "237.00",
+    "Chg": "-3.94",
+    "% Chg": "-1.64%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "TRMB",
+    "Company": "Trimble Inc.",
+    "Weight": "0.03%",
+    "Price": "70.05",
+    "Chg": "-0.41",
+    "% Chg": "-0.58%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "BALL",
+    "Company": "Ball Corporation",
+    "Weight": "0.03%",
+    "Price": "62.09",
+    "Chg": "-1.13",
+    "% Chg": "-1.79%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "TXT",
+    "Company": "Textron",
+    "Weight": "0.03%",
+    "Price": "94.83",
+    "Chg": "-1.58",
+    "% Chg": "-1.63%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ESS",
+    "Company": "Essex Property Trust",
+    "Weight": "0.03%",
+    "Price": "255.13",
+    "Chg": "-3.12",
+    "% Chg": "-1.21%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "VTRS",
+    "Company": "Viatris",
+    "Weight": "0.03%",
+    "Price": "14.23",
+    "Chg": "-0.29",
+    "% Chg": "-2.03%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "TYL",
+    "Company": "Tyler Technologies",
+    "Weight": "0.03%",
+    "Price": "374.45",
+    "Chg": "8.58",
+    "% Chg": "2.35%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "INVH",
+    "Company": "Invitation Homes",
+    "Weight": "0.03%",
+    "Price": "26.18",
+    "Chg": "-0.25",
+    "% Chg": "-0.93%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CDW",
+    "Company": "CDW",
+    "Weight": "0.03%",
+    "Price": "123.65",
+    "Chg": "-0.66",
+    "% Chg": "-0.53%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "GPC",
+    "Company": "Genuine Parts Company",
+    "Weight": "0.03%",
+    "Price": "115.51",
+    "Chg": "-1.60",
+    "% Chg": "-1.37%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "J",
+    "Company": "Jacobs Solutions",
+    "Weight": "0.03%",
+    "Price": "134.78",
+    "Chg": "-1.32",
+    "% Chg": "-0.97%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "TKO",
+    "Company": "TKO Group Holdings",
+    "Weight": "0.03%",
+    "Price": "202.74",
+    "Chg": "-9.01",
+    "% Chg": "-4.26%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "FFIV",
+    "Company": "F5, Inc.",
+    "Weight": "0.03%",
+    "Price": "279.04",
+    "Chg": "-4.60",
+    "% Chg": "-1.62%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "KIM",
+    "Company": "Kimco Realty",
+    "Weight": "0.03%",
+    "Price": "23.30",
+    "Chg": "-0.21",
+    "% Chg": "-0.91%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MAA",
+    "Company": "Mid-America Apartment Communities",
+    "Weight": "0.03%",
+    "Price": "132.77",
+    "Chg": "-1.64",
+    "% Chg": "-1.22%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "APTV",
+    "Company": "Aptiv",
+    "Weight": "0.03%",
+    "Price": "72.72",
+    "Chg": "0.51",
+    "% Chg": "0.70%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "NDSN",
+    "Company": "Nordson Corporation",
+    "Weight": "0.02%",
+    "Price": "272.75",
+    "Chg": "-8.27",
+    "% Chg": "-2.94%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "PNR",
+    "Company": "Pentair",
+    "Weight": "0.02%",
+    "Price": "92.18",
+    "Chg": "-3.79",
+    "% Chg": "-3.95%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "COO",
+    "Company": "Cooper Companies (The)",
+    "Weight": "0.02%",
+    "Price": "76.42",
+    "Chg": "-3.78",
+    "% Chg": "-4.71%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "DECK",
+    "Company": "Deckers Brands",
+    "Weight": "0.02%",
+    "Price": "103.62",
+    "Chg": "-3.96",
+    "% Chg": "-3.68%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "AKAM",
+    "Company": "Akamai Technologies",
+    "Weight": "0.02%",
+    "Price": "99.88",
+    "Chg": "-1.12",
+    "% Chg": "-1.11%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "REG",
+    "Company": "Regency Centers",
+    "Weight": "0.02%",
+    "Price": "78.67",
+    "Chg": "-0.64",
+    "% Chg": "-0.81%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "IEX",
+    "Company": "IDEX Corporation",
+    "Weight": "0.02%",
+    "Price": "190.82",
+    "Chg": "-12.51",
+    "% Chg": "-6.15%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "TTD",
+    "Company": "The Trade Desk, Inc.",
+    "Weight": "0.02%",
+    "Price": "29.25",
+    "Chg": "-0.54",
+    "% Chg": "-1.82%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CLX",
+    "Company": "Clorox",
+    "Weight": "0.02%",
+    "Price": "114.88",
+    "Chg": "1.18",
+    "% Chg": "1.04%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "AVY",
+    "Company": "Avery Dennison",
+    "Weight": "0.02%",
+    "Price": "179.58",
+    "Chg": "-4.15",
+    "% Chg": "-2.26%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "BBY",
+    "Company": "Best Buy",
+    "Weight": "0.02%",
+    "Price": "65.67",
+    "Chg": "0.07",
+    "% Chg": "0.11%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "DPZ",
+    "Company": "Domino's",
+    "Weight": "0.02%",
+    "Price": "408.38",
+    "Chg": "5.68",
+    "% Chg": "1.41%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "BEN",
+    "Company": "Franklin Resources",
+    "Weight": "0.02%",
+    "Price": "26.25",
+    "Chg": "-0.68",
+    "% Chg": "-2.51%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "GEN",
+    "Company": "Gen Digital",
+    "Weight": "0.02%",
+    "Price": "22.55",
+    "Chg": "-0.06",
+    "% Chg": "-0.27%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "EG",
+    "Company": "Everest Group",
+    "Weight": "0.02%",
+    "Price": "334.27",
+    "Chg": "1.44",
+    "% Chg": "0.43%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ERIE",
+    "Company": "Erie Indemnity",
+    "Weight": "0.02%",
+    "Price": "260.04",
+    "Chg": "-9.66",
+    "% Chg": "-3.58%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "HRL",
+    "Company": "Hormel Foods",
+    "Weight": "0.02%",
+    "Price": "24.43",
+    "Chg": "0.23",
+    "% Chg": "0.97%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "HAS",
+    "Company": "Hasbro",
+    "Weight": "0.02%",
+    "Price": "94.47",
+    "Chg": "-0.90",
+    "% Chg": "-0.94%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "PSKY",
+    "Company": "Paramount Skydance Corp",
+    "Weight": "0.02%",
+    "Price": "11.98",
+    "Chg": "0.24",
+    "% Chg": "2.09%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "HST",
+    "Company": "Host Hotels & Resorts",
+    "Weight": "0.02%",
+    "Price": "19.22",
+    "Chg": "-0.74",
+    "% Chg": "-3.71%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ALLE",
+    "Company": "Allegion",
+    "Weight": "0.02%",
+    "Price": "151.07",
+    "Chg": "-1.19",
+    "% Chg": "-0.78%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MAS",
+    "Company": "Masco",
+    "Weight": "0.02%",
+    "Price": "63.67",
+    "Chg": "-1.63",
+    "% Chg": "-2.50%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "GDDY",
+    "Company": "GoDaddy",
+    "Weight": "0.02%",
+    "Price": "93.93",
+    "Chg": "0.80",
+    "% Chg": "0.86%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ALGN",
+    "Company": "Align Technology",
+    "Weight": "0.02%",
+    "Price": "173.97",
+    "Chg": "-1.63",
+    "% Chg": "-0.93%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "PNW",
+    "Company": "Pinnacle West",
+    "Weight": "0.02%",
+    "Price": "102.45",
+    "Chg": "0.67",
+    "% Chg": "0.66%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "UDR",
+    "Company": "UDR, Inc.",
+    "Weight": "0.02%",
+    "Price": "37.27",
+    "Chg": "-0.40",
+    "% Chg": "-1.05%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "FOX",
+    "Company": "Fox Corporation (Class B)",
+    "Weight": "0.02%",
+    "Price": "54.31",
+    "Chg": "0.81",
+    "% Chg": "1.51%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "JKHY",
+    "Company": "Jack Henry & Associates",
+    "Weight": "0.02%",
+    "Price": "167.11",
+    "Chg": "0.06",
+    "% Chg": "0.04%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "SOLV",
+    "Company": "Solventum",
+    "Weight": "0.02%",
+    "Price": "69.42",
+    "Chg": "-1.36",
+    "% Chg": "-1.92%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "DOC",
+    "Company": "Healthpeak Properties",
+    "Weight": "0.02%",
+    "Price": "17.32",
+    "Chg": "-0.09",
+    "% Chg": "-0.55%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "FOXA",
+    "Company": "Fox Corporation (Class A)",
+    "Weight": "0.02%",
+    "Price": "59.78",
+    "Chg": "1.09",
+    "% Chg": "1.87%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "GNRC",
+    "Company": "Generac",
+    "Weight": "0.02%",
+    "Price": "203.25",
+    "Chg": "-15.56",
+    "% Chg": "-7.11%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "IT",
+    "Company": "Gartner",
+    "Weight": "0.02%",
+    "Price": "168.97",
+    "Chg": "-2.01",
+    "% Chg": "-1.18%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "SJM",
+    "Company": "J.M. Smucker Company (The)",
+    "Weight": "0.02%",
+    "Price": "111.47",
+    "Chg": "0.13",
+    "% Chg": "0.12%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "SWK",
+    "Company": "Stanley Black & Decker",
+    "Weight": "0.02%",
+    "Price": "76.09",
+    "Chg": "-1.84",
+    "% Chg": "-2.36%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "UHS",
+    "Company": "Universal Health Services",
+    "Weight": "0.02%",
+    "Price": "192.60",
+    "Chg": "-4.36",
+    "% Chg": "-2.21%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "BF.B",
+    "Company": "Brown–Forman",
+    "Weight": "0.02%",
+    "Price": "25.22",
+    "Chg": "-0.90",
+    "% Chg": "-3.45%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "APA",
+    "Company": "APA Corporation",
+    "Weight": "0.02%",
+    "Price": "32.72",
+    "Chg": "0.34",
+    "% Chg": "1.05%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "GL",
+    "Company": "Globe Life",
+    "Weight": "0.02%",
+    "Price": "141.82",
+    "Chg": "-1.55",
+    "% Chg": "-1.08%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "AIZ",
+    "Company": "Assurant",
+    "Weight": "0.02%",
+    "Price": "223.28",
+    "Chg": "-3.90",
+    "% Chg": "-1.72%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CPT",
+    "Company": "Camden Property Trust",
+    "Weight": "0.02%",
+    "Price": "106.53",
+    "Chg": "-2.11",
+    "% Chg": "-1.94%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ZBRA",
+    "Company": "Zebra Technologies",
+    "Weight": "0.02%",
+    "Price": "219.63",
+    "Chg": "-10.04",
+    "% Chg": "-4.37%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "IVZ",
+    "Company": "Invesco",
+    "Weight": "0.02%",
+    "Price": "23.68",
+    "Chg": "-1.05",
+    "% Chg": "-4.27%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "WYNN",
+    "Company": "Wynn Resorts",
+    "Weight": "0.02%",
+    "Price": "101.02",
+    "Chg": "-4.36",
+    "% Chg": "-4.13%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "RVTY",
+    "Company": "Revvity",
+    "Weight": "0.02%",
+    "Price": "91.36",
+    "Chg": "-5.21",
+    "% Chg": "-5.40%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "BLDR",
+    "Company": "Builders FirstSource",
+    "Weight": "0.02%",
+    "Price": "91.40",
+    "Chg": "-4.11",
+    "% Chg": "-4.30%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "AES",
+    "Company": "AES Corporation",
+    "Weight": "0.02%",
+    "Price": "14.16",
+    "Chg": "-0.06",
+    "% Chg": "-0.42%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "DVA",
+    "Company": "DaVita",
+    "Weight": "0.02%",
+    "Price": "150.79",
+    "Chg": "0.85",
+    "% Chg": "0.57%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "AOS",
+    "Company": "A. O. Smith",
+    "Weight": "0.02%",
+    "Price": "71.03",
+    "Chg": "-0.99",
+    "% Chg": "-1.38%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "FRT",
+    "Company": "Federal Realty Investment Trust",
+    "Weight": "0.02%",
+    "Price": "107.52",
+    "Chg": "-1.15",
+    "% Chg": "-1.06%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "NCLH",
+    "Company": "Norwegian Cruise Line Holdings",
+    "Weight": "0.02%",
+    "Price": "20.09",
+    "Chg": "-0.83",
+    "% Chg": "-3.94%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "BAX",
+    "Company": "Baxter International",
+    "Weight": "0.01%",
+    "Price": "17.72",
+    "Chg": "-0.88",
+    "% Chg": "-4.71%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MGM",
+    "Company": "MGM Resorts",
+    "Weight": "0.01%",
+    "Price": "35.57",
+    "Chg": "-1.56",
+    "% Chg": "-4.20%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CAG",
+    "Company": "Conagra Brands",
+    "Weight": "0.01%",
+    "Price": "18.99",
+    "Chg": "0.38",
+    "% Chg": "2.04%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "NWSA",
+    "Company": "News Corp (Class A)",
+    "Weight": "0.01%",
+    "Price": "24.61",
+    "Chg": "0.33",
+    "% Chg": "1.38%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "HSIC",
+    "Company": "Henry Schein",
+    "Weight": "0.01%",
+    "Price": "77.64",
+    "Chg": "-2.53",
+    "% Chg": "-3.16%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "ARE",
+    "Company": "Alexandria Real Estate Equities",
+    "Weight": "0.01%",
+    "Price": "50.49",
+    "Chg": "-1.30",
+    "% Chg": "-2.50%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "TAP",
+    "Company": "Molson Coors Beverage Company",
+    "Weight": "0.01%",
+    "Price": "46.48",
+    "Chg": "-0.63",
+    "% Chg": "-1.33%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CRL",
+    "Company": "Charles River Laboratories",
+    "Weight": "0.01%",
+    "Price": "174.99",
+    "Chg": "-6.33",
+    "% Chg": "-3.49%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "TECH",
+    "Company": "Bio-Techne",
+    "Weight": "0.01%",
+    "Price": "53.89",
+    "Chg": "-2.00",
+    "% Chg": "-3.58%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "BXP",
+    "Company": "BXP, Inc.",
+    "Weight": "0.01%",
+    "Price": "52.94",
+    "Chg": "-2.53",
+    "% Chg": "-4.56%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "FDS",
+    "Company": "FactSet",
+    "Weight": "0.01%",
+    "Price": "225.90",
+    "Chg": "0.98",
+    "% Chg": "0.44%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MOS",
+    "Company": "Mosaic Company (The)",
+    "Weight": "0.01%",
+    "Price": "26.21",
+    "Chg": "-0.07",
+    "% Chg": "-0.25%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "SWKS",
+    "Company": "Skyworks Solutions",
+    "Weight": "0.01%",
+    "Price": "54.91",
+    "Chg": "-1.57",
+    "% Chg": "-2.78%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "POOL",
+    "Company": "Pool Corporation",
+    "Weight": "0.01%",
+    "Price": "214.90",
+    "Chg": "-3.02",
+    "% Chg": "-1.39%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "EPAM",
+    "Company": "EPAM Systems",
+    "Weight": "0.01%",
+    "Price": "145.88",
+    "Chg": "1.30",
+    "% Chg": "0.90%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "CPB",
+    "Company": "Campbell Soup Company",
+    "Weight": "0.01%",
+    "Price": "25.66",
+    "Chg": "0.60",
+    "% Chg": "2.39%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MOH",
+    "Company": "Molina Healthcare",
+    "Weight": "0.01%",
+    "Price": "144.43",
+    "Chg": "-3.28",
+    "% Chg": "-2.22%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "PAYC",
+    "Company": "Paycom",
+    "Weight": "0.01%",
+    "Price": "138.04",
+    "Chg": "1.38",
+    "% Chg": "1.01%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "MTCH",
+    "Company": "Match Group",
+    "Weight": "0.01%",
+    "Price": "30.25",
+    "Chg": "-1.06",
+    "% Chg": "-3.39%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "LW",
+    "Company": "Lamb Weston",
+    "Weight": "0.01%",
+    "Price": "46.00",
+    "Chg": "0.35",
+    "% Chg": "0.77%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  },
+  {
+    "Symbol": "NWS",
+    "Company": "News Corp (Class B)",
+    "Weight": "0.01%",
+    "Price": "27.70",
+    "Chg": "0.77",
+    "% Chg": "2.84%",
+    "Timestamp": "2026-03-06T21:30:15.903Z"
+  }
+]
