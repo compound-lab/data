@@ -2,34 +2,34 @@
   "dataset": "indices",
   "kind": "summary",
   "as_of_date": "2026-03-12",
-  "as_of_utc": "2026-03-12T17:20:45.628Z",
+  "as_of_utc": "2026-03-12T21:41:31.835Z",
   "summary": {
     "indices": [
       {
         "index": "S&P 500",
-        "price": 6696.39,
-        "change": -79.40999999999985,
-        "change_pct": -1.1719649340299279,
-        "prev_close": 6775.8,
-        "quote_date": "2026-03-12",
-        "quote_time": "18:18:10",
-        "symbol": "^SPX",
-        "advancers": null,
-        "decliners": null,
-        "unchanged": null,
-        "total": null,
+        "price": null,
+        "change": null,
+        "change_pct": null,
+        "prev_close": null,
+        "quote_date": null,
+        "quote_time": null,
+        "symbol": null,
+        "advancers": 115,
+        "decliners": 388,
+        "unchanged": 0,
+        "total": 503,
         "source_headlines": "stooq",
-        "source_breadth": null
+        "source_breadth": "SlickCharts"
       },
       {
         "index": "Nasdaq 100",
-        "price": 24636.555,
-        "change": -328.4549999999981,
-        "change_pct": -1.3156613996950057,
-        "prev_close": 24965.01,
-        "quote_date": "2026-03-12",
-        "quote_time": "18:18:15",
-        "symbol": "^NDX",
+        "price": null,
+        "change": null,
+        "change_pct": null,
+        "prev_close": null,
+        "quote_date": null,
+        "quote_time": null,
+        "symbol": null,
         "advancers": null,
         "decliners": null,
         "unchanged": null,
@@ -39,13 +39,13 @@
       },
       {
         "index": "FTSE 100",
-        "price": 10305.2,
-        "change": -48.56999999999971,
-        "change_pct": -0.4691044904416431,
-        "prev_close": 10353.77,
-        "quote_date": "2026-03-12",
-        "quote_time": "17:35:30",
-        "symbol": "^UKX",
+        "price": null,
+        "change": null,
+        "change_pct": null,
+        "prev_close": null,
+        "quote_date": null,
+        "quote_time": null,
+        "symbol": null,
         "advancers": 43,
         "decliners": 56,
         "unchanged": 0,
@@ -55,13 +55,13 @@
       },
       {
         "index": "CAC 40",
-        "price": 7984.44,
-        "change": -57.3700000000008,
-        "change_pct": -0.7133966109619699,
-        "prev_close": 8041.81,
-        "quote_date": "2026-03-12",
-        "quote_time": "17:37:30",
-        "symbol": "^CAC",
+        "price": null,
+        "change": null,
+        "change_pct": null,
+        "prev_close": null,
+        "quote_date": null,
+        "quote_time": null,
+        "symbol": null,
         "advancers": 16,
         "decliners": 23,
         "unchanged": 1,
@@ -71,13 +71,13 @@
       },
       {
         "index": "DAX",
-        "price": 23572.44,
-        "change": -67.59000000000015,
-        "change_pct": -0.2859133427495657,
-        "prev_close": 23640.03,
-        "quote_date": "2026-03-12",
-        "quote_time": "17:31:57",
-        "symbol": "^DAX",
+        "price": null,
+        "change": null,
+        "change_pct": null,
+        "prev_close": null,
+        "quote_date": null,
+        "quote_time": null,
+        "symbol": null,
         "advancers": 20,
         "decliners": 20,
         "unchanged": 0,
@@ -87,13 +87,13 @@
       },
       {
         "index": "IBEX 35",
-        "price": 17139.9,
-        "change": -212,
-        "change_pct": -1.221768221347518,
-        "prev_close": 17351.9,
-        "quote_date": "2026-03-12",
-        "quote_time": "17:35:30",
-        "symbol": "^IBEX",
+        "price": null,
+        "change": null,
+        "change_pct": null,
+        "prev_close": null,
+        "quote_date": null,
+        "quote_time": null,
+        "symbol": null,
         "advancers": 11,
         "decliners": 23,
         "unchanged": 1,
@@ -105,111 +105,45 @@
   },
   "raw": {
     "index_headlines": {
-      "ts": "2026-03-12T17:18:45.613Z",
+      "ts": "2026-03-12T21:39:44.210Z",
       "dateUK": "2026-03-12",
       "source": "stooq",
-      "rows": [
+      "rows": [],
+      "errors": [
         {
-          "Index": "S&P 500",
-          "Symbol": "^SPX",
-          "Price": 6696.39,
-          "Change": -79.40999999999985,
-          "PctChange": -1.1719649340299279,
-          "PrevClose": 6775.8,
-          "Open": 6722.46,
-          "High": 6726.11,
-          "Low": 6680.51,
-          "Volume": 1127993492,
-          "QuoteDate": "2026-03-12",
-          "QuoteTime": "18:18:10",
-          "Timestamp": "2026-03-12T17:18:45.613Z",
-          "DateUK": "2026-03-12"
+          "index": "S&P 500",
+          "symbol": "^spx",
+          "error": "fetch failed"
         },
         {
-          "Index": "Nasdaq 100",
-          "Symbol": "^NDX",
-          "Price": 24636.555,
-          "Change": -328.4549999999981,
-          "PctChange": -1.3156613996950057,
-          "PrevClose": 24965.01,
-          "Open": 24771.316,
-          "High": 24806.19,
-          "Low": 24544.127,
-          "Volume": 363138876,
-          "QuoteDate": "2026-03-12",
-          "QuoteTime": "18:18:15",
-          "Timestamp": "2026-03-12T17:18:45.613Z",
-          "DateUK": "2026-03-12"
+          "index": "Nasdaq 100",
+          "symbol": "^ndx",
+          "error": "fetch failed"
         },
         {
-          "Index": "FTSE 100",
-          "Symbol": "^UKX",
-          "Price": 10305.2,
-          "Change": -48.56999999999971,
-          "PctChange": -0.4691044904416431,
-          "PrevClose": 10353.77,
-          "Open": 10350.1,
-          "High": 10350.1,
-          "Low": 10258.6,
-          "Volume": 392323756,
-          "QuoteDate": "2026-03-12",
-          "QuoteTime": "17:35:30",
-          "Timestamp": "2026-03-12T17:18:45.613Z",
-          "DateUK": "2026-03-12"
+          "index": "FTSE 100",
+          "symbol": "^ukx",
+          "error": "fetch failed"
         },
         {
-          "Index": "CAC 40",
-          "Symbol": "^CAC",
-          "Price": 7984.44,
-          "Change": -57.3700000000008,
-          "PctChange": -0.7133966109619699,
-          "PrevClose": 8041.81,
-          "Open": 8006.73,
-          "High": 8037.65,
-          "Low": 7916.5,
-          "Volume": 61992234,
-          "QuoteDate": "2026-03-12",
-          "QuoteTime": "17:37:30",
-          "Timestamp": "2026-03-12T17:18:45.613Z",
-          "DateUK": "2026-03-12"
+          "index": "CAC 40",
+          "symbol": "^cac",
+          "error": "fetch failed"
         },
         {
-          "Index": "DAX",
-          "Symbol": "^DAX",
-          "Price": 23572.44,
-          "Change": -67.59000000000015,
-          "PctChange": -0.2859133427495657,
-          "PrevClose": 23640.03,
-          "Open": 23571.38,
-          "High": 23702.65,
-          "Low": 23369.09,
-          "Volume": 33782504,
-          "QuoteDate": "2026-03-12",
-          "QuoteTime": "17:31:57",
-          "Timestamp": "2026-03-12T17:18:45.613Z",
-          "DateUK": "2026-03-12"
+          "index": "DAX",
+          "symbol": "^dax",
+          "error": "fetch failed"
         },
         {
-          "Index": "IBEX 35",
-          "Symbol": "^IBEX",
-          "Price": 17139.9,
-          "Change": -212,
-          "PctChange": -1.221768221347518,
-          "PrevClose": 17351.9,
-          "Open": 17288.6,
-          "High": 17325.4,
-          "Low": 16987.3,
-          "Volume": 134633160,
-          "QuoteDate": "2026-03-12",
-          "QuoteTime": "17:35:30",
-          "Timestamp": "2026-03-12T17:18:45.613Z",
-          "DateUK": "2026-03-12"
+          "index": "IBEX 35",
+          "symbol": "^ibex",
+          "error": "fetch failed"
         }
-      ],
-      "errors": []
+      ]
     },
     "index_breadth": {
-      "ts": "2026-03-12T17:20:45.628Z",
+      "ts": "2026-03-12T21:41:31.835Z",
       "dateUK": "2026-03-12",
       "rows": [
         {
@@ -221,7 +155,7 @@
           "Unchanged": 1,
           "Unknown": 0,
           "InputFile": "cac40-constituents-260312.json",
-          "Timestamp": "2026-03-12T17:20:45.628Z",
+          "Timestamp": "2026-03-12T21:41:31.835Z",
           "DateUK": "2026-03-12"
         },
         {
@@ -233,7 +167,7 @@
           "Unchanged": 0,
           "Unknown": 0,
           "InputFile": "dax_ms-constituents-260312.json",
-          "Timestamp": "2026-03-12T17:20:45.628Z",
+          "Timestamp": "2026-03-12T21:41:31.835Z",
           "DateUK": "2026-03-12"
         },
         {
@@ -245,7 +179,7 @@
           "Unchanged": 0,
           "Unknown": 1,
           "InputFile": "ftse100-lse-constituents-260312.json",
-          "Timestamp": "2026-03-12T17:20:45.628Z",
+          "Timestamp": "2026-03-12T21:41:31.835Z",
           "DateUK": "2026-03-12"
         },
         {
@@ -257,37 +191,35 @@
           "Unchanged": 1,
           "Unknown": 0,
           "InputFile": "ibex35-constituents-260312.json",
-          "Timestamp": "2026-03-12T17:20:45.628Z",
+          "Timestamp": "2026-03-12T21:41:31.835Z",
+          "DateUK": "2026-03-12"
+        },
+        {
+          "Index": "S&P 500",
+          "Source": "SlickCharts",
+          "Total": 503,
+          "Up": 115,
+          "Down": 388,
+          "Unchanged": 0,
+          "Unknown": 0,
+          "InputFile": "sp500_sc-constituents-260312.csv",
+          "Timestamp": "2026-03-12T21:41:31.835Z",
+          "DateUK": "2026-03-12"
+        },
+        {
+          "Index": "TSX",
+          "Source": "TMX Money (Market Summary)",
+          "Total": 2269,
+          "Up": 425,
+          "Down": 1721,
+          "Unchanged": 123,
+          "Unknown": 0,
+          "InputFile": "tsx-market-summary-2026-03-12.json",
+          "Timestamp": "2026-03-12T21:41:31.835Z",
           "DateUK": "2026-03-12"
         }
       ],
-      "errors": [
-        {
-          "index": "S&P 500",
-          "source": "SlickCharts",
-          "prefix": "sp500_sc-constituents-",
-          "changeField": "% Chg",
-          "kind": "constituents",
-          "exts": [
-            ".csv",
-            ".json"
-          ],
-          "error": "missing input file",
-          "lookedIn": "/home/henry/.openclaw/workspace/mission-control/daily/2026-03-12"
-        },
-        {
-          "index": "TSX",
-          "source": "TMX Money (Market Summary)",
-          "prefix": "tsx-market-summary-",
-          "changeField": null,
-          "kind": "marketSummary",
-          "exts": [
-            ".json"
-          ],
-          "error": "missing input file",
-          "lookedIn": "/home/henry/.openclaw/workspace/mission-control/daily/2026-03-12"
-        }
-      ]
+      "errors": []
     }
   }
 }

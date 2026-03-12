@@ -2,9 +2,9 @@
   "dataset": "index_breadth",
   "kind": "raw",
   "as_of_date": "2026-03-12",
-  "as_of_utc": "2026-03-12T17:20:45.628Z",
+  "as_of_utc": "2026-03-12T21:41:31.835Z",
   "raw": {
-    "ts": "2026-03-12T17:20:45.628Z",
+    "ts": "2026-03-12T21:41:31.835Z",
     "dateUK": "2026-03-12",
     "rows": [
       {
@@ -16,7 +16,7 @@
         "Unchanged": 1,
         "Unknown": 0,
         "InputFile": "cac40-constituents-260312.json",
-        "Timestamp": "2026-03-12T17:20:45.628Z",
+        "Timestamp": "2026-03-12T21:41:31.835Z",
         "DateUK": "2026-03-12"
       },
       {
@@ -28,7 +28,7 @@
         "Unchanged": 0,
         "Unknown": 0,
         "InputFile": "dax_ms-constituents-260312.json",
-        "Timestamp": "2026-03-12T17:20:45.628Z",
+        "Timestamp": "2026-03-12T21:41:31.835Z",
         "DateUK": "2026-03-12"
       },
       {
@@ -40,7 +40,7 @@
         "Unchanged": 0,
         "Unknown": 1,
         "InputFile": "ftse100-lse-constituents-260312.json",
-        "Timestamp": "2026-03-12T17:20:45.628Z",
+        "Timestamp": "2026-03-12T21:41:31.835Z",
         "DateUK": "2026-03-12"
       },
       {
@@ -52,36 +52,34 @@
         "Unchanged": 1,
         "Unknown": 0,
         "InputFile": "ibex35-constituents-260312.json",
-        "Timestamp": "2026-03-12T17:20:45.628Z",
+        "Timestamp": "2026-03-12T21:41:31.835Z",
+        "DateUK": "2026-03-12"
+      },
+      {
+        "Index": "S&P 500",
+        "Source": "SlickCharts",
+        "Total": 503,
+        "Up": 115,
+        "Down": 388,
+        "Unchanged": 0,
+        "Unknown": 0,
+        "InputFile": "sp500_sc-constituents-260312.csv",
+        "Timestamp": "2026-03-12T21:41:31.835Z",
+        "DateUK": "2026-03-12"
+      },
+      {
+        "Index": "TSX",
+        "Source": "TMX Money (Market Summary)",
+        "Total": 2269,
+        "Up": 425,
+        "Down": 1721,
+        "Unchanged": 123,
+        "Unknown": 0,
+        "InputFile": "tsx-market-summary-2026-03-12.json",
+        "Timestamp": "2026-03-12T21:41:31.835Z",
         "DateUK": "2026-03-12"
       }
     ],
-    "errors": [
-      {
-        "index": "S&P 500",
-        "source": "SlickCharts",
-        "prefix": "sp500_sc-constituents-",
-        "changeField": "% Chg",
-        "kind": "constituents",
-        "exts": [
-          ".csv",
-          ".json"
-        ],
-        "error": "missing input file",
-        "lookedIn": "/home/henry/.openclaw/workspace/mission-control/daily/2026-03-12"
-      },
-      {
-        "index": "TSX",
-        "source": "TMX Money (Market Summary)",
-        "prefix": "tsx-market-summary-",
-        "changeField": null,
-        "kind": "marketSummary",
-        "exts": [
-          ".json"
-        ],
-        "error": "missing input file",
-        "lookedIn": "/home/henry/.openclaw/workspace/mission-control/daily/2026-03-12"
-      }
-    ]
+    "errors": []
   }
 }

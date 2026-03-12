@@ -2,109 +2,43 @@
   "dataset": "index_headlines",
   "kind": "raw",
   "as_of_date": "2026-03-12",
-  "as_of_utc": "2026-03-12T17:18:45.613Z",
+  "as_of_utc": "2026-03-12T21:39:44.210Z",
   "raw": {
-    "ts": "2026-03-12T17:18:45.613Z",
+    "ts": "2026-03-12T21:39:44.210Z",
     "dateUK": "2026-03-12",
     "source": "stooq",
-    "rows": [
+    "rows": [],
+    "errors": [
       {
-        "Index": "S&P 500",
-        "Symbol": "^SPX",
-        "Price": 6696.39,
-        "Change": -79.40999999999985,
-        "PctChange": -1.1719649340299279,
-        "PrevClose": 6775.8,
-        "Open": 6722.46,
-        "High": 6726.11,
-        "Low": 6680.51,
-        "Volume": 1127993492,
-        "QuoteDate": "2026-03-12",
-        "QuoteTime": "18:18:10",
-        "Timestamp": "2026-03-12T17:18:45.613Z",
-        "DateUK": "2026-03-12"
+        "index": "S&P 500",
+        "symbol": "^spx",
+        "error": "fetch failed"
       },
       {
-        "Index": "Nasdaq 100",
-        "Symbol": "^NDX",
-        "Price": 24636.555,
-        "Change": -328.4549999999981,
-        "PctChange": -1.3156613996950057,
-        "PrevClose": 24965.01,
-        "Open": 24771.316,
-        "High": 24806.19,
-        "Low": 24544.127,
-        "Volume": 363138876,
-        "QuoteDate": "2026-03-12",
-        "QuoteTime": "18:18:15",
-        "Timestamp": "2026-03-12T17:18:45.613Z",
-        "DateUK": "2026-03-12"
+        "index": "Nasdaq 100",
+        "symbol": "^ndx",
+        "error": "fetch failed"
       },
       {
-        "Index": "FTSE 100",
-        "Symbol": "^UKX",
-        "Price": 10305.2,
-        "Change": -48.56999999999971,
-        "PctChange": -0.4691044904416431,
-        "PrevClose": 10353.77,
-        "Open": 10350.1,
-        "High": 10350.1,
-        "Low": 10258.6,
-        "Volume": 392323756,
-        "QuoteDate": "2026-03-12",
-        "QuoteTime": "17:35:30",
-        "Timestamp": "2026-03-12T17:18:45.613Z",
-        "DateUK": "2026-03-12"
+        "index": "FTSE 100",
+        "symbol": "^ukx",
+        "error": "fetch failed"
       },
       {
-        "Index": "CAC 40",
-        "Symbol": "^CAC",
-        "Price": 7984.44,
-        "Change": -57.3700000000008,
-        "PctChange": -0.7133966109619699,
-        "PrevClose": 8041.81,
-        "Open": 8006.73,
-        "High": 8037.65,
-        "Low": 7916.5,
-        "Volume": 61992234,
-        "QuoteDate": "2026-03-12",
-        "QuoteTime": "17:37:30",
-        "Timestamp": "2026-03-12T17:18:45.613Z",
-        "DateUK": "2026-03-12"
+        "index": "CAC 40",
+        "symbol": "^cac",
+        "error": "fetch failed"
       },
       {
-        "Index": "DAX",
-        "Symbol": "^DAX",
-        "Price": 23572.44,
-        "Change": -67.59000000000015,
-        "PctChange": -0.2859133427495657,
-        "PrevClose": 23640.03,
-        "Open": 23571.38,
-        "High": 23702.65,
-        "Low": 23369.09,
-        "Volume": 33782504,
-        "QuoteDate": "2026-03-12",
-        "QuoteTime": "17:31:57",
-        "Timestamp": "2026-03-12T17:18:45.613Z",
-        "DateUK": "2026-03-12"
+        "index": "DAX",
+        "symbol": "^dax",
+        "error": "fetch failed"
       },
       {
-        "Index": "IBEX 35",
-        "Symbol": "^IBEX",
-        "Price": 17139.9,
-        "Change": -212,
-        "PctChange": -1.221768221347518,
-        "PrevClose": 17351.9,
-        "Open": 17288.6,
-        "High": 17325.4,
-        "Low": 16987.3,
-        "Volume": 134633160,
-        "QuoteDate": "2026-03-12",
-        "QuoteTime": "17:35:30",
-        "Timestamp": "2026-03-12T17:18:45.613Z",
-        "DateUK": "2026-03-12"
+        "index": "IBEX 35",
+        "symbol": "^ibex",
+        "error": "fetch failed"
       }
-    ],
-    "errors": []
+    ]
   }
 }
