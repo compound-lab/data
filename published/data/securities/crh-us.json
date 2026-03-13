@@ -1,7 +1,7 @@
 {
   "entity_key": "CRH:US",
   "symbol": "CRH",
-  "name": "CRH plc",
+  "name": "CRH Plc ADR",
   "bbg_ticker": "CRH:US",
   "memberships": [
     "sp500"
@@ -9,18 +9,18 @@
   "latest_records": [
     {
       "dataset": "sp500",
-      "as_of_date": "2026-03-12",
-      "as_of_utc": "2026-03-12T21:40:57.686Z",
-      "name": "CRH plc",
+      "as_of_date": "2026-03-13",
+      "as_of_utc": "2026-03-13T21:25:39.650Z",
+      "name": "CRH Plc ADR",
       "entity_key": "CRH:US",
       "symbol": "CRH",
       "source_ticker": "CRH.US",
       "bbg_ticker": "CRH:US",
-      "price": 100.05,
-      "change": -3.95,
-      "change_pct": -3.8,
+      "price": 99.82,
+      "change": 0.09,
+      "change_pct": 0.09,
       "currency": null,
-      "weight": 0.11,
+      "weight": null,
       "market_cap_m": null,
       "extra": {}
     }
@@ -28,7 +28,7 @@
   "membership_history": [
     {
       "dataset": "sp500",
-      "date": "2026-03-12",
+      "date": "2026-03-13",
       "action": "present"
     }
   ]

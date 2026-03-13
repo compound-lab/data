@@ -1,7 +1,7 @@
 {
   "entity_key": "WMT:US",
   "symbol": "WMT",
-  "name": "Walmart",
+  "name": "Walmart Inc",
   "bbg_ticker": "WMT:US",
   "memberships": [
     "sp500"
@@ -9,18 +9,18 @@
   "latest_records": [
     {
       "dataset": "sp500",
-      "as_of_date": "2026-03-12",
-      "as_of_utc": "2026-03-12T21:40:57.686Z",
-      "name": "Walmart",
+      "as_of_date": "2026-03-13",
+      "as_of_utc": "2026-03-13T21:25:39.650Z",
+      "name": "Walmart Inc",
       "entity_key": "WMT:US",
       "symbol": "WMT",
       "source_ticker": "WMT.US",
       "bbg_ticker": "WMT:US",
-      "price": 125.53,
-      "change": 2.04,
-      "change_pct": 1.65,
+      "price": 126.52,
+      "change": 1.19,
+      "change_pct": 0.95,
       "currency": null,
-      "weight": 1.65,
+      "weight": null,
       "market_cap_m": null,
       "extra": {}
     }
@@ -28,7 +28,7 @@
   "membership_history": [
     {
       "dataset": "sp500",
-      "date": "2026-03-12",
+      "date": "2026-03-13",
       "action": "present"
     }
   ]

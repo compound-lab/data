@@ -1,7 +1,7 @@
 {
   "entity_key": "TGT:US",
   "symbol": "TGT",
-  "name": "Target Corporation",
+  "name": "Target Corp",
   "bbg_ticker": "TGT:US",
   "memberships": [
     "sp500"
@@ -9,18 +9,18 @@
   "latest_records": [
     {
       "dataset": "sp500",
-      "as_of_date": "2026-03-12",
-      "as_of_utc": "2026-03-12T21:40:57.686Z",
-      "name": "Target Corporation",
+      "as_of_date": "2026-03-13",
+      "as_of_utc": "2026-03-13T21:25:39.650Z",
+      "name": "Target Corp",
       "entity_key": "TGT:US",
       "symbol": "TGT",
       "source_ticker": "TGT.US",
       "bbg_ticker": "TGT:US",
-      "price": 116.02,
-      "change": -2.76,
-      "change_pct": -2.32,
+      "price": 117.34,
+      "change": 1.59,
+      "change_pct": 1.37,
       "currency": null,
-      "weight": 0.09,
+      "weight": null,
       "market_cap_m": null,
       "extra": {}
     }
@@ -28,7 +28,7 @@
   "membership_history": [
     {
       "dataset": "sp500",
-      "date": "2026-03-12",
+      "date": "2026-03-13",
       "action": "present"
     }
   ]

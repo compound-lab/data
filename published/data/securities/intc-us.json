@@ -1,7 +1,7 @@
 {
   "entity_key": "INTC:US",
   "symbol": "INTC",
-  "name": "Intel",
+  "name": "Intel Corp",
   "bbg_ticker": "INTC:US",
   "memberships": [
     "sp500"
@@ -9,18 +9,18 @@
   "latest_records": [
     {
       "dataset": "sp500",
-      "as_of_date": "2026-03-12",
-      "as_of_utc": "2026-03-12T21:40:57.686Z",
-      "name": "Intel",
+      "as_of_date": "2026-03-13",
+      "as_of_utc": "2026-03-13T21:25:39.650Z",
+      "name": "Intel Corp",
       "entity_key": "INTC:US",
       "symbol": "INTC",
       "source_ticker": "INTC.US",
       "bbg_ticker": "INTC:US",
-      "price": 45.28,
-      "change": -2.7,
-      "change_pct": -5.63,
+      "price": 45.77,
+      "change": 0.52,
+      "change_pct": 1.15,
       "currency": null,
-      "weight": 0.37,
+      "weight": null,
       "market_cap_m": null,
       "extra": {}
     }
@@ -28,7 +28,7 @@
   "membership_history": [
     {
       "dataset": "sp500",
-      "date": "2026-03-12",
+      "date": "2026-03-13",
       "action": "present"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "entity_key": "WAT:US",
   "symbol": "WAT",
-  "name": "Waters Corporation",
+  "name": "Waters Corp",
   "bbg_ticker": "WAT:US",
   "memberships": [
     "sp500"
@@ -9,18 +9,18 @@
   "latest_records": [
     {
       "dataset": "sp500",
-      "as_of_date": "2026-03-12",
-      "as_of_utc": "2026-03-12T21:40:57.686Z",
-      "name": "Waters Corporation",
+      "as_of_date": "2026-03-13",
+      "as_of_utc": "2026-03-13T21:25:39.650Z",
+      "name": "Waters Corp",
       "entity_key": "WAT:US",
       "symbol": "WAT",
       "source_ticker": "WAT.US",
       "bbg_ticker": "WAT:US",
-      "price": 285.42,
-      "change": -12.12,
-      "change_pct": -4.07,
+      "price": 286.57,
+      "change": 3.25,
+      "change_pct": 1.15,
       "currency": null,
-      "weight": 0.05,
+      "weight": null,
       "market_cap_m": null,
       "extra": {}
     }
@@ -28,7 +28,7 @@
   "membership_history": [
     {
       "dataset": "sp500",
-      "date": "2026-03-12",
+      "date": "2026-03-13",
       "action": "present"
     }
   ]

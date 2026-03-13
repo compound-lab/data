@@ -1,7 +1,7 @@
 {
   "entity_key": "CDW:US",
   "symbol": "CDW",
-  "name": "CDW",
+  "name": "CDW Corp",
   "bbg_ticker": "CDW:US",
   "memberships": [
     "sp500"
@@ -9,18 +9,18 @@
   "latest_records": [
     {
       "dataset": "sp500",
-      "as_of_date": "2026-03-12",
-      "as_of_utc": "2026-03-12T21:40:57.686Z",
-      "name": "CDW",
+      "as_of_date": "2026-03-13",
+      "as_of_utc": "2026-03-13T21:25:39.650Z",
+      "name": "CDW Corp",
       "entity_key": "CDW:US",
       "symbol": "CDW",
       "source_ticker": "CDW.US",
       "bbg_ticker": "CDW:US",
-      "price": 113.66,
-      "change": -5.25,
-      "change_pct": -4.42,
+      "price": 116.16,
+      "change": 2.68,
+      "change_pct": 2.36,
       "currency": null,
-      "weight": 0.02,
+      "weight": null,
       "market_cap_m": null,
       "extra": {}
     }
@@ -28,7 +28,7 @@
   "membership_history": [
     {
       "dataset": "sp500",
-      "date": "2026-03-12",
+      "date": "2026-03-13",
       "action": "present"
     }
   ]

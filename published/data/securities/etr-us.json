@@ -1,7 +1,7 @@
 {
   "entity_key": "ETR:US",
   "symbol": "ETR",
-  "name": "Entergy",
+  "name": "Entergy Corp",
   "bbg_ticker": "ETR:US",
   "memberships": [
     "sp500"
@@ -9,18 +9,18 @@
   "latest_records": [
     {
       "dataset": "sp500",
-      "as_of_date": "2026-03-12",
-      "as_of_utc": "2026-03-12T21:40:57.686Z",
-      "name": "Entergy",
+      "as_of_date": "2026-03-13",
+      "as_of_utc": "2026-03-13T21:25:39.650Z",
+      "name": "Entergy Corp",
       "entity_key": "ETR:US",
       "symbol": "ETR",
       "source_ticker": "ETR.US",
       "bbg_ticker": "ETR:US",
-      "price": 104.61,
-      "change": 0.79,
-      "change_pct": 0.76,
+      "price": 105.58,
+      "change": 1.06,
+      "change_pct": 1.01,
       "currency": null,
-      "weight": 0.08,
+      "weight": null,
       "market_cap_m": null,
       "extra": {}
     }
@@ -28,7 +28,7 @@
   "membership_history": [
     {
       "dataset": "sp500",
-      "date": "2026-03-12",
+      "date": "2026-03-13",
       "action": "present"
     }
   ]

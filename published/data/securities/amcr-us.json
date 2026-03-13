@@ -1,7 +1,7 @@
 {
   "entity_key": "AMCR:US",
   "symbol": "AMCR",
-  "name": "Amcor",
+  "name": "Amcor Plc",
   "bbg_ticker": "AMCR:US",
   "memberships": [
     "sp500"
@@ -9,18 +9,18 @@
   "latest_records": [
     {
       "dataset": "sp500",
-      "as_of_date": "2026-03-12",
-      "as_of_utc": "2026-03-12T21:40:57.686Z",
-      "name": "Amcor",
+      "as_of_date": "2026-03-13",
+      "as_of_utc": "2026-03-13T21:25:39.650Z",
+      "name": "Amcor Plc",
       "entity_key": "AMCR:US",
       "symbol": "AMCR",
       "source_ticker": "AMCR.US",
       "bbg_ticker": "AMCR:US",
-      "price": 40.59,
-      "change": -1.91,
-      "change_pct": -4.48,
+      "price": 40.57,
+      "change": 0.24,
+      "change_pct": 0.6,
       "currency": null,
-      "weight": 0.03,
+      "weight": null,
       "market_cap_m": null,
       "extra": {}
     }
@@ -28,7 +28,7 @@
   "membership_history": [
     {
       "dataset": "sp500",
-      "date": "2026-03-12",
+      "date": "2026-03-13",
       "action": "present"
     }
   ]

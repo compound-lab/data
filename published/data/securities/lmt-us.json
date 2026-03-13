@@ -1,7 +1,7 @@
 {
   "entity_key": "LMT:US",
   "symbol": "LMT",
-  "name": "Lockheed Martin",
+  "name": "Lockheed Martin Corp",
   "bbg_ticker": "LMT:US",
   "memberships": [
     "sp500"
@@ -9,18 +9,18 @@
   "latest_records": [
     {
       "dataset": "sp500",
-      "as_of_date": "2026-03-12",
-      "as_of_utc": "2026-03-12T21:40:57.686Z",
-      "name": "Lockheed Martin",
+      "as_of_date": "2026-03-13",
+      "as_of_utc": "2026-03-13T21:25:39.650Z",
+      "name": "Lockheed Martin Corp",
       "entity_key": "LMT:US",
       "symbol": "LMT",
       "source_ticker": "LMT.US",
       "bbg_ticker": "LMT:US",
-      "price": 653.52,
-      "change": 4.05,
-      "change_pct": 0.62,
+      "price": 646.0,
+      "change": -6.83,
+      "change_pct": -1.05,
       "currency": null,
-      "weight": 0.25,
+      "weight": null,
       "market_cap_m": null,
       "extra": {}
     }
@@ -28,7 +28,7 @@
   "membership_history": [
     {
       "dataset": "sp500",
-      "date": "2026-03-12",
+      "date": "2026-03-13",
       "action": "present"
     }
   ]

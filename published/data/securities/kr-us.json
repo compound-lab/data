@@ -1,7 +1,7 @@
 {
   "entity_key": "KR:US",
   "symbol": "KR",
-  "name": "Kroger",
+  "name": "Kroger Company",
   "bbg_ticker": "KR:US",
   "memberships": [
     "sp500"
@@ -9,18 +9,18 @@
   "latest_records": [
     {
       "dataset": "sp500",
-      "as_of_date": "2026-03-12",
-      "as_of_utc": "2026-03-12T21:40:57.686Z",
-      "name": "Kroger",
+      "as_of_date": "2026-03-13",
+      "as_of_utc": "2026-03-13T21:25:39.650Z",
+      "name": "Kroger Company",
       "entity_key": "KR:US",
       "symbol": "KR",
       "source_ticker": "KR.US",
       "bbg_ticker": "KR:US",
-      "price": 74.95,
-      "change": 2.77,
-      "change_pct": 3.83,
+      "price": 75.6,
+      "change": 0.64,
+      "change_pct": 0.85,
       "currency": null,
-      "weight": 0.08,
+      "weight": null,
       "market_cap_m": null,
       "extra": {}
     }
@@ -28,7 +28,7 @@
   "membership_history": [
     {
       "dataset": "sp500",
-      "date": "2026-03-12",
+      "date": "2026-03-13",
       "action": "present"
     }
   ]
