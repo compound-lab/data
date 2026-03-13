@@ -2,57 +2,57 @@
   "dataset": "index_breadth",
   "kind": "raw",
   "as_of_date": "2026-03-13",
-  "as_of_utc": "2026-03-13T11:57:17.985Z",
+  "as_of_utc": "2026-03-13T17:07:39.349Z",
   "raw": {
-    "ts": "2026-03-13T11:57:17.985Z",
+    "ts": "2026-03-13T17:07:39.349Z",
     "dateUK": "2026-03-13",
     "rows": [
       {
         "Index": "CAC 40",
         "Source": "Euronext",
         "Total": 40,
-        "Up": 15,
-        "Down": 24,
-        "Unchanged": 1,
+        "Up": 11,
+        "Down": 29,
+        "Unchanged": 0,
         "Unknown": 0,
         "InputFile": "cac40-constituents-260313.json",
-        "Timestamp": "2026-03-13T11:57:17.985Z",
+        "Timestamp": "2026-03-13T17:07:39.349Z",
         "DateUK": "2026-03-13"
       },
       {
         "Index": "DAX",
         "Source": "MarketScreener",
         "Total": 40,
-        "Up": 19,
-        "Down": 21,
-        "Unchanged": 0,
+        "Up": 15,
+        "Down": 24,
+        "Unchanged": 1,
         "Unknown": 0,
         "InputFile": "dax_ms-constituents-260313.json",
-        "Timestamp": "2026-03-13T11:57:17.985Z",
+        "Timestamp": "2026-03-13T17:07:39.349Z",
         "DateUK": "2026-03-13"
       },
       {
         "Index": "FTSE 100",
         "Source": "LSE",
         "Total": 100,
-        "Up": 56,
-        "Down": 41,
+        "Up": 42,
+        "Down": 55,
         "Unchanged": 0,
         "Unknown": 3,
         "InputFile": "ftse100-lse-constituents-260313.json",
-        "Timestamp": "2026-03-13T11:57:17.985Z",
+        "Timestamp": "2026-03-13T17:07:39.349Z",
         "DateUK": "2026-03-13"
       },
       {
         "Index": "IBEX 35",
         "Source": "BME Exchange",
         "Total": 35,
-        "Up": 20,
-        "Down": 15,
+        "Up": 12,
+        "Down": 23,
         "Unchanged": 0,
         "Unknown": 0,
         "InputFile": "ibex35-constituents-260313.json",
-        "Timestamp": "2026-03-13T11:57:17.985Z",
+        "Timestamp": "2026-03-13T17:07:39.349Z",
         "DateUK": "2026-03-13"
       },
       {
@@ -64,7 +64,7 @@
         "Unchanged": 83,
         "Unknown": 0,
         "InputFile": "nasdaq-breadth-tv-260313.json",
-        "Timestamp": "2026-03-13T11:57:17.985Z",
+        "Timestamp": "2026-03-13T17:07:39.349Z",
         "DateUK": "2026-03-13"
       },
       {
@@ -76,7 +76,7 @@
         "Unchanged": 133,
         "Unknown": 0,
         "InputFile": "tsx-breadth-tv-260313.json",
-        "Timestamp": "2026-03-13T11:57:17.985Z",
+        "Timestamp": "2026-03-13T17:07:39.349Z",
         "DateUK": "2026-03-13"
       }
     ],
