@@ -1,15 +1,506 @@
 {
   "dataset": "ibex",
-  "current_date": "2026-03-14",
-  "previous_date": "2026-03-13",
+  "current_date": "2026-03-16",
+  "previous_date": "2026-03-14",
   "added": [],
   "removed": [],
-  "changed": [],
+  "changed": [
+    {
+      "entity_key": "ACS:SM",
+      "name": "ACS",
+      "fields": {
+        "price": {
+          "previous": 103.3,
+          "current": 106.1
+        },
+        "change_pct": {
+          "previous": -1.9,
+          "current": 2.71
+        }
+      }
+    },
+    {
+      "entity_key": "ACX:SM",
+      "name": "ACERINOX",
+      "fields": {
+        "price": {
+          "previous": 11.9,
+          "current": 11.99
+        },
+        "change_pct": {
+          "previous": -1.82,
+          "current": 0.76
+        }
+      }
+    },
+    {
+      "entity_key": "AENA:SM",
+      "name": "AENA",
+      "fields": {
+        "price": {
+          "previous": 25.48,
+          "current": 25.73
+        },
+        "change_pct": {
+          "previous": -0.2,
+          "current": 0.98
+        }
+      }
+    },
+    {
+      "entity_key": "AMS:SM",
+      "name": "AMADEUS",
+      "fields": {
+        "price": {
+          "previous": 52.22,
+          "current": 51.62
+        },
+        "change_pct": {
+          "previous": -1.43,
+          "current": -1.15
+        }
+      }
+    },
+    {
+      "entity_key": "ANA:SM",
+      "name": "ACCIONA",
+      "fields": {
+        "price": {
+          "previous": 216.4,
+          "current": 218.8
+        },
+        "change_pct": {
+          "previous": 0.28,
+          "current": 1.11
+        }
+      }
+    },
+    {
+      "entity_key": "ANE:SM",
+      "name": "ACCIONA ENER",
+      "fields": {
+        "price": {
+          "previous": 20.8,
+          "current": 20.98
+        },
+        "change_pct": {
+          "previous": 0.48,
+          "current": 0.87
+        }
+      }
+    },
+    {
+      "entity_key": "BBVA:SM",
+      "name": "BBVA",
+      "fields": {
+        "price": {
+          "previous": 18.01,
+          "current": 18.205
+        },
+        "change_pct": {
+          "previous": -0.96,
+          "current": 1.08
+        }
+      }
+    },
+    {
+      "entity_key": "BKT:SM",
+      "name": "BANKINTER",
+      "fields": {
+        "price": {
+          "previous": 13.045,
+          "current": 13.155
+        },
+        "change_pct": {
+          "previous": -1.29,
+          "current": 0.84
+        }
+      }
+    },
+    {
+      "entity_key": "CABK:SM",
+      "name": "CAIXABANK",
+      "fields": {
+        "price": {
+          "previous": 9.806,
+          "current": 9.882
+        },
+        "change_pct": {
+          "previous": -0.71,
+          "current": 0.78
+        }
+      }
+    },
+    {
+      "entity_key": "CLNX:SM",
+      "name": "CELLNEX",
+      "fields": {
+        "price": {
+          "previous": 29.39,
+          "current": 29.4
+        },
+        "change_pct": {
+          "previous": 2.16,
+          "current": 0.03
+        }
+      }
+    },
+    {
+      "entity_key": "COL:SM",
+      "name": "COLONIAL SFL",
+      "fields": {
+        "price": {
+          "previous": 5.09,
+          "current": 5.2
+        },
+        "change_pct": {
+          "previous": -1.55,
+          "current": 2.16
+        }
+      }
+    },
+    {
+      "entity_key": "ELE:SM",
+      "name": "ENDESA",
+      "fields": {
+        "price": {
+          "previous": 35.3,
+          "current": 35.47
+        },
+        "change_pct": {
+          "previous": 1.55,
+          "current": 0.48
+        }
+      }
+    },
+    {
+      "entity_key": "ENG:SM",
+      "name": "ENAGAS",
+      "fields": {
+        "price": {
+          "previous": 15.035,
+          "current": 15.105
+        },
+        "change_pct": {
+          "previous": 1.55,
+          "current": 0.47
+        }
+      }
+    },
+    {
+      "entity_key": "FDR:SM",
+      "name": "FLUIDRA",
+      "fields": {
+        "price": {
+          "previous": 20.12,
+          "current": 20.16
+        },
+        "change_pct": {
+          "previous": -1.95,
+          "current": 0.2
+        }
+      }
+    },
+    {
+      "entity_key": "FER:SM",
+      "name": "FERROVIAL SE",
+      "fields": {
+        "price": {
+          "previous": 55.28,
+          "current": 56.16
+        },
+        "change_pct": {
+          "previous": -1.18,
+          "current": 1.59
+        }
+      }
+    },
+    {
+      "entity_key": "GRF:SM",
+      "name": "GRIFOLS CL.A",
+      "fields": {
+        "price": {
+          "previous": 9.218,
+          "current": 9.372
+        },
+        "change_pct": {
+          "previous": -0.67,
+          "current": 1.67
+        }
+      }
+    },
+    {
+      "entity_key": "IAG:SM",
+      "name": "IAG",
+      "fields": {
+        "price": {
+          "previous": 4.096,
+          "current": 4.141
+        },
+        "change_pct": {
+          "previous": -2.22,
+          "current": 1.1
+        }
+      }
+    },
+    {
+      "entity_key": "IBE:SM",
+      "name": "IBERDROLA",
+      "fields": {
+        "price": {
+          "previous": 19.805,
+          "current": 19.875
+        },
+        "change_pct": {
+          "previous": 1.36,
+          "current": 0.35
+        }
+      }
+    },
+    {
+      "entity_key": "IDR:SM",
+      "name": "INDRA A",
+      "fields": {
+        "price": {
+          "previous": 59.0,
+          "current": 59.9
+        },
+        "change_pct": {
+          "previous": -1.58,
+          "current": 1.53
+        }
+      }
+    },
+    {
+      "entity_key": "ITX:SM",
+      "name": "INDITEX",
+      "fields": {
+        "price": {
+          "previous": 51.62,
+          "current": 51.66
+        },
+        "change_pct": {
+          "previous": -1.83,
+          "current": 0.08
+        }
+      }
+    },
+    {
+      "entity_key": "LOG:SM",
+      "name": "LOGISTA",
+      "fields": {
+        "price": {
+          "previous": 30.86,
+          "current": 31.16
+        },
+        "change_pct": {
+          "previous": 0.92,
+          "current": 0.97
+        }
+      }
+    },
+    {
+      "entity_key": "MAP:SM",
+      "name": "MAPFRE",
+      "fields": {
+        "price": {
+          "previous": 3.664,
+          "current": 3.694
+        },
+        "change_pct": {
+          "previous": -0.05,
+          "current": 0.82
+        }
+      }
+    },
+    {
+      "entity_key": "MRL:SM",
+      "name": "MERLIN",
+      "fields": {
+        "price": {
+          "previous": 13.41,
+          "current": 14.0
+        },
+        "change_pct": {
+          "previous": -1.61,
+          "current": 4.4
+        }
+      }
+    },
+    {
+      "entity_key": "MTS:SM",
+      "name": "ARCELORMIT.",
+      "fields": {
+        "price": {
+          "previous": 44.74,
+          "current": 45.26
+        },
+        "change_pct": {
+          "previous": -4.28,
+          "current": 1.16
+        }
+      }
+    },
+    {
+      "entity_key": "NTGY:SM",
+      "name": "NATURGY",
+      "fields": {
+        "price": {
+          "previous": 25.2,
+          "current": 25.58
+        },
+        "change_pct": {
+          "previous": 0.56,
+          "current": 1.51
+        }
+      }
+    },
+    {
+      "entity_key": "PUIG:SM",
+      "name": "PUIG BRANDS",
+      "fields": {
+        "price": {
+          "previous": 14.7,
+          "current": 15.11
+        },
+        "change_pct": {
+          "previous": -0.81,
+          "current": 2.79
+        }
+      }
+    },
+    {
+      "entity_key": "RED:SM",
+      "name": "REDEIA",
+      "fields": {
+        "price": {
+          "previous": 15.04,
+          "current": 15.06
+        },
+        "change_pct": {
+          "previous": 1.48,
+          "current": 0.13
+        }
+      }
+    },
+    {
+      "entity_key": "REP:SM",
+      "name": "REPSOL",
+      "fields": {
+        "price": {
+          "previous": 23.0,
+          "current": 23.35
+        },
+        "change_pct": {
+          "previous": 3.28,
+          "current": 1.52
+        }
+      }
+    },
+    {
+      "entity_key": "ROVI:SM",
+      "name": "ROVI",
+      "fields": {
+        "price": {
+          "previous": 79.0,
+          "current": 80.2
+        },
+        "change_pct": {
+          "previous": -1.25,
+          "current": 1.52
+        }
+      }
+    },
+    {
+      "entity_key": "SAB:SM",
+      "name": "BA.SABADELL",
+      "fields": {
+        "price": {
+          "previous": 3.024,
+          "current": 3.054
+        },
+        "change_pct": {
+          "previous": -0.46,
+          "current": 0.99
+        }
+      }
+    },
+    {
+      "entity_key": "SAN:SM",
+      "name": "B.SANTANDER",
+      "fields": {
+        "price": {
+          "previous": 9.536,
+          "current": 9.588
+        },
+        "change_pct": {
+          "previous": -1.15,
+          "current": 0.55
+        }
+      }
+    },
+    {
+      "entity_key": "SCYR:SM",
+      "name": "SACYR",
+      "fields": {
+        "price": {
+          "previous": 4.11,
+          "current": 4.164
+        },
+        "change_pct": {
+          "previous": -1.67,
+          "current": 1.31
+        }
+      }
+    },
+    {
+      "entity_key": "SLR:SM",
+      "name": "SOLARIA",
+      "fields": {
+        "price": {
+          "previous": 20.86,
+          "current": 21.64
+        },
+        "change_pct": {
+          "previous": 1.61,
+          "current": 3.74
+        }
+      }
+    },
+    {
+      "entity_key": "TEF:SM",
+      "name": "TELEFONICA",
+      "fields": {
+        "price": {
+          "previous": 3.589,
+          "current": 3.573
+        },
+        "change_pct": {
+          "previous": 1.13,
+          "current": -0.45
+        }
+      }
+    },
+    {
+      "entity_key": "UNI:SM",
+      "name": "UNICAJA",
+      "fields": {
+        "price": {
+          "previous": 2.446,
+          "current": 2.454
+        },
+        "change_pct": {
+          "previous": -0.89,
+          "current": 0.33
+        }
+      }
+    }
+  ],
   "summary": {
     "added_count": 0,
     "removed_count": 0,
     "row_count_delta": 0,
     "common_count": 35,
-    "changed_count": 0
+    "changed_count": 35
   }
 }
