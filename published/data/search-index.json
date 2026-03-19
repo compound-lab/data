@@ -2000,6 +2000,16 @@
     "security_path": "/data/securities/dg-fp.json"
   },
   {
+    "entity_key": "DGE:LN",
+    "symbol": "DGE",
+    "name": "DIAGEO PLC ORD 28 101/108P",
+    "bbg_ticker": "DGE:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/dge-ln.json"
+  },
+  {
     "entity_key": "DGX:US",
     "symbol": "DGX",
     "name": "Quest Diagnostics Inc",
@@ -3448,6 +3458,16 @@
       "ibex"
     ],
     "security_path": "/data/securities/iag-sm.json"
+  },
+  {
+    "entity_key": "IAG:LN",
+    "symbol": "IAG",
+    "name": "INTL CONSOLIDATED AIRLINES GROUP SA ORD EUR0.10 (CDI)",
+    "bbg_ticker": "IAG:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/iag-ln.json"
   },
   {
     "entity_key": "IBE:SM",
