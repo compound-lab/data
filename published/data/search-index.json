@@ -1010,16 +1010,6 @@
     "security_path": "/data/securities/blk-us.json"
   },
   {
-    "entity_key": "BLND:LN",
-    "symbol": "BLND",
-    "name": "BRITISH LAND CO PLC ORD 25P",
-    "bbg_ticker": "BLND:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/blnd-ln.json"
-  },
-  {
     "entity_key": "BMW:GR",
     "symbol": "BMW",
     "name": "BMW AG",
@@ -6108,6 +6098,16 @@
       "sp500"
     ],
     "security_path": "/data/securities/sre-us.json"
+  },
+  {
+    "entity_key": "SSE:LN",
+    "symbol": "SSE",
+    "name": "SSE PLC ORD 50P",
+    "bbg_ticker": "SSE:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/sse-ln.json"
   },
   {
     "entity_key": "STAN:LN",
