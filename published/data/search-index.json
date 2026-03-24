@@ -720,6 +720,16 @@
     "security_path": "/data/securities/axp-us.json"
   },
   {
+    "entity_key": "AZN:LN",
+    "symbol": "AZN",
+    "name": "ASTRAZENECA PLC ORD SHS $0.25",
+    "bbg_ticker": "AZN:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/azn-ln.json"
+  },
+  {
     "entity_key": "AZO:US",
     "symbol": "AZO",
     "name": "Autozone",
@@ -1098,16 +1108,6 @@
       "sp500"
     ],
     "security_path": "/data/securities/br-us.json"
-  },
-  {
-    "entity_key": "BRBY:LN",
-    "symbol": "BRBY",
-    "name": "BURBERRY GROUP PLC ORD 0.05P",
-    "bbg_ticker": "BRBY:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/brby-ln.json"
   },
   {
     "entity_key": "BRK.B:US",
@@ -1708,16 +1708,6 @@
       "sp500"
     ],
     "security_path": "/data/securities/cpt-us.json"
-  },
-  {
-    "entity_key": "CRDA:LN",
-    "symbol": "CRDA",
-    "name": "CRODA INTERNATIONAL PLC ORD 10.609756P",
-    "bbg_ticker": "CRDA:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/crda-ln.json"
   },
   {
     "entity_key": "CRH:US",
@@ -3420,16 +3410,6 @@
     "security_path": "/data/securities/hum-us.json"
   },
   {
-    "entity_key": "HWDN:LN",
-    "symbol": "HWDN",
-    "name": "HOWDEN JOINERY GROUP PLC ORD 10P",
-    "bbg_ticker": "HWDN:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/hwdn-ln.json"
-  },
-  {
     "entity_key": "HWM:US",
     "symbol": "HWM",
     "name": "Howmet Aerospace Inc",
@@ -3498,16 +3478,6 @@
       "sp500"
     ],
     "security_path": "/data/securities/ice-us.json"
-  },
-  {
-    "entity_key": "ICG:LN",
-    "symbol": "ICG",
-    "name": "ICG PLC ORD 26 1/4P",
-    "bbg_ticker": "ICG:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/icg-ln.json"
   },
   {
     "entity_key": "IDR:SM",
@@ -3598,16 +3568,6 @@
       "ftse"
     ],
     "security_path": "/data/securities/imb-ln.json"
-  },
-  {
-    "entity_key": "IMI:LN",
-    "symbol": "IMI",
-    "name": "IMI PLC ORD 28 4/7P",
-    "bbg_ticker": "IMI:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/imi-ln.json"
   },
   {
     "entity_key": "INCY:US",
@@ -4020,16 +3980,6 @@
     "security_path": "/data/securities/len-us.json"
   },
   {
-    "entity_key": "LGEN:LN",
-    "symbol": "LGEN",
-    "name": "LEGAL & GENERAL GROUP PLC ORD 2 1/2P",
-    "bbg_ticker": "LGEN:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/lgen-ln.json"
-  },
-  {
     "entity_key": "LH:US",
     "symbol": "LH",
     "name": "Laboratory Corp of America Holdings",
@@ -4168,16 +4118,6 @@
       "sp500"
     ],
     "security_path": "/data/securities/lrcx-us.json"
-  },
-  {
-    "entity_key": "LSEG:LN",
-    "symbol": "LSEG",
-    "name": "LONDON STOCK EXCHANGE GROUP PLC ORD SHS 6 79/86P",
-    "bbg_ticker": "LSEG:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/lseg-ln.json"
   },
   {
     "entity_key": "LULU:US",
@@ -5560,16 +5500,6 @@
     "security_path": "/data/securities/rjf-us.json"
   },
   {
-    "entity_key": "RKT:LN",
-    "symbol": "RKT",
-    "name": "RECKITT BENCKISER GROUP PLC ORD 10 5/12P",
-    "bbg_ticker": "RKT:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/rkt-ln.json"
-  },
-  {
     "entity_key": "RL:US",
     "symbol": "RL",
     "name": "Ralph Lauren Corp",
@@ -6070,16 +6000,6 @@
     "security_path": "/data/securities/spgi-us.json"
   },
   {
-    "entity_key": "SPX:LN",
-    "symbol": "SPX",
-    "name": "SPIRAX GROUP PLC ORD 26 12/13P",
-    "bbg_ticker": "SPX:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/spx-ln.json"
-  },
-  {
     "entity_key": "SRE:US",
     "symbol": "SRE",
     "name": "Sempra",
@@ -6118,16 +6038,6 @@
       "sp500"
     ],
     "security_path": "/data/securities/ste-us.json"
-  },
-  {
-    "entity_key": "STJ:LN",
-    "symbol": "STJ",
-    "name": "ST.JAMES'S PLACE PLC ORD 15P",
-    "bbg_ticker": "STJ:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/stj-ln.json"
   },
   {
     "entity_key": "STLAP:FP",
@@ -6478,6 +6388,16 @@
       "sp500"
     ],
     "security_path": "/data/securities/trv-us.json"
+  },
+  {
+    "entity_key": "TSCO:LN",
+    "symbol": "TSCO",
+    "name": "TESCO PLC ORD 6 1/3P",
+    "bbg_ticker": "TSCO:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/tsco-ln.json"
   },
   {
     "entity_key": "TSCO:US",
