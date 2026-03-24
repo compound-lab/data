@@ -720,16 +720,6 @@
     "security_path": "/data/securities/axp-us.json"
   },
   {
-    "entity_key": "AZN:LN",
-    "symbol": "AZN",
-    "name": "ASTRAZENECA PLC ORD SHS $0.25",
-    "bbg_ticker": "AZN:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/azn-ln.json"
-  },
-  {
     "entity_key": "AZO:US",
     "symbol": "AZO",
     "name": "Autozone",
@@ -928,6 +918,16 @@
       "sp500"
     ],
     "security_path": "/data/securities/bg-us.json"
+  },
+  {
+    "entity_key": "BGEO:LN",
+    "symbol": "BGEO",
+    "name": "LION FINANCE GROUP PLC ORD 1P",
+    "bbg_ticker": "BGEO:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/bgeo-ln.json"
   },
   {
     "entity_key": "BIIB:US",
@@ -2630,16 +2630,6 @@
     "security_path": "/data/securities/exr-us.json"
   },
   {
-    "entity_key": "EZJ:LN",
-    "symbol": "EZJ",
-    "name": "EASYJET PLC ORD 27 2/7P",
-    "bbg_ticker": "EZJ:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/ezj-ln.json"
-  },
-  {
     "entity_key": "F:US",
     "symbol": "F",
     "name": "Ford Motor Company",
@@ -3250,16 +3240,6 @@
     "security_path": "/data/securities/hii-us.json"
   },
   {
-    "entity_key": "HIK:LN",
-    "symbol": "HIK",
-    "name": "HIKMA PHARMACEUTICALS PLC ORD SHS 10P",
-    "bbg_ticker": "HIK:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/hik-ln.json"
-  },
-  {
     "entity_key": "HLMA:LN",
     "symbol": "HLMA",
     "name": "HALMA PLC ORD 10P",
@@ -3578,6 +3558,16 @@
       "dax"
     ],
     "security_path": "/data/securities/ifx-gr.json"
+  },
+  {
+    "entity_key": "IGG:LN",
+    "symbol": "IGG",
+    "name": "IG GROUP HOLDINGS PLC ORD 0.005P",
+    "bbg_ticker": "IGG:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/igg-ln.json"
   },
   {
     "entity_key": "IHG:LN",
@@ -6488,16 +6478,6 @@
       "sp500"
     ],
     "security_path": "/data/securities/trv-us.json"
-  },
-  {
-    "entity_key": "TSCO:LN",
-    "symbol": "TSCO",
-    "name": "TESCO PLC ORD 6 1/3P",
-    "bbg_ticker": "TSCO:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/tsco-ln.json"
   },
   {
     "entity_key": "TSCO:US",
