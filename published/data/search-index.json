@@ -5700,6 +5700,16 @@
     "security_path": "/data/securities/rsg-us.json"
   },
   {
+    "entity_key": "RTO:LN",
+    "symbol": "RTO",
+    "name": "RENTOKIL INITIAL PLC ORD 1P",
+    "bbg_ticker": "RTO:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/rto-ln.json"
+  },
+  {
     "entity_key": "RTX:US",
     "symbol": "RTX",
     "name": "Rtx Corp",
@@ -5800,6 +5810,16 @@
     "security_path": "/data/securities/sbac-us.json"
   },
   {
+    "entity_key": "SBRY:LN",
+    "symbol": "SBRY",
+    "name": "SAINSBURY(J) PLC ORD 28 4/7P",
+    "bbg_ticker": "SBRY:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/sbry-ln.json"
+  },
+  {
     "entity_key": "SBUX:US",
     "symbol": "SBUX",
     "name": "Starbucks Corp",
@@ -5870,14 +5890,14 @@
     "security_path": "/data/securities/sgo-fp.json"
   },
   {
-    "entity_key": "SHEL:LN",
-    "symbol": "SHEL",
-    "name": "SHELL PLC ORD EUR0.07",
-    "bbg_ticker": "SHEL:LN",
+    "entity_key": "SGRO:LN",
+    "symbol": "SGRO",
+    "name": "SEGRO PLC ORD 10P",
+    "bbg_ticker": "SGRO:LN",
     "memberships": [
       "ftse"
     ],
-    "security_path": "/data/securities/shel-ln.json"
+    "security_path": "/data/securities/sgro-ln.json"
   },
   {
     "entity_key": "SHL:GR",
