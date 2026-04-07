@@ -840,6 +840,16 @@
     "security_path": "/data/securities/bayn-gr.json"
   },
   {
+    "entity_key": "BBOX:LN",
+    "symbol": "BBOX",
+    "name": "TRITAX BIG BOX REIT PLC ORD 1P",
+    "bbg_ticker": "BBOX:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/bbox-ln.json"
+  },
+  {
     "entity_key": "BBVA:SM",
     "symbol": "BBVA",
     "name": "BBVA",
@@ -3720,6 +3730,16 @@
     "security_path": "/data/securities/it-us.json"
   },
   {
+    "entity_key": "ITRK:LN",
+    "symbol": "ITRK",
+    "name": "INTERTEK GROUP PLC ORD 1P",
+    "bbg_ticker": "ITRK:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/itrk-ln.json"
+  },
+  {
     "entity_key": "ITW:US",
     "symbol": "ITW",
     "name": "Illinois Tool Works Inc",
@@ -5838,16 +5858,6 @@
       "ftse"
     ],
     "security_path": "/data/securities/sdlf-ln.json"
-  },
-  {
-    "entity_key": "SDR:LN",
-    "symbol": "SDR",
-    "name": "SCHRODERS PLC ORD 20P",
-    "bbg_ticker": "SDR:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/sdr-ln.json"
   },
   {
     "entity_key": "SGE:LN",
