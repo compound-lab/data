@@ -3390,6 +3390,16 @@
     "security_path": "/data/securities/hst-us.json"
   },
   {
+    "entity_key": "HSX:LN",
+    "symbol": "HSX",
+    "name": "HISCOX LD ORD 6.5P (DI)",
+    "bbg_ticker": "HSX:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/hsx-ln.json"
+  },
+  {
     "entity_key": "HSY:US",
     "symbol": "HSY",
     "name": "Hershey Foods Corp",
@@ -4920,6 +4930,16 @@
     "security_path": "/data/securities/nxpi-us.json"
   },
   {
+    "entity_key": "NXT:LN",
+    "symbol": "NXT",
+    "name": "NEXT PLC ORD 10P",
+    "bbg_ticker": "NXT:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/nxt-ln.json"
+  },
+  {
     "entity_key": "O:US",
     "symbol": "O",
     "name": "Realty Income Corp",
@@ -5830,6 +5850,16 @@
     "security_path": "/data/securities/scyr-sm.json"
   },
   {
+    "entity_key": "SDLF:LN",
+    "symbol": "SDLF",
+    "name": "STANDARD LIFE PLC ORD 10P",
+    "bbg_ticker": "SDLF:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/sdlf-ln.json"
+  },
+  {
     "entity_key": "SDR:LN",
     "symbol": "SDR",
     "name": "SCHRODERS PLC ORD 20P",
@@ -6078,16 +6108,6 @@
       "ftse"
     ],
     "security_path": "/data/securities/sse-ln.json"
-  },
-  {
-    "entity_key": "STAN:LN",
-    "symbol": "STAN",
-    "name": "STANDARD CHARTERED PLC ORD USD0.50",
-    "bbg_ticker": "STAN:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/stan-ln.json"
   },
   {
     "entity_key": "STE:US",
