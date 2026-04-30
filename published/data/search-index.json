@@ -4450,16 +4450,6 @@
     "security_path": "/data/securities/mmm-us.json"
   },
   {
-    "entity_key": "MNDI:LN",
-    "symbol": "MNDI",
-    "name": "MONDI PLC ORD EUR 0.22",
-    "bbg_ticker": "MNDI:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/mndi-ln.json"
-  },
-  {
     "entity_key": "MNG:LN",
     "symbol": "MNG",
     "name": "M&G PLC ORD £0.05",
@@ -5870,6 +5860,16 @@
     "security_path": "/data/securities/sdr-ln.json"
   },
   {
+    "entity_key": "SGE:LN",
+    "symbol": "SGE",
+    "name": "THE SAGE GROUP PLC ORD 1 4/77P",
+    "bbg_ticker": "SGE:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/sge-ln.json"
+  },
+  {
     "entity_key": "SGO:FP",
     "symbol": "SGO",
     "name": "SAINT GOBAIN",
@@ -6788,16 +6788,6 @@
       "dax"
     ],
     "security_path": "/data/securities/vna-gr.json"
-  },
-  {
-    "entity_key": "VOD:LN",
-    "symbol": "VOD",
-    "name": "VODAFONE GROUP PLC ORD USD0.20 20/21",
-    "bbg_ticker": "VOD:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/vod-ln.json"
   },
   {
     "entity_key": "VOW3:GR",
