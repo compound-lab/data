@@ -1,7 +1,7 @@
 {
   "dataset": "dax",
-  "current_date": "2026-05-01",
-  "previous_date": "2026-04-30",
+  "current_date": "2026-05-04",
+  "previous_date": "2026-05-01",
   "added": [],
   "removed": [],
   "changed": [
@@ -9,9 +9,13 @@
       "entity_key": "ADS:GR",
       "name": "ADIDAS AG",
       "fields": {
+        "change_pct": {
+          "previous": -1.27,
+          "current": -4.17
+        },
         "market_cap_m": {
-          "previous": 30670.0,
-          "current": 30370.0
+          "previous": 30370.0,
+          "current": 30460.0
         }
       }
     },
@@ -19,9 +23,9 @@
       "entity_key": "AIR:GR",
       "name": "AIRBUS SE",
       "fields": {
-        "market_cap_m": {
-          "previous": 161000.0,
-          "current": 162000.0
+        "change_pct": {
+          "previous": 0.15,
+          "current": 0.74
         }
       }
     },
@@ -29,9 +33,9 @@
       "entity_key": "ALV:GR",
       "name": "ALLIANZ SE",
       "fields": {
-        "market_cap_m": {
-          "previous": 170000.0,
-          "current": 173000.0
+        "change_pct": {
+          "previous": 1.07,
+          "current": -3.01
         }
       }
     },
@@ -39,9 +43,13 @@
       "entity_key": "BAS:GR",
       "name": "BASF SE",
       "fields": {
+        "change_pct": {
+          "previous": 1.28,
+          "current": -3.45
+        },
         "market_cap_m": {
-          "previous": 55200.0,
-          "current": 56070.0
+          "previous": 56070.0,
+          "current": 56230.0
         }
       }
     },
@@ -49,9 +57,13 @@
       "entity_key": "BAYN:GR",
       "name": "BAYER AG",
       "fields": {
+        "change_pct": {
+          "previous": 4.39,
+          "current": -1.71
+        },
         "market_cap_m": {
-          "previous": 41880.0,
-          "current": 43850.0
+          "previous": 43850.0,
+          "current": 43980.0
         }
       }
     },
@@ -59,9 +71,13 @@
       "entity_key": "BEI:GR",
       "name": "BEIERSDORF",
       "fields": {
+        "change_pct": {
+          "previous": 0.6,
+          "current": -0.28
+        },
         "market_cap_m": {
-          "previous": 17930.0,
-          "current": 18090.0
+          "previous": 18090.0,
+          "current": 18150.0
         }
       }
     },
@@ -69,9 +85,13 @@
       "entity_key": "BMW:GR",
       "name": "BMW AG",
       "fields": {
+        "change_pct": {
+          "previous": 0.46,
+          "current": -2.44
+        },
         "market_cap_m": {
-          "previous": 55090.0,
-          "current": 55480.0
+          "previous": 55480.0,
+          "current": 55640.0
         }
       }
     },
@@ -79,9 +99,13 @@
       "entity_key": "BNR:GR",
       "name": "BRENNTAG SE",
       "fields": {
+        "change_pct": {
+          "previous": 3.95,
+          "current": 1.19
+        },
         "market_cap_m": {
-          "previous": 10090.0,
-          "current": 10520.0
+          "previous": 10520.0,
+          "current": 10550.0
         }
       }
     },
@@ -89,9 +113,13 @@
       "entity_key": "CBK:GR",
       "name": "COMMERZBANK AG",
       "fields": {
+        "change_pct": {
+          "previous": -0.68,
+          "current": -3.38
+        },
         "market_cap_m": {
-          "previous": 44810.0,
-          "current": 44650.0
+          "previous": 44650.0,
+          "current": 44770.0
         }
       }
     },
@@ -99,9 +127,13 @@
       "entity_key": "CON:GR",
       "name": "CONTINENTAL AG",
       "fields": {
+        "change_pct": {
+          "previous": 1.07,
+          "current": -4.64
+        },
         "market_cap_m": {
-          "previous": 14850.0,
-          "current": 15060.0
+          "previous": 15060.0,
+          "current": 15100.0
         }
       }
     },
@@ -109,9 +141,13 @@
       "entity_key": "DB1:GR",
       "name": "DEUTSCHE B&Ouml;RSE AG",
       "fields": {
+        "change_pct": {
+          "previous": -1.32,
+          "current": 0.0
+        },
         "market_cap_m": {
-          "previous": 56460.0,
-          "current": 55890.0
+          "previous": 55890.0,
+          "current": 56050.0
         }
       }
     },
@@ -119,9 +155,13 @@
       "entity_key": "DBK:GR",
       "name": "DEUTSCHE BANK AG",
       "fields": {
+        "change_pct": {
+          "previous": -1.1,
+          "current": -2.08
+        },
         "market_cap_m": {
-          "previous": 58930.0,
-          "current": 58460.0
+          "previous": 58460.0,
+          "current": 58620.0
         }
       }
     },
@@ -129,9 +169,13 @@
       "entity_key": "DHL:GR",
       "name": "DHL GROUP",
       "fields": {
+        "change_pct": {
+          "previous": 7.51,
+          "current": -7.28
+        },
         "market_cap_m": {
-          "previous": 60900.0,
-          "current": 65670.0
+          "previous": 65670.0,
+          "current": 65860.0
         }
       }
     },
@@ -139,9 +183,9 @@
       "entity_key": "DTE:GR",
       "name": "DEUTSCHE TELEKOM AG",
       "fields": {
-        "market_cap_m": {
-          "previous": 154000.0,
-          "current": 156000.0
+        "change_pct": {
+          "previous": 0.92,
+          "current": -2.03
         }
       }
     },
@@ -149,9 +193,13 @@
       "entity_key": "DTG:GR",
       "name": "DAIMLER TRUCK HOLDING AG",
       "fields": {
+        "change_pct": {
+          "previous": 2.12,
+          "current": -1.82
+        },
         "market_cap_m": {
-          "previous": 37550.0,
-          "current": 38460.0
+          "previous": 38460.0,
+          "current": 38570.0
         }
       }
     },
@@ -159,9 +207,13 @@
       "entity_key": "ENR:GR",
       "name": "SIEMENS ENERGY AG",
       "fields": {
+        "change_pct": {
+          "previous": 3.04,
+          "current": -2.09
+        },
         "market_cap_m": {
-          "previous": 175000.0,
-          "current": 181000.0
+          "previous": 181000.0,
+          "current": 182000.0
         }
       }
     },
@@ -169,9 +221,13 @@
       "entity_key": "EOAN:GR",
       "name": "EON SE",
       "fields": {
+        "change_pct": {
+          "previous": 2.58,
+          "current": -2.96
+        },
         "market_cap_m": {
-          "previous": 56310.0,
-          "current": 57940.0
+          "previous": 57940.0,
+          "current": 58100.0
         }
       }
     },
@@ -179,9 +235,13 @@
       "entity_key": "FME:GR",
       "name": "FRESENIUS MEDICAL CARE AG",
       "fields": {
+        "change_pct": {
+          "previous": 1.42,
+          "current": 0.67
+        },
         "market_cap_m": {
-          "previous": 12000.0,
-          "current": 12210.0
+          "previous": 12210.0,
+          "current": 12240.0
         }
       }
     },
@@ -189,9 +249,13 @@
       "entity_key": "FRE:GR",
       "name": "FRESENIUS SE & CO. KGAA",
       "fields": {
+        "change_pct": {
+          "previous": -0.36,
+          "current": -1.07
+        },
         "market_cap_m": {
-          "previous": 27270.0,
-          "current": 27260.0
+          "previous": 27260.0,
+          "current": 27330.0
         }
       }
     },
@@ -199,9 +263,13 @@
       "entity_key": "G1A:GR",
       "name": "GEA GROUP AG",
       "fields": {
+        "change_pct": {
+          "previous": -1.44,
+          "current": -1.03
+        },
         "market_cap_m": {
-          "previous": 11270.0,
-          "current": 11140.0
+          "previous": 11140.0,
+          "current": 11180.0
         }
       }
     },
@@ -209,9 +277,13 @@
       "entity_key": "G24:GR",
       "name": "SCOUT24 SE",
       "fields": {
+        "change_pct": {
+          "previous": -1.39,
+          "current": -2.11
+        },
         "market_cap_m": {
-          "previous": 5910.0,
-          "current": 5850.0
+          "previous": 5850.0,
+          "current": 5860.0
         }
       }
     },
@@ -219,9 +291,13 @@
       "entity_key": "HEI:GR",
       "name": "HEIDELBERG MATERIALS AG",
       "fields": {
+        "change_pct": {
+          "previous": 1.15,
+          "current": -1.46
+        },
         "market_cap_m": {
-          "previous": 38410.0,
-          "current": 38970.0
+          "previous": 38970.0,
+          "current": 39080.0
         }
       }
     },
@@ -230,12 +306,12 @@
       "name": "HENKEL AG & CO. KGAA",
       "fields": {
         "change_pct": {
-          "previous": 0.0,
-          "current": null
+          "previous": null,
+          "current": -0.97
         },
         "market_cap_m": {
-          "previous": 28420.0,
-          "current": 28510.0
+          "previous": 28510.0,
+          "current": 28590.0
         }
       }
     },
@@ -243,9 +319,13 @@
       "entity_key": "HNR1:GR",
       "name": "HANNOVER RE",
       "fields": {
+        "change_pct": {
+          "previous": 0.55,
+          "current": -0.78
+        },
         "market_cap_m": {
-          "previous": 36140.0,
-          "current": 36450.0
+          "previous": 36450.0,
+          "current": 36550.0
         }
       }
     },
@@ -253,9 +333,13 @@
       "entity_key": "IFX:GR",
       "name": "INFINEON TECHNOLOGIES AG",
       "fields": {
+        "change_pct": {
+          "previous": 2.57,
+          "current": -0.56
+        },
         "market_cap_m": {
-          "previous": 84540.0,
-          "current": 86980.0
+          "previous": 86980.0,
+          "current": 87220.0
         }
       }
     },
@@ -263,9 +347,13 @@
       "entity_key": "MBG:GR",
       "name": "MERCEDES-BENZ GROUP AG",
       "fields": {
+        "change_pct": {
+          "previous": 1.7,
+          "current": -3.35
+        },
         "market_cap_m": {
-          "previous": 53810.0,
-          "current": 54890.0
+          "previous": 54890.0,
+          "current": 55050.0
         }
       }
     },
@@ -273,9 +361,13 @@
       "entity_key": "MRK:GR",
       "name": "MERCK KGAA",
       "fields": {
+        "change_pct": {
+          "previous": 1.71,
+          "current": -0.59
+        },
         "market_cap_m": {
-          "previous": 55020.0,
-          "current": 56130.0
+          "previous": 56130.0,
+          "current": 56290.0
         }
       }
     },
@@ -283,9 +375,13 @@
       "entity_key": "MTX:GR",
       "name": "MTU AERO ENGINES AG",
       "fields": {
+        "change_pct": {
+          "previous": 2.79,
+          "current": -3.06
+        },
         "market_cap_m": {
-          "previous": 17830.0,
-          "current": 18380.0
+          "previous": 18380.0,
+          "current": 18430.0
         }
       }
     },
@@ -293,9 +389,13 @@
       "entity_key": "MUV2:GR",
       "name": "MUNICH RE",
       "fields": {
+        "change_pct": {
+          "previous": -3.0,
+          "current": -0.47
+        },
         "market_cap_m": {
-          "previous": 78200.0,
-          "current": 76090.0
+          "previous": 76090.0,
+          "current": 76300.0
         }
       }
     },
@@ -303,9 +403,13 @@
       "entity_key": "PAH3:GR",
       "name": "PORSCHE AUTOMOBIL HOLDING SE",
       "fields": {
+        "change_pct": {
+          "previous": 0.68,
+          "current": -0.94
+        },
         "market_cap_m": {
-          "previous": 11020.0,
-          "current": 11130.0
+          "previous": 11130.0,
+          "current": 11160.0
         }
       }
     },
@@ -314,12 +418,12 @@
       "name": "QIAGEN N.V.",
       "fields": {
         "change_pct": {
-          "previous": 1.04,
-          "current": -1.1
+          "previous": -1.1,
+          "current": -1.02
         },
         "market_cap_m": {
-          "previous": 6950.0,
-          "current": 7150.0
+          "previous": 7150.0,
+          "current": 7080.0
         }
       }
     },
@@ -327,9 +431,13 @@
       "entity_key": "RHM:GR",
       "name": "RHEINMETALL AG",
       "fields": {
+        "change_pct": {
+          "previous": 1.33,
+          "current": 2.39
+        },
         "market_cap_m": {
-          "previous": 72600.0,
-          "current": 73790.0
+          "previous": 73790.0,
+          "current": 74000.0
         }
       }
     },
@@ -337,9 +445,27 @@
       "entity_key": "RWE:GR",
       "name": "RWE AG",
       "fields": {
+        "change_pct": {
+          "previous": 2.21,
+          "current": -3.52
+        },
         "market_cap_m": {
-          "previous": 50200.0,
-          "current": 51470.0
+          "previous": 51470.0,
+          "current": 51610.0
+        }
+      }
+    },
+    {
+      "entity_key": "SAP:GR",
+      "name": "SAP SE",
+      "fields": {
+        "change_pct": {
+          "previous": -0.26,
+          "current": 1.76
+        },
+        "market_cap_m": {
+          "previous": 199000.0,
+          "current": 200000.0
         }
       }
     },
@@ -347,9 +473,13 @@
       "entity_key": "SHL:GR",
       "name": "SIEMENS HEALTHINEERS AG",
       "fields": {
+        "change_pct": {
+          "previous": 2.74,
+          "current": -0.03
+        },
         "market_cap_m": {
-          "previous": 44300.0,
-          "current": 45660.0
+          "previous": 45660.0,
+          "current": 45790.0
         }
       }
     },
@@ -357,9 +487,9 @@
       "entity_key": "SIE:GR",
       "name": "SIEMENS AG",
       "fields": {
-        "market_cap_m": {
-          "previous": 223000.0,
-          "current": 229000.0
+        "change_pct": {
+          "previous": 2.35,
+          "current": -1.19
         }
       }
     },
@@ -367,9 +497,13 @@
       "entity_key": "SY1:GR",
       "name": "SYMRISE AG",
       "fields": {
+        "change_pct": {
+          "previous": -0.58,
+          "current": -0.88
+        },
         "market_cap_m": {
-          "previous": 12220.0,
-          "current": 12190.0
+          "previous": 12190.0,
+          "current": 12220.0
         }
       }
     },
@@ -377,9 +511,13 @@
       "entity_key": "VNA:GR",
       "name": "VONOVIA SE",
       "fields": {
+        "change_pct": {
+          "previous": 0.88,
+          "current": -2.53
+        },
         "market_cap_m": {
-          "previous": 22530.0,
-          "current": 22800.0
+          "previous": 22800.0,
+          "current": 22860.0
         }
       }
     },
@@ -387,9 +525,13 @@
       "entity_key": "VOW3:GR",
       "name": "VOLKSWAGEN AG",
       "fields": {
+        "change_pct": {
+          "previous": 0.87,
+          "current": -2.81
+        },
         "market_cap_m": {
-          "previous": 50950.0,
-          "current": 51300.0
+          "previous": 51300.0,
+          "current": 51450.0
         }
       }
     },
@@ -397,9 +539,13 @@
       "entity_key": "ZAL:GR",
       "name": "ZALANDO SE",
       "fields": {
+        "change_pct": {
+          "previous": -0.61,
+          "current": -0.52
+        },
         "market_cap_m": {
-          "previous": 6140.0,
-          "current": 6120.0
+          "previous": 6120.0,
+          "current": 6140.0
         }
       }
     }
@@ -409,6 +555,6 @@
     "removed_count": 0,
     "row_count_delta": 0,
     "common_count": 40,
-    "changed_count": 39
+    "changed_count": 40
   }
 }

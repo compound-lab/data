@@ -10,6 +10,16 @@
     "security_path": "/data/securities/airbus-se.json"
   },
   {
+    "entity_key": "FERROVIAL NV",
+    "symbol": null,
+    "name": "FERROVIAL NV",
+    "bbg_ticker": null,
+    "memberships": [
+      "ibex"
+    ],
+    "security_path": "/data/securities/ferrovial-nv.json"
+  },
+  {
     "entity_key": "SCHNEIDER ELECTRIC SE",
     "symbol": null,
     "name": "SCHNEIDER ELECTRIC SE",
@@ -2738,16 +2748,6 @@
       "sp500"
     ],
     "security_path": "/data/securities/fe-us.json"
-  },
-  {
-    "entity_key": "FER:SM",
-    "symbol": "FER",
-    "name": "FERROVIAL SE",
-    "bbg_ticker": "FER:SM",
-    "memberships": [
-      "ibex"
-    ],
-    "security_path": "/data/securities/fer-sm.json"
   },
   {
     "entity_key": "FFIV:US",
