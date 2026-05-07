@@ -2,21 +2,21 @@
   "dataset": "index_breadth",
   "kind": "raw",
   "as_of_date": "2026-05-07",
-  "as_of_utc": "2026-05-07T12:10:57.631Z",
+  "as_of_utc": "2026-05-07T15:05:13.885Z",
   "raw": {
-    "ts": "2026-05-07T12:10:57.631Z",
+    "ts": "2026-05-07T15:05:13.885Z",
     "dateUK": "2026-05-07",
     "rows": [
       {
         "Index": "CAC 40",
         "Source": "Euronext",
         "Total": 40,
-        "Up": 19,
-        "Down": 20,
-        "Unchanged": 1,
+        "Up": 17,
+        "Down": 23,
+        "Unchanged": 0,
         "Unknown": 0,
         "InputFile": "cac40-constituents-260507.json",
-        "Timestamp": "2026-05-07T12:10:57.631Z",
+        "Timestamp": "2026-05-07T15:05:13.885Z",
         "DateUK": "2026-05-07"
       },
       {
@@ -28,19 +28,19 @@
         "Unchanged": 0,
         "Unknown": 0,
         "InputFile": "dax_ms-constituents-260507.json",
-        "Timestamp": "2026-05-07T12:10:57.631Z",
+        "Timestamp": "2026-05-07T15:05:13.885Z",
         "DateUK": "2026-05-07"
       },
       {
         "Index": "FTSE 100",
         "Source": "LSE",
-        "Total": 99,
-        "Up": 33,
-        "Down": 64,
+        "Total": 100,
+        "Up": 25,
+        "Down": 75,
         "Unchanged": 0,
-        "Unknown": 2,
+        "Unknown": 0,
         "InputFile": "ftse100-lse-constituents-260507.json",
-        "Timestamp": "2026-05-07T12:10:57.631Z",
+        "Timestamp": "2026-05-07T15:05:13.885Z",
         "DateUK": "2026-05-07"
       },
       {
@@ -48,11 +48,11 @@
         "Source": "BME Exchange",
         "Total": 35,
         "Up": 12,
-        "Down": 22,
+        "Down": 21,
         "Unchanged": 0,
-        "Unknown": 1,
+        "Unknown": 2,
         "InputFile": "ibex35-constituents-260507.json",
-        "Timestamp": "2026-05-07T12:10:57.631Z",
+        "Timestamp": "2026-05-07T15:05:13.885Z",
         "DateUK": "2026-05-07"
       }
     ],
