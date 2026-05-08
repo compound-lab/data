@@ -3630,6 +3630,16 @@
     "security_path": "/data/securities/incy-us.json"
   },
   {
+    "entity_key": "INF:LN",
+    "symbol": "INF",
+    "name": "INFORMA PLC ORD 0.1P",
+    "bbg_ticker": "INF:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/inf-ln.json"
+  },
+  {
     "entity_key": "INTC:US",
     "symbol": "INTC",
     "name": "Intel Corp",
@@ -5348,6 +5358,16 @@
       "ftse"
     ],
     "security_path": "/data/securities/psn-ln.json"
+  },
+  {
+    "entity_key": "PSON:LN",
+    "symbol": "PSON",
+    "name": "PEARSON PLC ORD 25P",
+    "bbg_ticker": "PSON:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/pson-ln.json"
   },
   {
     "entity_key": "PSX:US",
