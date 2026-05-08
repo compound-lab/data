@@ -80,6 +80,16 @@
     "security_path": "/data/securities/abbv-us.json"
   },
   {
+    "entity_key": "ABF:LN",
+    "symbol": "ABF",
+    "name": "ASSOCIATED BRITISH FOODS PLC ORD 5 15/22P",
+    "bbg_ticker": "ABF:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/abf-ln.json"
+  },
+  {
     "entity_key": "ABNB:US",
     "symbol": "ABNB",
     "name": "Airbnb Inc Cl A",
@@ -3620,16 +3630,6 @@
     "security_path": "/data/securities/incy-us.json"
   },
   {
-    "entity_key": "INF:LN",
-    "symbol": "INF",
-    "name": "INFORMA PLC ORD 0.1P",
-    "bbg_ticker": "INF:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/inf-ln.json"
-  },
-  {
     "entity_key": "INTC:US",
     "symbol": "INTC",
     "name": "Intel Corp",
@@ -4640,6 +4640,16 @@
     "security_path": "/data/securities/mtd-us.json"
   },
   {
+    "entity_key": "MTLN:LN",
+    "symbol": "MTLN",
+    "name": "METLEN ENERGY & METALS PLC ORD EUR1.00",
+    "bbg_ticker": "MTLN:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/mtln-ln.json"
+  },
+  {
     "entity_key": "MTS:SM",
     "symbol": "MTS",
     "name": "ARCELORMIT.",
@@ -5338,16 +5348,6 @@
       "ftse"
     ],
     "security_path": "/data/securities/psn-ln.json"
-  },
-  {
-    "entity_key": "PSON:LN",
-    "symbol": "PSON",
-    "name": "PEARSON PLC ORD 25P",
-    "bbg_ticker": "PSON:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/pson-ln.json"
   },
   {
     "entity_key": "PSX:US",
@@ -6698,6 +6698,16 @@
       "sp500"
     ],
     "security_path": "/data/securities/usb-us.json"
+  },
+  {
+    "entity_key": "UU.:LN",
+    "symbol": "UU.",
+    "name": "UNITED UTILITIES GROUP PLC ORD 5P",
+    "bbg_ticker": "UU.:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/uu-ln.json"
   },
   {
     "entity_key": "V:US",
