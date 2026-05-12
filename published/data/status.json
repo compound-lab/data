@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-11T21:39:38Z",
+  "generated_at": "2026-05-12T14:14:59Z",
   "datasets": [
     {
       "dataset": "cac",
       "kind": "constituents",
-      "latest_date": "2026-05-11",
+      "latest_date": "2026-05-12",
       "status": "ok",
       "row_count": 40,
       "expected_row_count": 40,
@@ -14,7 +14,7 @@
     {
       "dataset": "dax",
       "kind": "constituents",
-      "latest_date": "2026-05-11",
+      "latest_date": "2026-05-12",
       "status": "ok",
       "row_count": 40,
       "expected_row_count": 40,
@@ -24,19 +24,17 @@
     {
       "dataset": "ftse",
       "kind": "constituents",
-      "latest_date": "2026-05-11",
-      "status": "warning",
-      "row_count": 99,
+      "latest_date": "2026-05-12",
+      "status": "ok",
+      "row_count": 100,
       "expected_row_count": 100,
       "freshness_days": 0,
-      "notes": [
-        "Row count 99 != expected 100"
-      ]
+      "notes": []
     },
     {
       "dataset": "ibex",
       "kind": "constituents",
-      "latest_date": "2026-05-11",
+      "latest_date": "2026-05-12",
       "status": "ok",
       "row_count": 35,
       "expected_row_count": 35,
@@ -46,7 +44,7 @@
     {
       "dataset": "index_breadth",
       "kind": "raw",
-      "latest_date": "2026-05-11",
+      "latest_date": "2026-05-12",
       "status": "ok",
       "row_count": null,
       "expected_row_count": null,
@@ -56,7 +54,7 @@
     {
       "dataset": "index_headlines",
       "kind": "raw",
-      "latest_date": "2026-05-11",
+      "latest_date": "2026-05-12",
       "status": "ok",
       "row_count": null,
       "expected_row_count": null,
@@ -66,7 +64,7 @@
     {
       "dataset": "indices",
       "kind": "summary",
-      "latest_date": "2026-05-11",
+      "latest_date": "2026-05-12",
       "status": "ok",
       "row_count": null,
       "expected_row_count": null,
