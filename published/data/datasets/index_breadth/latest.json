@@ -2,21 +2,21 @@
   "dataset": "index_breadth",
   "kind": "raw",
   "as_of_date": "2026-05-12",
-  "as_of_utc": "2026-05-12T14:14:52.188Z",
+  "as_of_utc": "2026-05-12T16:12:25.106Z",
   "raw": {
-    "ts": "2026-05-12T14:14:52.188Z",
+    "ts": "2026-05-12T16:12:25.106Z",
     "dateUK": "2026-05-12",
     "rows": [
       {
         "Index": "CAC 40",
         "Source": "Euronext",
         "Total": 40,
-        "Up": 8,
-        "Down": 32,
+        "Up": 12,
+        "Down": 28,
         "Unchanged": 0,
         "Unknown": 0,
         "InputFile": "cac40-constituents-260512.json",
-        "Timestamp": "2026-05-12T14:14:52.188Z",
+        "Timestamp": "2026-05-12T16:12:25.106Z",
         "DateUK": "2026-05-12"
       },
       {
@@ -28,31 +28,31 @@
         "Unchanged": 0,
         "Unknown": 0,
         "InputFile": "dax_ms-constituents-260512.json",
-        "Timestamp": "2026-05-12T14:14:52.188Z",
+        "Timestamp": "2026-05-12T16:12:25.106Z",
         "DateUK": "2026-05-12"
       },
       {
         "Index": "FTSE 100",
         "Source": "LSE",
         "Total": 100,
-        "Up": 22,
-        "Down": 76,
+        "Up": 25,
+        "Down": 73,
         "Unchanged": 0,
         "Unknown": 2,
         "InputFile": "ftse100-lse-constituents-260512.json",
-        "Timestamp": "2026-05-12T14:14:52.188Z",
+        "Timestamp": "2026-05-12T16:12:25.106Z",
         "DateUK": "2026-05-12"
       },
       {
         "Index": "IBEX 35",
         "Source": "BME Exchange",
         "Total": 35,
-        "Up": 5,
+        "Up": 6,
         "Down": 29,
         "Unchanged": 0,
-        "Unknown": 1,
+        "Unknown": 0,
         "InputFile": "ibex35-constituents-260512.json",
-        "Timestamp": "2026-05-12T14:14:52.188Z",
+        "Timestamp": "2026-05-12T16:12:25.106Z",
         "DateUK": "2026-05-12"
       }
     ],
@@ -84,6 +84,19 @@
         "exts": [
           ".json"
         ],
+        "error": "missing input file",
+        "lookedIn": "/home/henry/mission-control/daily/2026-05-12"
+      },
+      {
+        "index": "NYSE",
+        "source": "TradingView (tvDatafeed)",
+        "prefix": "nyse-breadth-tv-",
+        "changeField": null,
+        "kind": "tvBreadth",
+        "exts": [
+          ".json"
+        ],
+        "defaultUnchanged": 0,
         "error": "missing input file",
         "lookedIn": "/home/henry/mission-control/daily/2026-05-12"
       },
