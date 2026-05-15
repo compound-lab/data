@@ -650,6 +650,16 @@
     "security_path": "/data/securities/ato-us.json"
   },
   {
+    "entity_key": "AUTO:LN",
+    "symbol": "AUTO",
+    "name": "AUTOTRADER GROUP PLC ORD 1P",
+    "bbg_ticker": "AUTO:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/auto-ln.json"
+  },
+  {
     "entity_key": "AV.:LN",
     "symbol": "AV.",
     "name": "AVIVA PLC ORD 32 17/19P",
@@ -5678,6 +5688,16 @@
       "sp500"
     ],
     "security_path": "/data/securities/rsg-us.json"
+  },
+  {
+    "entity_key": "RTO:LN",
+    "symbol": "RTO",
+    "name": "RENTOKIL INITIAL PLC ORD 1P",
+    "bbg_ticker": "RTO:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/rto-ln.json"
   },
   {
     "entity_key": "RTX:US",
