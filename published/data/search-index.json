@@ -650,16 +650,6 @@
     "security_path": "/data/securities/ato-us.json"
   },
   {
-    "entity_key": "AUTO:LN",
-    "symbol": "AUTO",
-    "name": "AUTOTRADER GROUP PLC ORD 1P",
-    "bbg_ticker": "AUTO:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/auto-ln.json"
-  },
-  {
     "entity_key": "AV.:LN",
     "symbol": "AV.",
     "name": "AVIVA PLC ORD 32 17/19P",
@@ -4020,6 +4010,16 @@
     "security_path": "/data/securities/len-us.json"
   },
   {
+    "entity_key": "LGEN:LN",
+    "symbol": "LGEN",
+    "name": "LEGAL & GENERAL GROUP PLC ORD 2 1/2P",
+    "bbg_ticker": "LGEN:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/lgen-ln.json"
+  },
+  {
     "entity_key": "LH:US",
     "symbol": "LH",
     "name": "Laboratory Corp of America",
@@ -5680,16 +5680,6 @@
     "security_path": "/data/securities/rsg-us.json"
   },
   {
-    "entity_key": "RTO:LN",
-    "symbol": "RTO",
-    "name": "RENTOKIL INITIAL PLC ORD 1P",
-    "bbg_ticker": "RTO:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/rto-ln.json"
-  },
-  {
     "entity_key": "RTX:US",
     "symbol": "RTX",
     "name": "Rtx Corp",
@@ -6088,6 +6078,16 @@
       "ftse"
     ],
     "security_path": "/data/securities/sse-ln.json"
+  },
+  {
+    "entity_key": "STAN:LN",
+    "symbol": "STAN",
+    "name": "STANDARD CHARTERED PLC ORD USD0.50",
+    "bbg_ticker": "STAN:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/stan-ln.json"
   },
   {
     "entity_key": "STE:US",
