@@ -2,9 +2,9 @@
   "dataset": "index_breadth",
   "kind": "raw",
   "as_of_date": "2026-06-01",
-  "as_of_utc": "2026-06-01T16:12:36.817Z",
+  "as_of_utc": "2026-06-01T20:43:20.392Z",
   "raw": {
-    "ts": "2026-06-01T16:12:36.817Z",
+    "ts": "2026-06-01T20:43:20.392Z",
     "dateUK": "2026-06-01",
     "rows": [
       {
@@ -16,7 +16,7 @@
         "Unchanged": 0,
         "Unknown": 0,
         "InputFile": "cac40-constituents-260601.json",
-        "Timestamp": "2026-06-01T16:12:36.817Z",
+        "Timestamp": "2026-06-01T20:43:20.392Z",
         "DateUK": "2026-06-01"
       },
       {
@@ -28,7 +28,7 @@
         "Unchanged": 1,
         "Unknown": 0,
         "InputFile": "dax_ms-constituents-260601.json",
-        "Timestamp": "2026-06-01T16:12:36.817Z",
+        "Timestamp": "2026-06-01T20:43:20.392Z",
         "DateUK": "2026-06-01"
       },
       {
@@ -40,7 +40,7 @@
         "Unchanged": 0,
         "Unknown": 2,
         "InputFile": "ftse100-lse-constituents-260601.json",
-        "Timestamp": "2026-06-01T16:12:36.817Z",
+        "Timestamp": "2026-06-01T20:43:20.392Z",
         "DateUK": "2026-06-01"
       },
       {
@@ -52,29 +52,23 @@
         "Unchanged": 0,
         "Unknown": 0,
         "InputFile": "ibex35-constituents-260601.json",
-        "Timestamp": "2026-06-01T16:12:36.817Z",
+        "Timestamp": "2026-06-01T20:43:20.392Z",
+        "DateUK": "2026-06-01"
+      },
+      {
+        "Index": "S&P 500",
+        "Source": "Barchart (Download)",
+        "Total": 500,
+        "Up": 211,
+        "Down": 289,
+        "Unchanged": 0,
+        "Unknown": 0,
+        "InputFile": "sp500-barchart-download-components-260601.json",
+        "Timestamp": "2026-06-01T20:43:20.392Z",
         "DateUK": "2026-06-01"
       }
     ],
     "errors": [
-      {
-        "index": "S&P 500",
-        "source": "Barchart (Download)",
-        "prefix": "sp500-barchart-download-components-",
-        "changeField": "percentChange",
-        "kind": "constituents",
-        "exts": [
-          ".json"
-        ],
-        "symbolField": "symbol",
-        "excludeSymbols": [
-          "NWSA",
-          "FOXA",
-          "GOOGL"
-        ],
-        "error": "missing input file",
-        "lookedIn": "/home/henry/mission-control/daily/2026-06-01"
-      },
       {
         "index": "Nasdaq",
         "source": "TradingView (tvDatafeed)",
