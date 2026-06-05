@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T15:08:23Z",
+  "generated_at": "2026-06-05T16:14:10Z",
   "datasets": [
     {
       "dataset": "cac",
@@ -25,13 +25,11 @@
       "dataset": "ftse",
       "kind": "constituents",
       "latest_date": "2026-06-05",
-      "status": "warning",
-      "row_count": 97,
+      "status": "ok",
+      "row_count": 100,
       "expected_row_count": 100,
       "freshness_days": 0,
-      "notes": [
-        "Row count 97 != expected 100"
-      ]
+      "notes": []
     },
     {
       "dataset": "ibex",
