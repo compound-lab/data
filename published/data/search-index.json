@@ -2470,16 +2470,6 @@
     "security_path": "/data/securities/eog-us.json"
   },
   {
-    "entity_key": "EPAM:US",
-    "symbol": "EPAM",
-    "name": "Epam Systems Inc",
-    "bbg_ticker": "EPAM:US",
-    "memberships": [
-      "sp500"
-    ],
-    "security_path": "/data/securities/epam-us.json"
-  },
-  {
     "entity_key": "EQIX:US",
     "symbol": "EQIX",
     "name": "Equinix Inc",
@@ -2728,6 +2718,16 @@
       "sp500"
     ],
     "security_path": "/data/securities/fdx-us.json"
+  },
+  {
+    "entity_key": "FDXF:US",
+    "symbol": "FDXF",
+    "name": "Fedex Freight Holding Company Inc",
+    "bbg_ticker": "FDXF:US",
+    "memberships": [
+      "sp500"
+    ],
+    "security_path": "/data/securities/fdxf-us.json"
   },
   {
     "entity_key": "FE:US",
