@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-11",
+  "asOfDate": "2026-06-11",
+  "source": "mission-control/scripts/intraday-ml-eu.js",
+  "systems": [
+    {
+      "system": "DAX",
+      "date": "2026-06-11",
+      "indexPrice": 24248.59,
+      "etfPrice": 36999.9,
+      "indicator": -0.34,
+      "signal": 5,
+      "rawWeight": 1,
+      "volScale": 1,
+      "finalWeight": 1,
+      "position": 1,
+      "deltaPosition": 0,
+      "nav": 8.48,
+      "drawdown": -0.042
+    },
+    {
+      "system": "IBEX",
+      "date": "2026-06-11",
+      "indexPrice": 18335.1,
+      "etfPrice": 40649,
+      "indicator": -0.23,
+      "signal": 5,
+      "rawWeight": 0.92,
+      "volScale": 1,
+      "finalWeight": 0.92,
+      "position": 0.92,
+      "deltaPosition": 0,
+      "nav": 3.2,
+      "drawdown": -0.004
+    },
+    {
+      "system": "CAC",
+      "date": "2026-06-11",
+      "indexPrice": 8227.68,
+      "etfPrice": 7169,
+      "indicator": -0.06,
+      "signal": 5,
+      "rawWeight": 1,
+      "volScale": 1,
+      "finalWeight": 1,
+      "position": 1,
+      "deltaPosition": 0,
+      "nav": 2.88,
+      "drawdown": 0
+    },
+    {
+      "system": "UKX",
+      "date": "2026-06-11",
+      "indexPrice": 10350.63,
+      "etfPrice": 1016.4,
+      "indicator": 0.22,
+      "signal": 3,
+      "rawWeight": 0.02,
+      "volScale": 1,
+      "finalWeight": 0.02,
+      "position": 0.02,
+      "deltaPosition": 0,
+      "nav": 11.92,
+      "drawdown": -0.002
+    }
+  ]
+}
