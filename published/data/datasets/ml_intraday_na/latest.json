@@ -1,0 +1,52 @@
+{
+  "date": "2026-06-11",
+  "asOfDate": "2026-06-11",
+  "source": "mission-control/scripts/intraday-ml-na.js",
+  "systems": [
+    {
+      "system": "NDX",
+      "date": "2026-06-11",
+      "indexPrice": 28834.28,
+      "etfPrice": 52608,
+      "indicator": 0.33,
+      "signal": 2,
+      "rawWeight": 0,
+      "volScale": 0.55,
+      "finalWeight": 0,
+      "position": 0,
+      "deltaPosition": 0,
+      "nav": 40.41,
+      "drawdown": -0.023
+    },
+    {
+      "system": "SPX",
+      "date": "2026-06-11",
+      "indexPrice": 7304.93,
+      "etfPrice": 5452.75,
+      "indicator": 0.33,
+      "signal": 5,
+      "rawWeight": 0.9,
+      "volScale": 0.47,
+      "finalWeight": 0.42,
+      "position": 0.59,
+      "deltaPosition": 0,
+      "nav": 14.3,
+      "drawdown": -0.019
+    },
+    {
+      "system": "TSX",
+      "date": "2026-06-11",
+      "indexPrice": 34529.29,
+      "etfPrice": 22408,
+      "indicator": null,
+      "signal": 3,
+      "rawWeight": 0.35,
+      "volScale": 0.41,
+      "finalWeight": 0.14,
+      "position": 0.17,
+      "deltaPosition": 0,
+      "nav": 3.37,
+      "drawdown": -0.01
+    }
+  ]
+}

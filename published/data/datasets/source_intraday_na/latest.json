@@ -1,0 +1,143 @@
+{
+  "dataset": "source_intraday_na",
+  "kind": "raw",
+  "as_of_date": "2026-06-11",
+  "as_of_utc": "2026-06-11T13:49:10.948Z",
+  "source": "yahoo/yfinance (prices) + Barchart/Nasdaq-TV/NYSE-TV/TSX-TV (breadth)",
+  "headlines": [
+    {
+      "Name": "Nasdaq",
+      "Symbol": "^NDX",
+      "Price": 28834.28125,
+      "PrevClose": 28508.029296875,
+      "Change": 326.251953125,
+      "PctChange": 1.1444212776951341,
+      "Timestamp": "2026-06-11T13:49:10.948Z",
+      "QuoteTimestamp": null,
+      "QuoteTimestampRaw": null,
+      "DateUK": "2026-06-11",
+      "Source": "yahoo/yfinance",
+      "Method": "history_1d"
+    },
+    {
+      "Name": "S&P 500",
+      "Symbol": "^GSPC",
+      "Price": 7304.93017578125,
+      "PrevClose": 7266.990234375,
+      "Change": 37.93994140625,
+      "PctChange": 0.5220860381342323,
+      "Timestamp": "2026-06-11T13:49:10.948Z",
+      "QuoteTimestamp": null,
+      "QuoteTimestampRaw": null,
+      "DateUK": "2026-06-11",
+      "Source": "yahoo/yfinance",
+      "Method": "history_1d"
+    },
+    {
+      "Name": "TSX",
+      "Symbol": "^GSPTSE",
+      "Price": 34529.2890625,
+      "PrevClose": 34151.30078125,
+      "Change": 377.98828125,
+      "PctChange": 1.1068049315929012,
+      "Timestamp": "2026-06-11T13:49:10.948Z",
+      "QuoteTimestamp": null,
+      "QuoteTimestampRaw": null,
+      "DateUK": "2026-06-11",
+      "Source": "yahoo/yfinance",
+      "Method": "history_1d"
+    },
+    {
+      "Name": "Nasdaq ETF (UK)",
+      "Symbol": "EQQQ.L",
+      "Price": 52608,
+      "PrevClose": 52500,
+      "Change": 108,
+      "PctChange": 0.2057142857142857,
+      "Timestamp": "2026-06-11T13:49:10.948Z",
+      "QuoteTimestamp": null,
+      "QuoteTimestampRaw": null,
+      "DateUK": "2026-06-11",
+      "Source": "yahoo/yfinance",
+      "Method": "history_1d"
+    },
+    {
+      "Name": "S&P 500 ETF (UK)",
+      "Symbol": "IUSA.L",
+      "Price": 5452.75,
+      "PrevClose": 5453.5,
+      "Change": -0.75,
+      "PctChange": -0.01375263592188503,
+      "Timestamp": "2026-06-11T13:49:10.948Z",
+      "QuoteTimestamp": null,
+      "QuoteTimestampRaw": null,
+      "DateUK": "2026-06-11",
+      "Source": "yahoo/yfinance",
+      "Method": "history_1d"
+    },
+    {
+      "Name": "TSX ETF (UK)",
+      "Symbol": "CSCA.L",
+      "Price": 22408,
+      "PrevClose": 22351,
+      "Change": 57,
+      "PctChange": 0.2550221466601047,
+      "Timestamp": "2026-06-11T13:49:10.948Z",
+      "QuoteTimestamp": null,
+      "QuoteTimestampRaw": null,
+      "DateUK": "2026-06-11",
+      "Source": "yahoo/yfinance",
+      "Method": "history_1d"
+    }
+  ],
+  "breadth": [
+    {
+      "Index": "S&P 500",
+      "Source": "Barchart",
+      "Total": 500,
+      "Up": 361,
+      "Down": 137,
+      "Unchanged": 0,
+      "Unknown": 2,
+      "InputFile": "sp500-barchart-download-components-260611-intraday.json",
+      "Timestamp": "2026-06-11T13:49:20.856Z",
+      "DateUK": "2026-06-11"
+    },
+    {
+      "Index": "Nasdaq",
+      "Source": "Nasdaq Exchange",
+      "Total": 3116,
+      "Up": 1331,
+      "Down": 1694,
+      "Unchanged": 91,
+      "Unknown": 0,
+      "InputFile": "nasdaq-breadth-tv-260611-intraday.json",
+      "Timestamp": "2026-06-11T13:49:20.856Z",
+      "DateUK": "2026-06-11"
+    },
+    {
+      "Index": "NYSE",
+      "Source": "NYSE",
+      "Total": 1851,
+      "Up": 738,
+      "Down": 1113,
+      "Unchanged": 0,
+      "Unknown": 0,
+      "InputFile": "nyse-breadth-tv-260611-intraday.json",
+      "Timestamp": "2026-06-11T13:49:20.856Z",
+      "DateUK": "2026-06-11"
+    },
+    {
+      "Index": "TSX",
+      "Source": "TSX Exchange",
+      "Total": 2416,
+      "Up": 714,
+      "Down": 1539,
+      "Unchanged": 163,
+      "Unknown": 0,
+      "InputFile": "tsx-breadth-tv-260611-intraday.json",
+      "Timestamp": "2026-06-11T13:49:20.856Z",
+      "DateUK": "2026-06-11"
+    }
+  ]
+}
