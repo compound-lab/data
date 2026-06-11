@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "intradayRunAtUtc": "2026-06-11T08:57:39.684Z",
+  "intradayRunAtUtc": "2026-06-11T09:10:11.768Z",
   "source": "mission-control/scripts/intraday-ml-eu.js",
   "systems": [
     {
@@ -15,8 +15,8 @@
       "eodPrice": 36927.5,
       "intradayPrice": 36910,
       "eodDate": "2026-06-10",
-      "intradayRunAtUtc": "2026-06-11T08:57:39.684Z",
-      "indicator": -0.34,
+      "intradayRunAtUtc": "2026-06-11T09:10:11.768Z",
+      "indicator": -0.36,
       "signal": 5,
       "rawWeight": 1,
       "volScale": 1,
@@ -37,8 +37,8 @@
       "eodPrice": 40177.5,
       "intradayPrice": 40505,
       "eodDate": "2026-06-10",
-      "intradayRunAtUtc": "2026-06-11T08:57:39.684Z",
-      "indicator": -0.24,
+      "intradayRunAtUtc": "2026-06-11T09:10:11.768Z",
+      "indicator": -0.31,
       "signal": 5,
       "rawWeight": 0.92,
       "volScale": 1,
@@ -59,8 +59,8 @@
       "eodPrice": 7110.5,
       "intradayPrice": 7132,
       "eodDate": "2026-06-10",
-      "intradayRunAtUtc": "2026-06-11T08:57:39.684Z",
-      "indicator": -0.19,
+      "intradayRunAtUtc": "2026-06-11T09:10:11.768Z",
+      "indicator": -0.2,
       "signal": 5,
       "rawWeight": 1,
       "volScale": 1,
@@ -68,6 +68,28 @@
       "deltaPosition": 0,
       "nav": 2.87,
       "drawdown": -0.005
+    },
+    {
+      "system": "UKX",
+      "date": "2026-06-11",
+      "symbol": "UKX",
+      "indexSymbol": "^FTSE",
+      "etfSymbol": "ISF.L",
+      "eodPosition": 0.02,
+      "intradayPosition": 0.02,
+      "changed": false,
+      "eodPrice": 1008.8,
+      "intradayPrice": 1014.2,
+      "eodDate": "2026-06-10",
+      "intradayRunAtUtc": "2026-06-11T09:10:11.768Z",
+      "indicator": 0.01,
+      "signal": 3,
+      "rawWeight": 0.02,
+      "volScale": 1,
+      "finalWeight": 0.02,
+      "deltaPosition": 0,
+      "nav": 11.92,
+      "drawdown": -0.002
     }
   ]
 }
