@@ -1,0 +1,37 @@
+{
+  "date": "2026-06-11",
+  "asOfDate": "2026-06-11",
+  "source": "mission-control/scripts/intraday-ml-world.js",
+  "systems": [
+    {
+      "system": "system_12",
+      "date": "2026-06-11",
+      "indexPrice": 27288.16790573967,
+      "etfPrice": 10463,
+      "indicator": 0.22,
+      "signal": 0.5,
+      "rawWeight": 0.5,
+      "volScale": 1,
+      "finalWeight": 0.5,
+      "position": 0.5,
+      "deltaPosition": 0,
+      "nav": 7.5,
+      "drawdown": -0.006999999999999999
+    },
+    {
+      "system": "system_2a",
+      "date": "2026-06-11",
+      "indexPrice": 27288.16790573967,
+      "etfPrice": 10463,
+      "indicator": null,
+      "signal": 1,
+      "rawWeight": 1,
+      "volScale": 1,
+      "finalWeight": 1,
+      "position": 1,
+      "deltaPosition": 0,
+      "nav": 2.71,
+      "drawdown": -0.025
+    }
+  ]
+}

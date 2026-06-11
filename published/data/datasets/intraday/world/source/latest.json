@@ -1,0 +1,52 @@
+{
+  "dataset": "intraday_world_source",
+  "kind": "raw",
+  "as_of_date": "2026-06-11",
+  "as_of_utc": "2026-06-11T14:53:00.100Z",
+  "source": "mission-control/scripts/intraday-ml-world.js",
+  "headlines": [
+    {
+      "Name": "SWDA",
+      "Symbol": "SWDA.L",
+      "Price": 10463,
+      "PrevClose": 10415,
+      "Change": 48,
+      "PctChange": 0.4608737397983677,
+      "Timestamp": "2026-06-11T14:53:00.100Z",
+      "QuoteTimestamp": null,
+      "QuoteTimestampRaw": null,
+      "DateUK": "2026-06-11",
+      "Source": "yahoo/yfinance",
+      "Method": "history_1d"
+    },
+    {
+      "Name": "MSCI World GBP Net yfinance",
+      "Symbol": "^990100-GBP-NETR",
+      "Price": 27288.169921875,
+      "PrevClose": 27069.78,
+      "Change": 218.38992187500116,
+      "PctChange": 0.8067665192513614,
+      "Timestamp": "2026-06-11T14:53:00.100Z",
+      "QuoteTimestamp": null,
+      "QuoteTimestampRaw": null,
+      "DateUK": "2026-06-11",
+      "Source": "yahoo/yfinance",
+      "Method": "history_1d"
+    },
+    {
+      "Name": "MSCI World GBP Net (intraday est.)",
+      "Symbol": "MSCI_World_GBP_Net",
+      "Price": 27288.16790573967,
+      "PrevClose": 27069.778,
+      "Change": 218.3899057396702,
+      "PctChange": 0.8067665192513614,
+      "Timestamp": "2026-06-11T14:53:00.100Z",
+      "QuoteTimestamp": null,
+      "QuoteTimestampRaw": null,
+      "DateUK": "2026-06-11",
+      "Source": "yahoo/yfinance + derivation",
+      "Method": "estimated_from_990100GB"
+    }
+  ],
+  "breadth": []
+}
