@@ -1,59 +1,59 @@
 {
-  "date": "2026-06-11",
-  "asOfDate": "2026-06-11",
+  "date": "2026-06-12",
+  "asOfDate": "2026-06-12",
   "source": "mission-control/scripts/intraday-ml-eu.js",
   "systems": [
     {
       "system": "DAX",
-      "date": "2026-06-11",
-      "indexPrice": 24263.85,
-      "etfPrice": 36999.9,
-      "indicator": -0.42,
+      "date": "2026-06-12",
+      "indexPrice": 24508.23,
+      "etfPrice": 37395,
+      "indicator": -0.1,
       "signal": 5,
       "rawWeight": 1,
-      "volScale": 1,
-      "finalWeight": 1,
+      "volScale": 0.69,
+      "finalWeight": 0.69,
       "position": 1,
       "deltaPosition": 0,
-      "nav": 8.48,
-      "drawdown": -0.042
+      "nav": 8.57,
+      "drawdown": -0.032
     },
     {
       "system": "IBEX",
-      "date": "2026-06-11",
-      "indexPrice": 18315.1,
-      "etfPrice": 40525,
-      "indicator": -0.28,
+      "date": "2026-06-12",
+      "indexPrice": 18695.8,
+      "etfPrice": 41505,
+      "indicator": 0.1,
       "signal": 5,
       "rawWeight": 0.92,
-      "volScale": 1,
-      "finalWeight": 0.92,
+      "volScale": 0.88,
+      "finalWeight": 0.81,
       "position": 0.92,
       "deltaPosition": 0,
-      "nav": 3.19,
-      "drawdown": -0.006
+      "nav": 3.26,
+      "drawdown": 0
     },
     {
       "system": "CAC",
-      "date": "2026-06-11",
-      "indexPrice": 8225.51,
-      "etfPrice": 7156,
-      "indicator": -0.06,
+      "date": "2026-06-12",
+      "indexPrice": 8317.94,
+      "etfPrice": 7245,
+      "indicator": 0.21,
       "signal": 5,
       "rawWeight": 1,
-      "volScale": 1,
-      "finalWeight": 1,
+      "volScale": 0.96,
+      "finalWeight": 0.96,
       "position": 1,
       "deltaPosition": 0,
-      "nav": 2.88,
-      "drawdown": -0.001
+      "nav": 2.91,
+      "drawdown": 0
     },
     {
       "system": "UKX",
-      "date": "2026-06-11",
-      "indexPrice": 10338.57,
-      "etfPrice": 1017.6,
-      "indicator": 0.12,
+      "date": "2026-06-12",
+      "indexPrice": 10438.58,
+      "etfPrice": 1027.8,
+      "indicator": 0.43,
       "signal": 3,
       "rawWeight": 0.02,
       "volScale": 1,
@@ -61,7 +61,7 @@
       "position": 0.02,
       "deltaPosition": 0,
       "nav": 11.93,
-      "drawdown": -0.002
+      "drawdown": -0.001
     }
   ]
 }
