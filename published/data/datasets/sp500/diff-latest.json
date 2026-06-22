@@ -1,17 +1,475 @@
 {
   "dataset": "sp500",
-  "current_date": "2026-06-19",
-  "previous_date": "2026-06-18",
+  "current_date": "2026-06-22",
+  "previous_date": "2026-06-19",
   "added": [],
   "removed": [],
   "changed": [
     {
+      "entity_key": "A:US",
+      "name": "Agilent Technologies",
+      "fields": {
+        "price": {
+          "previous": 127.06,
+          "current": 126.49
+        },
+        "change": {
+          "previous": 2.73,
+          "current": -0.57
+        },
+        "change_pct": {
+          "previous": 2.2,
+          "current": -0.45
+        }
+      }
+    },
+    {
+      "entity_key": "AAPL:US",
+      "name": "Apple Inc",
+      "fields": {
+        "price": {
+          "previous": 298.01,
+          "current": 297.01
+        },
+        "change": {
+          "previous": 2.06,
+          "current": -1.0
+        },
+        "change_pct": {
+          "previous": 0.7,
+          "current": -0.34
+        }
+      }
+    },
+    {
+      "entity_key": "ABBV:US",
+      "name": "Abbvie Inc",
+      "fields": {
+        "price": {
+          "previous": 216.49,
+          "current": 230.01
+        },
+        "change": {
+          "previous": -4.74,
+          "current": 13.52
+        },
+        "change_pct": {
+          "previous": -2.14,
+          "current": 6.25
+        }
+      }
+    },
+    {
+      "entity_key": "ABNB:US",
+      "name": "Airbnb Inc Cl A",
+      "fields": {
+        "price": {
+          "previous": 142.41,
+          "current": 139.19
+        },
+        "change": {
+          "previous": 1.87,
+          "current": -3.22
+        },
+        "change_pct": {
+          "previous": 1.33,
+          "current": -2.26
+        }
+      }
+    },
+    {
+      "entity_key": "ABT:US",
+      "name": "Abbott Laboratories",
+      "fields": {
+        "price": {
+          "previous": 88.41,
+          "current": 87.83
+        },
+        "change": {
+          "previous": -0.09,
+          "current": -0.58
+        },
+        "change_pct": {
+          "previous": -0.1,
+          "current": -0.66
+        }
+      }
+    },
+    {
+      "entity_key": "ACGL:US",
+      "name": "Arch Capital Grp Ltd",
+      "fields": {
+        "price": {
+          "previous": 91.18,
+          "current": 92.04
+        },
+        "change": {
+          "previous": -1.19,
+          "current": 0.86
+        },
+        "change_pct": {
+          "previous": -1.29,
+          "current": 0.94
+        }
+      }
+    },
+    {
+      "entity_key": "ACN:US",
+      "name": "Accenture Plc",
+      "fields": {
+        "price": {
+          "previous": 127.98,
+          "current": 124.83
+        },
+        "change": {
+          "previous": -28.03,
+          "current": -3.15
+        },
+        "change_pct": {
+          "previous": -17.97,
+          "current": -2.46
+        }
+      }
+    },
+    {
+      "entity_key": "ADBE:US",
+      "name": "Adobe Systems Inc",
+      "fields": {
+        "price": {
+          "previous": 195.16,
+          "current": 194.9
+        },
+        "change": {
+          "previous": -1.12,
+          "current": -0.26
+        },
+        "change_pct": {
+          "previous": -0.57,
+          "current": -0.13
+        }
+      }
+    },
+    {
+      "entity_key": "ADI:US",
+      "name": "Analog Devices",
+      "fields": {
+        "price": {
+          "previous": 434.46,
+          "current": 445.48
+        },
+        "change": {
+          "previous": 20.01,
+          "current": 11.02
+        },
+        "change_pct": {
+          "previous": 4.83,
+          "current": 2.54
+        }
+      }
+    },
+    {
+      "entity_key": "ADM:US",
+      "name": "Archer Daniels Midland",
+      "fields": {
+        "price": {
+          "previous": 75.1,
+          "current": 76.29
+        },
+        "change": {
+          "previous": -1.4,
+          "current": 1.19
+        },
+        "change_pct": {
+          "previous": -1.83,
+          "current": 1.58
+        }
+      }
+    },
+    {
+      "entity_key": "ADP:US",
+      "name": "Automatic Data Processing",
+      "fields": {
+        "price": {
+          "previous": 218.41,
+          "current": 214.6
+        },
+        "change": {
+          "previous": -0.35,
+          "current": -3.81
+        },
+        "change_pct": {
+          "previous": -0.16,
+          "current": -1.74
+        }
+      }
+    },
+    {
+      "entity_key": "ADSK:US",
+      "name": "Autodesk Inc",
+      "fields": {
+        "price": {
+          "previous": 193.82,
+          "current": 187.72
+        },
+        "change": {
+          "previous": 0.75,
+          "current": -6.1
+        },
+        "change_pct": {
+          "previous": 0.39,
+          "current": -3.15
+        }
+      }
+    },
+    {
+      "entity_key": "AEE:US",
+      "name": "Ameren Corp",
+      "fields": {
+        "price": {
+          "previous": 108.67,
+          "current": 109.7
+        },
+        "change": {
+          "previous": -0.25,
+          "current": 1.03
+        },
+        "change_pct": {
+          "previous": -0.23,
+          "current": 0.95
+        }
+      }
+    },
+    {
+      "entity_key": "AEP:US",
+      "name": "American Electric Power",
+      "fields": {
+        "price": {
+          "previous": 127.69,
+          "current": 130.3
+        },
+        "change": {
+          "previous": -0.58,
+          "current": 2.61
+        },
+        "change_pct": {
+          "previous": -0.45,
+          "current": 2.04
+        }
+      }
+    },
+    {
+      "entity_key": "AES:US",
+      "name": "The Aes Corp",
+      "fields": {
+        "price": {
+          "previous": 14.62,
+          "current": 14.65
+        },
+        "change": {
+          "previous": 0.01,
+          "current": 0.03
+        },
+        "change_pct": {
+          "previous": 0.07,
+          "current": 0.21
+        }
+      }
+    },
+    {
+      "entity_key": "AFL:US",
+      "name": "Aflac Inc",
+      "fields": {
+        "price": {
+          "previous": 115.47,
+          "current": 116.55
+        },
+        "change": {
+          "previous": -0.77,
+          "current": 1.08
+        },
+        "change_pct": {
+          "previous": -0.66,
+          "current": 0.94
+        }
+      }
+    },
+    {
+      "entity_key": "AIG:US",
+      "name": "American International Group",
+      "fields": {
+        "price": {
+          "previous": 74.02,
+          "current": 76.37
+        },
+        "change": {
+          "previous": -0.75,
+          "current": 2.35
+        },
+        "change_pct": {
+          "previous": -1.0,
+          "current": 3.17
+        }
+      }
+    },
+    {
+      "entity_key": "AIZ:US",
+      "name": "Assurant Inc",
+      "fields": {
+        "price": {
+          "previous": 259.86,
+          "current": 261.58
+        },
+        "change": {
+          "previous": -2.27,
+          "current": 1.72
+        },
+        "change_pct": {
+          "previous": -0.87,
+          "current": 0.66
+        }
+      }
+    },
+    {
+      "entity_key": "AJG:US",
+      "name": "Arthur J. Gallagher & Company",
+      "fields": {
+        "price": {
+          "previous": 214.06,
+          "current": 209.08
+        },
+        "change": {
+          "previous": -2.03,
+          "current": -4.98
+        },
+        "change_pct": {
+          "previous": -0.94,
+          "current": -2.33
+        }
+      }
+    },
+    {
       "entity_key": "AKAM:US",
       "name": "Akamai Technologies",
       "fields": {
+        "price": {
+          "previous": 124.91,
+          "current": 120.74
+        },
         "change": {
-          "previous": -2.95,
-          "current": -2.94
+          "previous": -2.94,
+          "current": -4.17
+        },
+        "change_pct": {
+          "previous": -2.3,
+          "current": -3.34
+        }
+      }
+    },
+    {
+      "entity_key": "ALB:US",
+      "name": "Albemarle Corp",
+      "fields": {
+        "price": {
+          "previous": 160.35,
+          "current": 156.69
+        },
+        "change": {
+          "previous": -6.21,
+          "current": -3.66
+        },
+        "change_pct": {
+          "previous": -3.73,
+          "current": -2.28
+        }
+      }
+    },
+    {
+      "entity_key": "ALGN:US",
+      "name": "Align Technology",
+      "fields": {
+        "price": {
+          "previous": 182.08,
+          "current": 173.76
+        },
+        "change": {
+          "previous": 8.55,
+          "current": -8.32
+        },
+        "change_pct": {
+          "previous": 4.93,
+          "current": -4.57
+        }
+      }
+    },
+    {
+      "entity_key": "ALL:US",
+      "name": "Allstate Corp",
+      "fields": {
+        "price": {
+          "previous": 221.17,
+          "current": 222.56
+        },
+        "change": {
+          "previous": -0.49,
+          "current": 1.39
+        },
+        "change_pct": {
+          "previous": -0.22,
+          "current": 0.63
+        }
+      }
+    },
+    {
+      "entity_key": "ALLE:US",
+      "name": "Allegion Plc",
+      "fields": {
+        "price": {
+          "previous": 133.57,
+          "current": 130.93
+        },
+        "change": {
+          "previous": 3.39,
+          "current": -2.64
+        },
+        "change_pct": {
+          "previous": 2.6,
+          "current": -1.98
+        }
+      }
+    },
+    {
+      "entity_key": "AMAT:US",
+      "name": "Applied Materials",
+      "fields": {
+        "price": {
+          "previous": 617.11,
+          "current": 640.18
+        },
+        "change": {
+          "previous": 24.19,
+          "current": 23.07
+        },
+        "change_pct": {
+          "previous": 4.08,
+          "current": 3.74
+        }
+      }
+    },
+    {
+      "entity_key": "AMCR:US",
+      "name": "Amcor Plc",
+      "fields": {
+        "price": {
+          "previous": 41.08,
+          "current": 40.68
+        },
+        "change": {
+          "previous": 0.31,
+          "current": -0.4
+        },
+        "change_pct": {
+          "previous": 0.76,
+          "current": -0.97
         }
       }
     },
@@ -20,16 +478,1276 @@
       "name": "Adv Micro Devices",
       "fields": {
         "price": {
-          "previous": 536.67,
-          "current": 537.37
+          "previous": 537.37,
+          "current": 551.63
         },
         "change": {
-          "previous": 24.19,
-          "current": 24.89
+          "previous": 24.89,
+          "current": 14.26
         },
         "change_pct": {
-          "previous": 4.72,
-          "current": 4.86
+          "previous": 4.86,
+          "current": 2.65
+        }
+      }
+    },
+    {
+      "entity_key": "AME:US",
+      "name": "Ametek Inc",
+      "fields": {
+        "price": {
+          "previous": 237.42,
+          "current": 241.55
+        },
+        "change": {
+          "previous": 6.15,
+          "current": 4.13
+        },
+        "change_pct": {
+          "previous": 2.66,
+          "current": 1.74
+        }
+      }
+    },
+    {
+      "entity_key": "AMGN:US",
+      "name": "Amgen Inc",
+      "fields": {
+        "price": {
+          "previous": 337.6,
+          "current": 344.72
+        },
+        "change": {
+          "previous": -4.06,
+          "current": 7.12
+        },
+        "change_pct": {
+          "previous": -1.19,
+          "current": 2.11
+        }
+      }
+    },
+    {
+      "entity_key": "AMP:US",
+      "name": "Ameriprise Financial Services",
+      "fields": {
+        "price": {
+          "previous": 467.43,
+          "current": 471.41
+        },
+        "change": {
+          "previous": -4.54,
+          "current": 3.98
+        },
+        "change_pct": {
+          "previous": -0.96,
+          "current": 0.85
+        }
+      }
+    },
+    {
+      "entity_key": "AMT:US",
+      "name": "American Tower Corp",
+      "fields": {
+        "price": {
+          "previous": 176.05,
+          "current": 176.43
+        },
+        "change": {
+          "previous": -5.04,
+          "current": 0.38
+        },
+        "change_pct": {
+          "previous": -2.78,
+          "current": 0.22
+        }
+      }
+    },
+    {
+      "entity_key": "AMZN:US",
+      "name": "Amazon.com Inc",
+      "fields": {
+        "price": {
+          "previous": 244.39,
+          "current": 232.79
+        },
+        "change": {
+          "previous": 6.89,
+          "current": -11.6
+        },
+        "change_pct": {
+          "previous": 2.9,
+          "current": -4.75
+        }
+      }
+    },
+    {
+      "entity_key": "ANET:US",
+      "name": "Arista Networks Inc",
+      "fields": {
+        "price": {
+          "previous": 169.67,
+          "current": 174.56
+        },
+        "change": {
+          "previous": 4.74,
+          "current": 4.89
+        },
+        "change_pct": {
+          "previous": 2.87,
+          "current": 2.88
+        }
+      }
+    },
+    {
+      "entity_key": "AON:US",
+      "name": "AON Plc",
+      "fields": {
+        "price": {
+          "previous": 317.74,
+          "current": 313.63
+        },
+        "change": {
+          "previous": -8.95,
+          "current": -4.11
+        },
+        "change_pct": {
+          "previous": -2.74,
+          "current": -1.29
+        }
+      }
+    },
+    {
+      "entity_key": "AOS:US",
+      "name": "Smith A.O. Corp",
+      "fields": {
+        "price": {
+          "previous": 58.22,
+          "current": 58.69
+        },
+        "change": {
+          "previous": 0.34,
+          "current": 0.47
+        },
+        "change_pct": {
+          "previous": 0.59,
+          "current": 0.81
+        }
+      }
+    },
+    {
+      "entity_key": "APA:US",
+      "name": "Apa Corp",
+      "fields": {
+        "price": {
+          "previous": 33.03,
+          "current": 34.2
+        },
+        "change": {
+          "previous": -0.9,
+          "current": 1.17
+        },
+        "change_pct": {
+          "previous": -2.65,
+          "current": 3.54
+        }
+      }
+    },
+    {
+      "entity_key": "APD:US",
+      "name": "Air Products and Chemicals",
+      "fields": {
+        "price": {
+          "previous": 280.21,
+          "current": 283.11
+        },
+        "change": {
+          "previous": -1.54,
+          "current": 2.9
+        },
+        "change_pct": {
+          "previous": -0.55,
+          "current": 1.03
+        }
+      }
+    },
+    {
+      "entity_key": "APH:US",
+      "name": "Amphenol Corp",
+      "fields": {
+        "price": {
+          "previous": 163.96,
+          "current": 165.96
+        },
+        "change": {
+          "previous": 2.85,
+          "current": 2.0
+        },
+        "change_pct": {
+          "previous": 1.77,
+          "current": 1.22
+        }
+      }
+    },
+    {
+      "entity_key": "APO:US",
+      "name": "Apollo Asset Management",
+      "fields": {
+        "price": {
+          "previous": 137.5,
+          "current": 135.21
+        },
+        "change": {
+          "previous": -1.41,
+          "current": -2.29
+        },
+        "change_pct": {
+          "previous": -1.02,
+          "current": -1.67
+        }
+      }
+    },
+    {
+      "entity_key": "APP:US",
+      "name": "Applovin Corp Cl A",
+      "fields": {
+        "price": {
+          "previous": 469.71,
+          "current": 469.39
+        },
+        "change": {
+          "previous": -9.78,
+          "current": -0.32
+        },
+        "change_pct": {
+          "previous": -2.04,
+          "current": -0.07
+        }
+      }
+    },
+    {
+      "entity_key": "APTV:US",
+      "name": "Aptiv Plc",
+      "fields": {
+        "price": {
+          "previous": 63.68,
+          "current": 63.57
+        },
+        "change": {
+          "previous": 0.81,
+          "current": -0.11
+        },
+        "change_pct": {
+          "previous": 1.29,
+          "current": -0.17
+        }
+      }
+    },
+    {
+      "entity_key": "ARE:US",
+      "name": "Alexandria Real Estate Equities",
+      "fields": {
+        "price": {
+          "previous": 51.03,
+          "current": 50.73
+        },
+        "change": {
+          "previous": 1.82,
+          "current": -0.3
+        },
+        "change_pct": {
+          "previous": 3.7,
+          "current": -0.59
+        }
+      }
+    },
+    {
+      "entity_key": "ARES:US",
+      "name": "Ares Management LP",
+      "fields": {
+        "price": {
+          "previous": 129.34,
+          "current": 125.9
+        },
+        "change": {
+          "previous": 0.99,
+          "current": -3.44
+        },
+        "change_pct": {
+          "previous": 0.77,
+          "current": -2.66
+        }
+      }
+    },
+    {
+      "entity_key": "ATO:US",
+      "name": "Atmos Energy Corp",
+      "fields": {
+        "price": {
+          "previous": 170.11,
+          "current": 169.59
+        },
+        "change": {
+          "previous": 0.47,
+          "current": -0.52
+        },
+        "change_pct": {
+          "previous": 0.28,
+          "current": -0.31
+        }
+      }
+    },
+    {
+      "entity_key": "AVB:US",
+      "name": "Avalonbay Communities",
+      "fields": {
+        "price": {
+          "previous": 177.32,
+          "current": 179.89
+        },
+        "change": {
+          "previous": -2.31,
+          "current": 2.57
+        },
+        "change_pct": {
+          "previous": -1.29,
+          "current": 1.45
+        }
+      }
+    },
+    {
+      "entity_key": "AVGO:US",
+      "name": "Broadcom Ltd",
+      "fields": {
+        "price": {
+          "previous": 411.35,
+          "current": 392.13
+        },
+        "change": {
+          "previous": 18.45,
+          "current": -18.57
+        },
+        "change_pct": {
+          "previous": 4.7,
+          "current": -4.52
+        }
+      }
+    },
+    {
+      "entity_key": "AVY:US",
+      "name": "Avery Dennison Corp",
+      "fields": {
+        "price": {
+          "previous": 158.68,
+          "current": 157.48
+        },
+        "change": {
+          "previous": -0.87,
+          "current": -1.2
+        },
+        "change_pct": {
+          "previous": -0.55,
+          "current": -0.76
+        }
+      }
+    },
+    {
+      "entity_key": "AWK:US",
+      "name": "American Water Works",
+      "fields": {
+        "price": {
+          "previous": 125.07,
+          "current": 124.92
+        },
+        "change": {
+          "previous": -0.34,
+          "current": -0.15
+        },
+        "change_pct": {
+          "previous": -0.27,
+          "current": -0.12
+        }
+      }
+    },
+    {
+      "entity_key": "AXON:US",
+      "name": "Axon Enterprise",
+      "fields": {
+        "price": {
+          "previous": 423.4,
+          "current": 410.03
+        },
+        "change": {
+          "previous": 0.39,
+          "current": -13.37
+        },
+        "change_pct": {
+          "previous": 0.09,
+          "current": -3.16
+        }
+      }
+    },
+    {
+      "entity_key": "AXP:US",
+      "name": "American Express Company",
+      "fields": {
+        "price": {
+          "previous": 338.0,
+          "current": 338.07
+        },
+        "change": {
+          "previous": -2.54,
+          "current": 0.07
+        },
+        "change_pct": {
+          "previous": -0.75,
+          "current": 0.02
+        }
+      }
+    },
+    {
+      "entity_key": "AZO:US",
+      "name": "Autozone",
+      "fields": {
+        "price": {
+          "previous": 3064.48,
+          "current": 2949.06
+        },
+        "change": {
+          "previous": 4.85,
+          "current": -115.42
+        },
+        "change_pct": {
+          "previous": 0.16,
+          "current": -3.77
+        }
+      }
+    },
+    {
+      "entity_key": "BA:US",
+      "name": "Boeing Company",
+      "fields": {
+        "price": {
+          "previous": 222.72,
+          "current": 220.83
+        },
+        "change": {
+          "previous": -2.91,
+          "current": -1.89
+        },
+        "change_pct": {
+          "previous": -1.29,
+          "current": -0.85
+        }
+      }
+    },
+    {
+      "entity_key": "BAC:US",
+      "name": "Bank of America Corp",
+      "fields": {
+        "price": {
+          "previous": 56.2,
+          "current": 57.37
+        },
+        "change": {
+          "previous": -0.33,
+          "current": 1.17
+        },
+        "change_pct": {
+          "previous": -0.58,
+          "current": 2.08
+        }
+      }
+    },
+    {
+      "entity_key": "BALL:US",
+      "name": "Ball Corporation",
+      "fields": {
+        "price": {
+          "previous": 57.72,
+          "current": 58.2
+        },
+        "change": {
+          "previous": null,
+          "current": 0.48
+        },
+        "change_pct": {
+          "previous": null,
+          "current": 0.83
+        }
+      }
+    },
+    {
+      "entity_key": "BAX:US",
+      "name": "Baxter International",
+      "fields": {
+        "price": {
+          "previous": 19.89,
+          "current": 19.66
+        },
+        "change": {
+          "previous": 0.5,
+          "current": -0.23
+        },
+        "change_pct": {
+          "previous": 2.58,
+          "current": -1.16
+        }
+      }
+    },
+    {
+      "entity_key": "BBY:US",
+      "name": "Best Buy Company",
+      "fields": {
+        "price": {
+          "previous": 74.73,
+          "current": 76.01
+        },
+        "change": {
+          "previous": 2.59,
+          "current": 1.28
+        },
+        "change_pct": {
+          "previous": 3.59,
+          "current": 1.71
+        }
+      }
+    },
+    {
+      "entity_key": "BDX:US",
+      "name": "Becton Dickinson and Company",
+      "fields": {
+        "price": {
+          "previous": 143.98,
+          "current": 140.71
+        },
+        "change": {
+          "previous": 2.37,
+          "current": -3.27
+        },
+        "change_pct": {
+          "previous": 1.67,
+          "current": -2.27
+        }
+      }
+    },
+    {
+      "entity_key": "BEN:US",
+      "name": "Franklin Resources",
+      "fields": {
+        "price": {
+          "previous": 33.05,
+          "current": 33.93
+        },
+        "change": {
+          "previous": -0.24,
+          "current": 0.88
+        },
+        "change_pct": {
+          "previous": -0.72,
+          "current": 2.66
+        }
+      }
+    },
+    {
+      "entity_key": "BF.B:US",
+      "name": "Brown Forman Cl B",
+      "fields": {
+        "price": {
+          "previous": 26.64,
+          "current": 27.26
+        },
+        "change": {
+          "previous": 1.13,
+          "current": 0.62
+        },
+        "change_pct": {
+          "previous": 4.43,
+          "current": 2.33
+        }
+      }
+    },
+    {
+      "entity_key": "BG:US",
+      "name": "Bunge Ltd",
+      "fields": {
+        "price": {
+          "previous": 112.58,
+          "current": 111.42
+        },
+        "change": {
+          "previous": -3.56,
+          "current": -1.16
+        },
+        "change_pct": {
+          "previous": -3.07,
+          "current": -1.03
+        }
+      }
+    },
+    {
+      "entity_key": "BIIB:US",
+      "name": "Biogen Inc",
+      "fields": {
+        "price": {
+          "previous": 196.58,
+          "current": 199.71
+        },
+        "change": {
+          "previous": -2.09,
+          "current": 3.13
+        },
+        "change_pct": {
+          "previous": -1.05,
+          "current": 1.59
+        }
+      }
+    },
+    {
+      "entity_key": "BKNG:US",
+      "name": "Booking Holdings",
+      "fields": {
+        "price": {
+          "previous": 171.78,
+          "current": 167.77
+        },
+        "change": {
+          "previous": 0.15,
+          "current": -4.01
+        },
+        "change_pct": {
+          "previous": 0.09,
+          "current": -2.33
+        }
+      }
+    },
+    {
+      "entity_key": "BKR:US",
+      "name": "Baker Hughes Company",
+      "fields": {
+        "price": {
+          "previous": 58.41,
+          "current": 59.15
+        },
+        "change": {
+          "previous": -1.66,
+          "current": 0.74
+        },
+        "change_pct": {
+          "previous": -2.76,
+          "current": 1.27
+        }
+      }
+    },
+    {
+      "entity_key": "BLDR:US",
+      "name": "Builders Firstsource",
+      "fields": {
+        "price": {
+          "previous": 80.59,
+          "current": 77.33
+        },
+        "change": {
+          "previous": 4.45,
+          "current": -3.26
+        },
+        "change_pct": {
+          "previous": 5.84,
+          "current": -4.05
+        }
+      }
+    },
+    {
+      "entity_key": "BLK:US",
+      "name": "Blackrock Inc",
+      "fields": {
+        "price": {
+          "previous": 1050.09,
+          "current": 1051.74
+        },
+        "change": {
+          "previous": -7.29,
+          "current": 1.65
+        },
+        "change_pct": {
+          "previous": -0.69,
+          "current": 0.16
+        }
+      }
+    },
+    {
+      "entity_key": "BMY:US",
+      "name": "Bristol-Myers Squibb Company",
+      "fields": {
+        "price": {
+          "previous": 54.0,
+          "current": 54.7
+        },
+        "change": {
+          "previous": -1.28,
+          "current": 0.7
+        },
+        "change_pct": {
+          "previous": -2.32,
+          "current": 1.3
+        }
+      }
+    },
+    {
+      "entity_key": "BNY:US",
+      "name": "Bank of New York Mellon Corp",
+      "fields": {
+        "price": {
+          "previous": 143.63,
+          "current": 146.44
+        },
+        "change": {
+          "previous": -2.44,
+          "current": 2.81
+        },
+        "change_pct": {
+          "previous": -1.67,
+          "current": 1.96
+        }
+      }
+    },
+    {
+      "entity_key": "BR:US",
+      "name": "Broadridge Financial Solutions",
+      "fields": {
+        "price": {
+          "previous": 137.6,
+          "current": 136.22
+        },
+        "change": {
+          "previous": -2.03,
+          "current": -1.38
+        },
+        "change_pct": {
+          "previous": -1.45,
+          "current": -1.0
+        }
+      }
+    },
+    {
+      "entity_key": "BRK.B:US",
+      "name": "Berkshire Hathaway Cl B",
+      "fields": {
+        "price": {
+          "previous": 489.46,
+          "current": 488.69
+        },
+        "change": {
+          "previous": -1.82,
+          "current": -0.77
+        },
+        "change_pct": {
+          "previous": -0.37,
+          "current": -0.16
+        }
+      }
+    },
+    {
+      "entity_key": "BRO:US",
+      "name": "Brown & Brown",
+      "fields": {
+        "price": {
+          "previous": 59.1,
+          "current": 58.24
+        },
+        "change": {
+          "previous": 0.06,
+          "current": -0.86
+        },
+        "change_pct": {
+          "previous": 0.1,
+          "current": -1.46
+        }
+      }
+    },
+    {
+      "entity_key": "BSX:US",
+      "name": "Boston Scientific Corp",
+      "fields": {
+        "price": {
+          "previous": 45.29,
+          "current": 44.33
+        },
+        "change": {
+          "previous": 0.34,
+          "current": -0.96
+        },
+        "change_pct": {
+          "previous": 0.76,
+          "current": -2.12
+        }
+      }
+    },
+    {
+      "entity_key": "BX:US",
+      "name": "Blackstone Inc",
+      "fields": {
+        "price": {
+          "previous": 123.79,
+          "current": 123.26
+        },
+        "change": {
+          "previous": -1.22,
+          "current": -0.53
+        },
+        "change_pct": {
+          "previous": -0.98,
+          "current": -0.43
+        }
+      }
+    },
+    {
+      "entity_key": "BXP:US",
+      "name": "Bxp Inc",
+      "fields": {
+        "price": {
+          "previous": 64.7,
+          "current": 64.91
+        },
+        "change": {
+          "previous": 1.64,
+          "current": 0.21
+        },
+        "change_pct": {
+          "previous": 2.6,
+          "current": 0.32
+        }
+      }
+    },
+    {
+      "entity_key": "C:US",
+      "name": "Citigroup Inc",
+      "fields": {
+        "price": {
+          "previous": 143.06,
+          "current": 145.67
+        },
+        "change": {
+          "previous": -0.72,
+          "current": 2.61
+        },
+        "change_pct": {
+          "previous": -0.5,
+          "current": 1.82
+        }
+      }
+    },
+    {
+      "entity_key": "CAG:US",
+      "name": "Conagra Brands",
+      "fields": {
+        "price": {
+          "previous": 13.2,
+          "current": 12.85
+        },
+        "change": {
+          "previous": 0.04,
+          "current": -0.35
+        },
+        "change_pct": {
+          "previous": 0.3,
+          "current": -2.65
+        }
+      }
+    },
+    {
+      "entity_key": "CAH:US",
+      "name": "Cardinal Health",
+      "fields": {
+        "price": {
+          "previous": 221.77,
+          "current": 222.74
+        },
+        "change": {
+          "previous": -4.51,
+          "current": 0.97
+        },
+        "change_pct": {
+          "previous": -1.99,
+          "current": 0.44
+        }
+      }
+    },
+    {
+      "entity_key": "CARR:US",
+      "name": "Carrier Global Corp",
+      "fields": {
+        "price": {
+          "previous": 71.81,
+          "current": 71.85
+        },
+        "change": {
+          "previous": 2.32,
+          "current": 0.04
+        },
+        "change_pct": {
+          "previous": 3.34,
+          "current": 0.06
+        }
+      }
+    },
+    {
+      "entity_key": "CASY:US",
+      "name": "Casey's General Stor",
+      "fields": {
+        "price": {
+          "previous": 842.25,
+          "current": 831.67
+        },
+        "change": {
+          "previous": -8.6,
+          "current": -10.58
+        },
+        "change_pct": {
+          "previous": -1.01,
+          "current": -1.26
+        }
+      }
+    },
+    {
+      "entity_key": "CAT:US",
+      "name": "Caterpillar Inc",
+      "fields": {
+        "price": {
+          "previous": 985.82,
+          "current": 1022.28
+        },
+        "change": {
+          "previous": 29.9,
+          "current": 36.46
+        },
+        "change_pct": {
+          "previous": 3.13,
+          "current": 3.7
+        }
+      }
+    },
+    {
+      "entity_key": "CB:US",
+      "name": "Chubb Ltd",
+      "fields": {
+        "price": {
+          "previous": 323.4,
+          "current": 325.2
+        },
+        "change": {
+          "previous": -4.56,
+          "current": 1.8
+        },
+        "change_pct": {
+          "previous": -1.39,
+          "current": 0.56
+        }
+      }
+    },
+    {
+      "entity_key": "CBOE:US",
+      "name": "CBOE Global Markets",
+      "fields": {
+        "price": {
+          "previous": 249.1,
+          "current": 255.98
+        },
+        "change": {
+          "previous": -5.59,
+          "current": 6.88
+        },
+        "change_pct": {
+          "previous": -2.19,
+          "current": 2.76
+        }
+      }
+    },
+    {
+      "entity_key": "CBRE:US",
+      "name": "CBRE Group",
+      "fields": {
+        "price": {
+          "previous": 131.55,
+          "current": 129.95
+        },
+        "change": {
+          "previous": 0.76,
+          "current": -1.6
+        },
+        "change_pct": {
+          "previous": 0.58,
+          "current": -1.22
+        }
+      }
+    },
+    {
+      "entity_key": "CCI:US",
+      "name": "Crown Castle",
+      "fields": {
+        "price": {
+          "previous": 82.05,
+          "current": 83.12
+        },
+        "change": {
+          "previous": -3.72,
+          "current": 1.07
+        },
+        "change_pct": {
+          "previous": -4.34,
+          "current": 1.3
+        }
+      }
+    },
+    {
+      "entity_key": "CCL:US",
+      "name": "Carnival Corporation Ltd",
+      "fields": {
+        "price": {
+          "previous": 30.87,
+          "current": 30.19
+        },
+        "change": {
+          "previous": 0.96,
+          "current": -0.68
+        },
+        "change_pct": {
+          "previous": 3.21,
+          "current": -2.2
+        }
+      }
+    },
+    {
+      "entity_key": "CDNS:US",
+      "name": "Cadence Design Sys",
+      "fields": {
+        "price": {
+          "previous": 387.39,
+          "current": 389.04
+        },
+        "change": {
+          "previous": -2.21,
+          "current": 1.65
+        },
+        "change_pct": {
+          "previous": -0.57,
+          "current": 0.43
+        }
+      }
+    },
+    {
+      "entity_key": "CDW:US",
+      "name": "CDW Corp",
+      "fields": {
+        "price": {
+          "previous": 128.37,
+          "current": 123.57
+        },
+        "change": {
+          "previous": 1.67,
+          "current": -4.8
+        },
+        "change_pct": {
+          "previous": 1.32,
+          "current": -3.74
+        }
+      }
+    },
+    {
+      "entity_key": "CEG:US",
+      "name": "Constellation Energy Corp",
+      "fields": {
+        "price": {
+          "previous": 274.06,
+          "current": 275.53
+        },
+        "change": {
+          "previous": 6.89,
+          "current": 1.47
+        },
+        "change_pct": {
+          "previous": 2.58,
+          "current": 0.54
+        }
+      }
+    },
+    {
+      "entity_key": "CF:US",
+      "name": "Cf Industries Holdings",
+      "fields": {
+        "price": {
+          "previous": 102.93,
+          "current": 103.6
+        },
+        "change": {
+          "previous": -2.92,
+          "current": 0.67
+        },
+        "change_pct": {
+          "previous": -2.76,
+          "current": 0.65
+        }
+      }
+    },
+    {
+      "entity_key": "CFG:US",
+      "name": "Citizens Financial Group",
+      "fields": {
+        "price": {
+          "previous": 67.08,
+          "current": 67.99
+        },
+        "change": {
+          "previous": 0.3,
+          "current": 0.91
+        },
+        "change_pct": {
+          "previous": 0.45,
+          "current": 1.36
+        }
+      }
+    },
+    {
+      "entity_key": "CHD:US",
+      "name": "Church & Dwight Company",
+      "fields": {
+        "price": {
+          "previous": 95.63,
+          "current": 93.74
+        },
+        "change": {
+          "previous": -1.78,
+          "current": -1.89
+        },
+        "change_pct": {
+          "previous": -1.83,
+          "current": -1.98
+        }
+      }
+    },
+    {
+      "entity_key": "CHRW:US",
+      "name": "C.H. Robinson Ww",
+      "fields": {
+        "price": {
+          "previous": 185.04,
+          "current": 187.07
+        },
+        "change": {
+          "previous": -0.16,
+          "current": 2.03
+        },
+        "change_pct": {
+          "previous": -0.09,
+          "current": 1.1
+        }
+      }
+    },
+    {
+      "entity_key": "CHTR:US",
+      "name": "Charter Communications",
+      "fields": {
+        "price": {
+          "previous": 126.23,
+          "current": 125.54
+        },
+        "change": {
+          "previous": -5.77,
+          "current": -0.69
+        },
+        "change_pct": {
+          "previous": -4.37,
+          "current": -0.55
+        }
+      }
+    },
+    {
+      "entity_key": "CI:US",
+      "name": "The Cigna Group",
+      "fields": {
+        "price": {
+          "previous": 279.27,
+          "current": 282.08
+        },
+        "change": {
+          "previous": -5.82,
+          "current": 2.81
+        },
+        "change_pct": {
+          "previous": -2.04,
+          "current": 1.01
+        }
+      }
+    },
+    {
+      "entity_key": "CIEN:US",
+      "name": "Ciena Corp",
+      "fields": {
+        "price": {
+          "previous": 428.22,
+          "current": 460.33
+        },
+        "change": {
+          "previous": -8.5,
+          "current": 32.11
+        },
+        "change_pct": {
+          "previous": -1.95,
+          "current": 7.5
+        }
+      }
+    },
+    {
+      "entity_key": "CINF:US",
+      "name": "Cincinnati Financial",
+      "fields": {
+        "price": {
+          "previous": 170.2,
+          "current": 172.46
+        },
+        "change": {
+          "previous": -1.27,
+          "current": 2.26
+        },
+        "change_pct": {
+          "previous": -0.74,
+          "current": 1.33
+        }
+      }
+    },
+    {
+      "entity_key": "CL:US",
+      "name": "Colgate-Palmolive Company",
+      "fields": {
+        "price": {
+          "previous": 89.48,
+          "current": 88.67
+        },
+        "change": {
+          "previous": -1.1,
+          "current": -0.81
+        },
+        "change_pct": {
+          "previous": -1.21,
+          "current": -0.91
+        }
+      }
+    },
+    {
+      "entity_key": "CLX:US",
+      "name": "Clorox Company",
+      "fields": {
+        "price": {
+          "previous": 95.8,
+          "current": 90.6
+        },
+        "change": {
+          "previous": 0.83,
+          "current": -5.2
+        },
+        "change_pct": {
+          "previous": 0.87,
+          "current": -5.43
         }
       }
     },
@@ -38,16 +1756,160 @@
       "name": "Comcast Corp A",
       "fields": {
         "price": {
-          "previous": 22.38,
-          "current": 22.43
+          "previous": 22.43,
+          "current": 22.32
         },
         "change": {
-          "previous": -0.31,
-          "current": -0.26
+          "previous": -0.26,
+          "current": -0.11
         },
         "change_pct": {
-          "previous": -1.37,
-          "current": -1.15
+          "previous": -1.15,
+          "current": -0.49
+        }
+      }
+    },
+    {
+      "entity_key": "CME:US",
+      "name": "CME Group",
+      "fields": {
+        "price": {
+          "previous": 246.38,
+          "current": 245.2
+        },
+        "change": {
+          "previous": -6.16,
+          "current": -1.18
+        },
+        "change_pct": {
+          "previous": -2.44,
+          "current": -0.48
+        }
+      }
+    },
+    {
+      "entity_key": "CMG:US",
+      "name": "Chipotle Mexican Grill",
+      "fields": {
+        "price": {
+          "previous": 32.49,
+          "current": 30.54
+        },
+        "change": {
+          "previous": 0.63,
+          "current": -1.95
+        },
+        "change_pct": {
+          "previous": 1.98,
+          "current": -6.0
+        }
+      }
+    },
+    {
+      "entity_key": "CMI:US",
+      "name": "Cummins Inc",
+      "fields": {
+        "price": {
+          "previous": 716.86,
+          "current": 724.93
+        },
+        "change": {
+          "previous": -0.92,
+          "current": 8.07
+        },
+        "change_pct": {
+          "previous": -0.13,
+          "current": 1.13
+        }
+      }
+    },
+    {
+      "entity_key": "CMS:US",
+      "name": "Cms Energy Corp",
+      "fields": {
+        "price": {
+          "previous": 73.38,
+          "current": 73.8
+        },
+        "change": {
+          "previous": 0.07,
+          "current": 0.42
+        },
+        "change_pct": {
+          "previous": 0.1,
+          "current": 0.57
+        }
+      }
+    },
+    {
+      "entity_key": "CNC:US",
+      "name": "Centene Corp",
+      "fields": {
+        "price": {
+          "previous": 61.02,
+          "current": 63.68
+        },
+        "change": {
+          "previous": 0.38,
+          "current": 2.66
+        },
+        "change_pct": {
+          "previous": 0.63,
+          "current": 4.36
+        }
+      }
+    },
+    {
+      "entity_key": "CNP:US",
+      "name": "Centerpoint Energy",
+      "fields": {
+        "price": {
+          "previous": 42.82,
+          "current": 43.12
+        },
+        "change": {
+          "previous": 0.19,
+          "current": 0.3
+        },
+        "change_pct": {
+          "previous": 0.45,
+          "current": 0.7
+        }
+      }
+    },
+    {
+      "entity_key": "COF:US",
+      "name": "Capital One Financial",
+      "fields": {
+        "price": {
+          "previous": 201.53,
+          "current": 200.7
+        },
+        "change": {
+          "previous": 0.66,
+          "current": -0.83
+        },
+        "change_pct": {
+          "previous": 0.33,
+          "current": -0.41
+        }
+      }
+    },
+    {
+      "entity_key": "COHR:US",
+      "name": "Coherent Corp",
+      "fields": {
+        "price": {
+          "previous": 389.57,
+          "current": 425.48
+        },
+        "change": {
+          "previous": 10.72,
+          "current": 35.91
+        },
+        "change_pct": {
+          "previous": 2.83,
+          "current": 9.22
         }
       }
     },
@@ -55,9 +1917,1737 @@
       "entity_key": "COIN:US",
       "name": "Coinbase Global Cl A",
       "fields": {
+        "price": {
+          "previous": 163.26,
+          "current": 164.84
+        },
         "change": {
-          "previous": -1.66,
-          "current": -1.65
+          "previous": -1.65,
+          "current": 1.58
+        },
+        "change_pct": {
+          "previous": -1.0,
+          "current": 0.97
+        }
+      }
+    },
+    {
+      "entity_key": "COO:US",
+      "name": "Cooper Companies",
+      "fields": {
+        "price": {
+          "previous": 65.91,
+          "current": 65.42
+        },
+        "change": {
+          "previous": 0.86,
+          "current": -0.49
+        },
+        "change_pct": {
+          "previous": 1.32,
+          "current": -0.74
+        }
+      }
+    },
+    {
+      "entity_key": "COP:US",
+      "name": "Conocophillips",
+      "fields": {
+        "price": {
+          "previous": 107.74,
+          "current": 109.7
+        },
+        "change": {
+          "previous": -3.47,
+          "current": 1.96
+        },
+        "change_pct": {
+          "previous": -3.12,
+          "current": 1.82
+        }
+      }
+    },
+    {
+      "entity_key": "COR:US",
+      "name": "Cencora Inc",
+      "fields": {
+        "price": {
+          "previous": 271.83,
+          "current": 271.28
+        },
+        "change": {
+          "previous": -5.26,
+          "current": -0.55
+        },
+        "change_pct": {
+          "previous": -1.9,
+          "current": -0.2
+        }
+      }
+    },
+    {
+      "entity_key": "COST:US",
+      "name": "Costco Wholesale",
+      "fields": {
+        "price": {
+          "previous": 951.45,
+          "current": 951.35
+        },
+        "change": {
+          "previous": -14.14,
+          "current": -0.1
+        },
+        "change_pct": {
+          "previous": -1.46,
+          "current": -0.01
+        }
+      }
+    },
+    {
+      "entity_key": "CPAY:US",
+      "name": "Corpay Inc",
+      "fields": {
+        "price": {
+          "previous": 345.28,
+          "current": 347.17
+        },
+        "change": {
+          "previous": -8.05,
+          "current": 1.89
+        },
+        "change_pct": {
+          "previous": -2.28,
+          "current": 0.55
+        }
+      }
+    },
+    {
+      "entity_key": "CPB:US",
+      "name": "The Campbell's Company",
+      "fields": {
+        "price": {
+          "previous": 21.15,
+          "current": 20.4
+        },
+        "change": {
+          "previous": 0.04,
+          "current": -0.75
+        },
+        "change_pct": {
+          "previous": 0.19,
+          "current": -3.55
+        }
+      }
+    },
+    {
+      "entity_key": "CPRT:US",
+      "name": "Copart Inc",
+      "fields": {
+        "price": {
+          "previous": 30.23,
+          "current": 29.48
+        },
+        "change": {
+          "previous": 0.71,
+          "current": -0.75
+        },
+        "change_pct": {
+          "previous": 2.41,
+          "current": -2.48
+        }
+      }
+    },
+    {
+      "entity_key": "CPT:US",
+      "name": "Camden Property Trust",
+      "fields": {
+        "price": {
+          "previous": 108.99,
+          "current": 108.98
+        },
+        "change": {
+          "previous": -0.36,
+          "current": -0.01
+        },
+        "change_pct": {
+          "previous": -0.33,
+          "current": -0.01
+        }
+      }
+    },
+    {
+      "entity_key": "CRH:US",
+      "name": "CRH Plc ADR",
+      "fields": {
+        "price": {
+          "previous": 111.24,
+          "current": 111.25
+        },
+        "change": {
+          "previous": 1.83,
+          "current": 0.01
+        },
+        "change_pct": {
+          "previous": 1.67,
+          "current": 0.01
+        }
+      }
+    },
+    {
+      "entity_key": "CRL:US",
+      "name": "Charles River Laboratories",
+      "fields": {
+        "price": {
+          "previous": 185.0,
+          "current": 181.56
+        },
+        "change": {
+          "previous": 2.66,
+          "current": -3.44
+        },
+        "change_pct": {
+          "previous": 1.46,
+          "current": -1.86
+        }
+      }
+    },
+    {
+      "entity_key": "CRM:US",
+      "name": "Salesforce Inc",
+      "fields": {
+        "price": {
+          "previous": 151.78,
+          "current": 150.12
+        },
+        "change": {
+          "previous": -3.24,
+          "current": -1.66
+        },
+        "change_pct": {
+          "previous": -2.09,
+          "current": -1.09
+        }
+      }
+    },
+    {
+      "entity_key": "CRWD:US",
+      "name": "Crowdstrike Holdings",
+      "fields": {
+        "price": {
+          "previous": 684.86,
+          "current": 675.44
+        },
+        "change": {
+          "previous": 1.9,
+          "current": -9.42
+        },
+        "change_pct": {
+          "previous": 0.28,
+          "current": -1.38
+        }
+      }
+    },
+    {
+      "entity_key": "CSCO:US",
+      "name": "Cisco Systems Inc",
+      "fields": {
+        "price": {
+          "previous": 119.54,
+          "current": 121.53
+        },
+        "change": {
+          "previous": 2.21,
+          "current": 1.99
+        },
+        "change_pct": {
+          "previous": 1.88,
+          "current": 1.66
+        }
+      }
+    },
+    {
+      "entity_key": "CSGP:US",
+      "name": "Costar Group Inc",
+      "fields": {
+        "price": {
+          "previous": 30.12,
+          "current": 29.22
+        },
+        "change": {
+          "previous": -0.34,
+          "current": -0.9
+        },
+        "change_pct": {
+          "previous": -1.12,
+          "current": -2.99
+        }
+      }
+    },
+    {
+      "entity_key": "CSX:US",
+      "name": "CSX Corp",
+      "fields": {
+        "price": {
+          "previous": 45.63,
+          "current": 46.2
+        },
+        "change": {
+          "previous": 0.06,
+          "current": 0.57
+        },
+        "change_pct": {
+          "previous": 0.13,
+          "current": 1.25
+        }
+      }
+    },
+    {
+      "entity_key": "CTAS:US",
+      "name": "Cintas Corp",
+      "fields": {
+        "price": {
+          "previous": 170.85,
+          "current": 169.45
+        },
+        "change": {
+          "previous": 1.21,
+          "current": -1.4
+        },
+        "change_pct": {
+          "previous": 0.71,
+          "current": -0.82
+        }
+      }
+    },
+    {
+      "entity_key": "CTSH:US",
+      "name": "Cognizant Tech Sol",
+      "fields": {
+        "price": {
+          "previous": 43.7,
+          "current": 41.83
+        },
+        "change": {
+          "previous": -5.12,
+          "current": -1.87
+        },
+        "change_pct": {
+          "previous": -10.49,
+          "current": -4.28
+        }
+      }
+    },
+    {
+      "entity_key": "CTVA:US",
+      "name": "Corteva Inc",
+      "fields": {
+        "price": {
+          "previous": 78.59,
+          "current": 78.86
+        },
+        "change": {
+          "previous": 1.22,
+          "current": 0.27
+        },
+        "change_pct": {
+          "previous": 1.58,
+          "current": 0.34
+        }
+      }
+    },
+    {
+      "entity_key": "CVNA:US",
+      "name": "Carvana Company Cl A",
+      "fields": {
+        "price": {
+          "previous": 66.56,
+          "current": 66.67
+        },
+        "change": {
+          "previous": 3.7,
+          "current": 0.11
+        },
+        "change_pct": {
+          "previous": 5.89,
+          "current": 0.17
+        }
+      }
+    },
+    {
+      "entity_key": "CVS:US",
+      "name": "CVS Corp",
+      "fields": {
+        "price": {
+          "previous": 98.32,
+          "current": 101.3
+        },
+        "change": {
+          "previous": -0.84,
+          "current": 2.98
+        },
+        "change_pct": {
+          "previous": -0.85,
+          "current": 3.03
+        }
+      }
+    },
+    {
+      "entity_key": "CVX:US",
+      "name": "Chevron Corp",
+      "fields": {
+        "price": {
+          "previous": 173.63,
+          "current": 175.06
+        },
+        "change": {
+          "previous": -3.95,
+          "current": 1.43
+        },
+        "change_pct": {
+          "previous": -2.22,
+          "current": 0.82
+        }
+      }
+    },
+    {
+      "entity_key": "D:US",
+      "name": "Dominion Energy Inc",
+      "fields": {
+        "price": {
+          "previous": 68.41,
+          "current": 68.04
+        },
+        "change": {
+          "previous": 0.39,
+          "current": -0.37
+        },
+        "change_pct": {
+          "previous": 0.57,
+          "current": -0.54
+        }
+      }
+    },
+    {
+      "entity_key": "DAL:US",
+      "name": "Delta Air Lines Inc",
+      "fields": {
+        "price": {
+          "previous": 84.18,
+          "current": 85.92
+        },
+        "change": {
+          "previous": 1.93,
+          "current": 1.74
+        },
+        "change_pct": {
+          "previous": 2.35,
+          "current": 2.07
+        }
+      }
+    },
+    {
+      "entity_key": "DASH:US",
+      "name": "Doordash Cl A",
+      "fields": {
+        "price": {
+          "previous": 173.46,
+          "current": 172.08
+        },
+        "change": {
+          "previous": 7.8,
+          "current": -1.38
+        },
+        "change_pct": {
+          "previous": 4.71,
+          "current": -0.8
+        }
+      }
+    },
+    {
+      "entity_key": "DD:US",
+      "name": "Dupont Denemours Inc",
+      "fields": {
+        "price": {
+          "previous": 47.71,
+          "current": 48.19
+        },
+        "change": {
+          "previous": -0.24,
+          "current": 0.48
+        },
+        "change_pct": {
+          "previous": -0.5,
+          "current": 1.01
+        }
+      }
+    },
+    {
+      "entity_key": "DDOG:US",
+      "name": "Datadog Cl A",
+      "fields": {
+        "price": {
+          "previous": 223.0,
+          "current": 221.37
+        },
+        "change": {
+          "previous": -3.63,
+          "current": -1.63
+        },
+        "change_pct": {
+          "previous": -1.6,
+          "current": -0.73
+        }
+      }
+    },
+    {
+      "entity_key": "DE:US",
+      "name": "Deere & Company",
+      "fields": {
+        "price": {
+          "previous": 589.24,
+          "current": 598.59
+        },
+        "change": {
+          "previous": 0.77,
+          "current": 9.35
+        },
+        "change_pct": {
+          "previous": 0.13,
+          "current": 1.59
+        }
+      }
+    },
+    {
+      "entity_key": "DECK:US",
+      "name": "Deckers Outdoor Corp",
+      "fields": {
+        "price": {
+          "previous": 109.11,
+          "current": 105.57
+        },
+        "change": {
+          "previous": 3.39,
+          "current": -3.54
+        },
+        "change_pct": {
+          "previous": 3.21,
+          "current": -3.24
+        }
+      }
+    },
+    {
+      "entity_key": "DELL:US",
+      "name": "Dell Technologies Inc",
+      "fields": {
+        "price": {
+          "previous": 409.5,
+          "current": 418.71
+        },
+        "change": {
+          "previous": -9.82,
+          "current": 9.21
+        },
+        "change_pct": {
+          "previous": -2.34,
+          "current": 2.25
+        }
+      }
+    },
+    {
+      "entity_key": "DG:US",
+      "name": "Dollar General Corp",
+      "fields": {
+        "price": {
+          "previous": 113.45,
+          "current": 112.46
+        },
+        "change": {
+          "previous": 4.76,
+          "current": -0.99
+        },
+        "change_pct": {
+          "previous": 4.38,
+          "current": -0.87
+        }
+      }
+    },
+    {
+      "entity_key": "DGX:US",
+      "name": "Quest Diagnostics Inc",
+      "fields": {
+        "price": {
+          "previous": 195.0,
+          "current": 193.58
+        },
+        "change": {
+          "previous": -2.76,
+          "current": -1.42
+        },
+        "change_pct": {
+          "previous": -1.4,
+          "current": -0.73
+        }
+      }
+    },
+    {
+      "entity_key": "DHI:US",
+      "name": "D.R. Horton",
+      "fields": {
+        "price": {
+          "previous": 157.81,
+          "current": 155.94
+        },
+        "change": {
+          "previous": 5.33,
+          "current": -1.87
+        },
+        "change_pct": {
+          "previous": 3.5,
+          "current": -1.18
+        }
+      }
+    },
+    {
+      "entity_key": "DHR:US",
+      "name": "Danaher Corp",
+      "fields": {
+        "price": {
+          "previous": 177.17,
+          "current": 178.19
+        },
+        "change": {
+          "previous": -0.59,
+          "current": 1.02
+        },
+        "change_pct": {
+          "previous": -0.33,
+          "current": 0.58
+        }
+      }
+    },
+    {
+      "entity_key": "DIS:US",
+      "name": "Walt Disney Company",
+      "fields": {
+        "price": {
+          "previous": 103.89,
+          "current": 102.45
+        },
+        "change": {
+          "previous": 3.03,
+          "current": -1.44
+        },
+        "change_pct": {
+          "previous": 3.0,
+          "current": -1.39
+        }
+      }
+    },
+    {
+      "entity_key": "DLR:US",
+      "name": "Digital Realty Trust",
+      "fields": {
+        "price": {
+          "previous": 188.15,
+          "current": 195.54
+        },
+        "change": {
+          "previous": 1.07,
+          "current": 7.39
+        },
+        "change_pct": {
+          "previous": 0.57,
+          "current": 3.93
+        }
+      }
+    },
+    {
+      "entity_key": "DLTR:US",
+      "name": "Dollar Tree Inc",
+      "fields": {
+        "price": {
+          "previous": 111.65,
+          "current": 113.93
+        },
+        "change": {
+          "previous": 5.24,
+          "current": 2.28
+        },
+        "change_pct": {
+          "previous": 4.92,
+          "current": 2.04
+        }
+      }
+    },
+    {
+      "entity_key": "DOC:US",
+      "name": "Healthpeak Properties",
+      "fields": {
+        "price": {
+          "previous": 19.56,
+          "current": 19.98
+        },
+        "change": {
+          "previous": 0.16,
+          "current": 0.42
+        },
+        "change_pct": {
+          "previous": 0.82,
+          "current": 2.15
+        }
+      }
+    },
+    {
+      "entity_key": "DOV:US",
+      "name": "Dover Corp",
+      "fields": {
+        "price": {
+          "previous": 223.57,
+          "current": 229.4
+        },
+        "change": {
+          "previous": 2.78,
+          "current": 5.83
+        },
+        "change_pct": {
+          "previous": 1.26,
+          "current": 2.61
+        }
+      }
+    },
+    {
+      "entity_key": "DOW:US",
+      "name": "Dow Inc",
+      "fields": {
+        "price": {
+          "previous": 31.73,
+          "current": 30.79
+        },
+        "change": {
+          "previous": -0.77,
+          "current": -0.94
+        },
+        "change_pct": {
+          "previous": -2.37,
+          "current": -2.96
+        }
+      }
+    },
+    {
+      "entity_key": "DPZ:US",
+      "name": "Domino's Pizza Inc",
+      "fields": {
+        "price": {
+          "previous": 312.47,
+          "current": 295.11
+        },
+        "change": {
+          "previous": -1.89,
+          "current": -17.36
+        },
+        "change_pct": {
+          "previous": -0.6,
+          "current": -5.56
+        }
+      }
+    },
+    {
+      "entity_key": "DRI:US",
+      "name": "Darden Restaurants",
+      "fields": {
+        "price": {
+          "previous": 213.45,
+          "current": 212.0
+        },
+        "change": {
+          "previous": 2.12,
+          "current": -1.45
+        },
+        "change_pct": {
+          "previous": 1.0,
+          "current": -0.68
+        }
+      }
+    },
+    {
+      "entity_key": "DTE:US",
+      "name": "Dte Energy Company",
+      "fields": {
+        "price": {
+          "previous": 147.56,
+          "current": 146.83
+        },
+        "change": {
+          "previous": 0.37,
+          "current": 0.44
+        },
+        "change_pct": {
+          "previous": 0.25,
+          "current": 0.3
+        }
+      }
+    },
+    {
+      "entity_key": "DUK:US",
+      "name": "Duke Energy Corp",
+      "fields": {
+        "price": {
+          "previous": 123.86,
+          "current": 123.52
+        },
+        "change": {
+          "previous": 0.13,
+          "current": -0.34
+        },
+        "change_pct": {
+          "previous": 0.11,
+          "current": -0.27
+        }
+      }
+    },
+    {
+      "entity_key": "DVA:US",
+      "name": "Davita Healthcare Partners",
+      "fields": {
+        "price": {
+          "previous": 207.91,
+          "current": 209.68
+        },
+        "change": {
+          "previous": -2.67,
+          "current": 1.77
+        },
+        "change_pct": {
+          "previous": -1.27,
+          "current": 0.85
+        }
+      }
+    },
+    {
+      "entity_key": "DVN:US",
+      "name": "Devon Energy Corp",
+      "fields": {
+        "price": {
+          "previous": 42.12,
+          "current": 43.05
+        },
+        "change": {
+          "previous": -0.46,
+          "current": 0.93
+        },
+        "change_pct": {
+          "previous": -1.08,
+          "current": 2.21
+        }
+      }
+    },
+    {
+      "entity_key": "DXCM:US",
+      "name": "Dexcom Inc",
+      "fields": {
+        "price": {
+          "previous": 72.47,
+          "current": 69.07
+        },
+        "change": {
+          "previous": 1.24,
+          "current": -3.4
+        },
+        "change_pct": {
+          "previous": 1.74,
+          "current": -4.69
+        }
+      }
+    },
+    {
+      "entity_key": "EA:US",
+      "name": "Electronic Arts Inc",
+      "fields": {
+        "price": {
+          "previous": 202.15,
+          "current": 202.97
+        },
+        "change": {
+          "previous": -0.87,
+          "current": 0.82
+        },
+        "change_pct": {
+          "previous": -0.43,
+          "current": 0.41
+        }
+      }
+    },
+    {
+      "entity_key": "EBAY:US",
+      "name": "Ebay Inc",
+      "fields": {
+        "price": {
+          "previous": 108.24,
+          "current": 104.94
+        },
+        "change": {
+          "previous": 0.35,
+          "current": -3.3
+        },
+        "change_pct": {
+          "previous": 0.32,
+          "current": -3.05
+        }
+      }
+    },
+    {
+      "entity_key": "ECL:US",
+      "name": "Ecolab Inc",
+      "fields": {
+        "price": {
+          "previous": 269.12,
+          "current": 269.34
+        },
+        "change": {
+          "previous": 0.06,
+          "current": 0.22
+        },
+        "change_pct": {
+          "previous": 0.02,
+          "current": 0.08
+        }
+      }
+    },
+    {
+      "entity_key": "ED:US",
+      "name": "Consolidated Edison Company",
+      "fields": {
+        "price": {
+          "previous": 106.36,
+          "current": 106.92
+        },
+        "change": {
+          "previous": -0.68,
+          "current": 0.56
+        },
+        "change_pct": {
+          "previous": -0.64,
+          "current": 0.53
+        }
+      }
+    },
+    {
+      "entity_key": "EFX:US",
+      "name": "Equifax Inc",
+      "fields": {
+        "price": {
+          "previous": 153.93,
+          "current": 153.49
+        },
+        "change": {
+          "previous": -0.91,
+          "current": -0.44
+        },
+        "change_pct": {
+          "previous": -0.59,
+          "current": -0.29
+        }
+      }
+    },
+    {
+      "entity_key": "EG:US",
+      "name": "Everest Re Group",
+      "fields": {
+        "price": {
+          "previous": 335.63,
+          "current": 339.3
+        },
+        "change": {
+          "previous": -1.89,
+          "current": 3.67
+        },
+        "change_pct": {
+          "previous": -0.56,
+          "current": 1.09
+        }
+      }
+    },
+    {
+      "entity_key": "EIX:US",
+      "name": "Edison International",
+      "fields": {
+        "price": {
+          "previous": 71.89,
+          "current": 72.2
+        },
+        "change": {
+          "previous": 0.99,
+          "current": 0.31
+        },
+        "change_pct": {
+          "previous": 1.4,
+          "current": 0.43
+        }
+      }
+    },
+    {
+      "entity_key": "EL:US",
+      "name": "Estee Lauder Companies",
+      "fields": {
+        "price": {
+          "previous": 84.81,
+          "current": 84.53
+        },
+        "change": {
+          "previous": 2.35,
+          "current": -0.28
+        },
+        "change_pct": {
+          "previous": 2.85,
+          "current": -0.33
+        }
+      }
+    },
+    {
+      "entity_key": "ELV:US",
+      "name": "Elevance Health Inc",
+      "fields": {
+        "price": {
+          "previous": 388.5,
+          "current": 394.82
+        },
+        "change": {
+          "previous": -2.77,
+          "current": 6.32
+        },
+        "change_pct": {
+          "previous": -0.71,
+          "current": 1.63
+        }
+      }
+    },
+    {
+      "entity_key": "EME:US",
+      "name": "Emcor Group",
+      "fields": {
+        "price": {
+          "previous": 836.59,
+          "current": 868.88
+        },
+        "change": {
+          "previous": 9.09,
+          "current": 32.29
+        },
+        "change_pct": {
+          "previous": 1.1,
+          "current": 3.86
+        }
+      }
+    },
+    {
+      "entity_key": "EMR:US",
+      "name": "Emerson Electric Company",
+      "fields": {
+        "price": {
+          "previous": 150.66,
+          "current": 150.21
+        },
+        "change": {
+          "previous": 1.66,
+          "current": -0.45
+        },
+        "change_pct": {
+          "previous": 1.11,
+          "current": -0.3
+        }
+      }
+    },
+    {
+      "entity_key": "EOG:US",
+      "name": "Eog Resources",
+      "fields": {
+        "price": {
+          "previous": 129.98,
+          "current": 132.83
+        },
+        "change": {
+          "previous": -3.27,
+          "current": 2.85
+        },
+        "change_pct": {
+          "previous": -2.45,
+          "current": 2.19
+        }
+      }
+    },
+    {
+      "entity_key": "EQIX:US",
+      "name": "Equinix Inc",
+      "fields": {
+        "price": {
+          "previous": 1092.19,
+          "current": 1115.94
+        },
+        "change": {
+          "previous": 3.67,
+          "current": 23.75
+        },
+        "change_pct": {
+          "previous": 0.34,
+          "current": 2.17
+        }
+      }
+    },
+    {
+      "entity_key": "EQR:US",
+      "name": "Equity Residential",
+      "fields": {
+        "price": {
+          "previous": 64.09,
+          "current": 64.73
+        },
+        "change": {
+          "previous": -0.54,
+          "current": 0.64
+        },
+        "change_pct": {
+          "previous": -0.84,
+          "current": 1.0
+        }
+      }
+    },
+    {
+      "entity_key": "EQT:US",
+      "name": "Eqt Corp",
+      "fields": {
+        "price": {
+          "previous": 50.72,
+          "current": 51.84
+        },
+        "change": {
+          "previous": -0.41,
+          "current": 1.12
+        },
+        "change_pct": {
+          "previous": -0.8,
+          "current": 2.21
+        }
+      }
+    },
+    {
+      "entity_key": "ERIE:US",
+      "name": "Erie Indemnity Company",
+      "fields": {
+        "price": {
+          "previous": 221.14,
+          "current": 211.65
+        },
+        "change": {
+          "previous": -0.5,
+          "current": -9.49
+        },
+        "change_pct": {
+          "previous": -0.23,
+          "current": -4.29
+        }
+      }
+    },
+    {
+      "entity_key": "ES:US",
+      "name": "Eversource Energy",
+      "fields": {
+        "price": {
+          "previous": 69.59,
+          "current": 70.12
+        },
+        "change": {
+          "previous": 0.54,
+          "current": 0.53
+        },
+        "change_pct": {
+          "previous": 0.78,
+          "current": 0.76
+        }
+      }
+    },
+    {
+      "entity_key": "ESS:US",
+      "name": "Essex Property Trust",
+      "fields": {
+        "price": {
+          "previous": 273.71,
+          "current": 276.28
+        },
+        "change": {
+          "previous": -0.69,
+          "current": 2.57
+        },
+        "change_pct": {
+          "previous": -0.25,
+          "current": 0.94
+        }
+      }
+    },
+    {
+      "entity_key": "ETN:US",
+      "name": "Eaton Corp",
+      "fields": {
+        "price": {
+          "previous": 421.77,
+          "current": 435.78
+        },
+        "change": {
+          "previous": 12.13,
+          "current": 14.01
+        },
+        "change_pct": {
+          "previous": 2.96,
+          "current": 3.32
+        }
+      }
+    },
+    {
+      "entity_key": "ETR:US",
+      "name": "Entergy Corp",
+      "fields": {
+        "price": {
+          "previous": 111.11,
+          "current": 112.2
+        },
+        "change": {
+          "previous": 0.25,
+          "current": 1.09
+        },
+        "change_pct": {
+          "previous": 0.23,
+          "current": 0.98
+        }
+      }
+    },
+    {
+      "entity_key": "EVRG:US",
+      "name": "Evergy Inc",
+      "fields": {
+        "price": {
+          "previous": 82.5,
+          "current": 83.25
+        },
+        "change": {
+          "previous": -0.35,
+          "current": 0.75
+        },
+        "change_pct": {
+          "previous": -0.42,
+          "current": 0.91
+        }
+      }
+    },
+    {
+      "entity_key": "EW:US",
+      "name": "Edwards Lifesciences Corp",
+      "fields": {
+        "price": {
+          "previous": 87.36,
+          "current": 85.88
+        },
+        "change": {
+          "previous": 0.68,
+          "current": -1.48
+        },
+        "change_pct": {
+          "previous": 0.78,
+          "current": -1.69
+        }
+      }
+    },
+    {
+      "entity_key": "EXC:US",
+      "name": "Exelon Corp",
+      "fields": {
+        "price": {
+          "previous": 45.81,
+          "current": 45.94
+        },
+        "change": {
+          "previous": 0.25,
+          "current": 0.13
+        },
+        "change_pct": {
+          "previous": 0.55,
+          "current": 0.28
+        }
+      }
+    },
+    {
+      "entity_key": "EXE:US",
+      "name": "Expand Energy Corporation",
+      "fields": {
+        "price": {
+          "previous": 86.98,
+          "current": 88.44
+        },
+        "change": {
+          "previous": -0.48,
+          "current": 1.46
+        },
+        "change_pct": {
+          "previous": -0.55,
+          "current": 1.68
+        }
+      }
+    },
+    {
+      "entity_key": "EXPD:US",
+      "name": "Expeditors Intl",
+      "fields": {
+        "price": {
+          "previous": 161.32,
+          "current": 163.15
+        },
+        "change": {
+          "previous": 0.71,
+          "current": 1.83
+        },
+        "change_pct": {
+          "previous": 0.44,
+          "current": 1.13
+        }
+      }
+    },
+    {
+      "entity_key": "EXPE:US",
+      "name": "Expedia Group Inc",
+      "fields": {
+        "price": {
+          "previous": 240.9,
+          "current": 238.02
+        },
+        "change": {
+          "previous": 1.43,
+          "current": -2.88
+        },
+        "change_pct": {
+          "previous": 0.6,
+          "current": -1.2
+        }
+      }
+    },
+    {
+      "entity_key": "EXR:US",
+      "name": "Extra Space Storage Inc",
+      "fields": {
+        "price": {
+          "previous": 145.33,
+          "current": 146.08
+        },
+        "change": {
+          "previous": 1.41,
+          "current": 0.75
+        },
+        "change_pct": {
+          "previous": 0.98,
+          "current": 0.52
+        }
+      }
+    },
+    {
+      "entity_key": "F:US",
+      "name": "Ford Motor Company",
+      "fields": {
+        "price": {
+          "previous": 14.06,
+          "current": 14.11
+        },
+        "change": {
+          "previous": 0.1,
+          "current": 0.05
+        },
+        "change_pct": {
+          "previous": 0.72,
+          "current": 0.36
+        }
+      }
+    },
+    {
+      "entity_key": "FANG:US",
+      "name": "Diamondback Energy",
+      "fields": {
+        "price": {
+          "previous": 183.5,
+          "current": 187.8
+        },
+        "change": {
+          "previous": -1.98,
+          "current": 4.3
+        },
+        "change_pct": {
+          "previous": -1.07,
+          "current": 2.34
+        }
+      }
+    },
+    {
+      "entity_key": "FAST:US",
+      "name": "Fastenal Company",
+      "fields": {
+        "price": {
+          "previous": 45.89,
+          "current": 46.12
+        },
+        "change": {
+          "previous": 1.01,
+          "current": 0.23
+        },
+        "change_pct": {
+          "previous": 2.25,
+          "current": 0.5
+        }
+      }
+    },
+    {
+      "entity_key": "FCX:US",
+      "name": "Freeport-Mcmoran Inc",
+      "fields": {
+        "price": {
+          "previous": 68.68,
+          "current": 69.21
+        },
+        "change": {
+          "previous": -0.38,
+          "current": 0.53
+        },
+        "change_pct": {
+          "previous": -0.55,
+          "current": 0.77
+        }
+      }
+    },
+    {
+      "entity_key": "FDS:US",
+      "name": "Factset Research Systems",
+      "fields": {
+        "price": {
+          "previous": 221.29,
+          "current": 218.62
+        },
+        "change": {
+          "previous": -7.01,
+          "current": -2.67
+        },
+        "change_pct": {
+          "previous": -3.07,
+          "current": -1.21
+        }
+      }
+    },
+    {
+      "entity_key": "FDX:US",
+      "name": "Fedex Corp",
+      "fields": {
+        "price": {
+          "previous": 326.2,
+          "current": 328.78
+        },
+        "change": {
+          "previous": 0.27,
+          "current": 3.8
+        },
+        "change_pct": {
+          "previous": 0.08,
+          "current": 1.17
+        }
+      }
+    },
+    {
+      "entity_key": "FDXF:US",
+      "name": "Fedex Freight Holding Company Inc",
+      "fields": {
+        "price": {
+          "previous": 162.85,
+          "current": 160.94
+        },
+        "change": {
+          "previous": 0.95,
+          "current": -1.91
+        },
+        "change_pct": {
+          "previous": 0.59,
+          "current": -1.17
+        }
+      }
+    },
+    {
+      "entity_key": "FE:US",
+      "name": "Firstenergy Corp",
+      "fields": {
+        "price": {
+          "previous": 46.45,
+          "current": 46.76
+        }
+      }
+    },
+    {
+      "entity_key": "FFIV:US",
+      "name": "F5 Inc",
+      "fields": {
+        "price": {
+          "previous": 385.49,
+          "current": 391.27
+        },
+        "change": {
+          "previous": 0.61,
+          "current": 5.78
+        },
+        "change_pct": {
+          "previous": 0.16,
+          "current": 1.5
+        }
+      }
+    },
+    {
+      "entity_key": "FICO:US",
+      "name": "Fair Isaac and Company",
+      "fields": {
+        "price": {
+          "previous": 1096.48,
+          "current": 1090.85
+        },
+        "change": {
+          "previous": -30.36,
+          "current": -5.63
+        },
+        "change_pct": {
+          "previous": -2.69,
+          "current": -0.51
+        }
+      }
+    },
+    {
+      "entity_key": "FIS:US",
+      "name": "Fidelity National Information Services",
+      "fields": {
+        "price": {
+          "previous": 38.21,
+          "current": 37.72
+        },
+        "change": {
+          "previous": -0.37,
+          "current": -0.49
+        },
+        "change_pct": {
+          "previous": -0.96,
+          "current": -1.28
+        }
+      }
+    },
+    {
+      "entity_key": "FISV:US",
+      "name": "Fiserv Inc",
+      "fields": {
+        "price": {
+          "previous": 47.86,
+          "current": 47.18
+        },
+        "change": {
+          "previous": -0.91,
+          "current": -0.68
+        },
+        "change_pct": {
+          "previous": -1.87,
+          "current": -1.42
+        }
+      }
+    },
+    {
+      "entity_key": "FITB:US",
+      "name": "Fifth Third Bancorp",
+      "fields": {
+        "price": {
+          "previous": 52.74,
+          "current": 53.61
+        },
+        "change": {
+          "previous": 0.16,
+          "current": 0.87
+        },
+        "change_pct": {
+          "previous": 0.3,
+          "current": 1.65
+        }
+      }
+    },
+    {
+      "entity_key": "FIX:US",
+      "name": "Comfort Systems USA",
+      "fields": {
+        "price": {
+          "previous": 1967.41,
+          "current": 2066.51
+        },
+        "change": {
+          "previous": 35.64,
+          "current": 99.1
+        },
+        "change_pct": {
+          "previous": 1.84,
+          "current": 5.04
+        }
+      }
+    },
+    {
+      "entity_key": "FOX:US",
+      "name": "Fox Corp Cl B",
+      "fields": {
+        "price": {
+          "previous": 46.95,
+          "current": 44.93
+        },
+        "change": {
+          "previous": 0.22,
+          "current": -2.02
+        },
+        "change_pct": {
+          "previous": 0.47,
+          "current": -4.3
+        }
+      }
+    },
+    {
+      "entity_key": "FOXA:US",
+      "name": "Fox Corp Cl A",
+      "fields": {
+        "price": {
+          "previous": 52.23,
+          "current": 49.39
+        },
+        "change": {
+          "previous": 0.91,
+          "current": -2.84
+        },
+        "change_pct": {
+          "previous": 1.77,
+          "current": -5.44
+        }
+      }
+    },
+    {
+      "entity_key": "FRT:US",
+      "name": "Federal Realty Investment Trust",
+      "fields": {
+        "price": {
+          "previous": 120.39,
+          "current": 121.72
+        },
+        "change": {
+          "previous": -0.09,
+          "current": 1.33
+        },
+        "change_pct": {
+          "previous": -0.07,
+          "current": 1.1
+        }
+      }
+    },
+    {
+      "entity_key": "FSLR:US",
+      "name": "First Solar Inc",
+      "fields": {
+        "price": {
+          "previous": 257.7,
+          "current": 263.11
+        },
+        "change": {
+          "previous": 2.9,
+          "current": 5.41
+        },
+        "change_pct": {
+          "previous": 1.14,
+          "current": 2.1
+        }
+      }
+    },
+    {
+      "entity_key": "FTNT:US",
+      "name": "Fortinet Inc",
+      "fields": {
+        "price": {
+          "previous": 144.73,
+          "current": 145.39
+        },
+        "change": {
+          "previous": 0.59,
+          "current": 0.66
+        },
+        "change_pct": {
+          "previous": 0.41,
+          "current": 0.46
+        }
+      }
+    },
+    {
+      "entity_key": "FTV:US",
+      "name": "Fortive Corp",
+      "fields": {
+        "price": {
+          "previous": 61.03,
+          "current": 61.67
+        },
+        "change": {
+          "previous": 0.35,
+          "current": 0.7
+        },
+        "change_pct": {
+          "previous": 0.58,
+          "current": 1.15
+        }
+      }
+    },
+    {
+      "entity_key": "GD:US",
+      "name": "General Dynamics Corp",
+      "fields": {
+        "price": {
+          "previous": 350.01,
+          "current": 343.36
+        },
+        "change": {
+          "previous": -12.82,
+          "current": -6.65
+        },
+        "change_pct": {
+          "previous": -3.53,
+          "current": -1.9
+        }
+      }
+    },
+    {
+      "entity_key": "GDDY:US",
+      "name": "Godaddy Inc",
+      "fields": {
+        "price": {
+          "previous": 77.04,
+          "current": 74.99
+        },
+        "change": {
+          "previous": 0.93,
+          "current": -2.05
+        },
+        "change_pct": {
+          "previous": 1.22,
+          "current": -2.66
+        }
+      }
+    },
+    {
+      "entity_key": "GE:US",
+      "name": "GE Aerospace",
+      "fields": {
+        "price": {
+          "previous": 357.64,
+          "current": 355.12
+        },
+        "change": {
+          "previous": 0.61,
+          "current": -2.52
+        },
+        "change_pct": {
+          "previous": 0.17,
+          "current": -0.7
         }
       }
     },
@@ -65,9 +3655,1709 @@
       "entity_key": "GEHC:US",
       "name": "GE Healthcare Technologies",
       "fields": {
+        "price": {
+          "previous": 61.59,
+          "current": 60.64
+        },
+        "change": {
+          "previous": 0.44,
+          "current": -0.95
+        },
         "change_pct": {
-          "previous": 0.73,
-          "current": 0.72
+          "previous": 0.72,
+          "current": -1.54
+        }
+      }
+    },
+    {
+      "entity_key": "GEN:US",
+      "name": "Gen Digital Inc",
+      "fields": {
+        "price": {
+          "previous": 24.18,
+          "current": 23.01
+        },
+        "change": {
+          "previous": 0.26,
+          "current": -1.17
+        },
+        "change_pct": {
+          "previous": 1.07,
+          "current": -4.84
+        }
+      }
+    },
+    {
+      "entity_key": "GEV:US",
+      "name": "GE Vernova Inc",
+      "fields": {
+        "price": {
+          "previous": 1109.73,
+          "current": 1127.59
+        },
+        "change": {
+          "previous": 60.87,
+          "current": 17.86
+        },
+        "change_pct": {
+          "previous": 5.8,
+          "current": 1.61
+        }
+      }
+    },
+    {
+      "entity_key": "GILD:US",
+      "name": "Gilead Sciences Inc",
+      "fields": {
+        "price": {
+          "previous": 123.76,
+          "current": 124.87
+        },
+        "change": {
+          "previous": -1.69,
+          "current": 1.11
+        },
+        "change_pct": {
+          "previous": -1.35,
+          "current": 0.9
+        }
+      }
+    },
+    {
+      "entity_key": "GIS:US",
+      "name": "General Mills",
+      "fields": {
+        "price": {
+          "previous": 33.42,
+          "current": 33.34
+        },
+        "change": {
+          "previous": 0.06,
+          "current": -0.08
+        },
+        "change_pct": {
+          "previous": 0.18,
+          "current": -0.24
+        }
+      }
+    },
+    {
+      "entity_key": "GL:US",
+      "name": "Globe Life Inc",
+      "fields": {
+        "price": {
+          "previous": 170.76,
+          "current": 172.05
+        },
+        "change": {
+          "previous": -0.49,
+          "current": 1.29
+        },
+        "change_pct": {
+          "previous": -0.29,
+          "current": 0.76
+        }
+      }
+    },
+    {
+      "entity_key": "GLW:US",
+      "name": "Corning Inc",
+      "fields": {
+        "price": {
+          "previous": 194.92,
+          "current": 209.83
+        },
+        "change": {
+          "previous": 19.52,
+          "current": 14.91
+        },
+        "change_pct": {
+          "previous": 11.13,
+          "current": 7.65
+        }
+      }
+    },
+    {
+      "entity_key": "GM:US",
+      "name": "General Motors Company",
+      "fields": {
+        "price": {
+          "previous": 79.29,
+          "current": 80.43
+        },
+        "change": {
+          "previous": -0.29,
+          "current": 1.14
+        },
+        "change_pct": {
+          "previous": -0.36,
+          "current": 1.44
+        }
+      }
+    },
+    {
+      "entity_key": "GNRC:US",
+      "name": "Generac Holdings Inc",
+      "fields": {
+        "price": {
+          "previous": 279.15,
+          "current": 295.54
+        },
+        "change": {
+          "previous": 10.95,
+          "current": 16.39
+        },
+        "change_pct": {
+          "previous": 4.08,
+          "current": 5.87
+        }
+      }
+    },
+    {
+      "entity_key": "GOOG:US",
+      "name": "Alphabet Cl C",
+      "fields": {
+        "price": {
+          "previous": 367.46,
+          "current": 348.78
+        },
+        "change": {
+          "previous": 5.36,
+          "current": -18.68
+        },
+        "change_pct": {
+          "previous": 1.48,
+          "current": -5.08
+        }
+      }
+    },
+    {
+      "entity_key": "GOOGL:US",
+      "name": "Alphabet Cl A",
+      "fields": {
+        "price": {
+          "previous": 368.03,
+          "current": 349.56
+        },
+        "change": {
+          "previous": 4.24,
+          "current": -18.47
+        },
+        "change_pct": {
+          "previous": 1.17,
+          "current": -5.02
+        }
+      }
+    },
+    {
+      "entity_key": "GPC:US",
+      "name": "Genuine Parts Company",
+      "fields": {
+        "price": {
+          "previous": 108.7,
+          "current": 105.11
+        },
+        "change": {
+          "previous": 2.58,
+          "current": -3.59
+        },
+        "change_pct": {
+          "previous": 2.43,
+          "current": -3.3
+        }
+      }
+    },
+    {
+      "entity_key": "GPN:US",
+      "name": "Global Payments Inc",
+      "fields": {
+        "price": {
+          "previous": 66.88,
+          "current": 65.09
+        },
+        "change": {
+          "previous": 0.52,
+          "current": -1.79
+        },
+        "change_pct": {
+          "previous": 0.78,
+          "current": -2.68
+        }
+      }
+    },
+    {
+      "entity_key": "GRMN:US",
+      "name": "Garmin Ltd",
+      "fields": {
+        "price": {
+          "previous": 234.2,
+          "current": 236.34
+        },
+        "change": {
+          "previous": 2.31,
+          "current": 2.14
+        },
+        "change_pct": {
+          "previous": 1.0,
+          "current": 0.91
+        }
+      }
+    },
+    {
+      "entity_key": "GS:US",
+      "name": "Goldman Sachs Group",
+      "fields": {
+        "price": {
+          "previous": 1096.56,
+          "current": 1106.37
+        },
+        "change": {
+          "previous": -2.58,
+          "current": 9.81
+        },
+        "change_pct": {
+          "previous": -0.23,
+          "current": 0.89
+        }
+      }
+    },
+    {
+      "entity_key": "GWW:US",
+      "name": "W.W. Grainger",
+      "fields": {
+        "price": {
+          "previous": 1365.41,
+          "current": 1341.42
+        },
+        "change": {
+          "previous": 54.31,
+          "current": -23.99
+        },
+        "change_pct": {
+          "previous": 4.14,
+          "current": -1.76
+        }
+      }
+    },
+    {
+      "entity_key": "HAL:US",
+      "name": "Halliburton Company",
+      "fields": {
+        "price": {
+          "previous": 34.93,
+          "current": 35.17
+        },
+        "change": {
+          "previous": -1.3,
+          "current": 0.24
+        },
+        "change_pct": {
+          "previous": -3.59,
+          "current": 0.69
+        }
+      }
+    },
+    {
+      "entity_key": "HAS:US",
+      "name": "Hasbro Inc",
+      "fields": {
+        "price": {
+          "previous": 84.74,
+          "current": 84.39
+        },
+        "change": {
+          "previous": 1.27,
+          "current": -0.35
+        },
+        "change_pct": {
+          "previous": 1.52,
+          "current": -0.41
+        }
+      }
+    },
+    {
+      "entity_key": "HBAN:US",
+      "name": "Huntington Bancshares",
+      "fields": {
+        "price": {
+          "previous": 16.86,
+          "current": 17.05
+        },
+        "change": {
+          "previous": 0.01,
+          "current": 0.19
+        },
+        "change_pct": {
+          "previous": 0.06,
+          "current": 1.13
+        }
+      }
+    },
+    {
+      "entity_key": "HCA:US",
+      "name": "Hca Holdings Inc",
+      "fields": {
+        "price": {
+          "previous": 375.17,
+          "current": 376.99
+        },
+        "change": {
+          "previous": -12.99,
+          "current": 1.82
+        },
+        "change_pct": {
+          "previous": -3.35,
+          "current": 0.49
+        }
+      }
+    },
+    {
+      "entity_key": "HD:US",
+      "name": "Home Depot",
+      "fields": {
+        "price": {
+          "previous": 334.28,
+          "current": 326.62
+        },
+        "change": {
+          "previous": 6.8,
+          "current": -7.66
+        },
+        "change_pct": {
+          "previous": 2.08,
+          "current": -2.29
+        }
+      }
+    },
+    {
+      "entity_key": "HIG:US",
+      "name": "The Hartford Insurance Group",
+      "fields": {
+        "price": {
+          "previous": 128.25,
+          "current": 129.5
+        },
+        "change": {
+          "previous": -1.39,
+          "current": 1.25
+        },
+        "change_pct": {
+          "previous": -1.07,
+          "current": 0.97
+        }
+      }
+    },
+    {
+      "entity_key": "HII:US",
+      "name": "Huntington Ingalls Industries",
+      "fields": {
+        "price": {
+          "previous": 285.43,
+          "current": 278.19
+        },
+        "change": {
+          "previous": -11.46,
+          "current": -7.24
+        },
+        "change_pct": {
+          "previous": -3.86,
+          "current": -2.54
+        }
+      }
+    },
+    {
+      "entity_key": "HLT:US",
+      "name": "Hilton Inc",
+      "fields": {
+        "price": {
+          "previous": 348.84,
+          "current": 342.93
+        },
+        "change": {
+          "previous": -0.46,
+          "current": -5.91
+        },
+        "change_pct": {
+          "previous": -0.13,
+          "current": -1.69
+        }
+      }
+    },
+    {
+      "entity_key": "HON:US",
+      "name": "Honeywell International",
+      "fields": {
+        "price": {
+          "previous": 229.01,
+          "current": 228.11
+        },
+        "change": {
+          "previous": 0.4,
+          "current": -0.9
+        },
+        "change_pct": {
+          "previous": 0.17,
+          "current": -0.39
+        }
+      }
+    },
+    {
+      "entity_key": "HOOD:US",
+      "name": "Robinhood Markets Cl A",
+      "fields": {
+        "price": {
+          "previous": 108.15,
+          "current": 105.71
+        },
+        "change": {
+          "previous": 2.95,
+          "current": -2.44
+        },
+        "change_pct": {
+          "previous": 2.8,
+          "current": -2.26
+        }
+      }
+    },
+    {
+      "entity_key": "HPE:US",
+      "name": "Hewlett Packard Enterprise",
+      "fields": {
+        "price": {
+          "previous": 47.41,
+          "current": 48.4
+        },
+        "change": {
+          "previous": -0.79,
+          "current": 0.99
+        },
+        "change_pct": {
+          "previous": -1.64,
+          "current": 2.09
+        }
+      }
+    },
+    {
+      "entity_key": "HPQ:US",
+      "name": "HP Inc",
+      "fields": {
+        "price": {
+          "previous": 23.5,
+          "current": 23.54
+        },
+        "change": {
+          "previous": 0.32,
+          "current": 0.04
+        },
+        "change_pct": {
+          "previous": 1.38,
+          "current": 0.17
+        }
+      }
+    },
+    {
+      "entity_key": "HRL:US",
+      "name": "Hormel Foods Corp",
+      "fields": {
+        "price": {
+          "previous": 24.16,
+          "current": 24.11
+        },
+        "change": {
+          "previous": -0.17,
+          "current": -0.05
+        },
+        "change_pct": {
+          "previous": -0.7,
+          "current": -0.21
+        }
+      }
+    },
+    {
+      "entity_key": "HSIC:US",
+      "name": "Henry Schein Inc",
+      "fields": {
+        "price": {
+          "previous": 79.92,
+          "current": 78.67
+        },
+        "change": {
+          "previous": -0.05,
+          "current": -1.25
+        },
+        "change_pct": {
+          "previous": -0.06,
+          "current": -1.56
+        }
+      }
+    },
+    {
+      "entity_key": "HST:US",
+      "name": "Host Marriott Financial Trust",
+      "fields": {
+        "price": {
+          "previous": 25.01,
+          "current": 25.13
+        },
+        "change": {
+          "previous": 0.39,
+          "current": 0.12
+        },
+        "change_pct": {
+          "previous": 1.58,
+          "current": 0.48
+        }
+      }
+    },
+    {
+      "entity_key": "HSY:US",
+      "name": "Hershey Foods Corp",
+      "fields": {
+        "price": {
+          "previous": 172.63,
+          "current": 170.89
+        },
+        "change": {
+          "previous": -2.68,
+          "current": -1.74
+        },
+        "change_pct": {
+          "previous": -1.53,
+          "current": -1.01
+        }
+      }
+    },
+    {
+      "entity_key": "HUBB:US",
+      "name": "Hubbell Inc B",
+      "fields": {
+        "price": {
+          "previous": 523.69,
+          "current": 539.39
+        },
+        "change": {
+          "previous": 14.82,
+          "current": 15.7
+        },
+        "change_pct": {
+          "previous": 2.91,
+          "current": 3.0
+        }
+      }
+    },
+    {
+      "entity_key": "HUM:US",
+      "name": "Humana Inc",
+      "fields": {
+        "price": {
+          "previous": 360.65,
+          "current": 360.72
+        },
+        "change": {
+          "previous": -1.35,
+          "current": 0.07
+        },
+        "change_pct": {
+          "previous": -0.37,
+          "current": 0.02
+        }
+      }
+    },
+    {
+      "entity_key": "HWM:US",
+      "name": "Howmet Aerospace Inc",
+      "fields": {
+        "price": {
+          "previous": 277.66,
+          "current": 280.36
+        },
+        "change": {
+          "previous": -5.57,
+          "current": 2.7
+        },
+        "change_pct": {
+          "previous": -1.97,
+          "current": 0.97
+        }
+      }
+    },
+    {
+      "entity_key": "IBKR:US",
+      "name": "Interactive Brokers",
+      "fields": {
+        "price": {
+          "previous": 96.0,
+          "current": 96.82
+        },
+        "change": {
+          "previous": 0.91,
+          "current": 0.82
+        },
+        "change_pct": {
+          "previous": 0.96,
+          "current": 0.85
+        }
+      }
+    },
+    {
+      "entity_key": "IBM:US",
+      "name": "Intl Business Machines",
+      "fields": {
+        "price": {
+          "previous": 249.1,
+          "current": 252.22
+        },
+        "change": {
+          "previous": -13.25,
+          "current": 3.12
+        },
+        "change_pct": {
+          "previous": -5.05,
+          "current": 1.25
+        }
+      }
+    },
+    {
+      "entity_key": "ICE:US",
+      "name": "Intercontinental Exchange",
+      "fields": {
+        "price": {
+          "previous": 133.88,
+          "current": 131.34
+        },
+        "change": {
+          "previous": -0.71,
+          "current": -2.54
+        },
+        "change_pct": {
+          "previous": -0.53,
+          "current": -1.9
+        }
+      }
+    },
+    {
+      "entity_key": "IDXX:US",
+      "name": "Idexx Laboratories",
+      "fields": {
+        "price": {
+          "previous": 562.09,
+          "current": 545.73
+        },
+        "change": {
+          "previous": 16.0,
+          "current": -16.36
+        },
+        "change_pct": {
+          "previous": 2.93,
+          "current": -2.91
+        }
+      }
+    },
+    {
+      "entity_key": "IEX:US",
+      "name": "Idex Corp",
+      "fields": {
+        "price": {
+          "previous": 224.93,
+          "current": 225.36
+        },
+        "change": {
+          "previous": 1.24,
+          "current": 0.43
+        },
+        "change_pct": {
+          "previous": 0.55,
+          "current": 0.19
+        }
+      }
+    },
+    {
+      "entity_key": "IFF:US",
+      "name": "International Flavors & Fragrances",
+      "fields": {
+        "price": {
+          "previous": 76.72,
+          "current": 75.95
+        },
+        "change": {
+          "previous": 1.07,
+          "current": -0.77
+        },
+        "change_pct": {
+          "previous": 1.41,
+          "current": -1.0
+        }
+      }
+    },
+    {
+      "entity_key": "INCY:US",
+      "name": "Incyte Corp",
+      "fields": {
+        "price": {
+          "previous": 98.22,
+          "current": 103.66
+        },
+        "change": {
+          "previous": -0.77,
+          "current": 5.44
+        },
+        "change_pct": {
+          "previous": -0.78,
+          "current": 5.54
+        }
+      }
+    },
+    {
+      "entity_key": "INTC:US",
+      "name": "Intel Corp",
+      "fields": {
+        "price": {
+          "previous": 133.99,
+          "current": 140.94
+        },
+        "change": {
+          "previous": 12.89,
+          "current": 6.95
+        },
+        "change_pct": {
+          "previous": 10.64,
+          "current": 5.19
+        }
+      }
+    },
+    {
+      "entity_key": "INTU:US",
+      "name": "Intuit Inc",
+      "fields": {
+        "price": {
+          "previous": 267.0,
+          "current": 257.77
+        },
+        "change": {
+          "previous": -2.08,
+          "current": -9.23
+        },
+        "change_pct": {
+          "previous": -0.77,
+          "current": -3.46
+        }
+      }
+    },
+    {
+      "entity_key": "INVH:US",
+      "name": "Invitation Homes Inc",
+      "fields": {
+        "price": {
+          "previous": 28.41,
+          "current": 28.44
+        },
+        "change": {
+          "previous": -0.08,
+          "current": 0.03
+        },
+        "change_pct": {
+          "previous": -0.28,
+          "current": 0.11
+        }
+      }
+    },
+    {
+      "entity_key": "IP:US",
+      "name": "International Paper Company",
+      "fields": {
+        "price": {
+          "previous": 36.82,
+          "current": 36.89
+        },
+        "change": {
+          "previous": 0.66,
+          "current": 0.07
+        },
+        "change_pct": {
+          "previous": 1.83,
+          "current": 0.19
+        }
+      }
+    },
+    {
+      "entity_key": "IQV:US",
+      "name": "Iqvia Holdings Inc",
+      "fields": {
+        "price": {
+          "previous": 167.77,
+          "current": 167.81
+        },
+        "change": {
+          "previous": -2.9,
+          "current": 0.04
+        },
+        "change_pct": {
+          "previous": -1.7,
+          "current": 0.02
+        }
+      }
+    },
+    {
+      "entity_key": "IR:US",
+      "name": "Ingersoll Rand Inc",
+      "fields": {
+        "price": {
+          "previous": 77.91,
+          "current": 77.87
+        },
+        "change": {
+          "previous": 0.84,
+          "current": -0.04
+        },
+        "change_pct": {
+          "previous": 1.09,
+          "current": -0.05
+        }
+      }
+    },
+    {
+      "entity_key": "IRM:US",
+      "name": "Iron Mountain Inc",
+      "fields": {
+        "price": {
+          "previous": 127.83,
+          "current": 131.86
+        },
+        "change": {
+          "previous": 2.39,
+          "current": 4.03
+        },
+        "change_pct": {
+          "previous": 1.91,
+          "current": 3.15
+        }
+      }
+    },
+    {
+      "entity_key": "ISRG:US",
+      "name": "Intuitive Surg Inc",
+      "fields": {
+        "price": {
+          "previous": 406.78,
+          "current": 402.95
+        },
+        "change": {
+          "previous": 4.6,
+          "current": -3.83
+        },
+        "change_pct": {
+          "previous": 1.14,
+          "current": -0.94
+        }
+      }
+    },
+    {
+      "entity_key": "IT:US",
+      "name": "Gartner Inc",
+      "fields": {
+        "price": {
+          "previous": 127.49,
+          "current": 125.73
+        },
+        "change": {
+          "previous": -6.09,
+          "current": -1.76
+        },
+        "change_pct": {
+          "previous": -4.56,
+          "current": -1.38
+        }
+      }
+    },
+    {
+      "entity_key": "ITW:US",
+      "name": "Illinois Tool Works",
+      "fields": {
+        "price": {
+          "previous": 264.09,
+          "current": 265.31
+        },
+        "change": {
+          "previous": 1.98,
+          "current": 1.22
+        },
+        "change_pct": {
+          "previous": 0.76,
+          "current": 0.46
+        }
+      }
+    },
+    {
+      "entity_key": "IVZ:US",
+      "name": "Invesco Limited",
+      "fields": {
+        "price": {
+          "previous": 28.14,
+          "current": 28.78
+        },
+        "change": {
+          "previous": -0.65,
+          "current": 0.64
+        },
+        "change_pct": {
+          "previous": -2.26,
+          "current": 2.27
+        }
+      }
+    },
+    {
+      "entity_key": "J:US",
+      "name": "Jacobs Engineering Group",
+      "fields": {
+        "price": {
+          "previous": 120.97,
+          "current": 118.7
+        },
+        "change": {
+          "previous": -1.88,
+          "current": -2.27
+        },
+        "change_pct": {
+          "previous": -1.53,
+          "current": -1.88
+        }
+      }
+    },
+    {
+      "entity_key": "JBHT:US",
+      "name": "J B Hunt Transport",
+      "fields": {
+        "price": {
+          "previous": 271.22,
+          "current": 273.48
+        },
+        "change": {
+          "previous": 3.98,
+          "current": 2.26
+        },
+        "change_pct": {
+          "previous": 1.49,
+          "current": 0.83
+        }
+      }
+    },
+    {
+      "entity_key": "JBL:US",
+      "name": "Jabil Circuit",
+      "fields": {
+        "price": {
+          "previous": 371.88,
+          "current": 377.24
+        },
+        "change": {
+          "previous": -3.1,
+          "current": 5.36
+        },
+        "change_pct": {
+          "previous": -0.83,
+          "current": 1.44
+        }
+      }
+    },
+    {
+      "entity_key": "JCI:US",
+      "name": "Johnson Controls Intl",
+      "fields": {
+        "price": {
+          "previous": 144.82,
+          "current": 148.21
+        },
+        "change": {
+          "previous": 1.2,
+          "current": 3.39
+        },
+        "change_pct": {
+          "previous": 0.84,
+          "current": 2.34
+        }
+      }
+    },
+    {
+      "entity_key": "JKHY:US",
+      "name": "Jack Henry & Assoc",
+      "fields": {
+        "price": {
+          "previous": 126.23,
+          "current": 123.42
+        },
+        "change": {
+          "previous": 2.01,
+          "current": -2.81
+        },
+        "change_pct": {
+          "previous": 1.62,
+          "current": -2.23
+        }
+      }
+    },
+    {
+      "entity_key": "JNJ:US",
+      "name": "Johnson & Johnson",
+      "fields": {
+        "price": {
+          "previous": 228.39,
+          "current": 231.29
+        },
+        "change": {
+          "previous": -5.81,
+          "current": 2.9
+        },
+        "change_pct": {
+          "previous": -2.48,
+          "current": 1.27
+        }
+      }
+    },
+    {
+      "entity_key": "JPM:US",
+      "name": "JP Morgan Chase & Company",
+      "fields": {
+        "price": {
+          "previous": 325.22,
+          "current": 331.48
+        },
+        "change": {
+          "previous": -8.24,
+          "current": 6.26
+        },
+        "change_pct": {
+          "previous": -2.47,
+          "current": 1.92
+        }
+      }
+    },
+    {
+      "entity_key": "KDP:US",
+      "name": "Keurig Dr Pepper Inc",
+      "fields": {
+        "price": {
+          "previous": 30.76,
+          "current": 30.87
+        },
+        "change": {
+          "previous": -0.13,
+          "current": 0.11
+        },
+        "change_pct": {
+          "previous": -0.42,
+          "current": 0.36
+        }
+      }
+    },
+    {
+      "entity_key": "KEY:US",
+      "name": "Keycorp",
+      "fields": {
+        "price": {
+          "previous": 22.59,
+          "current": 22.83
+        },
+        "change": {
+          "previous": -0.01,
+          "current": 0.24
+        },
+        "change_pct": {
+          "previous": -0.04,
+          "current": 1.06
+        }
+      }
+    },
+    {
+      "entity_key": "KEYS:US",
+      "name": "Keysight Technologies",
+      "fields": {
+        "price": {
+          "previous": 363.67,
+          "current": 373.34
+        },
+        "change": {
+          "previous": 12.97,
+          "current": 9.67
+        },
+        "change_pct": {
+          "previous": 3.7,
+          "current": 2.66
+        }
+      }
+    },
+    {
+      "entity_key": "KHC:US",
+      "name": "Kraft Heinz Company",
+      "fields": {
+        "price": {
+          "previous": 22.82,
+          "current": 22.03
+        },
+        "change": {
+          "previous": -0.38,
+          "current": -0.79
+        },
+        "change_pct": {
+          "previous": -1.64,
+          "current": -3.46
+        }
+      }
+    },
+    {
+      "entity_key": "KIM:US",
+      "name": "Kimco Realty Corp",
+      "fields": {
+        "price": {
+          "previous": 24.38,
+          "current": 24.69
+        },
+        "change": {
+          "previous": -0.11,
+          "current": 0.31
+        },
+        "change_pct": {
+          "previous": -0.45,
+          "current": 1.27
+        }
+      }
+    },
+    {
+      "entity_key": "KKR:US",
+      "name": "KKR & Company LP",
+      "fields": {
+        "price": {
+          "previous": 97.01,
+          "current": 96.9
+        },
+        "change": {
+          "previous": -0.16,
+          "current": -0.11
+        },
+        "change_pct": {
+          "previous": -0.16,
+          "current": -0.11
+        }
+      }
+    },
+    {
+      "entity_key": "KLAC:US",
+      "name": "K L A-Tencor Corp",
+      "fields": {
+        "price": {
+          "previous": 259.56,
+          "current": 269.16
+        },
+        "change": {
+          "previous": 20.83,
+          "current": 9.6
+        },
+        "change_pct": {
+          "previous": 8.73,
+          "current": 3.7
+        }
+      }
+    },
+    {
+      "entity_key": "KMB:US",
+      "name": "Kimberly-Clark Corp",
+      "fields": {
+        "price": {
+          "previous": 102.56,
+          "current": 100.5
+        },
+        "change": {
+          "previous": 1.09,
+          "current": -2.06
+        },
+        "change_pct": {
+          "previous": 1.07,
+          "current": -2.01
+        }
+      }
+    },
+    {
+      "entity_key": "KMI:US",
+      "name": "Kinder Morgan Inc",
+      "fields": {
+        "price": {
+          "previous": 31.59,
+          "current": 32.25
+        },
+        "change": {
+          "previous": 0.26,
+          "current": 0.66
+        },
+        "change_pct": {
+          "previous": 0.83,
+          "current": 2.09
+        }
+      }
+    },
+    {
+      "entity_key": "KO:US",
+      "name": "Coca-Cola Company",
+      "fields": {
+        "price": {
+          "previous": 79.39,
+          "current": 79.53
+        },
+        "change": {
+          "previous": -0.54,
+          "current": 0.14
+        },
+        "change_pct": {
+          "previous": -0.68,
+          "current": 0.18
+        }
+      }
+    },
+    {
+      "entity_key": "KR:US",
+      "name": "Kroger Company",
+      "fields": {
+        "price": {
+          "previous": 56.61,
+          "current": 55.76
+        },
+        "change": {
+          "previous": -5.21,
+          "current": -0.85
+        },
+        "change_pct": {
+          "previous": -8.43,
+          "current": -1.5
+        }
+      }
+    },
+    {
+      "entity_key": "KVUE:US",
+      "name": "Kenvue Inc",
+      "fields": {
+        "price": {
+          "previous": 18.12,
+          "current": 17.86
+        },
+        "change": {
+          "previous": 0.11,
+          "current": -0.26
+        },
+        "change_pct": {
+          "previous": 0.61,
+          "current": -1.43
+        }
+      }
+    },
+    {
+      "entity_key": "L:US",
+      "name": "Loews Corp",
+      "fields": {
+        "price": {
+          "previous": 107.28,
+          "current": 108.13
+        },
+        "change": {
+          "previous": -0.4,
+          "current": 0.85
+        },
+        "change_pct": {
+          "previous": -0.37,
+          "current": 0.79
+        }
+      }
+    },
+    {
+      "entity_key": "LDOS:US",
+      "name": "Leidos Holdings Inc",
+      "fields": {
+        "price": {
+          "previous": 107.12,
+          "current": 104.84
+        },
+        "change": {
+          "previous": -1.55,
+          "current": -2.28
+        },
+        "change_pct": {
+          "previous": -1.43,
+          "current": -2.13
+        }
+      }
+    },
+    {
+      "entity_key": "LEN:US",
+      "name": "Lennar Corp",
+      "fields": {
+        "price": {
+          "previous": 89.73,
+          "current": 87.44
+        },
+        "change": {
+          "previous": 3.25,
+          "current": -2.29
+        },
+        "change_pct": {
+          "previous": 3.76,
+          "current": -2.55
+        }
+      }
+    },
+    {
+      "entity_key": "LH:US",
+      "name": "Laboratory Corp of America",
+      "fields": {
+        "price": {
+          "previous": 255.82,
+          "current": 254.43
+        },
+        "change": {
+          "previous": -3.74,
+          "current": -1.39
+        },
+        "change_pct": {
+          "previous": -1.44,
+          "current": -0.54
+        }
+      }
+    },
+    {
+      "entity_key": "LHX:US",
+      "name": "L3Harris Technologies",
+      "fields": {
+        "price": {
+          "previous": 294.82,
+          "current": 285.83
+        },
+        "change": {
+          "previous": -18.35,
+          "current": -8.99
+        },
+        "change_pct": {
+          "previous": -5.86,
+          "current": -3.05
+        }
+      }
+    },
+    {
+      "entity_key": "LII:US",
+      "name": "Lennox International",
+      "fields": {
+        "price": {
+          "previous": 532.43,
+          "current": 536.04
+        },
+        "change": {
+          "previous": 16.32,
+          "current": 3.61
+        },
+        "change_pct": {
+          "previous": 3.16,
+          "current": 0.68
+        }
+      }
+    },
+    {
+      "entity_key": "LIN:US",
+      "name": "Linde Plc",
+      "fields": {
+        "price": {
+          "previous": 512.15,
+          "current": 516.71
+        },
+        "change": {
+          "previous": -3.7,
+          "current": 0.86
+        },
+        "change_pct": {
+          "previous": -0.72,
+          "current": 0.17
+        }
+      }
+    },
+    {
+      "entity_key": "LITE:US",
+      "name": "Lumentum Holdings",
+      "fields": {
+        "price": {
+          "previous": 850.0,
+          "current": 893.54
+        },
+        "change": {
+          "previous": -19.98,
+          "current": 43.54
+        },
+        "change_pct": {
+          "previous": -2.3,
+          "current": 5.12
+        }
+      }
+    },
+    {
+      "entity_key": "LLY:US",
+      "name": "Eli Lilly and Company",
+      "fields": {
+        "price": {
+          "previous": 1098.57,
+          "current": 1102.08
+        },
+        "change": {
+          "previous": -13.43,
+          "current": 3.51
+        },
+        "change_pct": {
+          "previous": -1.21,
+          "current": 0.32
+        }
+      }
+    },
+    {
+      "entity_key": "LMT:US",
+      "name": "Lockheed Martin Corp",
+      "fields": {
+        "price": {
+          "previous": 510.95,
+          "current": 493.6
+        },
+        "change": {
+          "previous": -21.37,
+          "current": -17.35
+        },
+        "change_pct": {
+          "previous": -4.01,
+          "current": -3.4
+        }
+      }
+    },
+    {
+      "entity_key": "LNT:US",
+      "name": "Alliant Energy Corp",
+      "fields": {
+        "price": {
+          "previous": 73.0,
+          "current": 73.21
+        },
+        "change": {
+          "previous": 0.18,
+          "current": 0.21
+        },
+        "change_pct": {
+          "previous": 0.25,
+          "current": 0.29
+        }
+      }
+    },
+    {
+      "entity_key": "LOW:US",
+      "name": "Lowe's Companies",
+      "fields": {
+        "price": {
+          "previous": 222.2,
+          "current": 214.4
+        },
+        "change": {
+          "previous": 4.93,
+          "current": -7.8
+        },
+        "change_pct": {
+          "previous": 2.27,
+          "current": -3.51
+        }
+      }
+    },
+    {
+      "entity_key": "LRCX:US",
+      "name": "Lam Research Corp",
+      "fields": {
+        "price": {
+          "previous": 389.04,
+          "current": 409.54
+        },
+        "change": {
+          "previous": 14.86,
+          "current": 20.5
+        },
+        "change_pct": {
+          "previous": 3.97,
+          "current": 5.27
+        }
+      }
+    },
+    {
+      "entity_key": "LULU:US",
+      "name": "Lululemon Athletica",
+      "fields": {
+        "price": {
+          "previous": 111.77,
+          "current": 105.43
+        },
+        "change": {
+          "previous": 0.01,
+          "current": -6.34
+        },
+        "change_pct": {
+          "previous": 0.01,
+          "current": -5.67
+        }
+      }
+    },
+    {
+      "entity_key": "LUV:US",
+      "name": "Southwest Airlines Company",
+      "fields": {
+        "price": {
+          "previous": 47.97,
+          "current": 48.57
+        },
+        "change": {
+          "previous": 1.31,
+          "current": 0.6
+        },
+        "change_pct": {
+          "previous": 2.81,
+          "current": 1.25
+        }
+      }
+    },
+    {
+      "entity_key": "LVS:US",
+      "name": "Las Vegas Sands",
+      "fields": {
+        "price": {
+          "previous": 48.72,
+          "current": 47.8
+        },
+        "change": {
+          "previous": 0.59,
+          "current": -0.92
+        },
+        "change_pct": {
+          "previous": 1.23,
+          "current": -1.89
+        }
+      }
+    },
+    {
+      "entity_key": "LYB:US",
+      "name": "Lyondellbasell Industries NV",
+      "fields": {
+        "price": {
+          "previous": 60.07,
+          "current": 58.52
+        },
+        "change": {
+          "previous": -1.74,
+          "current": -1.55
+        },
+        "change_pct": {
+          "previous": -2.82,
+          "current": -2.58
+        }
+      }
+    },
+    {
+      "entity_key": "LYV:US",
+      "name": "Live Nation Entertainment",
+      "fields": {
+        "price": {
+          "previous": 171.24,
+          "current": 170.56
+        },
+        "change": {
+          "previous": -0.28,
+          "current": -0.68
+        },
+        "change_pct": {
+          "previous": -0.16,
+          "current": -0.4
+        }
+      }
+    },
+    {
+      "entity_key": "MA:US",
+      "name": "Mastercard Inc",
+      "fields": {
+        "price": {
+          "previous": 489.79,
+          "current": 484.09
+        },
+        "change": {
+          "previous": -3.2,
+          "current": -5.7
+        },
+        "change_pct": {
+          "previous": -0.65,
+          "current": -1.16
+        }
+      }
+    },
+    {
+      "entity_key": "MAA:US",
+      "name": "Mid-America Apartment Communities",
+      "fields": {
+        "price": {
+          "previous": 132.5,
+          "current": 132.13
+        },
+        "change": {
+          "previous": -0.61,
+          "current": -0.37
+        },
+        "change_pct": {
+          "previous": -0.46,
+          "current": -0.28
+        }
+      }
+    },
+    {
+      "entity_key": "MAR:US",
+      "name": "Marriot Int Cl A",
+      "fields": {
+        "price": {
+          "previous": 396.2,
+          "current": 384.19
+        },
+        "change": {
+          "previous": 1.59,
+          "current": -12.01
+        },
+        "change_pct": {
+          "previous": 0.4,
+          "current": -3.03
+        }
+      }
+    },
+    {
+      "entity_key": "MAS:US",
+      "name": "Masco Corp",
+      "fields": {
+        "price": {
+          "previous": 74.38,
+          "current": 73.58
+        },
+        "change": {
+          "previous": 1.76,
+          "current": -0.8
+        },
+        "change_pct": {
+          "previous": 2.42,
+          "current": -1.08
+        }
+      }
+    },
+    {
+      "entity_key": "MCD:US",
+      "name": "McDonald's Corp",
+      "fields": {
+        "price": {
+          "previous": 278.61,
+          "current": 270.1
+        },
+        "change": {
+          "previous": -5.21,
+          "current": -8.51
+        },
+        "change_pct": {
+          "previous": -1.84,
+          "current": -3.05
         }
       }
     },
@@ -76,16 +5366,502 @@
       "name": "Microchip Technology",
       "fields": {
         "price": {
-          "previous": 99.44,
-          "current": 99.77
+          "previous": 99.77,
+          "current": 102.71
         },
         "change": {
-          "previous": 5.33,
-          "current": 5.66
+          "previous": 5.66,
+          "current": 2.94
         },
         "change_pct": {
-          "previous": 5.66,
-          "current": 6.01
+          "previous": 6.01,
+          "current": 2.95
+        }
+      }
+    },
+    {
+      "entity_key": "MCK:US",
+      "name": "Mckesson Corp",
+      "fields": {
+        "price": {
+          "previous": 750.63,
+          "current": 744.85
+        },
+        "change": {
+          "previous": -29.17,
+          "current": -5.78
+        },
+        "change_pct": {
+          "previous": -3.74,
+          "current": -0.77
+        }
+      }
+    },
+    {
+      "entity_key": "MCO:US",
+      "name": "Moody's Corp",
+      "fields": {
+        "price": {
+          "previous": 450.67,
+          "current": 447.33
+        },
+        "change": {
+          "previous": -5.55,
+          "current": -3.34
+        },
+        "change_pct": {
+          "previous": -1.22,
+          "current": -0.74
+        }
+      }
+    },
+    {
+      "entity_key": "MDLZ:US",
+      "name": "Mondelez Intl Inc",
+      "fields": {
+        "price": {
+          "previous": 60.12,
+          "current": 59.51
+        },
+        "change": {
+          "previous": -0.74,
+          "current": -0.61
+        },
+        "change_pct": {
+          "previous": -1.22,
+          "current": -1.01
+        }
+      }
+    },
+    {
+      "entity_key": "MDT:US",
+      "name": "Medtronic Inc",
+      "fields": {
+        "price": {
+          "previous": 79.34,
+          "current": 79.27
+        },
+        "change": {
+          "previous": 1.2,
+          "current": -0.07
+        },
+        "change_pct": {
+          "previous": 1.54,
+          "current": -0.09
+        }
+      }
+    },
+    {
+      "entity_key": "MET:US",
+      "name": "Metlife Inc",
+      "fields": {
+        "price": {
+          "previous": 85.58,
+          "current": 87.56
+        },
+        "change": {
+          "previous": -0.27,
+          "current": 1.98
+        },
+        "change_pct": {
+          "previous": -0.31,
+          "current": 2.31
+        }
+      }
+    },
+    {
+      "entity_key": "META:US",
+      "name": "META Platforms Inc",
+      "fields": {
+        "price": {
+          "previous": 577.22,
+          "current": 563.85
+        },
+        "change": {
+          "previous": 9.64,
+          "current": -13.37
+        },
+        "change_pct": {
+          "previous": 1.7,
+          "current": -2.32
+        }
+      }
+    },
+    {
+      "entity_key": "MGM:US",
+      "name": "MGM Resorts International",
+      "fields": {
+        "price": {
+          "previous": 46.84,
+          "current": 46.57
+        },
+        "change": {
+          "previous": -0.1,
+          "current": -0.27
+        },
+        "change_pct": {
+          "previous": -0.21,
+          "current": -0.58
+        }
+      }
+    },
+    {
+      "entity_key": "MKC:US",
+      "name": "Mccormick & Company",
+      "fields": {
+        "price": {
+          "previous": 46.64,
+          "current": 45.73
+        },
+        "change": {
+          "previous": 0.15,
+          "current": -0.91
+        },
+        "change_pct": {
+          "previous": 0.32,
+          "current": -1.95
+        }
+      }
+    },
+    {
+      "entity_key": "MLM:US",
+      "name": "Martin Marietta Materials",
+      "fields": {
+        "price": {
+          "previous": 609.12,
+          "current": 609.88
+        },
+        "change": {
+          "previous": 18.04,
+          "current": 0.76
+        },
+        "change_pct": {
+          "previous": 3.05,
+          "current": 0.12
+        }
+      }
+    },
+    {
+      "entity_key": "MMM:US",
+      "name": "3M Company",
+      "fields": {
+        "price": {
+          "previous": 160.6,
+          "current": 163.22
+        },
+        "change": {
+          "previous": 1.37,
+          "current": 2.62
+        },
+        "change_pct": {
+          "previous": 0.86,
+          "current": 1.63
+        }
+      }
+    },
+    {
+      "entity_key": "MNST:US",
+      "name": "Monster Beverage Corp",
+      "fields": {
+        "price": {
+          "previous": 91.34,
+          "current": 93.02
+        },
+        "change": {
+          "previous": -0.32,
+          "current": 1.68
+        },
+        "change_pct": {
+          "previous": -0.35,
+          "current": 1.84
+        }
+      }
+    },
+    {
+      "entity_key": "MO:US",
+      "name": "Altria Group",
+      "fields": {
+        "price": {
+          "previous": 69.12,
+          "current": 69.51
+        },
+        "change": {
+          "previous": 0.17,
+          "current": 0.39
+        },
+        "change_pct": {
+          "previous": 0.25,
+          "current": 0.56
+        }
+      }
+    },
+    {
+      "entity_key": "MOS:US",
+      "name": "Mosaic Company",
+      "fields": {
+        "price": {
+          "previous": 22.9,
+          "current": 22.0
+        },
+        "change": {
+          "previous": 0.39,
+          "current": -0.9
+        },
+        "change_pct": {
+          "previous": 1.73,
+          "current": -3.93
+        }
+      }
+    },
+    {
+      "entity_key": "MPC:US",
+      "name": "Marathon Petroleum Corp",
+      "fields": {
+        "price": {
+          "previous": 242.91,
+          "current": 247.29
+        },
+        "change": {
+          "previous": -1.7,
+          "current": 4.38
+        },
+        "change_pct": {
+          "previous": -0.69,
+          "current": 1.8
+        }
+      }
+    },
+    {
+      "entity_key": "MPWR:US",
+      "name": "Monolithic Power Sys",
+      "fields": {
+        "price": {
+          "previous": 1563.7,
+          "current": 1537.88
+        },
+        "change": {
+          "previous": 115.49,
+          "current": -25.82
+        },
+        "change_pct": {
+          "previous": 7.97,
+          "current": -1.65
+        }
+      }
+    },
+    {
+      "entity_key": "MRK:US",
+      "name": "Merck & Company",
+      "fields": {
+        "price": {
+          "previous": 113.87,
+          "current": 115.48
+        },
+        "change": {
+          "previous": -1.57,
+          "current": 1.61
+        },
+        "change_pct": {
+          "previous": -1.36,
+          "current": 1.41
+        }
+      }
+    },
+    {
+      "entity_key": "MRNA:US",
+      "name": "Moderna Inc",
+      "fields": {
+        "price": {
+          "previous": 63.96,
+          "current": 59.35
+        },
+        "change": {
+          "previous": 2.16,
+          "current": -4.62
+        },
+        "change_pct": {
+          "previous": 3.5,
+          "current": -7.22
+        }
+      }
+    },
+    {
+      "entity_key": "MRSH:US",
+      "name": "Marsh & Mclennan Companies",
+      "fields": {
+        "price": {
+          "previous": 162.41,
+          "current": 160.12
+        },
+        "change": {
+          "previous": -1.81,
+          "current": -2.29
+        },
+        "change_pct": {
+          "previous": -1.1,
+          "current": -1.41
+        }
+      }
+    },
+    {
+      "entity_key": "MS:US",
+      "name": "Morgan Stanley",
+      "fields": {
+        "price": {
+          "previous": 223.17,
+          "current": 227.09
+        },
+        "change": {
+          "previous": -1.79,
+          "current": 3.92
+        },
+        "change_pct": {
+          "previous": -0.8,
+          "current": 1.76
+        }
+      }
+    },
+    {
+      "entity_key": "MSCI:US",
+      "name": "MSCI Inc",
+      "fields": {
+        "price": {
+          "previous": 581.19,
+          "current": 580.85
+        },
+        "change": {
+          "previous": -15.7,
+          "current": -0.34
+        },
+        "change_pct": {
+          "previous": -2.63,
+          "current": -0.06
+        }
+      }
+    },
+    {
+      "entity_key": "MSFT:US",
+      "name": "Microsoft Corp",
+      "fields": {
+        "price": {
+          "previous": 379.4,
+          "current": 367.34
+        },
+        "change": {
+          "previous": 0.49,
+          "current": -12.06
+        },
+        "change_pct": {
+          "previous": 0.13,
+          "current": -3.18
+        }
+      }
+    },
+    {
+      "entity_key": "MSI:US",
+      "name": "Motorola Solutions",
+      "fields": {
+        "price": {
+          "previous": 395.17,
+          "current": 392.23
+        },
+        "change": {
+          "previous": -5.53,
+          "current": -2.94
+        },
+        "change_pct": {
+          "previous": -1.38,
+          "current": -0.74
+        }
+      }
+    },
+    {
+      "entity_key": "MTB:US",
+      "name": "M&T Bank Corp",
+      "fields": {
+        "price": {
+          "previous": 225.12,
+          "current": 227.73
+        },
+        "change": {
+          "previous": -0.73,
+          "current": 2.61
+        },
+        "change_pct": {
+          "previous": -0.32,
+          "current": 1.16
+        }
+      }
+    },
+    {
+      "entity_key": "MTD:US",
+      "name": "Mettler-Toledo International",
+      "fields": {
+        "price": {
+          "previous": 1144.84,
+          "current": 1164.07
+        },
+        "change": {
+          "previous": 15.31,
+          "current": 19.23
+        },
+        "change_pct": {
+          "previous": 1.36,
+          "current": 1.68
+        }
+      }
+    },
+    {
+      "entity_key": "MU:US",
+      "name": "Micron Technology",
+      "fields": {
+        "price": {
+          "previous": 1133.99,
+          "current": 1211.38
+        },
+        "change": {
+          "previous": 90.8,
+          "current": 77.39
+        },
+        "change_pct": {
+          "previous": 8.7,
+          "current": 6.82
+        }
+      }
+    },
+    {
+      "entity_key": "NCLH:US",
+      "name": "Norwegian Cruise Ord",
+      "fields": {
+        "price": {
+          "previous": 20.44,
+          "current": 20.04
+        },
+        "change": {
+          "previous": 0.61,
+          "current": -0.4
+        },
+        "change_pct": {
+          "previous": 3.08,
+          "current": -1.96
+        }
+      }
+    },
+    {
+      "entity_key": "NDAQ:US",
+      "name": "Nasdaq Inc",
+      "fields": {
+        "price": {
+          "previous": 82.24,
+          "current": 82.61
+        },
+        "change": {
+          "previous": -1.05,
+          "current": 0.37
+        },
+        "change_pct": {
+          "previous": -1.26,
+          "current": 0.45
         }
       }
     },
@@ -93,13 +5869,1223 @@
       "entity_key": "NDSN:US",
       "name": "Nordson Corp",
       "fields": {
+        "price": {
+          "previous": 295.92,
+          "current": 295.06
+        },
         "change": {
-          "previous": 6.52,
-          "current": 5.7
+          "previous": 5.7,
+          "current": -0.86
         },
         "change_pct": {
-          "previous": 2.25,
-          "current": 1.96
+          "previous": 1.96,
+          "current": -0.29
+        }
+      }
+    },
+    {
+      "entity_key": "NEE:US",
+      "name": "Nextera Energy",
+      "fields": {
+        "price": {
+          "previous": 86.75,
+          "current": 86.08
+        },
+        "change": {
+          "previous": 1.02,
+          "current": -0.67
+        },
+        "change_pct": {
+          "previous": 1.19,
+          "current": -0.77
+        }
+      }
+    },
+    {
+      "entity_key": "NEM:US",
+      "name": "Newmont Mining Corp",
+      "fields": {
+        "price": {
+          "previous": 103.79,
+          "current": 101.8
+        },
+        "change": {
+          "previous": -1.88,
+          "current": -1.99
+        },
+        "change_pct": {
+          "previous": -1.78,
+          "current": -1.92
+        }
+      }
+    },
+    {
+      "entity_key": "NFLX:US",
+      "name": "Netflix Inc",
+      "fields": {
+        "price": {
+          "previous": 77.38,
+          "current": 72.88
+        },
+        "change": {
+          "previous": 0.42,
+          "current": -4.5
+        },
+        "change_pct": {
+          "previous": 0.55,
+          "current": -5.82
+        }
+      }
+    },
+    {
+      "entity_key": "NI:US",
+      "name": "NiSource Inc",
+      "fields": {
+        "price": {
+          "previous": 47.26,
+          "current": 47.63
+        },
+        "change": {
+          "previous": 0.49,
+          "current": 0.37
+        },
+        "change_pct": {
+          "previous": 1.05,
+          "current": 0.78
+        }
+      }
+    },
+    {
+      "entity_key": "NKE:US",
+      "name": "Nike Inc",
+      "fields": {
+        "price": {
+          "previous": 45.2,
+          "current": 43.19
+        },
+        "change": {
+          "previous": 1.01,
+          "current": -2.01
+        },
+        "change_pct": {
+          "previous": 2.29,
+          "current": -4.45
+        }
+      }
+    },
+    {
+      "entity_key": "NOC:US",
+      "name": "Northrop Grumman Corp",
+      "fields": {
+        "price": {
+          "previous": 521.5,
+          "current": 507.33
+        },
+        "change": {
+          "previous": -28.65,
+          "current": -14.17
+        },
+        "change_pct": {
+          "previous": -5.21,
+          "current": -2.72
+        }
+      }
+    },
+    {
+      "entity_key": "NOW:US",
+      "name": "Servicenow Inc",
+      "fields": {
+        "price": {
+          "previous": 95.04,
+          "current": 93.01
+        },
+        "change": {
+          "previous": -0.44,
+          "current": -2.03
+        },
+        "change_pct": {
+          "previous": -0.46,
+          "current": -2.14
+        }
+      }
+    },
+    {
+      "entity_key": "NRG:US",
+      "name": "NRG Energy",
+      "fields": {
+        "price": {
+          "previous": 135.06,
+          "current": 138.91
+        },
+        "change": {
+          "previous": 2.93,
+          "current": 3.85
+        },
+        "change_pct": {
+          "previous": 2.22,
+          "current": 2.85
+        }
+      }
+    },
+    {
+      "entity_key": "NSC:US",
+      "name": "Norfolk Southern Corp",
+      "fields": {
+        "price": {
+          "previous": 300.08,
+          "current": 304.17
+        },
+        "change": {
+          "previous": -0.45,
+          "current": 4.09
+        },
+        "change_pct": {
+          "previous": -0.15,
+          "current": 1.36
+        }
+      }
+    },
+    {
+      "entity_key": "NTAP:US",
+      "name": "Netapp Inc",
+      "fields": {
+        "price": {
+          "previous": 159.71,
+          "current": 158.31
+        },
+        "change": {
+          "previous": 4.9,
+          "current": -1.4
+        },
+        "change_pct": {
+          "previous": 3.17,
+          "current": -0.88
+        }
+      }
+    },
+    {
+      "entity_key": "NTRS:US",
+      "name": "Northern Trust Corp",
+      "fields": {
+        "price": {
+          "previous": 172.11,
+          "current": 175.56
+        },
+        "change": {
+          "previous": -2.84,
+          "current": 3.45
+        },
+        "change_pct": {
+          "previous": -1.62,
+          "current": 2.0
+        }
+      }
+    },
+    {
+      "entity_key": "NUE:US",
+      "name": "Nucor Corp",
+      "fields": {
+        "price": {
+          "previous": 243.83,
+          "current": 244.93
+        },
+        "change": {
+          "previous": -8.77,
+          "current": 1.1
+        },
+        "change_pct": {
+          "previous": -3.47,
+          "current": 0.45
+        }
+      }
+    },
+    {
+      "entity_key": "NVDA:US",
+      "name": "Nvidia Corp",
+      "fields": {
+        "price": {
+          "previous": 210.69,
+          "current": 208.65
+        },
+        "change": {
+          "previous": 6.04,
+          "current": -2.04
+        },
+        "change_pct": {
+          "previous": 2.95,
+          "current": -0.97
+        }
+      }
+    },
+    {
+      "entity_key": "NVR:US",
+      "name": "NVR Inc",
+      "fields": {
+        "price": {
+          "previous": 6490.93,
+          "current": 6352.55
+        },
+        "change": {
+          "previous": 214.99,
+          "current": -138.38
+        },
+        "change_pct": {
+          "previous": 3.43,
+          "current": -2.13
+        }
+      }
+    },
+    {
+      "entity_key": "NWS:US",
+      "name": "News Corp Cl B",
+      "fields": {
+        "price": {
+          "previous": 28.75,
+          "current": 27.92
+        },
+        "change": {
+          "previous": -0.85,
+          "current": -0.83
+        },
+        "change_pct": {
+          "previous": -2.87,
+          "current": -2.89
+        }
+      }
+    },
+    {
+      "entity_key": "NWSA:US",
+      "name": "News Corp Cl A",
+      "fields": {
+        "price": {
+          "previous": 25.28,
+          "current": 24.61
+        },
+        "change": {
+          "previous": -0.7,
+          "current": -0.67
+        },
+        "change_pct": {
+          "previous": -2.69,
+          "current": -2.65
+        }
+      }
+    },
+    {
+      "entity_key": "NXPI:US",
+      "name": "Nxp Semiconductors",
+      "fields": {
+        "price": {
+          "previous": 313.27,
+          "current": 323.24
+        },
+        "change": {
+          "previous": 15.07,
+          "current": 9.97
+        },
+        "change_pct": {
+          "previous": 5.05,
+          "current": 3.18
+        }
+      }
+    },
+    {
+      "entity_key": "O:US",
+      "name": "Realty Income Corp",
+      "fields": {
+        "price": {
+          "previous": 60.24,
+          "current": 60.58
+        },
+        "change": {
+          "previous": -0.33,
+          "current": 0.34
+        },
+        "change_pct": {
+          "previous": -0.54,
+          "current": 0.56
+        }
+      }
+    },
+    {
+      "entity_key": "ODFL:US",
+      "name": "Old Dominion Freight Line",
+      "fields": {
+        "price": {
+          "previous": 221.04,
+          "current": 219.52
+        },
+        "change": {
+          "previous": 2.68,
+          "current": -1.52
+        },
+        "change_pct": {
+          "previous": 1.23,
+          "current": -0.69
+        }
+      }
+    },
+    {
+      "entity_key": "OKE:US",
+      "name": "Oneok Inc",
+      "fields": {
+        "price": {
+          "previous": 85.03,
+          "current": 86.29
+        },
+        "change": {
+          "previous": -0.55,
+          "current": 1.26
+        },
+        "change_pct": {
+          "previous": -0.64,
+          "current": 1.48
+        }
+      }
+    },
+    {
+      "entity_key": "OMC:US",
+      "name": "Omnicom Group Inc",
+      "fields": {
+        "price": {
+          "previous": 71.35,
+          "current": 72.55
+        },
+        "change": {
+          "previous": -4.96,
+          "current": 1.2
+        },
+        "change_pct": {
+          "previous": -6.5,
+          "current": 1.68
+        }
+      }
+    },
+    {
+      "entity_key": "ON:US",
+      "name": "On Semiconductor",
+      "fields": {
+        "price": {
+          "previous": 121.62,
+          "current": 131.55
+        },
+        "change": {
+          "previous": 8.7,
+          "current": 9.93
+        },
+        "change_pct": {
+          "previous": 7.7,
+          "current": 8.16
+        }
+      }
+    },
+    {
+      "entity_key": "ORCL:US",
+      "name": "Oracle Corp",
+      "fields": {
+        "price": {
+          "previous": 184.29,
+          "current": 175.07
+        },
+        "change": {
+          "previous": 0.76,
+          "current": -9.22
+        },
+        "change_pct": {
+          "previous": 0.41,
+          "current": -5.0
+        }
+      }
+    },
+    {
+      "entity_key": "ORLY:US",
+      "name": "O'Reilly Automotive",
+      "fields": {
+        "price": {
+          "previous": 86.84,
+          "current": 85.63
+        },
+        "change": {
+          "previous": -1.56,
+          "current": -1.21
+        },
+        "change_pct": {
+          "previous": -1.76,
+          "current": -1.39
+        }
+      }
+    },
+    {
+      "entity_key": "OTIS:US",
+      "name": "Otis Worldwide Corp",
+      "fields": {
+        "price": {
+          "previous": 73.27,
+          "current": 72.48
+        },
+        "change": {
+          "previous": 0.55,
+          "current": -0.79
+        },
+        "change_pct": {
+          "previous": 0.76,
+          "current": -1.08
+        }
+      }
+    },
+    {
+      "entity_key": "OXY:US",
+      "name": "Occidental Petroleum",
+      "fields": {
+        "price": {
+          "previous": 51.82,
+          "current": 52.0
+        },
+        "change": {
+          "previous": -1.22,
+          "current": 0.18
+        },
+        "change_pct": {
+          "previous": -2.3,
+          "current": 0.35
+        }
+      }
+    },
+    {
+      "entity_key": "PANW:US",
+      "name": "Palo Alto Networks",
+      "fields": {
+        "price": {
+          "previous": 287.78,
+          "current": 286.4
+        },
+        "change": {
+          "previous": 5.65,
+          "current": -1.38
+        },
+        "change_pct": {
+          "previous": 2.0,
+          "current": -0.48
+        }
+      }
+    },
+    {
+      "entity_key": "PAYX:US",
+      "name": "Paychex Inc",
+      "fields": {
+        "price": {
+          "previous": 98.24,
+          "current": 95.93
+        },
+        "change": {
+          "previous": 0.66,
+          "current": -2.31
+        },
+        "change_pct": {
+          "previous": 0.68,
+          "current": -2.35
+        }
+      }
+    },
+    {
+      "entity_key": "PCAR:US",
+      "name": "Paccar Inc",
+      "fields": {
+        "price": {
+          "previous": 118.95,
+          "current": 120.12
+        },
+        "change": {
+          "previous": 1.61,
+          "current": 1.17
+        },
+        "change_pct": {
+          "previous": 1.37,
+          "current": 0.98
+        }
+      }
+    },
+    {
+      "entity_key": "PCG:US",
+      "name": "Pacific Gas & Electric Company",
+      "fields": {
+        "price": {
+          "previous": 16.48,
+          "current": 16.63
+        },
+        "change": {
+          "previous": 0.04,
+          "current": 0.15
+        },
+        "change_pct": {
+          "previous": 0.24,
+          "current": 0.91
+        }
+      }
+    },
+    {
+      "entity_key": "PEG:US",
+      "name": "Public Service Enterprise Group",
+      "fields": {
+        "price": {
+          "previous": 79.89,
+          "current": 80.61
+        },
+        "change": {
+          "previous": 0.49,
+          "current": 0.72
+        },
+        "change_pct": {
+          "previous": 0.62,
+          "current": 0.9
+        }
+      }
+    },
+    {
+      "entity_key": "PEP:US",
+      "name": "Pepsico Inc",
+      "fields": {
+        "price": {
+          "previous": 142.02,
+          "current": 140.71
+        },
+        "change": {
+          "previous": 0.43,
+          "current": -1.31
+        },
+        "change_pct": {
+          "previous": 0.3,
+          "current": -0.92
+        }
+      }
+    },
+    {
+      "entity_key": "PFE:US",
+      "name": "Pfizer Inc",
+      "fields": {
+        "price": {
+          "previous": 25.21,
+          "current": 25.08
+        },
+        "change": {
+          "previous": -0.71,
+          "current": -0.13
+        },
+        "change_pct": {
+          "previous": -2.74,
+          "current": -0.52
+        }
+      }
+    },
+    {
+      "entity_key": "PFG:US",
+      "name": "Principal Financial Group",
+      "fields": {
+        "price": {
+          "previous": 109.57,
+          "current": 111.23
+        },
+        "change": {
+          "previous": -0.65,
+          "current": 1.66
+        },
+        "change_pct": {
+          "previous": -0.59,
+          "current": 1.52
+        }
+      }
+    },
+    {
+      "entity_key": "PG:US",
+      "name": "Procter & Gamble Company",
+      "fields": {
+        "price": {
+          "previous": 150.38,
+          "current": 147.68
+        },
+        "change": {
+          "previous": -0.18,
+          "current": -2.7
+        },
+        "change_pct": {
+          "previous": -0.12,
+          "current": -1.8
+        }
+      }
+    },
+    {
+      "entity_key": "PGR:US",
+      "name": "Progressive Corp",
+      "fields": {
+        "price": {
+          "previous": 204.87,
+          "current": 207.38
+        },
+        "change": {
+          "previous": 0.45,
+          "current": 2.51
+        },
+        "change_pct": {
+          "previous": 0.22,
+          "current": 1.23
+        }
+      }
+    },
+    {
+      "entity_key": "PH:US",
+      "name": "Parker-Hannifin Corp",
+      "fields": {
+        "price": {
+          "previous": 953.27,
+          "current": 962.14
+        },
+        "change": {
+          "previous": 7.3,
+          "current": 8.87
+        },
+        "change_pct": {
+          "previous": 0.77,
+          "current": 0.93
+        }
+      }
+    },
+    {
+      "entity_key": "PHM:US",
+      "name": "Pultegroup",
+      "fields": {
+        "price": {
+          "previous": 126.96,
+          "current": 125.62
+        },
+        "change": {
+          "previous": 5.08,
+          "current": -1.34
+        },
+        "change_pct": {
+          "previous": 4.17,
+          "current": -1.06
+        }
+      }
+    },
+    {
+      "entity_key": "PKG:US",
+      "name": "Packaging Corp of America",
+      "fields": {
+        "price": {
+          "previous": 229.02,
+          "current": 234.03
+        },
+        "change": {
+          "previous": -0.24,
+          "current": 5.01
+        },
+        "change_pct": {
+          "previous": -0.1,
+          "current": 2.19
+        }
+      }
+    },
+    {
+      "entity_key": "PLD:US",
+      "name": "Prologis Inc",
+      "fields": {
+        "price": {
+          "previous": 140.54,
+          "current": 143.83
+        },
+        "change": {
+          "previous": -0.4,
+          "current": 3.29
+        },
+        "change_pct": {
+          "previous": -0.28,
+          "current": 2.34
+        }
+      }
+    },
+    {
+      "entity_key": "PLTR:US",
+      "name": "Palantir Technologies Cl A",
+      "fields": {
+        "price": {
+          "previous": 128.47,
+          "current": 119.5
+        },
+        "change": {
+          "previous": -2.16,
+          "current": -8.97
+        },
+        "change_pct": {
+          "previous": -1.65,
+          "current": -6.98
+        }
+      }
+    },
+    {
+      "entity_key": "PM:US",
+      "name": "Philip Morris International",
+      "fields": {
+        "price": {
+          "previous": 178.4,
+          "current": 173.17
+        },
+        "change": {
+          "previous": -1.04,
+          "current": -5.23
+        },
+        "change_pct": {
+          "previous": -0.58,
+          "current": -2.93
+        }
+      }
+    },
+    {
+      "entity_key": "PNC:US",
+      "name": "PNC Bank",
+      "fields": {
+        "price": {
+          "previous": 232.04,
+          "current": 234.71
+        },
+        "change": {
+          "previous": -1.09,
+          "current": 2.67
+        },
+        "change_pct": {
+          "previous": -0.47,
+          "current": 1.15
+        }
+      }
+    },
+    {
+      "entity_key": "PNR:US",
+      "name": "Pentair Ltd",
+      "fields": {
+        "price": {
+          "previous": 74.32,
+          "current": 74.03
+        },
+        "change": {
+          "previous": 0.93,
+          "current": -0.29
+        },
+        "change_pct": {
+          "previous": 1.27,
+          "current": -0.39
+        }
+      }
+    },
+    {
+      "entity_key": "PNW:US",
+      "name": "Pinnacle West Capital Corp",
+      "fields": {
+        "price": {
+          "previous": 102.32,
+          "current": 102.43
+        },
+        "change": {
+          "previous": -0.06,
+          "current": 0.11
+        },
+        "change_pct": {
+          "previous": -0.06,
+          "current": 0.11
+        }
+      }
+    },
+    {
+      "entity_key": "PODD:US",
+      "name": "Insulet Corp",
+      "fields": {
+        "price": {
+          "previous": 145.76,
+          "current": 138.97
+        },
+        "change": {
+          "previous": 2.24,
+          "current": -6.79
+        },
+        "change_pct": {
+          "previous": 1.56,
+          "current": -4.66
+        }
+      }
+    },
+    {
+      "entity_key": "POOL:US",
+      "name": "Pool Corp",
+      "fields": {
+        "price": {
+          "previous": 198.99,
+          "current": 195.61
+        },
+        "change": {
+          "previous": 4.65,
+          "current": -3.38
+        },
+        "change_pct": {
+          "previous": 2.39,
+          "current": -1.7
+        }
+      }
+    },
+    {
+      "entity_key": "PPG:US",
+      "name": "PPG Industries",
+      "fields": {
+        "price": {
+          "previous": 118.25,
+          "current": 118.92
+        },
+        "change": {
+          "previous": 1.11,
+          "current": 0.67
+        },
+        "change_pct": {
+          "previous": 0.95,
+          "current": 0.57
+        }
+      }
+    },
+    {
+      "entity_key": "PPL:US",
+      "name": "PPL Corp",
+      "fields": {
+        "price": {
+          "previous": 35.38,
+          "current": 35.59
+        },
+        "change": {
+          "previous": 0.05,
+          "current": 0.21
+        },
+        "change_pct": {
+          "previous": 0.14,
+          "current": 0.59
+        }
+      }
+    },
+    {
+      "entity_key": "PRU:US",
+      "name": "Prudential Financial Inc",
+      "fields": {
+        "price": {
+          "previous": 106.53,
+          "current": 108.26
+        },
+        "change": {
+          "previous": -0.48,
+          "current": 1.73
+        },
+        "change_pct": {
+          "previous": -0.45,
+          "current": 1.62
+        }
+      }
+    },
+    {
+      "entity_key": "PSA:US",
+      "name": "Public Storage",
+      "fields": {
+        "price": {
+          "previous": 318.12,
+          "current": 320.22
+        },
+        "change": {
+          "previous": 5.54,
+          "current": 2.1
+        },
+        "change_pct": {
+          "previous": 1.77,
+          "current": 0.66
+        }
+      }
+    },
+    {
+      "entity_key": "PSKY:US",
+      "name": "Paramount Skydance Corp Cl B",
+      "fields": {
+        "price": {
+          "previous": 9.94,
+          "current": 9.89
+        },
+        "change": {
+          "previous": -0.04,
+          "current": -0.05
+        },
+        "change_pct": {
+          "previous": -0.4,
+          "current": -0.5
+        }
+      }
+    },
+    {
+      "entity_key": "PSX:US",
+      "name": "Phillips 66",
+      "fields": {
+        "price": {
+          "previous": 166.14,
+          "current": 168.41
+        },
+        "change": {
+          "previous": -1.03,
+          "current": 2.27
+        },
+        "change_pct": {
+          "previous": -0.62,
+          "current": 1.37
+        }
+      }
+    },
+    {
+      "entity_key": "PTC:US",
+      "name": "Ptc Inc",
+      "fields": {
+        "price": {
+          "previous": 114.75,
+          "current": 115.0
+        },
+        "change": {
+          "previous": -2.19,
+          "current": 0.25
+        },
+        "change_pct": {
+          "previous": -1.87,
+          "current": 0.22
+        }
+      }
+    },
+    {
+      "entity_key": "PWR:US",
+      "name": "Quanta Services",
+      "fields": {
+        "price": {
+          "previous": 702.25,
+          "current": 740.14
+        },
+        "change": {
+          "previous": -12.6,
+          "current": 37.89
+        },
+        "change_pct": {
+          "previous": -1.76,
+          "current": 5.4
+        }
+      }
+    },
+    {
+      "entity_key": "PYPL:US",
+      "name": "Paypal Holdings",
+      "fields": {
+        "price": {
+          "previous": 42.51,
+          "current": 42.34
+        },
+        "change": {
+          "previous": 0.43,
+          "current": -0.17
+        },
+        "change_pct": {
+          "previous": 1.02,
+          "current": -0.4
+        }
+      }
+    },
+    {
+      "entity_key": "Q:US",
+      "name": "Qnity Electronics Inc",
+      "fields": {
+        "price": {
+          "previous": 168.98,
+          "current": 175.64
+        },
+        "change": {
+          "previous": 12.26,
+          "current": 6.66
+        },
+        "change_pct": {
+          "previous": 7.82,
+          "current": 3.94
+        }
+      }
+    },
+    {
+      "entity_key": "QCOM:US",
+      "name": "Qualcomm Inc",
+      "fields": {
+        "price": {
+          "previous": 226.11,
+          "current": 221.9
+        },
+        "change": {
+          "previous": 13.14,
+          "current": -4.21
+        },
+        "change_pct": {
+          "previous": 6.17,
+          "current": -1.86
+        }
+      }
+    },
+    {
+      "entity_key": "RCL:US",
+      "name": "Royal Caribbean Cruises Ltd",
+      "fields": {
+        "price": {
+          "previous": 312.51,
+          "current": 309.36
+        },
+        "change": {
+          "previous": 11.04,
+          "current": -3.15
+        },
+        "change_pct": {
+          "previous": 3.66,
+          "current": -1.01
+        }
+      }
+    },
+    {
+      "entity_key": "REG:US",
+      "name": "Regency Centers Corp",
+      "fields": {
+        "price": {
+          "previous": 76.88,
+          "current": 77.36
+        },
+        "change": {
+          "previous": -0.49,
+          "current": 0.48
+        },
+        "change_pct": {
+          "previous": -0.63,
+          "current": 0.62
+        }
+      }
+    },
+    {
+      "entity_key": "REGN:US",
+      "name": "Regeneron Pharmaceuticals",
+      "fields": {
+        "price": {
+          "previous": 609.94,
+          "current": 612.5
+        },
+        "change": {
+          "previous": 2.01,
+          "current": 2.56
+        },
+        "change_pct": {
+          "previous": 0.33,
+          "current": 0.42
+        }
+      }
+    },
+    {
+      "entity_key": "RF:US",
+      "name": "Regions Financial Corp",
+      "fields": {
+        "price": {
+          "previous": 28.62,
+          "current": 28.75
+        },
+        "change": {
+          "previous": -0.03,
+          "current": 0.13
+        },
+        "change_pct": {
+          "previous": -0.1,
+          "current": 0.45
+        }
+      }
+    },
+    {
+      "entity_key": "RJF:US",
+      "name": "Raymond James Financial",
+      "fields": {
+        "price": {
+          "previous": 155.86,
+          "current": 156.65
+        },
+        "change": {
+          "previous": -2.91,
+          "current": 0.79
+        },
+        "change_pct": {
+          "previous": -1.83,
+          "current": 0.51
+        }
+      }
+    },
+    {
+      "entity_key": "RL:US",
+      "name": "Ralph Lauren Corp",
+      "fields": {
+        "price": {
+          "previous": 413.01,
+          "current": 410.92
+        },
+        "change": {
+          "previous": 9.16,
+          "current": -2.09
+        },
+        "change_pct": {
+          "previous": 2.27,
+          "current": -0.51
+        }
+      }
+    },
+    {
+      "entity_key": "RMD:US",
+      "name": "Resmed Inc",
+      "fields": {
+        "price": {
+          "previous": 188.63,
+          "current": 188.45
+        },
+        "change": {
+          "previous": 2.34,
+          "current": -0.18
+        },
+        "change_pct": {
+          "previous": 1.26,
+          "current": -0.1
+        }
+      }
+    },
+    {
+      "entity_key": "ROK:US",
+      "name": "Rockwell Automation Inc",
+      "fields": {
+        "price": {
+          "previous": 473.79,
+          "current": 478.08
+        },
+        "change": {
+          "previous": 15.1,
+          "current": 4.29
+        },
+        "change_pct": {
+          "previous": 3.29,
+          "current": 0.91
+        }
+      }
+    },
+    {
+      "entity_key": "ROL:US",
+      "name": "Rollins Inc",
+      "fields": {
+        "price": {
+          "previous": 44.96,
+          "current": 44.41
+        },
+        "change": {
+          "previous": -0.17,
+          "current": -0.55
+        },
+        "change_pct": {
+          "previous": -0.38,
+          "current": -1.22
         }
       }
     },
@@ -107,9 +7093,1957 @@
       "entity_key": "ROP:US",
       "name": "Roper Industries",
       "fields": {
+        "price": {
+          "previous": 330.26,
+          "current": 325.09
+        },
         "change": {
-          "previous": 0.28,
+          "previous": 0.29,
+          "current": -5.17
+        },
+        "change_pct": {
+          "previous": 0.09,
+          "current": -1.56
+        }
+      }
+    },
+    {
+      "entity_key": "ROST:US",
+      "name": "Ross Stores Inc",
+      "fields": {
+        "price": {
+          "previous": 232.8,
+          "current": 236.97
+        },
+        "change": {
+          "previous": -0.45,
+          "current": 4.17
+        },
+        "change_pct": {
+          "previous": -0.19,
+          "current": 1.79
+        }
+      }
+    },
+    {
+      "entity_key": "RSG:US",
+      "name": "Republic Services",
+      "fields": {
+        "price": {
+          "previous": 204.94,
+          "current": 204.36
+        },
+        "change": {
+          "previous": -2.49,
+          "current": -0.58
+        },
+        "change_pct": {
+          "previous": -1.2,
+          "current": -0.28
+        }
+      }
+    },
+    {
+      "entity_key": "RTX:US",
+      "name": "Rtx Corp",
+      "fields": {
+        "price": {
+          "previous": 185.6,
+          "current": 181.83
+        },
+        "change": {
+          "previous": -6.98,
+          "current": -3.77
+        },
+        "change_pct": {
+          "previous": -3.62,
+          "current": -2.03
+        }
+      }
+    },
+    {
+      "entity_key": "RVTY:US",
+      "name": "Revvity Inc",
+      "fields": {
+        "price": {
+          "previous": 100.0,
+          "current": 99.04
+        },
+        "change": {
+          "previous": 2.18,
+          "current": -0.96
+        },
+        "change_pct": {
+          "previous": 2.23,
+          "current": -0.96
+        }
+      }
+    },
+    {
+      "entity_key": "SATS:US",
+      "name": "Echostar Corp",
+      "fields": {
+        "price": {
+          "previous": 109.17,
+          "current": 106.4
+        },
+        "change": {
+          "previous": -2.53,
+          "current": -2.77
+        },
+        "change_pct": {
+          "previous": -2.26,
+          "current": -2.54
+        }
+      }
+    },
+    {
+      "entity_key": "SBAC:US",
+      "name": "SBA Communications",
+      "fields": {
+        "price": {
+          "previous": 186.87,
+          "current": 187.59
+        },
+        "change": {
+          "previous": -4.7,
+          "current": 0.72
+        },
+        "change_pct": {
+          "previous": -2.45,
+          "current": 0.39
+        }
+      }
+    },
+    {
+      "entity_key": "SBUX:US",
+      "name": "Starbucks Corp",
+      "fields": {
+        "price": {
+          "previous": 100.65,
+          "current": 100.15
+        },
+        "change": {
+          "previous": 0.83,
+          "current": -0.5
+        },
+        "change_pct": {
+          "previous": 0.83,
+          "current": -0.5
+        }
+      }
+    },
+    {
+      "entity_key": "SCHW:US",
+      "name": "The Charles Schwab Corp",
+      "fields": {
+        "price": {
+          "previous": 91.7,
+          "current": 92.03
+        },
+        "change": {
+          "previous": -2.81,
+          "current": 0.33
+        },
+        "change_pct": {
+          "previous": -2.97,
+          "current": 0.36
+        }
+      }
+    },
+    {
+      "entity_key": "SHW:US",
+      "name": "Sherwin-Williams Company",
+      "fields": {
+        "price": {
+          "previous": 320.79,
+          "current": 316.9
+        },
+        "change": {
+          "previous": 6.99,
+          "current": -3.89
+        },
+        "change_pct": {
+          "previous": 2.23,
+          "current": -1.21
+        }
+      }
+    },
+    {
+      "entity_key": "SJM:US",
+      "name": "J.M. Smucker Company",
+      "fields": {
+        "price": {
+          "previous": 110.86,
+          "current": 107.19
+        },
+        "change": {
+          "previous": -2.1,
+          "current": -3.67
+        },
+        "change_pct": {
+          "previous": -1.86,
+          "current": -3.31
+        }
+      }
+    },
+    {
+      "entity_key": "SLB:US",
+      "name": "Slb Limited",
+      "fields": {
+        "price": {
+          "previous": 48.09,
+          "current": 47.95
+        },
+        "change": {
+          "previous": -2.24,
+          "current": -0.14
+        },
+        "change_pct": {
+          "previous": -4.45,
+          "current": -0.29
+        }
+      }
+    },
+    {
+      "entity_key": "SMCI:US",
+      "name": "Super Micro Computer",
+      "fields": {
+        "price": {
+          "previous": 30.66,
+          "current": 35.46
+        },
+        "change": {
+          "previous": 2.88,
+          "current": 4.8
+        },
+        "change_pct": {
+          "previous": 10.37,
+          "current": 15.66
+        }
+      }
+    },
+    {
+      "entity_key": "SNA:US",
+      "name": "Snap-On Inc",
+      "fields": {
+        "price": {
+          "previous": 387.25,
+          "current": 390.7
+        },
+        "change": {
+          "previous": 5.99,
+          "current": 3.45
+        },
+        "change_pct": {
+          "previous": 1.57,
+          "current": 0.89
+        }
+      }
+    },
+    {
+      "entity_key": "SNDK:US",
+      "name": "Sandisk Corp",
+      "fields": {
+        "price": {
+          "previous": 2184.75,
+          "current": 2273.73
+        },
+        "change": {
+          "previous": 225.95,
+          "current": 88.98
+        },
+        "change_pct": {
+          "previous": 11.54,
+          "current": 4.07
+        }
+      }
+    },
+    {
+      "entity_key": "SNPS:US",
+      "name": "Synopsys Inc",
+      "fields": {
+        "price": {
+          "previous": 455.51,
+          "current": 464.58
+        },
+        "change": {
+          "previous": -6.23,
+          "current": 9.07
+        },
+        "change_pct": {
+          "previous": -1.35,
+          "current": 1.99
+        }
+      }
+    },
+    {
+      "entity_key": "SO:US",
+      "name": "Southern Company",
+      "fields": {
+        "price": {
+          "previous": 93.09,
+          "current": 93.43
+        },
+        "change": {
+          "previous": 0.56,
+          "current": 0.34
+        },
+        "change_pct": {
+          "previous": 0.61,
+          "current": 0.37
+        }
+      }
+    },
+    {
+      "entity_key": "SOLV:US",
+      "name": "Solventum Corporation",
+      "fields": {
+        "price": {
+          "previous": 75.43,
+          "current": 73.56
+        },
+        "change": {
+          "previous": 0.87,
+          "current": -1.87
+        },
+        "change_pct": {
+          "previous": 1.17,
+          "current": -2.48
+        }
+      }
+    },
+    {
+      "entity_key": "SPG:US",
+      "name": "Simon Property Group",
+      "fields": {
+        "price": {
+          "previous": 211.33,
+          "current": 214.57
+        },
+        "change": {
+          "previous": 1.47,
+          "current": 3.24
+        },
+        "change_pct": {
+          "previous": 0.7,
+          "current": 1.53
+        }
+      }
+    },
+    {
+      "entity_key": "SPGI:US",
+      "name": "S&P Global Inc",
+      "fields": {
+        "price": {
+          "previous": 410.92,
+          "current": 407.39
+        },
+        "change": {
+          "previous": -7.1,
+          "current": -3.53
+        },
+        "change_pct": {
+          "previous": -1.7,
+          "current": -0.86
+        }
+      }
+    },
+    {
+      "entity_key": "SRE:US",
+      "name": "Sempra",
+      "fields": {
+        "price": {
+          "previous": 90.69,
+          "current": 91.62
+        },
+        "change": {
+          "previous": 0.44,
+          "current": 0.93
+        },
+        "change_pct": {
+          "previous": 0.49,
+          "current": 1.03
+        }
+      }
+    },
+    {
+      "entity_key": "STE:US",
+      "name": "Steris Corp",
+      "fields": {
+        "price": {
+          "previous": 202.61,
+          "current": 200.4
+        },
+        "change": {
+          "previous": 3.21,
+          "current": -2.21
+        },
+        "change_pct": {
+          "previous": 1.61,
+          "current": -1.09
+        }
+      }
+    },
+    {
+      "entity_key": "STLD:US",
+      "name": "Steel Dynamics Inc",
+      "fields": {
+        "price": {
+          "previous": 249.91,
+          "current": 250.98
+        },
+        "change": {
+          "previous": -20.22,
+          "current": 1.07
+        },
+        "change_pct": {
+          "previous": -7.49,
+          "current": 0.43
+        }
+      }
+    },
+    {
+      "entity_key": "STT:US",
+      "name": "State Street Corp",
+      "fields": {
+        "price": {
+          "previous": 168.31,
+          "current": 173.71
+        },
+        "change": {
+          "previous": -2.79,
+          "current": 5.4
+        },
+        "change_pct": {
+          "previous": -1.63,
+          "current": 3.21
+        }
+      }
+    },
+    {
+      "entity_key": "STX:US",
+      "name": "Seagate Technology Holdings",
+      "fields": {
+        "price": {
+          "previous": 1070.23,
+          "current": 1094.04
+        },
+        "change": {
+          "previous": 4.16,
+          "current": 23.81
+        },
+        "change_pct": {
+          "previous": 0.39,
+          "current": 2.22
+        }
+      }
+    },
+    {
+      "entity_key": "STZ:US",
+      "name": "Constellation Brands",
+      "fields": {
+        "price": {
+          "previous": 141.18,
+          "current": 141.51
+        },
+        "change": {
+          "previous": 2.22,
+          "current": 0.33
+        },
+        "change_pct": {
+          "previous": 1.6,
+          "current": 0.23
+        }
+      }
+    },
+    {
+      "entity_key": "SW:US",
+      "name": "Smurfit Westrock Plc",
+      "fields": {
+        "price": {
+          "previous": 44.2,
+          "current": 45.39
+        },
+        "change": {
+          "previous": 0.78,
+          "current": 1.19
+        },
+        "change_pct": {
+          "previous": 1.8,
+          "current": 2.69
+        }
+      }
+    },
+    {
+      "entity_key": "SWK:US",
+      "name": "Stanley Black & Decker",
+      "fields": {
+        "price": {
+          "previous": 86.75,
+          "current": 86.31
+        },
+        "change": {
+          "previous": 4.28,
+          "current": -0.44
+        },
+        "change_pct": {
+          "previous": 5.19,
+          "current": -0.51
+        }
+      }
+    },
+    {
+      "entity_key": "SWKS:US",
+      "name": "Skyworks Solutions",
+      "fields": {
+        "price": {
+          "previous": 72.45,
+          "current": 76.18
+        },
+        "change": {
+          "previous": 3.07,
+          "current": 3.73
+        },
+        "change_pct": {
+          "previous": 4.42,
+          "current": 5.15
+        }
+      }
+    },
+    {
+      "entity_key": "SYF:US",
+      "name": "Synchrony Financial",
+      "fields": {
+        "price": {
+          "previous": 75.26,
+          "current": 75.71
+        },
+        "change": {
+          "previous": 1.15,
+          "current": 0.45
+        },
+        "change_pct": {
+          "previous": 1.55,
+          "current": 0.6
+        }
+      }
+    },
+    {
+      "entity_key": "SYK:US",
+      "name": "Stryker Corp",
+      "fields": {
+        "price": {
+          "previous": 307.8,
+          "current": 304.69
+        },
+        "change": {
+          "previous": 6.66,
+          "current": -3.11
+        },
+        "change_pct": {
+          "previous": 2.21,
+          "current": -1.01
+        }
+      }
+    },
+    {
+      "entity_key": "SYY:US",
+      "name": "Sysco Corp",
+      "fields": {
+        "price": {
+          "previous": 78.7,
+          "current": 77.98
+        },
+        "change": {
+          "previous": -0.3,
+          "current": -0.72
+        },
+        "change_pct": {
+          "previous": -0.38,
+          "current": -0.91
+        }
+      }
+    },
+    {
+      "entity_key": "T:US",
+      "name": "AT&T Inc",
+      "fields": {
+        "price": {
+          "previous": 22.01,
+          "current": 22.1
+        },
+        "change": {
+          "previous": -0.43,
+          "current": 0.09
+        },
+        "change_pct": {
+          "previous": -1.92,
+          "current": 0.41
+        }
+      }
+    },
+    {
+      "entity_key": "TAP:US",
+      "name": "Molson Coors Brewing",
+      "fields": {
+        "price": {
+          "previous": 39.4,
+          "current": 39.64
+        },
+        "change": {
+          "previous": 0.35,
+          "current": 0.24
+        },
+        "change_pct": {
+          "previous": 0.9,
+          "current": 0.61
+        }
+      }
+    },
+    {
+      "entity_key": "TDG:US",
+      "name": "Transdigm Group Inc",
+      "fields": {
+        "price": {
+          "previous": 1328.31,
+          "current": 1295.9
+        },
+        "change": {
+          "previous": 11.56,
+          "current": -32.41
+        },
+        "change_pct": {
+          "previous": 0.88,
+          "current": -2.44
+        }
+      }
+    },
+    {
+      "entity_key": "TDY:US",
+      "name": "Teledyne Technologies",
+      "fields": {
+        "price": {
+          "previous": 619.58,
+          "current": 616.65
+        },
+        "change": {
+          "previous": 4.23,
+          "current": -2.93
+        },
+        "change_pct": {
+          "previous": 0.69,
+          "current": -0.47
+        }
+      }
+    },
+    {
+      "entity_key": "TECH:US",
+      "name": "Bio-Techne Corp",
+      "fields": {
+        "price": {
+          "previous": 57.94,
+          "current": 55.61
+        },
+        "change": {
+          "previous": 2.94,
+          "current": -2.33
+        },
+        "change_pct": {
+          "previous": 5.35,
+          "current": -4.02
+        }
+      }
+    },
+    {
+      "entity_key": "TEL:US",
+      "name": "Te Connectivity Ltd",
+      "fields": {
+        "price": {
+          "previous": 217.64,
+          "current": 212.69
+        },
+        "change": {
+          "previous": 5.44,
+          "current": -4.95
+        },
+        "change_pct": {
+          "previous": 2.56,
+          "current": -2.27
+        }
+      }
+    },
+    {
+      "entity_key": "TER:US",
+      "name": "Teradyne Inc",
+      "fields": {
+        "price": {
+          "previous": 437.92,
+          "current": 457.0
+        },
+        "change": {
+          "previous": 29.36,
+          "current": 19.08
+        },
+        "change_pct": {
+          "previous": 7.19,
+          "current": 4.36
+        }
+      }
+    },
+    {
+      "entity_key": "TFC:US",
+      "name": "Truist Financial Corp",
+      "fields": {
+        "price": {
+          "previous": 48.33,
+          "current": 48.76
+        },
+        "change": {
+          "previous": 0.16,
+          "current": 0.43
+        },
+        "change_pct": {
+          "previous": 0.33,
+          "current": 0.89
+        }
+      }
+    },
+    {
+      "entity_key": "TGT:US",
+      "name": "Target Corp",
+      "fields": {
+        "price": {
+          "previous": 130.74,
+          "current": 129.73
+        },
+        "change": {
+          "previous": 2.93,
+          "current": -1.01
+        },
+        "change_pct": {
+          "previous": 2.29,
+          "current": -0.77
+        }
+      }
+    },
+    {
+      "entity_key": "TJX:US",
+      "name": "TJX Companies",
+      "fields": {
+        "price": {
+          "previous": 163.81,
+          "current": 164.17
+        },
+        "change": {
+          "previous": -0.32,
+          "current": 0.36
+        },
+        "change_pct": {
+          "previous": -0.19,
+          "current": 0.22
+        }
+      }
+    },
+    {
+      "entity_key": "TKO:US",
+      "name": "Tko Group Holdings Cl A",
+      "fields": {
+        "price": {
+          "previous": 198.78,
+          "current": 197.26
+        },
+        "change": {
+          "previous": 4.25,
+          "current": -1.52
+        },
+        "change_pct": {
+          "previous": 2.18,
+          "current": -0.76
+        }
+      }
+    },
+    {
+      "entity_key": "TMO:US",
+      "name": "Thermo Fisher Scientific",
+      "fields": {
+        "price": {
+          "previous": 464.61,
+          "current": 464.01
+        },
+        "change": {
+          "previous": 2.92,
+          "current": -0.6
+        },
+        "change_pct": {
+          "previous": 0.63,
+          "current": -0.13
+        }
+      }
+    },
+    {
+      "entity_key": "TMUS:US",
+      "name": "T-Mobile US",
+      "fields": {
+        "price": {
+          "previous": 181.67,
+          "current": 180.06
+        },
+        "change": {
+          "previous": 0.36,
+          "current": -1.61
+        },
+        "change_pct": {
+          "previous": 0.2,
+          "current": -0.89
+        }
+      }
+    },
+    {
+      "entity_key": "TPL:US",
+      "name": "Texas Pacific Land Trust",
+      "fields": {
+        "price": {
+          "previous": 355.11,
+          "current": 361.11
+        },
+        "change": {
+          "previous": 0.63,
+          "current": 6.0
+        },
+        "change_pct": {
+          "previous": 0.18,
+          "current": 1.69
+        }
+      }
+    },
+    {
+      "entity_key": "TPR:US",
+      "name": "Tapestry Inc",
+      "fields": {
+        "price": {
+          "previous": 143.5,
+          "current": 149.2
+        },
+        "change": {
+          "previous": -2.37,
+          "current": 5.7
+        },
+        "change_pct": {
+          "previous": -1.62,
+          "current": 3.97
+        }
+      }
+    },
+    {
+      "entity_key": "TRGP:US",
+      "name": "Targa Resources",
+      "fields": {
+        "price": {
+          "previous": 258.58,
+          "current": 264.51
+        },
+        "change": {
+          "previous": -2.16,
+          "current": 5.93
+        },
+        "change_pct": {
+          "previous": -0.83,
+          "current": 2.29
+        }
+      }
+    },
+    {
+      "entity_key": "TRMB:US",
+      "name": "Trimble Navigation",
+      "fields": {
+        "price": {
+          "previous": 49.16,
+          "current": 49.23
+        },
+        "change": {
+          "previous": 0.29,
+          "current": 0.07
+        },
+        "change_pct": {
+          "previous": 0.59,
+          "current": 0.14
+        }
+      }
+    },
+    {
+      "entity_key": "TROW:US",
+      "name": "T Rowe Price Group",
+      "fields": {
+        "price": {
+          "previous": 107.65,
+          "current": 107.99
+        },
+        "change": {
+          "previous": -0.47,
+          "current": 0.34
+        },
+        "change_pct": {
+          "previous": -0.43,
+          "current": 0.32
+        }
+      }
+    },
+    {
+      "entity_key": "TRV:US",
+      "name": "The Travelers Companies",
+      "fields": {
+        "price": {
+          "previous": 307.81,
+          "current": 310.61
+        },
+        "change": {
+          "previous": 1.74,
+          "current": 2.8
+        },
+        "change_pct": {
+          "previous": 0.57,
+          "current": 0.91
+        }
+      }
+    },
+    {
+      "entity_key": "TSCO:US",
+      "name": "Tractor Supply Company",
+      "fields": {
+        "price": {
+          "previous": 30.24,
+          "current": 29.81
+        },
+        "change": {
+          "previous": 0.49,
+          "current": -0.43
+        },
+        "change_pct": {
+          "previous": 1.65,
+          "current": -1.42
+        }
+      }
+    },
+    {
+      "entity_key": "TSLA:US",
+      "name": "Tesla Inc",
+      "fields": {
+        "price": {
+          "previous": 400.49,
+          "current": 405.05
+        },
+        "change": {
+          "previous": 4.11,
+          "current": 4.56
+        },
+        "change_pct": {
+          "previous": 1.04,
+          "current": 1.14
+        }
+      }
+    },
+    {
+      "entity_key": "TSN:US",
+      "name": "Tyson Foods",
+      "fields": {
+        "price": {
+          "previous": 55.46,
+          "current": 55.51
+        },
+        "change": {
+          "previous": -0.74,
+          "current": 0.05
+        },
+        "change_pct": {
+          "previous": -1.32,
+          "current": 0.09
+        }
+      }
+    },
+    {
+      "entity_key": "TT:US",
+      "name": "Trane Technologies Plc",
+      "fields": {
+        "price": {
+          "previous": 483.4,
+          "current": 491.59
+        },
+        "change": {
+          "previous": 10.89,
+          "current": 8.19
+        },
+        "change_pct": {
+          "previous": 2.3,
+          "current": 1.69
+        }
+      }
+    },
+    {
+      "entity_key": "TTD:US",
+      "name": "Trade Desk Inc",
+      "fields": {
+        "price": {
+          "previous": 18.51,
+          "current": 18.02
+        },
+        "change": {
+          "previous": 0.35,
+          "current": -0.49
+        },
+        "change_pct": {
+          "previous": 1.93,
+          "current": -2.65
+        }
+      }
+    },
+    {
+      "entity_key": "TTWO:US",
+      "name": "Take-Two Interactive",
+      "fields": {
+        "price": {
+          "previous": 239.28,
+          "current": 239.57
+        },
+        "change": {
+          "previous": 11.25,
           "current": 0.29
+        },
+        "change_pct": {
+          "previous": 4.93,
+          "current": 0.12
+        }
+      }
+    },
+    {
+      "entity_key": "TXN:US",
+      "name": "Texas Instruments",
+      "fields": {
+        "price": {
+          "previous": 322.86,
+          "current": 332.28
+        },
+        "change": {
+          "previous": 20.98,
+          "current": 9.42
+        },
+        "change_pct": {
+          "previous": 6.95,
+          "current": 2.92
+        }
+      }
+    },
+    {
+      "entity_key": "TXT:US",
+      "name": "Textron Inc",
+      "fields": {
+        "price": {
+          "previous": 89.47,
+          "current": 86.94
+        },
+        "change": {
+          "previous": -3.22,
+          "current": -2.53
+        },
+        "change_pct": {
+          "previous": -3.47,
+          "current": -2.83
+        }
+      }
+    },
+    {
+      "entity_key": "TYL:US",
+      "name": "Tyler Technologies",
+      "fields": {
+        "price": {
+          "previous": 278.91,
+          "current": 275.27
+        },
+        "change": {
+          "previous": -8.8,
+          "current": -3.64
+        },
+        "change_pct": {
+          "previous": -3.06,
+          "current": -1.31
+        }
+      }
+    },
+    {
+      "entity_key": "UAL:US",
+      "name": "United Airlines Holdings",
+      "fields": {
+        "price": {
+          "previous": 118.32,
+          "current": 118.68
+        },
+        "change": {
+          "previous": 2.49,
+          "current": 0.36
+        },
+        "change_pct": {
+          "previous": 2.15,
+          "current": 0.3
+        }
+      }
+    },
+    {
+      "entity_key": "UBER:US",
+      "name": "UBER Technologies Inc",
+      "fields": {
+        "price": {
+          "previous": 71.64,
+          "current": 71.43
+        },
+        "change": {
+          "previous": 0.73,
+          "current": -0.21
+        },
+        "change_pct": {
+          "previous": 1.03,
+          "current": -0.29
+        }
+      }
+    },
+    {
+      "entity_key": "UDR:US",
+      "name": "United Dominion Realty Trust",
+      "fields": {
+        "price": {
+          "previous": 37.56,
+          "current": 37.74
+        },
+        "change": {
+          "previous": -0.09,
+          "current": 0.18
+        },
+        "change_pct": {
+          "previous": -0.24,
+          "current": 0.48
+        }
+      }
+    },
+    {
+      "entity_key": "UHS:US",
+      "name": "Universal Health Services",
+      "fields": {
+        "price": {
+          "previous": 141.17,
+          "current": 142.64
+        },
+        "change": {
+          "previous": -0.09,
+          "current": 1.47
+        },
+        "change_pct": {
+          "previous": -0.06,
+          "current": 1.04
+        }
+      }
+    },
+    {
+      "entity_key": "ULTA:US",
+      "name": "Ulta Beauty Inc",
+      "fields": {
+        "price": {
+          "previous": 456.13,
+          "current": 465.06
+        },
+        "change": {
+          "previous": 5.38,
+          "current": 8.93
+        },
+        "change_pct": {
+          "previous": 1.19,
+          "current": 1.96
+        }
+      }
+    },
+    {
+      "entity_key": "UNH:US",
+      "name": "Unitedhealth Group",
+      "fields": {
+        "price": {
+          "previous": 400.96,
+          "current": 406.68
+        },
+        "change": {
+          "previous": 1.43,
+          "current": 5.72
+        },
+        "change_pct": {
+          "previous": 0.36,
+          "current": 1.43
+        }
+      }
+    },
+    {
+      "entity_key": "UNP:US",
+      "name": "Union Pacific Corp",
+      "fields": {
+        "price": {
+          "previous": 256.88,
+          "current": 259.91
+        },
+        "change": {
+          "previous": -1.17,
+          "current": 3.03
+        },
+        "change_pct": {
+          "previous": -0.45,
+          "current": 1.18
+        }
+      }
+    },
+    {
+      "entity_key": "UPS:US",
+      "name": "United Parcel Service",
+      "fields": {
+        "price": {
+          "previous": 104.86,
+          "current": 107.24
+        },
+        "change": {
+          "previous": -0.27,
+          "current": 2.38
+        },
+        "change_pct": {
+          "previous": -0.26,
+          "current": 2.27
+        }
+      }
+    },
+    {
+      "entity_key": "URI:US",
+      "name": "United Rentals",
+      "fields": {
+        "price": {
+          "previous": 1076.81,
+          "current": 1092.68
+        },
+        "change": {
+          "previous": 27.84,
+          "current": 15.87
+        },
+        "change_pct": {
+          "previous": 2.65,
+          "current": 1.47
+        }
+      }
+    },
+    {
+      "entity_key": "USB:US",
+      "name": "U.S. Bancorp",
+      "fields": {
+        "price": {
+          "previous": 58.14,
+          "current": 58.68
+        },
+        "change": {
+          "previous": 0.23,
+          "current": 0.54
+        },
+        "change_pct": {
+          "previous": 0.4,
+          "current": 0.93
+        }
+      }
+    },
+    {
+      "entity_key": "V:US",
+      "name": "Visa Inc",
+      "fields": {
+        "price": {
+          "previous": 327.24,
+          "current": 326.6
+        },
+        "change": {
+          "previous": -3.14,
+          "current": -0.64
+        },
+        "change_pct": {
+          "previous": -0.95,
+          "current": -0.2
+        }
+      }
+    },
+    {
+      "entity_key": "VEEV:US",
+      "name": "Veeva Systems Inc",
+      "fields": {
+        "price": {
+          "previous": 153.3,
+          "current": 153.16
+        },
+        "change": {
+          "previous": -1.55,
+          "current": -0.14
+        },
+        "change_pct": {
+          "previous": -1.0,
+          "current": -0.09
+        }
+      }
+    },
+    {
+      "entity_key": "VICI:US",
+      "name": "Vici Properties Inc",
+      "fields": {
+        "price": {
+          "previous": 26.28,
+          "current": 26.09
+        },
+        "change": {
+          "previous": -0.5,
+          "current": -0.19
+        },
+        "change_pct": {
+          "previous": -1.87,
+          "current": -0.72
+        }
+      }
+    },
+    {
+      "entity_key": "VLO:US",
+      "name": "Valero Energy Corp",
+      "fields": {
+        "price": {
+          "previous": 236.3,
+          "current": 243.78
+        },
+        "change": {
+          "previous": -3.47,
+          "current": 7.48
+        },
+        "change_pct": {
+          "previous": -1.45,
+          "current": 3.17
+        }
+      }
+    },
+    {
+      "entity_key": "VLTO:US",
+      "name": "Veralto Corporation",
+      "fields": {
+        "price": {
+          "previous": 84.02,
+          "current": 82.95
+        },
+        "change": {
+          "previous": 1.25,
+          "current": -1.07
+        },
+        "change_pct": {
+          "previous": 1.51,
+          "current": -1.27
+        }
+      }
+    },
+    {
+      "entity_key": "VMC:US",
+      "name": "Vulcan Materials Company",
+      "fields": {
+        "price": {
+          "previous": 302.84,
+          "current": 304.39
+        },
+        "change": {
+          "previous": 8.02,
+          "current": 1.55
+        },
+        "change_pct": {
+          "previous": 2.72,
+          "current": 0.51
+        }
+      }
+    },
+    {
+      "entity_key": "VRSK:US",
+      "name": "Verisk Analytics Inc",
+      "fields": {
+        "price": {
+          "previous": 173.8,
+          "current": 168.99
+        },
+        "change": {
+          "previous": -1.55,
+          "current": -4.81
+        },
+        "change_pct": {
+          "previous": -0.88,
+          "current": -2.77
+        }
+      }
+    },
+    {
+      "entity_key": "VRSN:US",
+      "name": "Verisign Inc",
+      "fields": {
+        "price": {
+          "previous": 264.64,
+          "current": 247.69
+        },
+        "change": {
+          "previous": -0.28,
+          "current": -16.95
+        },
+        "change_pct": {
+          "previous": -0.11,
+          "current": -6.4
+        }
+      }
+    },
+    {
+      "entity_key": "VRT:US",
+      "name": "Vertiv Holdings",
+      "fields": {
+        "price": {
+          "previous": 333.05,
+          "current": 357.96
+        },
+        "change": {
+          "previous": 15.47,
+          "current": 24.91
+        },
+        "change_pct": {
+          "previous": 4.87,
+          "current": 7.48
+        }
+      }
+    },
+    {
+      "entity_key": "VRTX:US",
+      "name": "Vertex Pharmaceutic",
+      "fields": {
+        "price": {
+          "previous": 451.63,
+          "current": 466.77
+        },
+        "change": {
+          "previous": -7.36,
+          "current": 15.14
+        },
+        "change_pct": {
+          "previous": -1.6,
+          "current": 3.35
+        }
+      }
+    },
+    {
+      "entity_key": "VST:US",
+      "name": "Vistra Energy Corp",
+      "fields": {
+        "price": {
+          "previous": 163.75,
+          "current": 167.26
+        },
+        "change": {
+          "previous": 4.92,
+          "current": 3.74
+        },
+        "change_pct": {
+          "previous": 3.1,
+          "current": 2.29
+        }
+      }
+    },
+    {
+      "entity_key": "VTR:US",
+      "name": "Ventas Inc",
+      "fields": {
+        "price": {
+          "previous": 81.6,
+          "current": 83.04
+        },
+        "change": {
+          "previous": -0.55,
+          "current": 1.44
+        },
+        "change_pct": {
+          "previous": -0.67,
+          "current": 1.76
+        }
+      }
+    },
+    {
+      "entity_key": "VTRS:US",
+      "name": "Viatris Inc",
+      "fields": {
+        "price": {
+          "previous": 15.37,
+          "current": 15.38
+        },
+        "change": {
+          "previous": -0.36,
+          "current": 0.01
+        },
+        "change_pct": {
+          "previous": -2.29,
+          "current": 0.07
+        }
+      }
+    },
+    {
+      "entity_key": "VZ:US",
+      "name": "Verizon Communications",
+      "fields": {
+        "price": {
+          "previous": 45.37,
+          "current": 45.36
+        },
+        "change": {
+          "previous": -0.47,
+          "current": -0.01
+        },
+        "change_pct": {
+          "previous": -1.03,
+          "current": -0.02
+        }
+      }
+    },
+    {
+      "entity_key": "WAB:US",
+      "name": "Wabtec Corp",
+      "fields": {
+        "price": {
+          "previous": 273.83,
+          "current": 276.75
+        },
+        "change": {
+          "previous": 1.97,
+          "current": 2.92
+        },
+        "change_pct": {
+          "previous": 0.72,
+          "current": 1.07
+        }
+      }
+    },
+    {
+      "entity_key": "WAT:US",
+      "name": "Waters Corp",
+      "fields": {
+        "price": {
+          "previous": 355.44,
+          "current": 358.25
+        },
+        "change": {
+          "previous": -1.56,
+          "current": 2.81
+        },
+        "change_pct": {
+          "previous": -0.44,
+          "current": 0.79
+        }
+      }
+    },
+    {
+      "entity_key": "WBD:US",
+      "name": "Discovery Inc Series A",
+      "fields": {
+        "price": {
+          "previous": 26.2,
+          "current": 26.95
+        },
+        "change": {
+          "previous": -0.04,
+          "current": 0.75
+        },
+        "change_pct": {
+          "previous": -0.15,
+          "current": 2.86
+        }
+      }
+    },
+    {
+      "entity_key": "WDAY:US",
+      "name": "Workday Inc",
+      "fields": {
+        "price": {
+          "previous": 116.93,
+          "current": 113.04
+        },
+        "change": {
+          "previous": -4.9,
+          "current": -3.89
+        },
+        "change_pct": {
+          "previous": -4.02,
+          "current": -3.33
+        }
+      }
+    },
+    {
+      "entity_key": "WDC:US",
+      "name": "Western Digital Corp",
+      "fields": {
+        "price": {
+          "previous": 746.23,
+          "current": 732.62
+        },
+        "change": {
+          "previous": 34.1,
+          "current": -13.61
+        },
+        "change_pct": {
+          "previous": 4.79,
+          "current": -1.82
+        }
+      }
+    },
+    {
+      "entity_key": "WEC:US",
+      "name": "Wisconsin Energy Corp",
+      "fields": {
+        "price": {
+          "previous": 112.17,
+          "current": 113.04
+        },
+        "change": {
+          "previous": -0.37,
+          "current": 0.87
+        },
+        "change_pct": {
+          "previous": -0.33,
+          "current": 0.78
+        }
+      }
+    },
+    {
+      "entity_key": "WELL:US",
+      "name": "Welltower Inc",
+      "fields": {
+        "price": {
+          "previous": 206.65,
+          "current": 211.45
+        },
+        "change": {
+          "previous": 0.1,
+          "current": 4.8
+        },
+        "change_pct": {
+          "previous": 0.05,
+          "current": 2.32
+        }
+      }
+    },
+    {
+      "entity_key": "WFC:US",
+      "name": "Wells Fargo & Company",
+      "fields": {
+        "price": {
+          "previous": 82.2,
+          "current": 83.84
+        },
+        "change": {
+          "previous": -1.61,
+          "current": 1.64
+        },
+        "change_pct": {
+          "previous": -1.92,
+          "current": 2.0
+        }
+      }
+    },
+    {
+      "entity_key": "WM:US",
+      "name": "Waste Management",
+      "fields": {
+        "price": {
+          "previous": 214.6,
+          "current": 213.31
+        },
+        "change": {
+          "previous": -1.25,
+          "current": -1.29
+        },
+        "change_pct": {
+          "previous": -0.58,
+          "current": -0.6
+        }
+      }
+    },
+    {
+      "entity_key": "WMB:US",
+      "name": "Williams Companies",
+      "fields": {
+        "price": {
+          "previous": 73.12,
+          "current": 74.95
+        },
+        "change": {
+          "previous": 1.87,
+          "current": 1.83
+        },
+        "change_pct": {
+          "previous": 2.62,
+          "current": 2.5
+        }
+      }
+    },
+    {
+      "entity_key": "WMT:US",
+      "name": "Walmart Inc",
+      "fields": {
+        "change": {
+          "previous": -0.95,
+          "current": null
+        },
+        "change_pct": {
+          "previous": -0.8,
+          "current": null
+        }
+      }
+    },
+    {
+      "entity_key": "WRB:US",
+      "name": "W.R. Berkley Corp",
+      "fields": {
+        "price": {
+          "previous": 67.18,
+          "current": 67.14
+        },
+        "change": {
+          "previous": -0.91,
+          "current": -0.04
+        },
+        "change_pct": {
+          "previous": -1.34,
+          "current": -0.06
+        }
+      }
+    },
+    {
+      "entity_key": "WSM:US",
+      "name": "Williams-Sonoma",
+      "fields": {
+        "price": {
+          "previous": 226.92,
+          "current": 226.06
+        },
+        "change": {
+          "previous": 5.77,
+          "current": -0.86
+        },
+        "change_pct": {
+          "previous": 2.61,
+          "current": -0.38
+        }
+      }
+    },
+    {
+      "entity_key": "WST:US",
+      "name": "West Pharmaceutical Services",
+      "fields": {
+        "price": {
+          "previous": 327.95,
+          "current": 329.71
+        },
+        "change": {
+          "previous": 4.36,
+          "current": 1.76
+        },
+        "change_pct": {
+          "previous": 1.35,
+          "current": 0.54
+        }
+      }
+    },
+    {
+      "entity_key": "WTW:US",
+      "name": "Willis Towers Watson Public",
+      "fields": {
+        "price": {
+          "previous": 255.2,
+          "current": 252.97
+        },
+        "change": {
+          "previous": -4.83,
+          "current": -2.23
+        },
+        "change_pct": {
+          "previous": -1.86,
+          "current": -0.87
+        }
+      }
+    },
+    {
+      "entity_key": "WY:US",
+      "name": "Weyerhaeuser Company",
+      "fields": {
+        "price": {
+          "previous": 24.32,
+          "current": 24.25
+        },
+        "change": {
+          "previous": -0.01,
+          "current": -0.07
+        },
+        "change_pct": {
+          "previous": -0.04,
+          "current": -0.29
+        }
+      }
+    },
+    {
+      "entity_key": "WYNN:US",
+      "name": "Wynn Resorts Ltd",
+      "fields": {
+        "price": {
+          "previous": 105.53,
+          "current": 103.62
+        },
+        "change": {
+          "previous": 3.22,
+          "current": -1.91
+        },
+        "change_pct": {
+          "previous": 3.15,
+          "current": -1.81
+        }
+      }
+    },
+    {
+      "entity_key": "XEL:US",
+      "name": "XCEL Energy Inc",
+      "fields": {
+        "price": {
+          "previous": 77.41,
+          "current": 78.81
+        },
+        "change": {
+          "previous": -0.05,
+          "current": 1.4
+        },
+        "change_pct": {
+          "previous": -0.06,
+          "current": 1.81
+        }
+      }
+    },
+    {
+      "entity_key": "XOM:US",
+      "name": "Exxon Mobil Corp",
+      "fields": {
+        "price": {
+          "previous": 137.81,
+          "current": 138.47
+        },
+        "change": {
+          "previous": -2.93,
+          "current": 0.66
+        },
+        "change_pct": {
+          "previous": -2.08,
+          "current": 0.48
+        }
+      }
+    },
+    {
+      "entity_key": "XYL:US",
+      "name": "Xylem Inc",
+      "fields": {
+        "price": {
+          "previous": 111.42,
+          "current": 111.77
+        },
+        "change": {
+          "previous": 1.13,
+          "current": 0.35
+        },
+        "change_pct": {
+          "previous": 1.02,
+          "current": 0.31
+        }
+      }
+    },
+    {
+      "entity_key": "XYZ:US",
+      "name": "Block Inc",
+      "fields": {
+        "price": {
+          "previous": 74.78,
+          "current": 73.07
+        },
+        "change": {
+          "previous": 1.94,
+          "current": -1.71
+        },
+        "change_pct": {
+          "previous": 2.66,
+          "current": -2.29
+        }
+      }
+    },
+    {
+      "entity_key": "YUM:US",
+      "name": "Yum! Brands",
+      "fields": {
+        "price": {
+          "previous": 151.99,
+          "current": 150.74
+        },
+        "change": {
+          "previous": -2.08,
+          "current": -1.25
+        },
+        "change_pct": {
+          "previous": -1.35,
+          "current": -0.82
+        }
+      }
+    },
+    {
+      "entity_key": "ZBH:US",
+      "name": "Zimmer Biomet Holdings",
+      "fields": {
+        "price": {
+          "previous": 87.97,
+          "current": 87.09
+        },
+        "change": {
+          "previous": 0.81,
+          "current": -0.88
+        },
+        "change_pct": {
+          "previous": 0.93,
+          "current": -1.0
+        }
+      }
+    },
+    {
+      "entity_key": "ZBRA:US",
+      "name": "Zebra Technologies",
+      "fields": {
+        "price": {
+          "previous": 235.98,
+          "current": 245.69
+        },
+        "change": {
+          "previous": 3.0,
+          "current": 9.71
+        },
+        "change_pct": {
+          "previous": 1.29,
+          "current": 4.11
+        }
+      }
+    },
+    {
+      "entity_key": "ZTS:US",
+      "name": "Zoetis Inc Cl A",
+      "fields": {
+        "price": {
+          "previous": 78.71,
+          "current": 75.89
+        },
+        "change": {
+          "previous": 1.45,
+          "current": -2.82
+        },
+        "change_pct": {
+          "previous": 1.88,
+          "current": -3.58
         }
       }
     }
@@ -119,6 +9053,6 @@
     "removed_count": 0,
     "row_count_delta": 0,
     "common_count": 503,
-    "changed_count": 8
+    "changed_count": 503
   }
 }
