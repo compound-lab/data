@@ -90,6 +90,16 @@
     "security_path": "/data/securities/abbv-us.json"
   },
   {
+    "entity_key": "ABDN:LN",
+    "symbol": "ABDN",
+    "name": "ABERDEEN GROUP PLC ORD 13 61/63P",
+    "bbg_ticker": "ABDN:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/abdn-ln.json"
+  },
+  {
     "entity_key": "ABF:LN",
     "symbol": "ABF",
     "name": "ASSOCIATED BRITISH FOODS PLC ORD 5 15/22P",
@@ -3508,6 +3518,16 @@
       "sp500"
     ],
     "security_path": "/data/securities/ice-us.json"
+  },
+  {
+    "entity_key": "ICG:LN",
+    "symbol": "ICG",
+    "name": "ICG PLC ORD 26 1/4P",
+    "bbg_ticker": "ICG:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/icg-ln.json"
   },
   {
     "entity_key": "IDR:SM",
