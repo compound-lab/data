@@ -20,6 +20,16 @@
     "security_path": "/data/securities/ferrovial-nv.json"
   },
   {
+    "entity_key": "HOCHTIEF AG",
+    "symbol": null,
+    "name": "HOCHTIEF AG",
+    "bbg_ticker": null,
+    "memberships": [
+      "dax"
+    ],
+    "security_path": "/data/securities/hochtief-ag.json"
+  },
+  {
     "entity_key": "SCHNEIDER ELECTRIC SE",
     "symbol": null,
     "name": "SCHNEIDER ELECTRIC SE",
@@ -960,16 +970,6 @@
     "security_path": "/data/securities/biib-us.json"
   },
   {
-    "entity_key": "BKG:LN",
-    "symbol": "BKG",
-    "name": "BERKELEY GROUP HOLDINGS (THE) PLC ORD 5.6110477936P",
-    "bbg_ticker": "BKG:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/bkg-ln.json"
-  },
-  {
     "entity_key": "BKNG:US",
     "symbol": "BKNG",
     "name": "Booking Holdings",
@@ -1338,6 +1338,16 @@
       "sp500"
     ],
     "security_path": "/data/securities/cbre-us.json"
+  },
+  {
+    "entity_key": "CCC:LN",
+    "symbol": "CCC",
+    "name": "COMPUTACENTER PLC ORD 7 5/9P",
+    "bbg_ticker": "CCC:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/ccc-ln.json"
   },
   {
     "entity_key": "CCEP:LN",
@@ -3500,16 +3510,6 @@
     "security_path": "/data/securities/ice-us.json"
   },
   {
-    "entity_key": "ICG:LN",
-    "symbol": "ICG",
-    "name": "ICG PLC ORD 26 1/4P",
-    "bbg_ticker": "ICG:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/icg-ln.json"
-  },
-  {
     "entity_key": "IDR:SM",
     "symbol": "IDR",
     "name": "INDRA A",
@@ -3658,6 +3658,16 @@
       "sp500"
     ],
     "security_path": "/data/securities/invh-us.json"
+  },
+  {
+    "entity_key": "INVP:LN",
+    "symbol": "INVP",
+    "name": "INVESTEC PLC ORD GBP0.0002",
+    "bbg_ticker": "INVP:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/invp-ln.json"
   },
   {
     "entity_key": "IP:US",
@@ -4440,16 +4450,6 @@
     "security_path": "/data/securities/mmm-us.json"
   },
   {
-    "entity_key": "MNDI:LN",
-    "symbol": "MNDI",
-    "name": "MONDI PLC ORD EUR 0.22",
-    "bbg_ticker": "MNDI:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/mndi-ln.json"
-  },
-  {
     "entity_key": "MNG:LN",
     "symbol": "MNG",
     "name": "M&G PLC ORD £0.05",
@@ -5040,16 +5040,6 @@
     "security_path": "/data/securities/oxy-us.json"
   },
   {
-    "entity_key": "PAH3:GR",
-    "symbol": "PAH3",
-    "name": "PORSCHE AUTOMOBIL HOLDING SE",
-    "bbg_ticker": "PAH3:GR",
-    "memberships": [
-      "dax"
-    ],
-    "security_path": "/data/securities/pah3-gr.json"
-  },
-  {
     "entity_key": "PANW:US",
     "symbol": "PANW",
     "name": "Palo Alto Networks",
@@ -5598,16 +5588,6 @@
       "cac"
     ],
     "security_path": "/data/securities/rms-fp.json"
-  },
-  {
-    "entity_key": "RMV:LN",
-    "symbol": "RMV",
-    "name": "RIGHTMOVE PLC ORD 0.1P",
-    "bbg_ticker": "RMV:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/rmv-ln.json"
   },
   {
     "entity_key": "RNO:FP",
