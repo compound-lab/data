@@ -1720,16 +1720,6 @@
     "security_path": "/data/securities/cpay-us.json"
   },
   {
-    "entity_key": "CPB:US",
-    "symbol": "CPB",
-    "name": "The Campbell's Company",
-    "bbg_ticker": "CPB:US",
-    "memberships": [
-      "sp500"
-    ],
-    "security_path": "/data/securities/cpb-us.json"
-  },
-  {
     "entity_key": "CPG:LN",
     "symbol": "CPG",
     "name": "COMPASS GROUP PLC ORD 11 1/20P",
@@ -2828,6 +2818,16 @@
       "sp500"
     ],
     "security_path": "/data/securities/fix-us.json"
+  },
+  {
+    "entity_key": "FLEX:US",
+    "symbol": "FLEX",
+    "name": "Flextronics Intl Ltd",
+    "bbg_ticker": "FLEX:US",
+    "memberships": [
+      "sp500"
+    ],
+    "security_path": "/data/securities/flex-us.json"
   },
   {
     "entity_key": "FME:GR",
@@ -4590,6 +4590,16 @@
     "security_path": "/data/securities/mrsh-us.json"
   },
   {
+    "entity_key": "MRVL:US",
+    "symbol": "MRVL",
+    "name": "Marvell Technology Inc",
+    "bbg_ticker": "MRVL:US",
+    "memberships": [
+      "sp500"
+    ],
+    "security_path": "/data/securities/mrvl-us.json"
+  },
+  {
     "entity_key": "MS:US",
     "symbol": "MS",
     "name": "Morgan Stanley",
@@ -5268,16 +5278,6 @@
       "sp500"
     ],
     "security_path": "/data/securities/podd-us.json"
-  },
-  {
-    "entity_key": "POOL:US",
-    "symbol": "POOL",
-    "name": "Pool Corp",
-    "bbg_ticker": "POOL:US",
-    "memberships": [
-      "sp500"
-    ],
-    "security_path": "/data/securities/pool-us.json"
   },
   {
     "entity_key": "PPG:US",
