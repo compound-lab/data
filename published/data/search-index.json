@@ -1250,16 +1250,6 @@
     "security_path": "/data/securities/cabk-sm.json"
   },
   {
-    "entity_key": "CAG:US",
-    "symbol": "CAG",
-    "name": "Conagra Brands",
-    "bbg_ticker": "CAG:US",
-    "memberships": [
-      "sp500"
-    ],
-    "security_path": "/data/securities/cag-us.json"
-  },
-  {
     "entity_key": "CAH:US",
     "symbol": "CAH",
     "name": "Cardinal Health",
@@ -2278,6 +2268,16 @@
       "sp500"
     ],
     "security_path": "/data/securities/ebay-us.json"
+  },
+  {
+    "entity_key": "ECHO:US",
+    "symbol": "ECHO",
+    "name": "Echostar Corp",
+    "bbg_ticker": "ECHO:US",
+    "memberships": [
+      "sp500"
+    ],
+    "security_path": "/data/securities/echo-us.json"
   },
   {
     "entity_key": "ECL:US",
@@ -3328,6 +3328,16 @@
       "sp500"
     ],
     "security_path": "/data/securities/hon-us.json"
+  },
+  {
+    "entity_key": "HONA:US",
+    "symbol": "HONA",
+    "name": "Honeywell Aerospace Inc",
+    "bbg_ticker": "HONA:US",
+    "memberships": [
+      "sp500"
+    ],
+    "security_path": "/data/securities/hona-us.json"
   },
   {
     "entity_key": "HOOD:US",
