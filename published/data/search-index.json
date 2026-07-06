@@ -1110,6 +1110,16 @@
     "security_path": "/data/securities/bnzl-ln.json"
   },
   {
+    "entity_key": "BP.:LN",
+    "symbol": "BP.",
+    "name": "BP PLC $0.25",
+    "bbg_ticker": "BP.:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/bp-ln.json"
+  },
+  {
     "entity_key": "BR:US",
     "symbol": "BR",
     "name": "Broadridge Financial Solutions",
@@ -3368,6 +3378,16 @@
       "sp500"
     ],
     "security_path": "/data/securities/hrl-us.json"
+  },
+  {
+    "entity_key": "HSBA:LN",
+    "symbol": "HSBA",
+    "name": "HSBC HLDGS PLC ORD $0.50 (UK REG)",
+    "bbg_ticker": "HSBA:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/hsba-ln.json"
   },
   {
     "entity_key": "HSIC:US",
@@ -6788,6 +6808,16 @@
       "dax"
     ],
     "security_path": "/data/securities/vna-gr.json"
+  },
+  {
+    "entity_key": "VOD:LN",
+    "symbol": "VOD",
+    "name": "VODAFONE GROUP PLC ORD USD0.20 20/21",
+    "bbg_ticker": "VOD:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/vod-ln.json"
   },
   {
     "entity_key": "VOW3:GR",
