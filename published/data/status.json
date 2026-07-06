@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T17:50:03Z",
+  "generated_at": "2026-07-06T20:44:03Z",
   "datasets": [
     {
       "dataset": "cac",
@@ -74,19 +74,17 @@
     {
       "dataset": "sp500",
       "kind": "constituents",
-      "latest_date": "2026-07-03",
-      "status": "warning",
-      "row_count": 504,
+      "latest_date": "2026-07-06",
+      "status": "ok",
+      "row_count": 503,
       "expected_row_count": 503,
       "freshness_days": 0,
-      "notes": [
-        "Row count 504 != expected 503"
-      ]
+      "notes": []
     },
     {
       "dataset": "tsx",
       "kind": "summary",
-      "latest_date": "2026-07-03",
+      "latest_date": "2026-07-06",
       "status": "ok",
       "row_count": null,
       "expected_row_count": null,
