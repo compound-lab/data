@@ -1,0 +1,61 @@
+{
+  "dataset": "index_breadth",
+  "kind": "raw",
+  "as_of_date": "2026-07-15",
+  "as_of_utc": "2026-07-15T21:00:00Z",
+  "raw": {
+    "ts": "2026-07-15T21:00:00Z",
+    "dateUK": "2026-07-15",
+    "rows": [
+      {
+        "Index": "CAC 40",
+        "Source": "Yahoo chart API (CAC constituents)",
+        "Total": 40,
+        "Up": 27,
+        "Down": 13,
+        "Unchanged": 0,
+        "Unknown": 0,
+        "InputFile": "yahoo-chart-2026-07-29.json",
+        "DateUK": "2026-07-15",
+        "Timestamp": "2026-07-15T21:00:00Z"
+      },
+      {
+        "Index": "DAX",
+        "Source": "Yahoo chart API (DAX constituents)",
+        "Total": 40,
+        "Up": 23,
+        "Down": 16,
+        "Unchanged": 1,
+        "Unknown": 0,
+        "InputFile": "yahoo-chart-2026-07-29.json",
+        "DateUK": "2026-07-15",
+        "Timestamp": "2026-07-15T21:00:00Z"
+      },
+      {
+        "Index": "FTSE 100",
+        "Source": "Yahoo chart API (FTSE constituents)",
+        "Total": 100,
+        "Up": 57,
+        "Down": 41,
+        "Unchanged": 2,
+        "Unknown": 0,
+        "InputFile": "yahoo-chart-2026-07-29.json",
+        "DateUK": "2026-07-15",
+        "Timestamp": "2026-07-15T21:00:00Z"
+      },
+      {
+        "Index": "IBEX 35",
+        "Source": "Yahoo chart API (IBEX constituents)",
+        "Total": 35,
+        "Up": 13,
+        "Down": 20,
+        "Unchanged": 2,
+        "Unknown": 0,
+        "InputFile": "yahoo-chart-2026-07-29.json",
+        "DateUK": "2026-07-15",
+        "Timestamp": "2026-07-15T21:00:00Z"
+      }
+    ],
+    "errors": []
+  }
+}
