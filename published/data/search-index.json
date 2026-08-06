@@ -2250,16 +2250,6 @@
     "security_path": "/data/securities/dxcm-us.json"
   },
   {
-    "entity_key": "EA:US",
-    "symbol": "EA",
-    "name": "Electronic Arts Inc",
-    "bbg_ticker": "EA:US",
-    "memberships": [
-      "sp500"
-    ],
-    "security_path": "/data/securities/ea-us.json"
-  },
-  {
     "entity_key": "EBAY:US",
     "symbol": "EBAY",
     "name": "Ebay Inc",
@@ -2748,6 +2738,16 @@
       "sp500"
     ],
     "security_path": "/data/securities/fe-us.json"
+  },
+  {
+    "entity_key": "FERG:US",
+    "symbol": "FERG",
+    "name": "Ferguson Enterprises Inc",
+    "bbg_ticker": "FERG:US",
+    "memberships": [
+      "sp500"
+    ],
+    "security_path": "/data/securities/ferg-us.json"
   },
   {
     "entity_key": "FFIV:US",
