@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T07:53:48Z",
+  "generated_at": "2026-08-14T14:43:23Z",
   "datasets": [
     {
       "dataset": "cac",
@@ -15,21 +15,25 @@
       "dataset": "dax",
       "kind": "constituents",
       "latest_date": "2026-08-14",
-      "status": "ok",
-      "row_count": 40,
+      "status": "warning",
+      "row_count": 39,
       "expected_row_count": 40,
       "freshness_days": 0,
-      "notes": []
+      "notes": [
+        "Row count 39 != expected 40"
+      ]
     },
     {
       "dataset": "ftse",
       "kind": "constituents",
       "latest_date": "2026-08-14",
-      "status": "ok",
-      "row_count": 100,
+      "status": "warning",
+      "row_count": 99,
       "expected_row_count": 100,
       "freshness_days": 0,
-      "notes": []
+      "notes": [
+        "Row count 99 != expected 100"
+      ]
     },
     {
       "dataset": "ibex",

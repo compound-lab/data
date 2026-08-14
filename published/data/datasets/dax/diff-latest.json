@@ -3,7 +3,28 @@
   "current_date": "2026-08-14",
   "previous_date": "2026-08-13",
   "added": [],
-  "removed": [],
+  "removed": [
+    {
+      "dataset": "dax",
+      "as_of_date": "2026-08-13",
+      "as_of_utc": "2026-08-13T16:18:00.962Z",
+      "name": "FRESENIUS SE & CO. KGAA",
+      "entity_key": "FRE:GR",
+      "symbol": "FRE",
+      "source_ticker": null,
+      "bbg_ticker": "FRE:GR",
+      "price": null,
+      "change": null,
+      "change_pct": -0.7,
+      "currency": null,
+      "weight": null,
+      "market_cap_m": 30440.0,
+      "extra": {
+        "change_5d_pct": null,
+        "ytd_pct": null
+      }
+    }
+  ],
   "changed": [
     {
       "entity_key": "ADS:GR",
@@ -11,7 +32,7 @@
       "fields": {
         "change_pct": {
           "previous": 0.47,
-          "current": 1.07
+          "current": -1.26
         },
         "market_cap_m": {
           "previous": 31830.0,
@@ -25,7 +46,7 @@
       "fields": {
         "change_pct": {
           "previous": -0.35,
-          "current": 1.53
+          "current": 1.41
         },
         "market_cap_m": {
           "previous": 195000.0,
@@ -39,7 +60,7 @@
       "fields": {
         "change_pct": {
           "previous": -0.25,
-          "current": 0.63
+          "current": 0.83
         }
       }
     },
@@ -49,7 +70,7 @@
       "fields": {
         "change_pct": {
           "previous": -2.15,
-          "current": 0.38
+          "current": 1.47
         },
         "market_cap_m": {
           "previous": 50950.0,
@@ -63,7 +84,7 @@
       "fields": {
         "change_pct": {
           "previous": 0.12,
-          "current": -1.05
+          "current": -0.97
         },
         "market_cap_m": {
           "previous": 54430.0,
@@ -77,7 +98,7 @@
       "fields": {
         "change_pct": {
           "previous": -0.33,
-          "current": 0.78
+          "current": -0.52
         },
         "market_cap_m": {
           "previous": 19840.0,
@@ -91,7 +112,7 @@
       "fields": {
         "change_pct": {
           "previous": -0.94,
-          "current": 1.16
+          "current": 1.06
         },
         "market_cap_m": {
           "previous": 41000.0,
@@ -105,7 +126,7 @@
       "fields": {
         "change_pct": {
           "previous": -0.88,
-          "current": 0.68
+          "current": 0.74
         },
         "market_cap_m": {
           "previous": 10190.0,
@@ -119,7 +140,7 @@
       "fields": {
         "change_pct": {
           "previous": 1.22,
-          "current": -0.53
+          "current": 0.01
         },
         "market_cap_m": {
           "previous": 49130.0,
@@ -133,7 +154,7 @@
       "fields": {
         "change_pct": {
           "previous": 2.95,
-          "current": -0.71
+          "current": -1.33
         },
         "market_cap_m": {
           "previous": 15800.0,
@@ -147,7 +168,7 @@
       "fields": {
         "change_pct": {
           "previous": -0.11,
-          "current": 0.63
+          "current": -0.29
         },
         "market_cap_m": {
           "previous": 56620.0,
@@ -161,7 +182,7 @@
       "fields": {
         "change_pct": {
           "previous": -0.63,
-          "current": 0.26
+          "current": 0.42
         },
         "market_cap_m": {
           "previous": 72070.0,
@@ -175,7 +196,7 @@
       "fields": {
         "change_pct": {
           "previous": 0.29,
-          "current": -1.5
+          "current": -0.31
         },
         "market_cap_m": {
           "previous": 70710.0,
@@ -189,7 +210,7 @@
       "fields": {
         "change_pct": {
           "previous": 0.96,
-          "current": 0.33
+          "current": 0.9
         },
         "market_cap_m": {
           "previous": 156000.0,
@@ -203,7 +224,7 @@
       "fields": {
         "change_pct": {
           "previous": -1.05,
-          "current": 0.27
+          "current": -0.06
         },
         "market_cap_m": {
           "previous": 39930.0,
@@ -217,7 +238,7 @@
       "fields": {
         "change_pct": {
           "previous": -0.61,
-          "current": -0.42
+          "current": 0.01
         },
         "market_cap_m": {
           "previous": 160000.0,
@@ -231,7 +252,7 @@
       "fields": {
         "change_pct": {
           "previous": -0.92,
-          "current": -3.63
+          "current": -4.5
         },
         "market_cap_m": {
           "previous": 55580.0,
@@ -245,21 +266,11 @@
       "fields": {
         "change_pct": {
           "previous": -0.05,
-          "current": -0.24
+          "current": 0.11
         },
         "market_cap_m": {
           "previous": 12540.0,
           "current": 12530.0
-        }
-      }
-    },
-    {
-      "entity_key": "FRE:GR",
-      "name": "FRESENIUS SE & CO. KGAA",
-      "fields": {
-        "market_cap_m": {
-          "previous": 30440.0,
-          "current": 31140.0
         }
       }
     },
@@ -269,7 +280,7 @@
       "fields": {
         "change_pct": {
           "previous": 0.62,
-          "current": -0.27
+          "current": -0.58
         },
         "market_cap_m": {
           "previous": 12150.0,
@@ -283,7 +294,7 @@
       "fields": {
         "change_pct": {
           "previous": -0.65,
-          "current": 3.68
+          "current": 3.06
         },
         "market_cap_m": {
           "previous": 6120.0,
@@ -297,7 +308,7 @@
       "fields": {
         "change_pct": {
           "previous": -0.46,
-          "current": 0.43
+          "current": 0.03
         },
         "market_cap_m": {
           "previous": 32800.0,
@@ -311,7 +322,7 @@
       "fields": {
         "change_pct": {
           "previous": 0.65,
-          "current": -0.25
+          "current": -1.3
         },
         "market_cap_m": {
           "previous": 34500.0,
@@ -339,7 +350,7 @@
       "fields": {
         "change_pct": {
           "previous": -0.31,
-          "current": -2.34
+          "current": -1.1
         },
         "market_cap_m": {
           "previous": 38660.0,
@@ -353,7 +364,7 @@
       "fields": {
         "change_pct": {
           "previous": -0.94,
-          "current": -0.79
+          "current": 0.06
         },
         "market_cap_m": {
           "previous": 94630.0,
@@ -367,7 +378,7 @@
       "fields": {
         "change_pct": {
           "previous": -1.61,
-          "current": 0.87
+          "current": 0.86
         },
         "market_cap_m": {
           "previous": 49300.0,
@@ -381,7 +392,7 @@
       "fields": {
         "change_pct": {
           "previous": -0.36,
-          "current": -0.5
+          "current": -2.76
         },
         "market_cap_m": {
           "previous": 70250.0,
@@ -395,7 +406,7 @@
       "fields": {
         "change_pct": {
           "previous": -0.11,
-          "current": 2.0
+          "current": 1.42
         },
         "market_cap_m": {
           "previous": 23470.0,
@@ -409,7 +420,7 @@
       "fields": {
         "change_pct": {
           "previous": -0.85,
-          "current": 1.02
+          "current": 1.18
         },
         "market_cap_m": {
           "previous": 74700.0,
@@ -423,7 +434,7 @@
       "fields": {
         "change_pct": {
           "previous": 0.88,
-          "current": 0.53
+          "current": -0.07
         },
         "market_cap_m": {
           "previous": 8890.0,
@@ -437,7 +448,7 @@
       "fields": {
         "change_pct": {
           "previous": -0.31,
-          "current": 4.77
+          "current": 2.85
         },
         "market_cap_m": {
           "previous": 62920.0,
@@ -451,7 +462,7 @@
       "fields": {
         "change_pct": {
           "previous": 2.64,
-          "current": -2.52
+          "current": -0.79
         },
         "market_cap_m": {
           "previous": 46930.0,
@@ -465,7 +476,7 @@
       "fields": {
         "change_pct": {
           "previous": -0.33,
-          "current": 5.09
+          "current": 2.46
         }
       }
     },
@@ -475,7 +486,7 @@
       "fields": {
         "change_pct": {
           "previous": 0.03,
-          "current": 1.05
+          "current": 0.53
         },
         "market_cap_m": {
           "previous": 50140.0,
@@ -489,7 +500,7 @@
       "fields": {
         "change_pct": {
           "previous": 0.76,
-          "current": -0.2
+          "current": 0.04
         },
         "market_cap_m": {
           "previous": 250000.0,
@@ -501,10 +512,6 @@
       "entity_key": "SY1:GR",
       "name": "SYMRISE AG",
       "fields": {
-        "change_pct": {
-          "previous": -0.38,
-          "current": 0.38
-        },
         "market_cap_m": {
           "previous": 14150.0,
           "current": 14090.0
@@ -517,7 +524,7 @@
       "fields": {
         "change_pct": {
           "previous": 0.19,
-          "current": -1.4
+          "current": -1.69
         },
         "market_cap_m": {
           "previous": 20530.0,
@@ -531,7 +538,7 @@
       "fields": {
         "change_pct": {
           "previous": -1.25,
-          "current": 0.64
+          "current": 1.1
         },
         "market_cap_m": {
           "previous": 43140.0,
@@ -545,7 +552,7 @@
       "fields": {
         "change_pct": {
           "previous": -0.17,
-          "current": 0.44
+          "current": -0.9
         },
         "market_cap_m": {
           "previous": 6680.0,
@@ -556,9 +563,9 @@
   ],
   "summary": {
     "added_count": 0,
-    "removed_count": 0,
-    "row_count_delta": 0,
-    "common_count": 40,
-    "changed_count": 40
+    "removed_count": 1,
+    "row_count_delta": -1,
+    "common_count": 39,
+    "changed_count": 39
   }
 }
