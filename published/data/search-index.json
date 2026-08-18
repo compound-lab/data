@@ -690,16 +690,6 @@
     "security_path": "/data/securities/av-ln.json"
   },
   {
-    "entity_key": "AVB:US",
-    "symbol": "AVB",
-    "name": "Avalonbay Communities",
-    "bbg_ticker": "AVB:US",
-    "memberships": [
-      "sp500"
-    ],
-    "security_path": "/data/securities/avb-us.json"
-  },
-  {
     "entity_key": "AVGO:US",
     "symbol": "AVGO",
     "name": "Broadcom Ltd",
@@ -5468,6 +5458,16 @@
       "sp500"
     ],
     "security_path": "/data/securities/rcl-us.json"
+  },
+  {
+    "entity_key": "RDDT:US",
+    "symbol": "RDDT",
+    "name": "Reddit Cl A",
+    "bbg_ticker": "RDDT:US",
+    "memberships": [
+      "sp500"
+    ],
+    "security_path": "/data/securities/rddt-us.json"
   },
   {
     "entity_key": "RED:SM",
