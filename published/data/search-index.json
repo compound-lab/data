@@ -3660,6 +3660,16 @@
     "security_path": "/data/securities/invh-us.json"
   },
   {
+    "entity_key": "INVP:LN",
+    "symbol": "INVP",
+    "name": "INVESTEC PLC ORD GBP0.0002",
+    "bbg_ticker": "INVP:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/invp-ln.json"
+  },
+  {
     "entity_key": "IP:US",
     "symbol": "IP",
     "name": "International Paper Company",
@@ -5828,6 +5838,16 @@
       "ftse"
     ],
     "security_path": "/data/securities/sdr-ln.json"
+  },
+  {
+    "entity_key": "SGE:LN",
+    "symbol": "SGE",
+    "name": "THE SAGE GROUP PLC ORD 1 4/77P",
+    "bbg_ticker": "SGE:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/sge-ln.json"
   },
   {
     "entity_key": "SGO:FP",
