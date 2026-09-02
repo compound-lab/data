@@ -3,25 +3,7 @@
   "current_date": "2026-09-02",
   "previous_date": "2026-09-01",
   "added": [],
-  "removed": [
-    {
-      "dataset": "ftse",
-      "as_of_date": "2026-09-01",
-      "as_of_utc": "2026-09-01T16:21:00.886Z",
-      "name": "AUTOTRADER GROUP PLC ORD 1P",
-      "entity_key": "AUTO:LN",
-      "symbol": "AUTO",
-      "source_ticker": "AUTO.LN",
-      "bbg_ticker": "AUTO:LN",
-      "price": 505.6,
-      "change": -22.4,
-      "change_pct": -4.24,
-      "currency": "GBX",
-      "weight": null,
-      "market_cap_m": 4105.43,
-      "extra": {}
-    }
-  ],
+  "removed": [],
   "changed": [
     {
       "entity_key": "AAF:LN",
@@ -29,15 +11,15 @@
       "fields": {
         "price": {
           "previous": 342.2,
-          "current": 338.4
+          "current": 338.0
         },
         "change": {
           "previous": 9.4,
-          "current": -3.8
+          "current": -4.2
         },
         "change_pct": {
           "previous": 2.82,
-          "current": -1.11
+          "current": -1.23
         },
         "market_cap_m": {
           "previous": 12082.09,
@@ -51,15 +33,15 @@
       "fields": {
         "price": {
           "previous": 4113.0,
-          "current": 4065.0
+          "current": 4081.0
         },
         "change": {
           "previous": -156.0,
-          "current": -48.0
+          "current": -32.0
         },
         "change_pct": {
           "previous": -3.65,
-          "current": -1.17
+          "current": -0.78
         },
         "market_cap_m": {
           "previous": 50290.97,
@@ -73,15 +55,15 @@
       "fields": {
         "price": {
           "previous": 245.0,
-          "current": 243.8
+          "current": 242.8
         },
         "change": {
           "previous": -7.2,
-          "current": -1.2
+          "current": -2.2
         },
         "change_pct": {
           "previous": -2.85,
-          "current": -0.49
+          "current": -0.9
         },
         "market_cap_m": {
           "previous": 4642.36,
@@ -95,15 +77,15 @@
       "fields": {
         "price": {
           "previous": 2041.0,
-          "current": 2035.0
+          "current": 2020.0
         },
         "change": {
           "previous": -11.0,
-          "current": -6.0
+          "current": -21.0
         },
         "change_pct": {
           "previous": -0.54,
-          "current": -0.29
+          "current": -1.03
         },
         "market_cap_m": {
           "previous": 14425.09,
@@ -117,15 +99,15 @@
       "fields": {
         "price": {
           "previous": 3936.0,
-          "current": 3998.0
+          "current": 3968.0
         },
         "change": {
           "previous": -88.0,
-          "current": 62.0
+          "current": 32.0
         },
         "change_pct": {
           "previous": -2.19,
-          "current": 1.58
+          "current": 0.81
         },
         "market_cap_m": {
           "previous": 12325.7,
@@ -161,19 +143,41 @@
       "fields": {
         "price": {
           "previous": 3828.0,
-          "current": 3775.0
+          "current": 3804.0
         },
         "change": {
           "previous": -211.0,
-          "current": -53.0
+          "current": -24.0
         },
         "change_pct": {
           "previous": -5.22,
-          "current": -1.39
+          "current": -0.63
         },
         "market_cap_m": {
           "previous": 39818.75,
           "current": 37738.59
+        }
+      }
+    },
+    {
+      "entity_key": "AUTO:LN",
+      "name": "AUTOTRADER GROUP PLC ORD 1P",
+      "fields": {
+        "price": {
+          "previous": 505.6,
+          "current": 496.8
+        },
+        "change": {
+          "previous": -22.4,
+          "current": -8.8
+        },
+        "change_pct": {
+          "previous": -4.24,
+          "current": -1.74
+        },
+        "market_cap_m": {
+          "previous": 4105.43,
+          "current": 3931.26
         }
       }
     },
@@ -183,15 +187,15 @@
       "fields": {
         "price": {
           "previous": 731.8,
-          "current": 734.8
+          "current": 730.4
         },
         "change": {
           "previous": 1.4,
-          "current": 3.0
+          "current": -1.4
         },
         "change_pct": {
           "previous": 0.19,
-          "current": 0.41
+          "current": -0.19
         },
         "market_cap_m": {
           "previous": 21922.6,
@@ -205,15 +209,15 @@
       "fields": {
         "price": {
           "previous": 11962.0,
-          "current": 11870.0
+          "current": 11982.0
         },
         "change": {
           "previous": -8.0,
-          "current": -92.0
+          "current": 20.0
         },
         "change_pct": {
           "previous": -0.07,
-          "current": -0.77
+          "current": 0.17
         },
         "market_cap_m": {
           "previous": 185658.7,
@@ -227,15 +231,15 @@
       "fields": {
         "price": {
           "previous": 2017.0,
-          "current": 1997.5
+          "current": 2001.0
         },
         "change": {
           "previous": -27.0,
-          "current": -19.5
+          "current": -16.0
         },
         "change_pct": {
           "previous": -1.32,
-          "current": -0.97
+          "current": -0.79
         },
         "market_cap_m": {
           "previous": 61312.96,
@@ -249,15 +253,15 @@
       "fields": {
         "price": {
           "previous": 1024.0,
-          "current": 1007.0
+          "current": 1014.0
         },
         "change": {
           "previous": -32.5,
-          "current": -17.0
+          "current": -10.0
         },
         "change_pct": {
           "previous": -3.08,
-          "current": -1.66
+          "current": -0.98
         },
         "market_cap_m": {
           "previous": 5198.86,
@@ -271,15 +275,15 @@
       "fields": {
         "price": {
           "previous": 486.1,
-          "current": 484.4
+          "current": 479.35
         },
         "change": {
           "previous": -10.55,
-          "current": -1.7
+          "current": -6.75
         },
         "change_pct": {
           "previous": -2.12,
-          "current": -0.35
+          "current": -1.39
         },
         "market_cap_m": {
           "previous": 66828.52,
@@ -293,15 +297,15 @@
       "fields": {
         "price": {
           "previous": 4174.0,
-          "current": 4164.0
+          "current": 4125.0
         },
         "change": {
           "previous": 45.0,
-          "current": -10.0
+          "current": -49.0
         },
         "change_pct": {
           "previous": 1.09,
-          "current": -0.24
+          "current": -1.17
         },
         "market_cap_m": {
           "previous": 89200.17,
@@ -315,15 +319,15 @@
       "fields": {
         "price": {
           "previous": 154.3,
-          "current": 153.6
+          "current": 152.8
         },
         "change": {
           "previous": -3.1,
-          "current": -0.7
+          "current": -1.5
         },
         "change_pct": {
           "previous": -1.97,
-          "current": -0.45
+          "current": -0.97
         },
         "market_cap_m": {
           "previous": 4608.53,
@@ -337,15 +341,15 @@
       "fields": {
         "price": {
           "previous": 1300.0,
-          "current": 1298.5
+          "current": 1298.0
         },
         "change": {
           "previous": 3.0,
-          "current": -1.5
+          "current": -2.0
         },
         "change_pct": {
           "previous": 0.23,
-          "current": -0.12
+          "current": -0.15
         },
         "market_cap_m": {
           "previous": 7806.6,
@@ -359,15 +363,15 @@
       "fields": {
         "price": {
           "previous": 13430.0,
-          "current": 13340.0
+          "current": 13330.0
         },
         "change": {
           "previous": 10.0,
-          "current": -90.0
+          "current": -100.0
         },
         "change_pct": {
           "previous": 0.07,
-          "current": -0.67
+          "current": -0.75
         },
         "market_cap_m": {
           "previous": 5780.06,
@@ -381,15 +385,15 @@
       "fields": {
         "price": {
           "previous": 419.4,
-          "current": 418.4
+          "current": 410.2
         },
         "change": {
           "previous": -6.8,
-          "current": -1.0
+          "current": -9.2
         },
         "change_pct": {
           "previous": -1.6,
-          "current": -0.24
+          "current": -2.19
         },
         "market_cap_m": {
           "previous": 4368.28,
@@ -403,15 +407,15 @@
       "fields": {
         "price": {
           "previous": 2742.0,
-          "current": 2714.0
+          "current": 2712.0
         },
         "change": {
           "previous": -50.0,
-          "current": -28.0
+          "current": -30.0
         },
         "change_pct": {
           "previous": -1.79,
-          "current": -1.02
+          "current": -1.09
         },
         "market_cap_m": {
           "previous": 9054.48,
@@ -425,15 +429,15 @@
       "fields": {
         "price": {
           "previous": 541.3,
-          "current": 540.6
+          "current": 539.1
         },
         "change": {
           "previous": 26.8,
-          "current": -0.7
+          "current": -2.2
         },
         "change_pct": {
           "previous": 5.21,
-          "current": -0.13
+          "current": -0.41
         },
         "market_cap_m": {
           "previous": 80797.96,
@@ -447,15 +451,15 @@
       "fields": {
         "price": {
           "previous": 1070.0,
-          "current": 1056.5
+          "current": 1047.5
         },
         "change": {
           "previous": -14.0,
-          "current": -13.5
+          "current": -22.5
         },
         "change_pct": {
           "previous": -1.29,
-          "current": -1.26
+          "current": -2.1
         },
         "market_cap_m": {
           "previous": 3913.36,
@@ -469,15 +473,15 @@
       "fields": {
         "price": {
           "previous": 205.2,
-          "current": 205.9
+          "current": 202.5
         },
         "change": {
           "previous": -0.1,
-          "current": 0.7
+          "current": -2.7
         },
         "change_pct": {
           "previous": -0.05,
-          "current": 0.34
+          "current": -1.32
         },
         "market_cap_m": {
           "previous": 20463.56,
@@ -489,13 +493,13 @@
       "entity_key": "BTRW:LN",
       "name": "BARRATT REDROW PLC ORD 10P",
       "fields": {
-        "change": {
-          "previous": -5.6,
-          "current": null
+        "price": {
+          "previous": 312.6,
+          "current": 307.0
         },
         "change_pct": {
           "previous": -1.76,
-          "current": null
+          "current": -1.79
         },
         "market_cap_m": {
           "previous": 4445.14,
@@ -509,15 +513,11 @@
       "fields": {
         "price": {
           "previous": 5505.0,
-          "current": 5315.0
-        },
-        "change": {
-          "previous": -165.0,
-          "current": -190.0
+          "current": 5340.0
         },
         "change_pct": {
           "previous": -2.91,
-          "current": -3.45
+          "current": -3.0
         },
         "market_cap_m": {
           "previous": 6024.03,
@@ -531,15 +531,15 @@
       "fields": {
         "price": {
           "previous": 7940.0,
-          "current": 7910.0
+          "current": 7945.0
         },
         "change": {
           "previous": -50.0,
-          "current": -30.0
+          "current": 5.0
         },
         "change_pct": {
           "previous": -0.63,
-          "current": -0.38
+          "current": 0.06
         },
         "market_cap_m": {
           "previous": 35334.02,
@@ -553,15 +553,15 @@
       "fields": {
         "price": {
           "previous": 4594.0,
-          "current": 4562.0
+          "current": 4570.0
         },
         "change": {
           "previous": 24.0,
-          "current": -32.0
+          "current": -24.0
         },
         "change_pct": {
           "previous": 0.53,
-          "current": -0.7
+          "current": -0.52
         },
         "market_cap_m": {
           "previous": 16656.03,
@@ -575,15 +575,15 @@
       "fields": {
         "price": {
           "previous": 152.4,
-          "current": 152.25
+          "current": 150.0
         },
         "change": {
           "previous": -3.0,
-          "current": -0.15
+          "current": -2.4
         },
         "change_pct": {
           "previous": -1.93,
-          "current": -0.1
+          "current": -1.58
         },
         "market_cap_m": {
           "previous": 7178.62,
@@ -597,15 +597,15 @@
       "fields": {
         "price": {
           "previous": 30.85,
-          "current": 30.45
+          "current": 30.66
         },
         "change": {
           "previous": 0.2,
-          "current": -0.4
+          "current": -0.19
         },
         "change_pct": {
           "previous": 0.65,
-          "current": -1.3
+          "current": -0.62
         },
         "market_cap_m": {
           "previous": 38394.46,
@@ -641,15 +641,15 @@
       "fields": {
         "price": {
           "previous": 229.8,
-          "current": 229.0
+          "current": 229.6
         },
         "change": {
           "previous": 2.2,
-          "current": -0.8
+          "current": -0.2
         },
         "change_pct": {
           "previous": 0.97,
-          "current": -0.35
+          "current": -0.09
         },
         "market_cap_m": {
           "previous": 4420.84,
@@ -677,15 +677,15 @@
       "fields": {
         "price": {
           "previous": 1671.5,
-          "current": 1662.0
+          "current": 1668.5
         },
         "change": {
           "previous": -37.5,
-          "current": -9.5
+          "current": -3.0
         },
         "change_pct": {
           "previous": -2.19,
-          "current": -0.57
+          "current": -0.18
         },
         "market_cap_m": {
           "previous": 38052.59,
@@ -699,15 +699,15 @@
       "fields": {
         "price": {
           "previous": 7130.0,
-          "current": 7115.0
+          "current": 7045.0
         },
         "change": {
           "previous": -200.0,
-          "current": -15.0
+          "current": -85.0
         },
         "change_pct": {
           "previous": -2.73,
-          "current": -0.21
+          "current": -1.19
         },
         "market_cap_m": {
           "previous": 9845.47,
@@ -721,15 +721,15 @@
       "fields": {
         "price": {
           "previous": 4484.0,
-          "current": 4518.0
+          "current": 4534.0
         },
         "change": {
           "previous": -258.0,
-          "current": 34.0
+          "current": 50.0
         },
         "change_pct": {
           "previous": -5.44,
-          "current": 0.76
+          "current": 1.12
         },
         "market_cap_m": {
           "previous": 11457.89,
@@ -743,15 +743,15 @@
       "fields": {
         "price": {
           "previous": 515.2,
-          "current": 508.4
+          "current": 504.6
         },
         "change": {
           "previous": 2.0,
-          "current": -6.8
+          "current": -10.6
         },
         "change_pct": {
           "previous": 0.39,
-          "current": -1.32
+          "current": -2.06
         },
         "market_cap_m": {
           "previous": 3284.01,
@@ -765,15 +765,15 @@
       "fields": {
         "price": {
           "previous": 2970.0,
-          "current": 2930.0
+          "current": 2903.0
         },
         "change": {
           "previous": -74.0,
-          "current": -40.0
+          "current": -67.0
         },
         "change_pct": {
           "previous": -2.43,
-          "current": -1.35
+          "current": -2.26
         },
         "market_cap_m": {
           "previous": 27005.53,
@@ -787,15 +787,15 @@
       "fields": {
         "price": {
           "previous": 340.6,
-          "current": 339.0
+          "current": 338.6
         },
         "change": {
           "previous": -4.6,
-          "current": -1.6
+          "current": -2.0
         },
         "change_pct": {
           "previous": -1.33,
-          "current": -0.47
+          "current": -0.59
         },
         "market_cap_m": {
           "previous": 6467.37,
@@ -809,15 +809,15 @@
       "fields": {
         "price": {
           "previous": 3016.0,
-          "current": 3011.0
+          "current": 2995.0
         },
         "change": {
           "previous": -154.0,
-          "current": -5.0
+          "current": -21.0
         },
         "change_pct": {
           "previous": -4.86,
-          "current": -0.17
+          "current": -0.7
         },
         "market_cap_m": {
           "previous": 23359.53,
@@ -853,15 +853,15 @@
       "fields": {
         "price": {
           "previous": 597.1,
-          "current": 590.0
+          "current": 590.8
         },
         "change": {
           "previous": 1.5,
-          "current": -7.1
+          "current": -6.3
         },
         "change_pct": {
           "previous": 0.25,
-          "current": -1.19
+          "current": -1.06
         },
         "market_cap_m": {
           "previous": 69911.41,
@@ -875,15 +875,15 @@
       "fields": {
         "price": {
           "previous": 1871.5,
-          "current": 1863.5
+          "current": 1866.5
         },
         "change": {
           "previous": 18.0,
-          "current": -8.0
+          "current": -5.0
         },
         "change_pct": {
           "previous": 0.97,
-          "current": -0.43
+          "current": -0.27
         },
         "market_cap_m": {
           "previous": 74981.7,
@@ -897,15 +897,15 @@
       "fields": {
         "price": {
           "previous": 3528.0,
-          "current": 3542.0
+          "current": 3558.0
         },
         "change": {
           "previous": -104.0,
-          "current": 14.0
+          "current": 30.0
         },
         "change_pct": {
           "previous": -2.86,
-          "current": 0.4
+          "current": 0.85
         },
         "market_cap_m": {
           "previous": 13788.72,
@@ -919,15 +919,15 @@
       "fields": {
         "price": {
           "previous": 369.9,
-          "current": 368.4
+          "current": 365.9
         },
         "change": {
           "previous": 1.7,
-          "current": -1.5
+          "current": -4.0
         },
         "change_pct": {
           "previous": 0.46,
-          "current": -0.41
+          "current": -1.08
         },
         "market_cap_m": {
           "previous": 32388.84,
@@ -941,15 +941,15 @@
       "fields": {
         "price": {
           "previous": 1533.4,
-          "current": 1534.0
+          "current": 1535.0
         },
         "change": {
           "previous": 5.0,
-          "current": 0.6
+          "current": 1.6
         },
         "change_pct": {
           "previous": 0.33,
-          "current": 0.04
+          "current": 0.1
         },
         "market_cap_m": {
           "previous": 262375.87,
@@ -963,15 +963,15 @@
       "fields": {
         "price": {
           "previous": 1868.0,
-          "current": 1867.0
+          "current": 1861.0
         },
         "change": {
           "previous": 26.0,
-          "current": -1.0
+          "current": -7.0
         },
         "change_pct": {
           "previous": 1.41,
-          "current": -0.05
+          "current": -0.38
         },
         "market_cap_m": {
           "previous": 5880.1,
@@ -985,15 +985,15 @@
       "fields": {
         "price": {
           "previous": 785.5,
-          "current": 780.5
+          "current": 774.5
         },
         "change": {
           "previous": -8.5,
-          "current": -5.0
+          "current": -11.0
         },
         "change_pct": {
           "previous": -1.07,
-          "current": -0.64
+          "current": -1.4
         },
         "market_cap_m": {
           "previous": 4333.49,
@@ -1005,13 +1005,17 @@
       "entity_key": "IAG:LN",
       "name": "INTL CONSOLIDATED AIRLINES GROUP SA ORD EUR0.10 (CDI)",
       "fields": {
+        "price": {
+          "previous": 422.4,
+          "current": 423.6
+        },
         "change": {
           "previous": -15.8,
-          "current": null
+          "current": 1.2
         },
         "change_pct": {
           "previous": -3.61,
-          "current": null
+          "current": 0.28
         },
         "market_cap_m": {
           "previous": 19185.56,
@@ -1025,15 +1029,15 @@
       "fields": {
         "price": {
           "previous": 1947.0,
-          "current": 1911.0
+          "current": 1916.0
         },
         "change": {
           "previous": -75.0,
-          "current": -36.0
+          "current": -31.0
         },
         "change_pct": {
           "previous": -3.71,
-          "current": -1.85
+          "current": -1.59
         },
         "market_cap_m": {
           "previous": 5595.34,
@@ -1047,15 +1051,15 @@
       "fields": {
         "price": {
           "previous": 1378.0,
-          "current": 1362.0
+          "current": 1360.0
         },
         "change": {
           "previous": -22.0,
-          "current": -16.0
+          "current": -18.0
         },
         "change_pct": {
           "previous": -1.57,
-          "current": -1.16
+          "current": -1.31
         },
         "market_cap_m": {
           "previous": 4652.7,
@@ -1069,15 +1073,15 @@
       "fields": {
         "price": {
           "previous": 155.9,
-          "current": 158.75
+          "current": 159.1
         },
         "change": {
           "previous": -6.75,
-          "current": 2.85
+          "current": 3.2
         },
         "change_pct": {
           "previous": -4.15,
-          "current": 1.83
+          "current": 2.05
         },
         "market_cap_m": {
           "previous": 17766.95,
@@ -1091,15 +1095,15 @@
       "fields": {
         "price": {
           "previous": 2802.0,
-          "current": 2787.0
+          "current": 2756.0
         },
         "change": {
           "previous": -26.0,
-          "current": -15.0
+          "current": -46.0
         },
         "change_pct": {
           "previous": -0.92,
-          "current": -0.54
+          "current": -1.64
         },
         "market_cap_m": {
           "previous": 29017.2,
@@ -1113,15 +1117,15 @@
       "fields": {
         "price": {
           "previous": 2551.0,
-          "current": 2544.0
+          "current": 2518.0
         },
         "change": {
           "previous": 24.0,
-          "current": -7.0
+          "current": -33.0
         },
         "change_pct": {
           "previous": 0.95,
-          "current": -0.27
+          "current": -1.29
         },
         "market_cap_m": {
           "previous": 19321.56,
@@ -1135,15 +1139,15 @@
       "fields": {
         "price": {
           "previous": 3054.0,
-          "current": 3036.0
+          "current": 3042.0
         },
         "change": {
           "previous": -58.0,
-          "current": -18.0
+          "current": -12.0
         },
         "change_pct": {
           "previous": -1.86,
-          "current": -0.59
+          "current": -0.39
         },
         "market_cap_m": {
           "previous": 7418.98,
@@ -1157,15 +1161,15 @@
       "fields": {
         "price": {
           "previous": 888.4,
-          "current": 874.8
+          "current": 870.8
         },
         "change": {
           "previous": -13.0,
-          "current": -13.6
+          "current": -17.6
         },
         "change_pct": {
           "previous": -1.44,
-          "current": -1.53
+          "current": -1.98
         },
         "market_cap_m": {
           "previous": 11330.7,
@@ -1179,15 +1183,15 @@
       "fields": {
         "price": {
           "previous": 658.0,
-          "current": 666.0
+          "current": 656.5
         },
         "change": {
           "previous": -5.0,
-          "current": 8.0
+          "current": -1.5
         },
         "change_pct": {
           "previous": -0.75,
-          "current": 1.22
+          "current": -0.23
         },
         "market_cap_m": {
           "previous": 4239.95,
@@ -1199,17 +1203,13 @@
       "entity_key": "ITRK:LN",
       "name": "INTERTEK GROUP PLC ORD 1P",
       "fields": {
-        "price": {
-          "previous": 5840.0,
-          "current": 5845.0
-        },
         "change": {
           "previous": -5.0,
-          "current": 5.0
+          "current": null
         },
         "change_pct": {
           "previous": -0.09,
-          "current": 0.09
+          "current": null
         },
         "market_cap_m": {
           "previous": 8997.31,
@@ -1223,15 +1223,15 @@
       "fields": {
         "price": {
           "previous": 83.98,
-          "current": 81.96
+          "current": 80.82
         },
         "change": {
           "previous": -2.72,
-          "current": -2.02
+          "current": -3.16
         },
         "change_pct": {
           "previous": -3.14,
-          "current": -2.41
+          "current": -3.76
         },
         "market_cap_m": {
           "previous": 4155.06,
@@ -1245,15 +1245,15 @@
       "fields": {
         "price": {
           "previous": 309.3,
-          "current": 306.5
+          "current": 302.4
         },
         "change": {
           "previous": -6.2,
-          "current": -2.8
+          "current": -6.9
         },
         "change_pct": {
           "previous": -1.97,
-          "current": -0.91
+          "current": -2.23
         },
         "market_cap_m": {
           "previous": 5202.5,
@@ -1267,15 +1267,15 @@
       "fields": {
         "price": {
           "previous": 671.0,
-          "current": 669.5
+          "current": 657.5
         },
         "change": {
           "previous": -15.5,
-          "current": -1.5
+          "current": -13.5
         },
         "change_pct": {
           "previous": -2.26,
-          "current": -0.22
+          "current": -2.01
         },
         "market_cap_m": {
           "previous": 5114.76,
@@ -1289,15 +1289,15 @@
       "fields": {
         "price": {
           "previous": 290.3,
-          "current": 289.8
+          "current": 286.7
         },
         "change": {
           "previous": -3.1,
-          "current": -0.5
+          "current": -3.6
         },
         "change_pct": {
           "previous": -1.06,
-          "current": -0.17
+          "current": -1.24
         },
         "market_cap_m": {
           "previous": 16154.43,
@@ -1311,15 +1311,15 @@
       "fields": {
         "price": {
           "previous": 110.55,
-          "current": 111.0
+          "current": 110.3
         },
         "change": {
           "previous": 0.6,
-          "current": 0.45
+          "current": -0.25
         },
         "change_pct": {
           "previous": 0.55,
-          "current": 0.41
+          "current": -0.23
         },
         "market_cap_m": {
           "previous": 63792.8,
@@ -1333,15 +1333,15 @@
       "fields": {
         "price": {
           "previous": 184.0,
-          "current": 183.8
+          "current": 182.3
         },
         "change": {
           "previous": -5.0,
-          "current": -0.2
+          "current": -1.7
         },
         "change_pct": {
           "previous": -2.65,
-          "current": -0.11
+          "current": -0.92
         },
         "market_cap_m": {
           "previous": 4443.36,
@@ -1355,15 +1355,15 @@
       "fields": {
         "price": {
           "previous": 8836.0,
-          "current": 8726.0
+          "current": 8724.0
         },
         "change": {
           "previous": -164.0,
-          "current": -110.0
+          "current": -112.0
         },
         "change_pct": {
           "previous": -1.82,
-          "current": -1.25
+          "current": -1.27
         },
         "market_cap_m": {
           "previous": 43707.06,
@@ -1377,15 +1377,15 @@
       "fields": {
         "price": {
           "previous": 391.8,
-          "current": 390.1
+          "current": 386.1
         },
         "change": {
           "previous": -3.0,
-          "current": -1.7
+          "current": -5.7
         },
         "change_pct": {
           "previous": -0.76,
-          "current": -0.43
+          "current": -1.46
         },
         "market_cap_m": {
           "previous": 8212.73,
@@ -1399,15 +1399,15 @@
       "fields": {
         "price": {
           "previous": 346.0,
-          "current": 346.1
+          "current": 343.0
         },
         "change": {
           "previous": -5.0,
-          "current": 0.1
+          "current": -3.0
         },
         "change_pct": {
           "previous": -1.42,
-          "current": 0.03
+          "current": -0.87
         },
         "market_cap_m": {
           "previous": 8459.22,
@@ -1421,15 +1421,15 @@
       "fields": {
         "price": {
           "previous": 494.8,
-          "current": 490.6
+          "current": 488.0
         },
         "change": {
           "previous": -20.4,
-          "current": -4.2
+          "current": -6.8
         },
         "change_pct": {
           "previous": -3.96,
-          "current": -0.85
+          "current": -1.37
         },
         "market_cap_m": {
           "previous": 6419.89,
@@ -1443,15 +1443,15 @@
       "fields": {
         "price": {
           "previous": 48.18,
-          "current": 47.68
+          "current": 47.82
         },
         "change": {
           "previous": -1.2,
-          "current": -0.5
+          "current": -0.36
         },
         "change_pct": {
           "previous": -2.43,
-          "current": -1.04
+          "current": -0.75
         },
         "market_cap_m": {
           "previous": 6026.17,
@@ -1465,15 +1465,15 @@
       "fields": {
         "price": {
           "previous": 1164.0,
-          "current": 1166.5
+          "current": 1156.0
         },
         "change": {
           "previous": -6.0,
-          "current": 2.5
+          "current": -8.0
         },
         "change_pct": {
           "previous": -0.51,
-          "current": 0.22
+          "current": -0.69
         },
         "market_cap_m": {
           "previous": 58813.56,
@@ -1487,15 +1487,15 @@
       "fields": {
         "price": {
           "previous": 682.8,
-          "current": 692.6
+          "current": 688.0
         },
         "change": {
           "previous": 3.4,
-          "current": 9.8
+          "current": 5.2
         },
         "change_pct": {
           "previous": 0.5,
-          "current": 1.44
+          "current": 0.76
         },
         "market_cap_m": {
           "previous": 54030.22,
@@ -1509,15 +1509,15 @@
       "fields": {
         "price": {
           "previous": 15385.0,
-          "current": 15295.0
+          "current": 15215.0
         },
         "change": {
           "previous": -190.0,
-          "current": -90.0
+          "current": -170.0
         },
         "change_pct": {
           "previous": -1.22,
-          "current": -0.59
+          "current": -1.11
         },
         "market_cap_m": {
           "previous": 18636.55,
@@ -1531,15 +1531,15 @@
       "fields": {
         "price": {
           "previous": 636.0,
-          "current": 629.5
+          "current": 627.0
         },
         "change": {
           "previous": -20.0,
-          "current": -6.5
+          "current": -9.0
         },
         "change_pct": {
           "previous": -3.05,
-          "current": -1.02
+          "current": -1.42
         },
         "market_cap_m": {
           "previous": 7254.84,
@@ -1553,15 +1553,15 @@
       "fields": {
         "price": {
           "previous": 1000.5,
-          "current": 997.4
+          "current": 996.0
         },
         "change": {
           "previous": -17.5,
-          "current": -3.1
+          "current": -4.5
         },
         "change_pct": {
           "previous": -1.72,
-          "current": -0.31
+          "current": -0.45
         },
         "market_cap_m": {
           "previous": 25420.36,
@@ -1575,15 +1575,15 @@
       "fields": {
         "price": {
           "previous": 3832.0,
-          "current": 3788.0
+          "current": 3790.0
         },
         "change": {
           "previous": -98.0,
-          "current": -44.0
+          "current": -42.0
         },
         "change_pct": {
           "previous": -2.49,
-          "current": -1.15
+          "current": -1.1
         },
         "market_cap_m": {
           "previous": 6803.14,
@@ -1597,15 +1597,15 @@
       "fields": {
         "price": {
           "previous": 1150.0,
-          "current": 1151.0
+          "current": 1137.0
         },
         "change": {
           "previous": -28.5,
-          "current": 1.0
+          "current": -13.0
         },
         "change_pct": {
           "previous": -2.42,
-          "current": 0.09
+          "current": -1.13
         },
         "market_cap_m": {
           "previous": 3786.17,
@@ -1619,15 +1619,15 @@
       "fields": {
         "price": {
           "previous": 1226.0,
-          "current": 1203.0
+          "current": 1199.0
         },
         "change": {
           "previous": -7.5,
-          "current": -23.0
+          "current": -27.0
         },
         "change_pct": {
           "previous": -0.61,
-          "current": -1.88
+          "current": -2.2
         },
         "market_cap_m": {
           "previous": 7418.26,
@@ -1641,15 +1641,15 @@
       "fields": {
         "price": {
           "previous": 2632.0,
-          "current": 2594.0
+          "current": 2591.0
         },
         "change": {
           "previous": -40.0,
-          "current": -38.0
+          "current": -41.0
         },
         "change_pct": {
           "previous": -1.5,
-          "current": -1.44
+          "current": -1.56
         },
         "market_cap_m": {
           "previous": 46694.82,
@@ -1663,15 +1663,15 @@
       "fields": {
         "price": {
           "previous": 7581.0,
-          "current": 7485.0
+          "current": 7512.0
         },
         "change": {
           "previous": -93.0,
-          "current": -96.0
+          "current": -69.0
         },
         "change_pct": {
           "previous": -1.21,
-          "current": -1.27
+          "current": -0.91
         },
         "market_cap_m": {
           "previous": 96320.47,
@@ -1685,15 +1685,15 @@
       "fields": {
         "price": {
           "previous": 5360.0,
-          "current": 5260.0
+          "current": 5248.0
         },
         "change": {
           "previous": 228.0,
-          "current": -100.0
+          "current": -112.0
         },
         "change_pct": {
           "previous": 4.44,
-          "current": -1.87
+          "current": -2.09
         },
         "market_cap_m": {
           "previous": 32572.64,
@@ -1707,15 +1707,15 @@
       "fields": {
         "price": {
           "previous": 1459.2,
-          "current": 1452.8
+          "current": 1460.6
         },
         "change": {
           "previous": -71.0,
-          "current": -6.4
+          "current": 1.4
         },
         "change_pct": {
           "previous": -4.64,
-          "current": -0.44
+          "current": 0.1
         },
         "market_cap_m": {
           "previous": 127278.66,
@@ -1729,15 +1729,15 @@
       "fields": {
         "price": {
           "previous": 356.9,
-          "current": 352.4
+          "current": 353.2
         },
         "change": {
           "previous": 11.2,
-          "current": -4.5
+          "current": -3.7
         },
         "change_pct": {
           "previous": 3.24,
-          "current": -1.26
+          "current": -1.04
         },
         "market_cap_m": {
           "previous": 8732.52,
@@ -1749,17 +1749,13 @@
       "entity_key": "SBRY:LN",
       "name": "SAINSBURY(J) PLC ORD 28 4/7P",
       "fields": {
-        "price": {
-          "previous": 336.6,
-          "current": 338.2
-        },
         "change": {
           "previous": 3.0,
-          "current": 1.6
+          "current": null
         },
         "change_pct": {
           "previous": 0.9,
-          "current": 0.48
+          "current": null
         },
         "market_cap_m": {
           "previous": 7386.08,
@@ -1773,19 +1769,37 @@
       "fields": {
         "price": {
           "previous": 921.0,
-          "current": 919.0
+          "current": 909.0
         },
         "change": {
           "previous": -19.0,
-          "current": -2.0
+          "current": -12.0
         },
         "change_pct": {
           "previous": -2.02,
-          "current": -0.22
+          "current": -1.3
         },
         "market_cap_m": {
           "previous": 9464.26,
           "current": 9272.97
+        }
+      }
+    },
+    {
+      "entity_key": "SDR:LN",
+      "name": "SCHRODERS PLC ORD 20P",
+      "fields": {
+        "price": {
+          "previous": 584.0,
+          "current": 583.5
+        },
+        "change": {
+          "previous": null,
+          "current": -0.5
+        },
+        "change_pct": {
+          "previous": null,
+          "current": -0.09
         }
       }
     },
@@ -1795,15 +1809,15 @@
       "fields": {
         "price": {
           "previous": 1071.0,
-          "current": 1056.0
+          "current": 1054.0
         },
         "change": {
           "previous": -21.0,
-          "current": -15.0
+          "current": -17.0
         },
         "change_pct": {
           "previous": -1.92,
-          "current": -1.4
+          "current": -1.59
         },
         "market_cap_m": {
           "previous": 9886.91,
@@ -1817,15 +1831,15 @@
       "fields": {
         "price": {
           "previous": 953.2,
-          "current": 951.2
+          "current": 949.0
         },
         "change": {
           "previous": -8.0,
-          "current": -2.0
+          "current": -4.2
         },
         "change_pct": {
           "previous": -0.83,
-          "current": -0.21
+          "current": -0.44
         },
         "market_cap_m": {
           "previous": 13015.68,
@@ -1839,15 +1853,15 @@
       "fields": {
         "price": {
           "previous": 3432.5,
-          "current": 3438.5
+          "current": 3443.0
         },
         "change": {
           "previous": 88.0,
-          "current": 6.0
+          "current": 10.5
         },
         "change_pct": {
           "previous": 2.63,
-          "current": 0.18
+          "current": 0.31
         },
         "market_cap_m": {
           "previous": 185072.78,
@@ -1861,15 +1875,15 @@
       "fields": {
         "price": {
           "previous": 2557.0,
-          "current": 2543.0
+          "current": 2538.0
         },
         "change": {
           "previous": -55.0,
-          "current": -14.0
+          "current": -19.0
         },
         "change_pct": {
           "previous": -2.11,
-          "current": -0.55
+          "current": -0.74
         },
         "market_cap_m": {
           "previous": 7649.11,
@@ -1883,15 +1897,15 @@
       "fields": {
         "price": {
           "previous": 1465.5,
-          "current": 1454.5
+          "current": 1456.0
         },
         "change": {
           "previous": -27.0,
-          "current": -11.0
+          "current": -9.5
         },
         "change_pct": {
           "previous": -1.81,
-          "current": -0.75
+          "current": -0.65
         },
         "market_cap_m": {
           "previous": 15856.68,
@@ -1905,15 +1919,15 @@
       "fields": {
         "price": {
           "previous": 1070.0,
-          "current": 1050.5
+          "current": 1053.0
         },
         "change": {
           "previous": 7.5,
-          "current": -19.5
+          "current": -17.0
         },
         "change_pct": {
           "previous": 0.71,
-          "current": -1.82
+          "current": -1.59
         },
         "market_cap_m": {
           "previous": 8897.56,
@@ -1927,15 +1941,15 @@
       "fields": {
         "price": {
           "previous": 6910.0,
-          "current": 6870.0
+          "current": 6885.0
         },
         "change": {
           "previous": -200.0,
-          "current": -40.0
+          "current": -25.0
         },
         "change_pct": {
           "previous": -2.81,
-          "current": -0.58
+          "current": -0.36
         },
         "market_cap_m": {
           "previous": 5249.03,
@@ -1949,15 +1963,15 @@
       "fields": {
         "price": {
           "previous": 2406.0,
-          "current": 2403.0
+          "current": 2387.0
         },
         "change": {
           "previous": -43.0,
-          "current": -3.0
+          "current": -19.0
         },
         "change_pct": {
           "previous": -1.76,
-          "current": -0.13
+          "current": -0.79
         },
         "market_cap_m": {
           "previous": 29691.65,
@@ -1971,15 +1985,15 @@
       "fields": {
         "price": {
           "previous": 2169.0,
-          "current": 2180.0
+          "current": 2191.0
         },
         "change": {
           "previous": -8.0,
-          "current": 11.0
+          "current": 22.0
         },
         "change_pct": {
           "previous": -0.37,
-          "current": 0.51
+          "current": 1.01
         },
         "market_cap_m": {
           "previous": 47602.67,
@@ -1993,15 +2007,15 @@
       "fields": {
         "price": {
           "previous": 1166.5,
-          "current": 1146.5
+          "current": 1141.5
         },
         "change": {
           "previous": -19.5,
-          "current": -20.0
+          "current": -25.0
         },
         "change_pct": {
           "previous": -1.64,
-          "current": -1.72
+          "current": -2.14
         },
         "market_cap_m": {
           "previous": 6091.17,
@@ -2015,15 +2029,15 @@
       "fields": {
         "price": {
           "previous": 3062.0,
-          "current": 3044.0
+          "current": 3018.0
         },
         "change": {
           "previous": -84.0,
-          "current": -18.0
+          "current": -44.0
         },
         "change_pct": {
           "previous": -2.67,
-          "current": -0.59
+          "current": -1.44
         },
         "market_cap_m": {
           "previous": 9502.24,
@@ -2037,15 +2051,15 @@
       "fields": {
         "price": {
           "previous": 471.5,
-          "current": 472.7
+          "current": 470.1
         },
         "change": {
           "previous": 14.2,
-          "current": 1.2
+          "current": -1.4
         },
         "change_pct": {
           "previous": 3.11,
-          "current": 0.26
+          "current": -0.3
         },
         "market_cap_m": {
           "previous": 28650.42,
@@ -2059,15 +2073,15 @@
       "fields": {
         "price": {
           "previous": 4811.0,
-          "current": 4770.5
+          "current": 4774.5
         },
         "change": {
           "previous": 35.0,
-          "current": -40.5
+          "current": -36.5
         },
         "change_pct": {
           "previous": 0.73,
-          "current": -0.84
+          "current": -0.76
         },
         "market_cap_m": {
           "previous": 102890.67,
@@ -2081,15 +2095,15 @@
       "fields": {
         "price": {
           "previous": 1402.0,
-          "current": 1393.0
+          "current": 1380.0
         },
         "change": {
           "previous": -29.0,
-          "current": -9.0
+          "current": -22.0
         },
         "change_pct": {
           "previous": -2.03,
-          "current": -0.64
+          "current": -1.57
         },
         "market_cap_m": {
           "previous": 10630.38,
@@ -2103,15 +2117,15 @@
       "fields": {
         "price": {
           "previous": 119.4,
-          "current": 118.9
+          "current": 118.2
         },
         "change": {
           "previous": 0.95,
-          "current": -0.5
+          "current": -1.2
         },
         "change_pct": {
           "previous": 0.8,
-          "current": -0.42
+          "current": -1.01
         },
         "market_cap_m": {
           "previous": 27411.27,
@@ -2125,15 +2139,15 @@
       "fields": {
         "price": {
           "previous": 2706.0,
-          "current": 2704.0
+          "current": 2710.0
         },
         "change": {
           "previous": -140.0,
-          "current": -2.0
+          "current": 4.0
         },
         "change_pct": {
           "previous": -4.92,
-          "current": -0.07
+          "current": 0.15
         },
         "market_cap_m": {
           "previous": 7388.56,
@@ -2147,15 +2161,15 @@
       "fields": {
         "price": {
           "previous": 2387.0,
-          "current": 2409.0
+          "current": 2393.0
         },
         "change": {
           "previous": -72.0,
-          "current": 22.0
+          "current": 6.0
         },
         "change_pct": {
           "previous": -2.93,
-          "current": 0.92
+          "current": 0.25
         },
         "market_cap_m": {
           "previous": 4124.76,
@@ -2166,9 +2180,9 @@
   ],
   "summary": {
     "added_count": 0,
-    "removed_count": 1,
-    "row_count_delta": -1,
-    "common_count": 99,
-    "changed_count": 98
+    "removed_count": 0,
+    "row_count_delta": 0,
+    "common_count": 100,
+    "changed_count": 100
   }
 }
