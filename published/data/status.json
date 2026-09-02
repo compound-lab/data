@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-02T04:22:04Z",
+  "generated_at": "2026-09-02T08:14:55Z",
   "datasets": [
     {
       "dataset": "cac",
       "kind": "constituents",
-      "latest_date": "2026-09-01",
+      "latest_date": "2026-09-02",
       "status": "ok",
       "row_count": 40,
       "expected_row_count": 40,
@@ -14,7 +14,7 @@
     {
       "dataset": "dax",
       "kind": "constituents",
-      "latest_date": "2026-09-01",
+      "latest_date": "2026-09-02",
       "status": "warning",
       "row_count": 39,
       "expected_row_count": 40,
@@ -26,17 +26,19 @@
     {
       "dataset": "ftse",
       "kind": "constituents",
-      "latest_date": "2026-09-01",
-      "status": "ok",
-      "row_count": 100,
+      "latest_date": "2026-09-02",
+      "status": "warning",
+      "row_count": 99,
       "expected_row_count": 100,
       "freshness_days": 0,
-      "notes": []
+      "notes": [
+        "Row count 99 != expected 100"
+      ]
     },
     {
       "dataset": "ibex",
       "kind": "constituents",
-      "latest_date": "2026-09-01",
+      "latest_date": "2026-09-02",
       "status": "ok",
       "row_count": 35,
       "expected_row_count": 35,
@@ -46,7 +48,7 @@
     {
       "dataset": "index_breadth",
       "kind": "raw",
-      "latest_date": "2026-09-01",
+      "latest_date": "2026-09-02",
       "status": "ok",
       "row_count": null,
       "expected_row_count": null,
@@ -56,7 +58,7 @@
     {
       "dataset": "index_headlines",
       "kind": "raw",
-      "latest_date": "2026-09-01",
+      "latest_date": "2026-09-02",
       "status": "ok",
       "row_count": null,
       "expected_row_count": null,
@@ -66,7 +68,7 @@
     {
       "dataset": "indices",
       "kind": "summary",
-      "latest_date": "2026-09-01",
+      "latest_date": "2026-09-02",
       "status": "ok",
       "row_count": null,
       "expected_row_count": null,
@@ -76,7 +78,7 @@
     {
       "dataset": "sp500",
       "kind": "constituents",
-      "latest_date": "2026-08-28",
+      "latest_date": "2026-09-01",
       "status": "ok",
       "row_count": 503,
       "expected_row_count": 503,
