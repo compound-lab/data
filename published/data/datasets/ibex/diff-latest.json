@@ -1,58 +1,117 @@
 {
   "dataset": "ibex",
-  "current_date": "2026-09-03",
-  "previous_date": "2026-09-02",
-  "added": [],
-  "removed": [
+  "current_date": "2026-09-04",
+  "previous_date": "2026-09-03",
+  "added": [
     {
       "dataset": "ibex",
-      "as_of_date": "2026-09-02",
-      "as_of_utc": "2026-09-02T16:19:03.821Z",
+      "as_of_date": "2026-09-04",
+      "as_of_utc": "2026-09-04T15:01:04.713Z",
       "name": "ACS",
       "entity_key": "ACS:SM",
       "symbol": "ACS",
       "source_ticker": "ACS.MC",
       "bbg_ticker": "ACS:SM",
-      "price": 98.55,
+      "price": 102.1,
       "change": null,
       "change_pct": null,
       "currency": "EUR",
       "weight": null,
       "market_cap_m": null,
       "extra": {
-        "date_local": "02/09/2026 17:39:45",
+        "date_local": "04/09/2026 16:45:45",
         "time_local": null
       }
     },
     {
       "dataset": "ibex",
-      "as_of_date": "2026-09-02",
-      "as_of_utc": "2026-09-02T16:19:03.821Z",
+      "as_of_date": "2026-09-04",
+      "as_of_utc": "2026-09-04T15:01:04.713Z",
       "name": "ACERINOX",
       "entity_key": "ACX:SM",
       "symbol": "ACX",
       "source_ticker": "ACX.MC",
       "bbg_ticker": "ACX:SM",
-      "price": 17.61,
+      "price": 18.4,
       "change": null,
       "change_pct": null,
       "currency": "EUR",
       "weight": null,
       "market_cap_m": null,
       "extra": {
-        "date_local": "02/09/2026 17:35:30",
+        "date_local": "04/09/2026 16:44:18",
         "time_local": null
       }
     },
     {
       "dataset": "ibex",
-      "as_of_date": "2026-09-02",
-      "as_of_utc": "2026-09-02T16:19:03.821Z",
+      "as_of_date": "2026-09-04",
+      "as_of_utc": "2026-09-04T15:01:04.713Z",
       "name": "AENA",
       "entity_key": "AENA:SM",
       "symbol": "AENA",
       "source_ticker": "AENA.MC",
       "bbg_ticker": "AENA:SM",
+      "price": 25.74,
+      "change": null,
+      "change_pct": null,
+      "currency": "EUR",
+      "weight": null,
+      "market_cap_m": null,
+      "extra": {
+        "date_local": "04/09/2026 16:42:39",
+        "time_local": null
+      }
+    },
+    {
+      "dataset": "ibex",
+      "as_of_date": "2026-09-04",
+      "as_of_utc": "2026-09-04T15:01:04.713Z",
+      "name": "AMADEUS",
+      "entity_key": "AMS:SM",
+      "symbol": "AMS",
+      "source_ticker": "AMS.MC",
+      "bbg_ticker": "AMS:SM",
+      "price": 57.48,
+      "change": null,
+      "change_pct": null,
+      "currency": "EUR",
+      "weight": null,
+      "market_cap_m": null,
+      "extra": {
+        "date_local": "04/09/2026 16:45:43",
+        "time_local": null
+      }
+    },
+    {
+      "dataset": "ibex",
+      "as_of_date": "2026-09-04",
+      "as_of_utc": "2026-09-04T15:01:04.713Z",
+      "name": "ACCIONA",
+      "entity_key": "ANA:SM",
+      "symbol": "ANA",
+      "source_ticker": "ANA.MC",
+      "bbg_ticker": "ANA:SM",
+      "price": 203.6,
+      "change": null,
+      "change_pct": null,
+      "currency": "EUR",
+      "weight": null,
+      "market_cap_m": null,
+      "extra": {
+        "date_local": "04/09/2026 16:43:44",
+        "time_local": null
+      }
+    },
+    {
+      "dataset": "ibex",
+      "as_of_date": "2026-09-04",
+      "as_of_utc": "2026-09-04T15:01:04.713Z",
+      "name": "CELLNEX",
+      "entity_key": "CLNX:SM",
+      "symbol": "CLNX",
+      "source_ticker": "CLNX.MC",
+      "bbg_ticker": "CLNX:SM",
       "price": 25.68,
       "change": null,
       "change_pct": null,
@@ -60,379 +119,320 @@
       "weight": null,
       "market_cap_m": null,
       "extra": {
-        "date_local": "02/09/2026 17:35:16",
+        "date_local": "04/09/2026 16:45:27",
         "time_local": null
       }
     },
     {
       "dataset": "ibex",
-      "as_of_date": "2026-09-02",
-      "as_of_utc": "2026-09-02T16:19:03.821Z",
-      "name": "AMADEUS",
-      "entity_key": "AMS:SM",
-      "symbol": "AMS",
-      "source_ticker": "AMS.MC",
-      "bbg_ticker": "AMS:SM",
-      "price": 56.5,
-      "change": null,
-      "change_pct": null,
-      "currency": "EUR",
-      "weight": null,
-      "market_cap_m": null,
-      "extra": {
-        "date_local": "02/09/2026 17:38:39",
-        "time_local": null
-      }
-    },
-    {
-      "dataset": "ibex",
-      "as_of_date": "2026-09-02",
-      "as_of_utc": "2026-09-02T16:19:03.821Z",
-      "name": "ACCIONA",
-      "entity_key": "ANA:SM",
-      "symbol": "ANA",
-      "source_ticker": "ANA.MC",
-      "bbg_ticker": "ANA:SM",
-      "price": 199.5,
-      "change": null,
-      "change_pct": null,
-      "currency": "EUR",
-      "weight": null,
-      "market_cap_m": null,
-      "extra": {
-        "date_local": "02/09/2026 17:35:16",
-        "time_local": null
-      }
-    },
-    {
-      "dataset": "ibex",
-      "as_of_date": "2026-09-02",
-      "as_of_utc": "2026-09-02T16:19:03.821Z",
-      "name": "CELLNEX",
-      "entity_key": "CLNX:SM",
-      "symbol": "CLNX",
-      "source_ticker": "CLNX.MC",
-      "bbg_ticker": "CLNX:SM",
-      "price": 25.5,
-      "change": null,
-      "change_pct": null,
-      "currency": "EUR",
-      "weight": null,
-      "market_cap_m": null,
-      "extra": {
-        "date_local": "02/09/2026 17:35:52",
-        "time_local": null
-      }
-    },
-    {
-      "dataset": "ibex",
-      "as_of_date": "2026-09-02",
-      "as_of_utc": "2026-09-02T16:19:03.821Z",
+      "as_of_date": "2026-09-04",
+      "as_of_utc": "2026-09-04T15:01:04.713Z",
       "name": "COLONIAL SFL",
       "entity_key": "COL:SM",
       "symbol": "COL",
       "source_ticker": "COL.MC",
       "bbg_ticker": "COL:SM",
-      "price": 5.225,
+      "price": 5.3,
       "change": null,
       "change_pct": null,
       "currency": "EUR",
       "weight": null,
       "market_cap_m": null,
       "extra": {
-        "date_local": "02/09/2026 17:35:16",
+        "date_local": "04/09/2026 16:40:48",
         "time_local": null
       }
     },
     {
       "dataset": "ibex",
-      "as_of_date": "2026-09-02",
-      "as_of_utc": "2026-09-02T16:19:03.821Z",
+      "as_of_date": "2026-09-04",
+      "as_of_utc": "2026-09-04T15:01:04.713Z",
       "name": "FERROVIAL NV",
       "entity_key": "FERROVIAL NV",
       "symbol": null,
       "source_ticker": null,
       "bbg_ticker": null,
-      "price": 49.77,
+      "price": 49.96,
       "change": null,
       "change_pct": null,
       "currency": "EUR",
       "weight": null,
       "market_cap_m": null,
       "extra": {
-        "date_local": "02/09/2026 17:40:39",
+        "date_local": "04/09/2026 16:45:29",
         "time_local": null
       }
     },
     {
       "dataset": "ibex",
-      "as_of_date": "2026-09-02",
-      "as_of_utc": "2026-09-02T16:19:03.821Z",
+      "as_of_date": "2026-09-04",
+      "as_of_utc": "2026-09-04T15:01:04.713Z",
       "name": "GRIFOLS CL.A",
       "entity_key": "GRF:SM",
       "symbol": "GRF",
       "source_ticker": "GRF.MC",
       "bbg_ticker": "GRF:SM",
-      "price": 9.898,
+      "price": 9.864,
       "change": null,
       "change_pct": null,
       "currency": "EUR",
       "weight": null,
       "market_cap_m": null,
       "extra": {
-        "date_local": "02/09/2026 17:40:27",
+        "date_local": "04/09/2026 16:45:06",
         "time_local": null
       }
     },
     {
       "dataset": "ibex",
-      "as_of_date": "2026-09-02",
-      "as_of_utc": "2026-09-02T16:19:03.821Z",
+      "as_of_date": "2026-09-04",
+      "as_of_utc": "2026-09-04T15:01:04.713Z",
       "name": "IAG",
       "entity_key": "IAG:SM",
       "symbol": "IAG",
       "source_ticker": "IAG.MC",
       "bbg_ticker": "IAG:SM",
-      "price": 4.895,
+      "price": 5.008,
       "change": null,
       "change_pct": null,
       "currency": "EUR",
       "weight": null,
       "market_cap_m": null,
       "extra": {
-        "date_local": "02/09/2026 17:35:16",
+        "date_local": "04/09/2026 16:45:06",
         "time_local": null
       }
     },
     {
       "dataset": "ibex",
-      "as_of_date": "2026-09-02",
-      "as_of_utc": "2026-09-02T16:19:03.821Z",
+      "as_of_date": "2026-09-04",
+      "as_of_utc": "2026-09-04T15:01:04.713Z",
       "name": "INDRA A",
       "entity_key": "IDR:SM",
       "symbol": "IDR",
       "source_ticker": "IDR.MC",
       "bbg_ticker": "IDR:SM",
-      "price": 60.28,
+      "price": 59.38,
       "change": null,
       "change_pct": null,
       "currency": "EUR",
       "weight": null,
       "market_cap_m": null,
       "extra": {
-        "date_local": "02/09/2026 17:35:16",
+        "date_local": "04/09/2026 16:45:07",
         "time_local": null
       }
     },
     {
       "dataset": "ibex",
-      "as_of_date": "2026-09-02",
-      "as_of_utc": "2026-09-02T16:19:03.821Z",
+      "as_of_date": "2026-09-04",
+      "as_of_utc": "2026-09-04T15:01:04.713Z",
       "name": "INDITEX",
       "entity_key": "ITX:SM",
       "symbol": "ITX",
       "source_ticker": "ITX.MC",
       "bbg_ticker": "ITX:SM",
-      "price": 56.16,
+      "price": 57.62,
       "change": null,
       "change_pct": null,
       "currency": "EUR",
       "weight": null,
       "market_cap_m": null,
       "extra": {
-        "date_local": "02/09/2026 17:35:33",
+        "date_local": "04/09/2026 16:45:12",
         "time_local": null
       }
     },
     {
       "dataset": "ibex",
-      "as_of_date": "2026-09-02",
-      "as_of_utc": "2026-09-02T16:19:03.821Z",
+      "as_of_date": "2026-09-04",
+      "as_of_utc": "2026-09-04T15:01:04.713Z",
       "name": "LOGISTA",
       "entity_key": "LOG:SM",
       "symbol": "LOG",
       "source_ticker": "LOG.MC",
       "bbg_ticker": "LOG:SM",
-      "price": 35.38,
+      "price": 35.18,
       "change": null,
       "change_pct": null,
       "currency": "EUR",
       "weight": null,
       "market_cap_m": null,
       "extra": {
-        "date_local": "02/09/2026 17:35:16",
+        "date_local": "04/09/2026 16:25:11",
         "time_local": null
       }
     },
     {
       "dataset": "ibex",
-      "as_of_date": "2026-09-02",
-      "as_of_utc": "2026-09-02T16:19:03.821Z",
+      "as_of_date": "2026-09-04",
+      "as_of_utc": "2026-09-04T15:01:04.713Z",
       "name": "MAPFRE",
       "entity_key": "MAP:SM",
       "symbol": "MAP",
       "source_ticker": "MAP.MC",
       "bbg_ticker": "MAP:SM",
-      "price": 4.482,
+      "price": 4.514,
       "change": null,
       "change_pct": null,
       "currency": "EUR",
       "weight": null,
       "market_cap_m": null,
       "extra": {
-        "date_local": "02/09/2026 17:35:16",
+        "date_local": "04/09/2026 16:42:07",
         "time_local": null
       }
     },
     {
       "dataset": "ibex",
-      "as_of_date": "2026-09-02",
-      "as_of_utc": "2026-09-02T16:19:03.821Z",
+      "as_of_date": "2026-09-04",
+      "as_of_utc": "2026-09-04T15:01:04.713Z",
       "name": "MERLIN",
       "entity_key": "MRL:SM",
       "symbol": "MRL",
       "source_ticker": "MRL.MC",
       "bbg_ticker": "MRL:SM",
-      "price": 13.21,
+      "price": 13.29,
       "change": null,
       "change_pct": null,
       "currency": "EUR",
       "weight": null,
       "market_cap_m": null,
       "extra": {
-        "date_local": "02/09/2026 17:35:16",
+        "date_local": "04/09/2026 16:44:50",
         "time_local": null
       }
     },
     {
       "dataset": "ibex",
-      "as_of_date": "2026-09-02",
-      "as_of_utc": "2026-09-02T16:19:03.821Z",
+      "as_of_date": "2026-09-04",
+      "as_of_utc": "2026-09-04T15:01:04.713Z",
       "name": "ARCELORMIT.",
       "entity_key": "MTS:SM",
       "symbol": "MTS",
       "source_ticker": "MTS.MC",
       "bbg_ticker": "MTS:SM",
-      "price": 64.28,
+      "price": 67.46,
       "change": null,
       "change_pct": null,
       "currency": "EUR",
       "weight": null,
       "market_cap_m": null,
       "extra": {
-        "date_local": "02/09/2026 17:35:16",
+        "date_local": "04/09/2026 16:45:19",
         "time_local": null
       }
     },
     {
       "dataset": "ibex",
-      "as_of_date": "2026-09-02",
-      "as_of_utc": "2026-09-02T16:19:03.821Z",
+      "as_of_date": "2026-09-04",
+      "as_of_utc": "2026-09-04T15:01:04.713Z",
       "name": "PUIG BRANDS",
       "entity_key": "PUIG:SM",
       "symbol": "PUIG",
       "source_ticker": "PUIG.MC",
       "bbg_ticker": "PUIG:SM",
-      "price": 18.35,
+      "price": 18.36,
       "change": null,
       "change_pct": null,
       "currency": "EUR",
       "weight": null,
       "market_cap_m": null,
       "extra": {
-        "date_local": "02/09/2026 17:35:16",
+        "date_local": "04/09/2026 16:44:45",
         "time_local": null
       }
     },
     {
       "dataset": "ibex",
-      "as_of_date": "2026-09-02",
-      "as_of_utc": "2026-09-02T16:19:03.821Z",
+      "as_of_date": "2026-09-04",
+      "as_of_utc": "2026-09-04T15:01:04.713Z",
       "name": "REPSOL",
       "entity_key": "REP:SM",
       "symbol": "REP",
       "source_ticker": "REP.MC",
       "bbg_ticker": "REP:SM",
-      "price": 28.05,
+      "price": 27.73,
       "change": null,
       "change_pct": null,
       "currency": "EUR",
       "weight": null,
       "market_cap_m": null,
       "extra": {
-        "date_local": "02/09/2026 17:44:13",
+        "date_local": "04/09/2026 16:45:35",
         "time_local": null
       }
     },
     {
       "dataset": "ibex",
-      "as_of_date": "2026-09-02",
-      "as_of_utc": "2026-09-02T16:19:03.821Z",
+      "as_of_date": "2026-09-04",
+      "as_of_utc": "2026-09-04T15:01:04.713Z",
       "name": "ROVI",
       "entity_key": "ROVI:SM",
       "symbol": "ROVI",
       "source_ticker": "ROVI.MC",
       "bbg_ticker": "ROVI:SM",
-      "price": 59.9,
+      "price": 59.05,
       "change": null,
       "change_pct": null,
       "currency": "EUR",
       "weight": null,
       "market_cap_m": null,
       "extra": {
-        "date_local": "02/09/2026 17:35:16",
+        "date_local": "04/09/2026 16:40:58",
         "time_local": null
       }
     },
     {
       "dataset": "ibex",
-      "as_of_date": "2026-09-02",
-      "as_of_utc": "2026-09-02T16:19:03.821Z",
+      "as_of_date": "2026-09-04",
+      "as_of_utc": "2026-09-04T15:01:04.713Z",
       "name": "SACYR",
       "entity_key": "SCYR:SM",
       "symbol": "SCYR",
       "source_ticker": "SCYR.MC",
       "bbg_ticker": "SCYR:SM",
-      "price": 4.162,
+      "price": 4.328,
       "change": null,
       "change_pct": null,
       "currency": "EUR",
       "weight": null,
       "market_cap_m": null,
       "extra": {
-        "date_local": "02/09/2026 17:38:03",
+        "date_local": "04/09/2026 16:43:11",
         "time_local": null
       }
     },
     {
       "dataset": "ibex",
-      "as_of_date": "2026-09-02",
-      "as_of_utc": "2026-09-02T16:19:03.821Z",
+      "as_of_date": "2026-09-04",
+      "as_of_utc": "2026-09-04T15:01:04.713Z",
       "name": "TELEFONICA",
       "entity_key": "TEF:SM",
       "symbol": "TEF",
       "source_ticker": "TEF.MC",
       "bbg_ticker": "TEF:SM",
-      "price": 3.655,
+      "price": 3.681,
       "change": null,
       "change_pct": null,
       "currency": "EUR",
       "weight": null,
       "market_cap_m": null,
       "extra": {
-        "date_local": "02/09/2026 17:44:34",
+        "date_local": "04/09/2026 16:45:28",
         "time_local": null
       }
     }
   ],
+  "removed": [],
   "changed": [
     {
       "entity_key": "ANE:SM",
       "name": "ACCIONA ENER",
       "fields": {
         "price": {
-          "previous": 21.12,
-          "current": 21.44
+          "previous": 21.44,
+          "current": 21.24
         }
       }
     },
@@ -441,8 +441,8 @@
       "name": "BBVA",
       "fields": {
         "price": {
-          "previous": 25.09,
-          "current": 25.4
+          "previous": 25.4,
+          "current": 25.37
         }
       }
     },
@@ -451,8 +451,8 @@
       "name": "BANKINTER",
       "fields": {
         "price": {
-          "previous": 16.535,
-          "current": 16.91
+          "previous": 16.91,
+          "current": 16.885
         }
       }
     },
@@ -461,8 +461,8 @@
       "name": "CAIXABANK",
       "fields": {
         "price": {
-          "previous": 13.215,
-          "current": 13.525
+          "previous": 13.525,
+          "current": 13.515
         }
       }
     },
@@ -471,8 +471,8 @@
       "name": "ENDESA",
       "fields": {
         "price": {
-          "previous": 41.14,
-          "current": 41.2
+          "previous": 41.2,
+          "current": 41.39
         }
       }
     },
@@ -481,8 +481,8 @@
       "name": "ENAGAS",
       "fields": {
         "price": {
-          "previous": 16.59,
-          "current": 16.5
+          "previous": 16.5,
+          "current": 16.55
         }
       }
     },
@@ -491,8 +491,8 @@
       "name": "FLUIDRA",
       "fields": {
         "price": {
-          "previous": 18.9,
-          "current": 18.86
+          "previous": 18.86,
+          "current": 19.02
         }
       }
     },
@@ -501,8 +501,8 @@
       "name": "IBERDROLA",
       "fields": {
         "price": {
-          "previous": 19.665,
-          "current": 19.75
+          "previous": 19.75,
+          "current": 19.85
         }
       }
     },
@@ -511,8 +511,8 @@
       "name": "NATURGY",
       "fields": {
         "price": {
-          "previous": 29.6,
-          "current": 29.3
+          "previous": 29.3,
+          "current": 29.58
         }
       }
     },
@@ -521,8 +521,8 @@
       "name": "REDEIA",
       "fields": {
         "price": {
-          "previous": 14.91,
-          "current": 14.87
+          "previous": 14.87,
+          "current": 14.91
         }
       }
     },
@@ -531,8 +531,8 @@
       "name": "BA.SABADELL",
       "fields": {
         "price": {
-          "previous": 3.625,
-          "current": 3.692
+          "previous": 3.692,
+          "current": 3.722
         }
       }
     },
@@ -541,8 +541,8 @@
       "name": "B.SANTANDER",
       "fields": {
         "price": {
-          "previous": 12.712,
-          "current": 12.902
+          "previous": 12.902,
+          "current": 12.874
         }
       }
     },
@@ -551,8 +551,8 @@
       "name": "SOLARIA",
       "fields": {
         "price": {
-          "previous": 16.525,
-          "current": 16.6
+          "previous": 16.6,
+          "current": 16.775
         }
       }
     },
@@ -561,16 +561,16 @@
       "name": "UNICAJA",
       "fields": {
         "price": {
-          "previous": 3.59,
-          "current": 3.642
+          "previous": 3.642,
+          "current": 3.658
         }
       }
     }
   ],
   "summary": {
-    "added_count": 0,
-    "removed_count": 21,
-    "row_count_delta": -21,
+    "added_count": 21,
+    "removed_count": 0,
+    "row_count_delta": 21,
     "common_count": 14,
     "changed_count": 14
   }
