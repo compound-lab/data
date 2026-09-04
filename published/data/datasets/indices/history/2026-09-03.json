@@ -2,7 +2,7 @@
   "dataset": "indices",
   "kind": "summary",
   "as_of_date": "2026-09-03",
-  "as_of_utc": "2026-09-03T21:52:00.768Z",
+  "as_of_utc": "2026-09-04T06:55:26.279Z",
   "summary": {
     "indices": [
       {
@@ -14,12 +14,12 @@
         "quote_date": null,
         "quote_time": null,
         "symbol": null,
-        "advancers": null,
-        "decliners": null,
-        "unchanged": null,
-        "total": null,
+        "advancers": 338,
+        "decliners": 160,
+        "unchanged": 0,
+        "total": 500,
         "source_headlines": "yahoo/yfinance",
-        "source_breadth": null
+        "source_breadth": "Barchart (Download)"
       },
       {
         "index": "Nasdaq 100",
@@ -325,7 +325,7 @@
       "errors": []
     },
     "index_breadth": {
-      "ts": "2026-09-03T21:52:00.768Z",
+      "ts": "2026-09-04T06:55:26.279Z",
       "dateUK": "2026-09-03",
       "rows": [
         {
@@ -337,7 +337,7 @@
           "Unchanged": 0,
           "Unknown": 0,
           "InputFile": "cac40-constituents-260903.json",
-          "Timestamp": "2026-09-03T21:52:00.768Z",
+          "Timestamp": "2026-09-04T06:55:26.279Z",
           "DateUK": "2026-09-03"
         },
         {
@@ -349,7 +349,7 @@
           "Unchanged": 0,
           "Unknown": 0,
           "InputFile": "dax_ms-constituents-260903.json",
-          "Timestamp": "2026-09-03T21:52:00.768Z",
+          "Timestamp": "2026-09-04T06:55:26.279Z",
           "DateUK": "2026-09-03"
         },
         {
@@ -361,7 +361,7 @@
           "Unchanged": 0,
           "Unknown": 2,
           "InputFile": "ftse100-lse-constituents-260903.json",
-          "Timestamp": "2026-09-03T21:52:00.768Z",
+          "Timestamp": "2026-09-04T06:55:26.279Z",
           "DateUK": "2026-09-03"
         },
         {
@@ -373,7 +373,19 @@
           "Unchanged": 0,
           "Unknown": 0,
           "InputFile": "ibex35-constituents-260903.json",
-          "Timestamp": "2026-09-03T21:52:00.768Z",
+          "Timestamp": "2026-09-04T06:55:26.279Z",
+          "DateUK": "2026-09-03"
+        },
+        {
+          "Index": "S&P 500",
+          "Source": "Barchart (Download)",
+          "Total": 500,
+          "Up": 338,
+          "Down": 160,
+          "Unchanged": 0,
+          "Unknown": 2,
+          "InputFile": "sp500-barchart-download-components-260903.json",
+          "Timestamp": "2026-09-04T06:55:26.279Z",
           "DateUK": "2026-09-03"
         },
         {
@@ -385,7 +397,7 @@
           "Unchanged": 113,
           "Unknown": 0,
           "InputFile": "nasdaq-breadth-tv-260903.json",
-          "Timestamp": "2026-09-03T21:52:00.768Z",
+          "Timestamp": "2026-09-04T06:55:26.279Z",
           "DateUK": "2026-09-03"
         },
         {
@@ -397,7 +409,7 @@
           "Unchanged": 0,
           "Unknown": 0,
           "InputFile": "nyse-breadth-tv-260903.json",
-          "Timestamp": "2026-09-03T21:52:00.768Z",
+          "Timestamp": "2026-09-04T06:55:26.279Z",
           "DateUK": "2026-09-03"
         },
         {
@@ -409,30 +421,11 @@
           "Unchanged": 170,
           "Unknown": 0,
           "InputFile": "tsx-breadth-tv-260903.json",
-          "Timestamp": "2026-09-03T21:52:00.768Z",
+          "Timestamp": "2026-09-04T06:55:26.279Z",
           "DateUK": "2026-09-03"
         }
       ],
-      "errors": [
-        {
-          "index": "S&P 500",
-          "source": "Barchart (Download)",
-          "prefix": "sp500-barchart-download-components-",
-          "changeField": "percentChange",
-          "kind": "constituents",
-          "exts": [
-            ".json"
-          ],
-          "symbolField": "symbol",
-          "excludeSymbols": [
-            "NWSA",
-            "FOXA",
-            "GOOGL"
-          ],
-          "error": "missing input file",
-          "lookedIn": "/home/henry/mission-control/daily/2026-09-03"
-        }
-      ]
+      "errors": []
     }
   }
 }
