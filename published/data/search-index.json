@@ -420,6 +420,16 @@
     "security_path": "/data/securities/alv-gr.json"
   },
   {
+    "entity_key": "ALW:LN",
+    "symbol": "ALW",
+    "name": "ALLIANCE WITAN PLC ORD 2.5P",
+    "bbg_ticker": "ALW:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/alw-ln.json"
+  },
+  {
     "entity_key": "AMAT:US",
     "symbol": "AMAT",
     "name": "Applied Materials",
@@ -6678,6 +6688,16 @@
       "sp500"
     ],
     "security_path": "/data/securities/usb-us.json"
+  },
+  {
+    "entity_key": "UU.:LN",
+    "symbol": "UU.",
+    "name": "UNITED UTILITIES GROUP PLC ORD 5P",
+    "bbg_ticker": "UU.:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/uu-ln.json"
   },
   {
     "entity_key": "V:US",
