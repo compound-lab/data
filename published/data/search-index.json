@@ -100,6 +100,16 @@
     "security_path": "/data/securities/abdn-ln.json"
   },
   {
+    "entity_key": "ABF:LN",
+    "symbol": "ABF",
+    "name": "ASSOCIATED BRITISH FOODS PLC ORD 5 15/22P",
+    "bbg_ticker": "ABF:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/abf-ln.json"
+  },
+  {
     "entity_key": "ABNB:US",
     "symbol": "ABNB",
     "name": "Airbnb Inc Cl A",
@@ -6158,6 +6168,16 @@
       "sp500"
     ],
     "security_path": "/data/securities/stz-us.json"
+  },
+  {
+    "entity_key": "SVT:LN",
+    "symbol": "SVT",
+    "name": "SEVERN TRENT PLC ORD 97 17/19P",
+    "bbg_ticker": "SVT:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/svt-ln.json"
   },
   {
     "entity_key": "SW:US",
