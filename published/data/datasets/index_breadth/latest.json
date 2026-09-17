@@ -2,9 +2,9 @@
   "dataset": "index_breadth",
   "kind": "raw",
   "as_of_date": "2026-09-16",
-  "as_of_utc": "2026-09-16T20:55:00.947Z",
+  "as_of_utc": "2026-09-16T21:52:00.800Z",
   "raw": {
-    "ts": "2026-09-16T20:55:00.947Z",
+    "ts": "2026-09-16T21:52:00.800Z",
     "dateUK": "2026-09-16",
     "rows": [
       {
@@ -16,7 +16,7 @@
         "Unchanged": 0,
         "Unknown": 0,
         "InputFile": "cac40-constituents-260916.json",
-        "Timestamp": "2026-09-16T20:55:00.947Z",
+        "Timestamp": "2026-09-16T21:52:00.800Z",
         "DateUK": "2026-09-16"
       },
       {
@@ -28,7 +28,7 @@
         "Unchanged": 0,
         "Unknown": 0,
         "InputFile": "dax_ms-constituents-260916.json",
-        "Timestamp": "2026-09-16T20:55:00.947Z",
+        "Timestamp": "2026-09-16T21:52:00.800Z",
         "DateUK": "2026-09-16"
       },
       {
@@ -40,7 +40,7 @@
         "Unchanged": 0,
         "Unknown": 1,
         "InputFile": "ftse100-lse-constituents-260916.json",
-        "Timestamp": "2026-09-16T20:55:00.947Z",
+        "Timestamp": "2026-09-16T21:52:00.800Z",
         "DateUK": "2026-09-16"
       },
       {
@@ -52,7 +52,7 @@
         "Unchanged": 0,
         "Unknown": 1,
         "InputFile": "ibex35-constituents-260916.json",
-        "Timestamp": "2026-09-16T20:55:00.947Z",
+        "Timestamp": "2026-09-16T21:52:00.800Z",
         "DateUK": "2026-09-16"
       },
       {
@@ -64,48 +64,46 @@
         "Unchanged": 0,
         "Unknown": 3,
         "InputFile": "sp500-barchart-download-components-260916.json",
-        "Timestamp": "2026-09-16T20:55:00.947Z",
+        "Timestamp": "2026-09-16T21:52:00.800Z",
+        "DateUK": "2026-09-16"
+      },
+      {
+        "Index": "Nasdaq",
+        "Source": "TradingView (tvDatafeed)",
+        "Total": 3115,
+        "Up": 1163,
+        "Down": 1843,
+        "Unchanged": 109,
+        "Unknown": 0,
+        "InputFile": "nasdaq-breadth-tv-260916.json",
+        "Timestamp": "2026-09-16T21:52:00.800Z",
+        "DateUK": "2026-09-16"
+      },
+      {
+        "Index": "NYSE",
+        "Source": "TradingView (tvDatafeed)",
+        "Total": 1837,
+        "Up": 597,
+        "Down": 1240,
+        "Unchanged": 0,
+        "Unknown": 0,
+        "InputFile": "nyse-breadth-tv-260916.json",
+        "Timestamp": "2026-09-16T21:52:00.800Z",
         "DateUK": "2026-09-16"
       },
       {
         "Index": "TSX",
         "Source": "TradingView (tvDatafeed)",
-        "Total": 2347,
-        "Up": 632,
-        "Down": 1550,
-        "Unchanged": 165,
+        "Total": 2360,
+        "Up": 1049,
+        "Down": 1159,
+        "Unchanged": 152,
         "Unknown": 0,
         "InputFile": "tsx-breadth-tv-260916.json",
-        "Timestamp": "2026-09-16T20:55:00.947Z",
+        "Timestamp": "2026-09-16T21:52:00.800Z",
         "DateUK": "2026-09-16"
       }
     ],
-    "errors": [
-      {
-        "index": "Nasdaq",
-        "source": "TradingView (tvDatafeed)",
-        "prefix": "nasdaq-breadth-tv-",
-        "changeField": null,
-        "kind": "tvBreadth",
-        "exts": [
-          ".json"
-        ],
-        "error": "missing input file",
-        "lookedIn": "/home/henry/mission-control/daily/2026-09-16"
-      },
-      {
-        "index": "NYSE",
-        "source": "TradingView (tvDatafeed)",
-        "prefix": "nyse-breadth-tv-",
-        "changeField": null,
-        "kind": "tvBreadth",
-        "exts": [
-          ".json"
-        ],
-        "defaultUnchanged": 0,
-        "error": "missing input file",
-        "lookedIn": "/home/henry/mission-control/daily/2026-09-16"
-      }
-    ]
+    "errors": []
   }
 }
