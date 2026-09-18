@@ -2,7 +2,7 @@
   "dataset": "indices",
   "kind": "summary",
   "as_of_date": "2026-09-18",
-  "as_of_utc": "2026-09-18T16:25:00.894Z",
+  "as_of_utc": "2026-09-18T20:55:00.937Z",
   "summary": {
     "indices": [
       {
@@ -14,12 +14,12 @@
         "quote_date": null,
         "quote_time": null,
         "symbol": null,
-        "advancers": null,
-        "decliners": null,
-        "unchanged": null,
-        "total": null,
+        "advancers": 156,
+        "decliners": 343,
+        "unchanged": 0,
+        "total": 500,
         "source_headlines": "yahoo/yfinance",
-        "source_breadth": null
+        "source_breadth": "Barchart (Download)"
       },
       {
         "index": "Nasdaq 100",
@@ -105,19 +105,19 @@
   },
   "raw": {
     "index_headlines": {
-      "ts": "2026-09-18T16:18:00.978788+00:00",
+      "ts": "2026-09-18T20:53:01.276976+00:00",
       "dateUK": "2026-09-18",
       "source": "yahoo/yfinance",
       "indices": [
         {
           "Name": "S&P 500",
           "Symbol": "^GSPC",
-          "Price": 7620.759765625,
-          "PrevClose": 7637.0498046875,
-          "Change": -16.2900390625,
-          "PctChange": -0.21330277370328832,
-          "Timestamp": "2026-09-18T16:18:00.978788+00:00",
-          "QuoteTimestamp": "2026-09-18T16:18:04+00:00",
+          "Price": 7650.5,
+          "PrevClose": 7637.76,
+          "Change": 12.739999999999782,
+          "PctChange": 0.16680283224400586,
+          "Timestamp": "2026-09-18T20:53:01.276976+00:00",
+          "QuoteTimestamp": "2026-09-18T20:20:01+00:00",
           "QuoteTimestampRaw": null,
           "DateUK": "2026-09-18",
           "Source": "yahoo/yfinance",
@@ -126,12 +126,12 @@
         {
           "Name": "Nasdaq 100",
           "Symbol": "^NDX",
-          "Price": 29425.8046875,
+          "Price": 29644.16796875,
           "PrevClose": 29446.98,
-          "Change": -21.175312499999563,
-          "PctChange": -0.07190996326278472,
-          "Timestamp": "2026-09-18T16:18:00.978788+00:00",
-          "QuoteTimestamp": "2026-09-18T16:18:04+00:00",
+          "Change": 197.18796875000044,
+          "PctChange": 0.6696373235897211,
+          "Timestamp": "2026-09-18T20:53:01.276976+00:00",
+          "QuoteTimestamp": "2026-09-18T20:53:02+00:00",
           "QuoteTimestampRaw": null,
           "DateUK": "2026-09-18",
           "Source": "yahoo/yfinance",
@@ -144,7 +144,7 @@
           "PrevClose": 10816.14,
           "Change": -157.01011718749942,
           "PctChange": -1.4516280039598177,
-          "Timestamp": "2026-09-18T16:18:00.978788+00:00",
+          "Timestamp": "2026-09-18T20:53:01.276976+00:00",
           "QuoteTimestamp": "2026-09-18T15:40:20+00:00",
           "QuoteTimestampRaw": null,
           "DateUK": "2026-09-18",
@@ -158,8 +158,8 @@
           "PrevClose": 8189.72998046875,
           "Change": -124.7099609375,
           "PctChange": -1.5227603502791196,
-          "Timestamp": "2026-09-18T16:18:00.978788+00:00",
-          "QuoteTimestamp": "2026-09-18T16:00:01+00:00",
+          "Timestamp": "2026-09-18T20:53:01.276976+00:00",
+          "QuoteTimestamp": "2026-09-18T16:05:02+00:00",
           "QuoteTimestampRaw": null,
           "DateUK": "2026-09-18",
           "Source": "yahoo/yfinance",
@@ -172,7 +172,7 @@
           "PrevClose": 25716.71,
           "Change": -412.6494531249991,
           "PctChange": -1.6045965954626356,
-          "Timestamp": "2026-09-18T16:18:00.978788+00:00",
+          "Timestamp": "2026-09-18T20:53:01.276976+00:00",
           "QuoteTimestamp": "2026-09-18T16:00:00+00:00",
           "QuoteTimestampRaw": null,
           "DateUK": "2026-09-18",
@@ -186,7 +186,7 @@
           "PrevClose": 19860.400390625,
           "Change": -346.599609375,
           "PctChange": -1.7451793647554585,
-          "Timestamp": "2026-09-18T16:18:00.978788+00:00",
+          "Timestamp": "2026-09-18T20:53:01.276976+00:00",
           "QuoteTimestamp": "2026-09-18T15:35:30+00:00",
           "QuoteTimestampRaw": null,
           "DateUK": "2026-09-18",
@@ -196,12 +196,12 @@
         {
           "Name": "TSX Composite",
           "Symbol": "^GSPTSE",
-          "Price": 35681.55859375,
-          "PrevClose": 35871.69921875,
-          "Change": -190.140625,
-          "PctChange": -0.5300574802450791,
-          "Timestamp": "2026-09-18T16:18:00.978788+00:00",
-          "QuoteTimestamp": "2026-09-18T16:18:01+00:00",
+          "Price": 35806.6484375,
+          "PrevClose": 35874.26,
+          "Change": -67.61156250000204,
+          "PctChange": -0.18846817328079252,
+          "Timestamp": "2026-09-18T20:53:01.276976+00:00",
+          "QuoteTimestamp": "2026-09-18T20:20:00+00:00",
           "QuoteTimestampRaw": null,
           "DateUK": "2026-09-18",
           "Source": "yahoo/yfinance",
@@ -216,7 +216,7 @@
           "PrevClose": 7118.5,
           "Change": -133.0,
           "PctChange": -1.8683711456065182,
-          "Timestamp": "2026-09-18T16:18:00.978788+00:00",
+          "Timestamp": "2026-09-18T20:53:01.276976+00:00",
           "QuoteTimestamp": "2026-09-18T15:29:41+00:00",
           "QuoteTimestampRaw": null,
           "DateUK": "2026-09-18",
@@ -230,7 +230,7 @@
           "PrevClose": 39102.5,
           "Change": -765.0,
           "PctChange": -1.9563966498305736,
-          "Timestamp": "2026-09-18T16:18:00.978788+00:00",
+          "Timestamp": "2026-09-18T20:53:01.276976+00:00",
           "QuoteTimestamp": "2026-09-18T09:42:44+00:00",
           "QuoteTimestampRaw": null,
           "DateUK": "2026-09-18",
@@ -244,7 +244,7 @@
           "PrevClose": 1051.0,
           "Change": -15.5999755859375,
           "PctChange": -1.4842983430958612,
-          "Timestamp": "2026-09-18T16:18:00.978788+00:00",
+          "Timestamp": "2026-09-18T20:53:01.276976+00:00",
           "QuoteTimestamp": "2026-09-18T15:35:23+00:00",
           "QuoteTimestampRaw": null,
           "DateUK": "2026-09-18",
@@ -258,7 +258,7 @@
           "PrevClose": 44130.0,
           "Change": -902.5,
           "PctChange": -2.0450940403353726,
-          "Timestamp": "2026-09-18T16:18:00.978788+00:00",
+          "Timestamp": "2026-09-18T20:53:01.276976+00:00",
           "QuoteTimestamp": "2026-09-18T15:28:44+00:00",
           "QuoteTimestampRaw": null,
           "DateUK": "2026-09-18",
@@ -272,7 +272,7 @@
           "PrevClose": 5691.5,
           "Change": -13.75,
           "PctChange": -0.2415883334797505,
-          "Timestamp": "2026-09-18T16:18:00.978788+00:00",
+          "Timestamp": "2026-09-18T20:53:01.276976+00:00",
           "QuoteTimestamp": "2026-09-18T15:35:01+00:00",
           "QuoteTimestampRaw": null,
           "DateUK": "2026-09-18",
@@ -286,7 +286,7 @@
           "PrevClose": 53869.0,
           "Change": -35.0,
           "PctChange": -0.06497243312480276,
-          "Timestamp": "2026-09-18T16:18:00.978788+00:00",
+          "Timestamp": "2026-09-18T20:53:01.276976+00:00",
           "QuoteTimestamp": "2026-09-18T15:35:09+00:00",
           "QuoteTimestampRaw": null,
           "DateUK": "2026-09-18",
@@ -300,7 +300,7 @@
           "PrevClose": 23463.5,
           "Change": -206.5,
           "PctChange": -0.880090353101626,
-          "Timestamp": "2026-09-18T16:18:00.978788+00:00",
+          "Timestamp": "2026-09-18T20:53:01.276976+00:00",
           "QuoteTimestamp": "2026-09-18T15:29:13+00:00",
           "QuoteTimestampRaw": null,
           "DateUK": "2026-09-18",
@@ -314,7 +314,7 @@
           "PrevClose": 10957.0,
           "Change": -61.0,
           "PctChange": -0.5567217304006571,
-          "Timestamp": "2026-09-18T16:18:00.978788+00:00",
+          "Timestamp": "2026-09-18T20:53:01.276976+00:00",
           "QuoteTimestamp": "2026-09-18T15:35:16+00:00",
           "QuoteTimestampRaw": null,
           "DateUK": "2026-09-18",
@@ -325,7 +325,7 @@
       "errors": []
     },
     "index_breadth": {
-      "ts": "2026-09-18T16:25:00.894Z",
+      "ts": "2026-09-18T20:55:00.937Z",
       "dateUK": "2026-09-18",
       "rows": [
         {
@@ -337,7 +337,7 @@
           "Unchanged": 1,
           "Unknown": 0,
           "InputFile": "cac40-constituents-260918.json",
-          "Timestamp": "2026-09-18T16:25:00.894Z",
+          "Timestamp": "2026-09-18T20:55:00.937Z",
           "DateUK": "2026-09-18"
         },
         {
@@ -349,7 +349,7 @@
           "Unchanged": 0,
           "Unknown": 0,
           "InputFile": "dax_ms-constituents-260918.json",
-          "Timestamp": "2026-09-18T16:25:00.894Z",
+          "Timestamp": "2026-09-18T20:55:00.937Z",
           "DateUK": "2026-09-18"
         },
         {
@@ -361,7 +361,7 @@
           "Unchanged": 0,
           "Unknown": 2,
           "InputFile": "ftse100-lse-constituents-260918.json",
-          "Timestamp": "2026-09-18T16:25:00.894Z",
+          "Timestamp": "2026-09-18T20:55:00.937Z",
           "DateUK": "2026-09-18"
         },
         {
@@ -373,29 +373,23 @@
           "Unchanged": 0,
           "Unknown": 2,
           "InputFile": "ibex35-constituents-260918.json",
-          "Timestamp": "2026-09-18T16:25:00.894Z",
+          "Timestamp": "2026-09-18T20:55:00.937Z",
+          "DateUK": "2026-09-18"
+        },
+        {
+          "Index": "S&P 500",
+          "Source": "Barchart (Download)",
+          "Total": 500,
+          "Up": 156,
+          "Down": 343,
+          "Unchanged": 0,
+          "Unknown": 1,
+          "InputFile": "sp500-barchart-download-components-260918.json",
+          "Timestamp": "2026-09-18T20:55:00.937Z",
           "DateUK": "2026-09-18"
         }
       ],
       "errors": [
-        {
-          "index": "S&P 500",
-          "source": "Barchart (Download)",
-          "prefix": "sp500-barchart-download-components-",
-          "changeField": "percentChange",
-          "kind": "constituents",
-          "exts": [
-            ".json"
-          ],
-          "symbolField": "symbol",
-          "excludeSymbols": [
-            "NWSA",
-            "FOXA",
-            "GOOGL"
-          ],
-          "error": "missing input file",
-          "lookedIn": "/home/henry/mission-control/daily/2026-09-18"
-        },
         {
           "index": "Nasdaq",
           "source": "TradingView (tvDatafeed)",
