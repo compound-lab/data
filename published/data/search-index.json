@@ -90,16 +90,6 @@
     "security_path": "/data/securities/abbv-us.json"
   },
   {
-    "entity_key": "ABDN:LN",
-    "symbol": "ABDN",
-    "name": "ABERDEEN GROUP PLC ORD 13 61/63P",
-    "bbg_ticker": "ABDN:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/abdn-ln.json"
-  },
-  {
     "entity_key": "ABF:LN",
     "symbol": "ABF",
     "name": "ASSOCIATED BRITISH FOODS PLC ORD 5 15/22P",
@@ -6098,6 +6088,16 @@
       "sp500"
     ],
     "security_path": "/data/securities/ste-us.json"
+  },
+  {
+    "entity_key": "STJ:LN",
+    "symbol": "STJ",
+    "name": "ST.JAMES'S PLACE PLC ORD 15P",
+    "bbg_ticker": "STJ:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/stj-ln.json"
   },
   {
     "entity_key": "STLAP:FP",
