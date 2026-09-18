@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-18T04:22:04Z",
+  "generated_at": "2026-09-18T12:46:41Z",
   "datasets": [
     {
       "dataset": "cac",
       "kind": "constituents",
-      "latest_date": "2026-09-17",
+      "latest_date": "2026-09-18",
       "status": "ok",
       "row_count": 40,
       "expected_row_count": 40,
@@ -14,7 +14,7 @@
     {
       "dataset": "dax",
       "kind": "constituents",
-      "latest_date": "2026-09-17",
+      "latest_date": "2026-09-18",
       "status": "warning",
       "row_count": 39,
       "expected_row_count": 40,
@@ -26,29 +26,29 @@
     {
       "dataset": "ftse",
       "kind": "constituents",
-      "latest_date": "2026-09-17",
-      "status": "ok",
-      "row_count": 100,
+      "latest_date": "2026-09-18",
+      "status": "warning",
+      "row_count": 99,
       "expected_row_count": 100,
       "freshness_days": 0,
-      "notes": []
+      "notes": [
+        "Row count 99 != expected 100"
+      ]
     },
     {
       "dataset": "ibex",
       "kind": "constituents",
-      "latest_date": "2026-09-17",
-      "status": "warning",
-      "row_count": 7,
+      "latest_date": "2026-09-18",
+      "status": "ok",
+      "row_count": 35,
       "expected_row_count": 35,
       "freshness_days": 0,
-      "notes": [
-        "Row count 7 != expected 35"
-      ]
+      "notes": []
     },
     {
       "dataset": "index_breadth",
       "kind": "raw",
-      "latest_date": "2026-09-17",
+      "latest_date": "2026-09-18",
       "status": "ok",
       "row_count": null,
       "expected_row_count": null,
@@ -58,7 +58,7 @@
     {
       "dataset": "index_headlines",
       "kind": "raw",
-      "latest_date": "2026-09-17",
+      "latest_date": "2026-09-18",
       "status": "ok",
       "row_count": null,
       "expected_row_count": null,
@@ -68,7 +68,7 @@
     {
       "dataset": "indices",
       "kind": "summary",
-      "latest_date": "2026-09-17",
+      "latest_date": "2026-09-18",
       "status": "ok",
       "row_count": null,
       "expected_row_count": null,
