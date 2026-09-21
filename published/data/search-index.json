@@ -900,6 +900,16 @@
     "security_path": "/data/securities/bdx-us.json"
   },
   {
+    "entity_key": "BE:US",
+    "symbol": "BE",
+    "name": "Bloom Energy Corp Cl A",
+    "bbg_ticker": "BE:US",
+    "memberships": [
+      "sp500"
+    ],
+    "security_path": "/data/securities/be-us.json"
+  },
+  {
     "entity_key": "BEI:GR",
     "symbol": "BEI",
     "name": "BEIERSDORF",
@@ -998,16 +1008,6 @@
       "ibex"
     ],
     "security_path": "/data/securities/bkt-sm.json"
-  },
-  {
-    "entity_key": "BLDR:US",
-    "symbol": "BLDR",
-    "name": "Builders Firstsource",
-    "bbg_ticker": "BLDR:US",
-    "memberships": [
-      "sp500"
-    ],
-    "security_path": "/data/securities/bldr-us.json"
   },
   {
     "entity_key": "BLK:US",
@@ -3590,6 +3590,16 @@
     "security_path": "/data/securities/iii-ln.json"
   },
   {
+    "entity_key": "ILMN:US",
+    "symbol": "ILMN",
+    "name": "Illumina Inc",
+    "bbg_ticker": "ILMN:US",
+    "memberships": [
+      "sp500"
+    ],
+    "security_path": "/data/securities/ilmn-us.json"
+  },
+  {
     "entity_key": "IMB:LN",
     "symbol": "IMB",
     "name": "IMPERIAL BRANDS PLC ORD 10P",
@@ -5050,6 +5060,16 @@
     "security_path": "/data/securities/oxy-us.json"
   },
   {
+    "entity_key": "P:US",
+    "symbol": "P",
+    "name": "Everpure Inc",
+    "bbg_ticker": "P:US",
+    "memberships": [
+      "sp500"
+    ],
+    "security_path": "/data/securities/p-us.json"
+  },
+  {
     "entity_key": "PANW:US",
     "symbol": "PANW",
     "name": "Palo Alto Networks",
@@ -6260,16 +6280,6 @@
     "security_path": "/data/securities/t-us.json"
   },
   {
-    "entity_key": "TAP:US",
-    "symbol": "TAP",
-    "name": "Molson Coors Brewing",
-    "bbg_ticker": "TAP:US",
-    "memberships": [
-      "sp500"
-    ],
-    "security_path": "/data/securities/tap-us.json"
-  },
-  {
     "entity_key": "TDG:US",
     "symbol": "TDG",
     "name": "Transdigm Group Inc",
@@ -6498,16 +6508,6 @@
       "sp500"
     ],
     "security_path": "/data/securities/tt-us.json"
-  },
-  {
-    "entity_key": "TTD:US",
-    "symbol": "TTD",
-    "name": "Trade Desk Inc",
-    "bbg_ticker": "TTD:US",
-    "memberships": [
-      "sp500"
-    ],
-    "security_path": "/data/securities/ttd-us.json"
   },
   {
     "entity_key": "TTE:FP",
