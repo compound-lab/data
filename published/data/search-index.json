@@ -2420,16 +2420,6 @@
     "security_path": "/data/securities/enr-gr.json"
   },
   {
-    "entity_key": "ENT:LN",
-    "symbol": "ENT",
-    "name": "ENTAIN PLC ORD EUR0.01",
-    "bbg_ticker": "ENT:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/ent-ln.json"
-  },
-  {
     "entity_key": "ENX:FP",
     "symbol": "ENX",
     "name": "EURONEXT",
@@ -2618,6 +2608,16 @@
       "sp500"
     ],
     "security_path": "/data/securities/exr-us.json"
+  },
+  {
+    "entity_key": "EZJ:LN",
+    "symbol": "EZJ",
+    "name": "EASYJET PLC ORD 27 2/7P",
+    "bbg_ticker": "EZJ:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/ezj-ln.json"
   },
   {
     "entity_key": "F:US",
@@ -3738,6 +3738,16 @@
       "sp500"
     ],
     "security_path": "/data/securities/it-us.json"
+  },
+  {
+    "entity_key": "ITH:LN",
+    "symbol": "ITH",
+    "name": "ITHACA ENERGY PLC ORD 1P",
+    "bbg_ticker": "ITH:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/ith-ln.json"
   },
   {
     "entity_key": "ITRK:LN",
@@ -5348,16 +5358,6 @@
       "sp500"
     ],
     "security_path": "/data/securities/psky-us.json"
-  },
-  {
-    "entity_key": "PSN:LN",
-    "symbol": "PSN",
-    "name": "PERSIMMON PLC ORD 10P",
-    "bbg_ticker": "PSN:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/psn-ln.json"
   },
   {
     "entity_key": "PSON:LN",
