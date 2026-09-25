@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-25T17:50:04Z",
+  "generated_at": "2026-09-25T20:44:05Z",
   "highlights": [
     "CAC: +0 / -0 / Δchanged 40",
     "DAX: +0 / -0 / Δchanged 39",
     "FTSE: +0 / -0 / Δchanged 99",
     "IBEX: +0 / -0 / Δchanged 35",
     "Indices: S&P 500 None% (delayed)",
-    "SP500: +503 / -503 / Δchanged 0",
-    "TSX breadth: 807 adv / 1390 dec / 151 unchanged"
+    "SP500: +0 / -0 / Δchanged 503",
+    "TSX breadth: 1479 adv / 702 dec / 142 unchanged"
   ],
   "stale_datasets": [],
   "failed_datasets": [],
@@ -60,11 +60,11 @@
       "dataset": "sp500",
       "type": "diff_latest",
       "summary": {
-        "added_count": 503,
-        "removed_count": 503,
+        "added_count": 0,
+        "removed_count": 0,
         "row_count_delta": 0,
-        "common_count": 0,
-        "changed_count": 0
+        "common_count": 503,
+        "changed_count": 503
       }
     }
   ]
