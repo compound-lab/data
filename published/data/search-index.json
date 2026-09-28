@@ -1020,6 +1020,16 @@
     "security_path": "/data/securities/blk-blk-us.json"
   },
   {
+    "entity_key": "BLND:LN",
+    "symbol": "BLND",
+    "name": "BRITISH LAND CO PLC ORD 25P",
+    "bbg_ticker": "BLND:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/blnd-ln.json"
+  },
+  {
     "entity_key": "BMW:GR",
     "symbol": "BMW",
     "name": "BMW AG",
@@ -3738,6 +3748,16 @@
       "ftse"
     ],
     "security_path": "/data/securities/ith-ln.json"
+  },
+  {
+    "entity_key": "ITRK:LN",
+    "symbol": "ITRK",
+    "name": "INTERTEK GROUP PLC ORD 1P",
+    "bbg_ticker": "ITRK:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/itrk-ln.json"
   },
   {
     "entity_key": "ITW ITW:US",
