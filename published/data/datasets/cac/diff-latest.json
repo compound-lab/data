@@ -1,7 +1,7 @@
 {
   "dataset": "cac",
-  "current_date": "2026-09-28",
-  "previous_date": "2026-09-25",
+  "current_date": "2026-09-29",
+  "previous_date": "2026-09-28",
   "added": [],
   "removed": [],
   "changed": [
@@ -9,9 +9,17 @@
       "entity_key": "AC:FP",
       "name": "ACCOR",
       "fields": {
+        "price": {
+          "previous": 45.89,
+          "current": 46.3
+        },
         "change_pct": {
-          "previous": 1.48,
-          "current": 0.0
+          "previous": 0.0,
+          "current": 0.87
+        },
+        "market_cap_m": {
+          "previous": 10611.0,
+          "current": 10705.0
         }
       }
     },
@@ -20,16 +28,16 @@
       "name": "CREDIT AGRICOLE",
       "fields": {
         "price": {
-          "previous": 18.19,
-          "current": 17.98
+          "previous": 17.98,
+          "current": 17.89
         },
         "change_pct": {
-          "previous": 1.37,
-          "current": -1.16
+          "previous": -1.16,
+          "current": -0.25
         },
         "market_cap_m": {
-          "previous": 55608.0,
-          "current": 54966.0
+          "previous": 54966.0,
+          "current": 54706.0
         }
       }
     },
@@ -38,16 +46,16 @@
       "name": "AIR LIQUIDE",
       "fields": {
         "price": {
-          "previous": 167.5,
-          "current": 168.14
+          "previous": 168.14,
+          "current": 168.68
         },
         "change_pct": {
-          "previous": -0.37,
-          "current": 0.38
+          "previous": 0.38,
+          "current": 0.27
         },
         "market_cap_m": {
-          "previous": 106892.0,
-          "current": 107301.0
+          "previous": 107301.0,
+          "current": 107646.0
         }
       }
     },
@@ -56,16 +64,16 @@
       "name": "AIRBUS SE",
       "fields": {
         "price": {
-          "previous": 192.4,
-          "current": 193.76
+          "previous": 193.76,
+          "current": 190.78
         },
         "change_pct": {
-          "previous": -1.02,
-          "current": 0.71
+          "previous": 0.71,
+          "current": -1.2
         },
         "market_cap_m": {
-          "previous": 152435.0,
-          "current": 153513.0
+          "previous": 153513.0,
+          "current": 151152.0
         }
       }
     },
@@ -74,16 +82,16 @@
       "name": "DANONE",
       "fields": {
         "price": {
-          "previous": 59.56,
-          "current": 59.7
+          "previous": 59.7,
+          "current": 58.8
         },
         "change_pct": {
-          "previous": -0.96,
-          "current": 0.24
+          "previous": 0.24,
+          "current": -1.18
         },
         "market_cap_m": {
-          "previous": 40700.0,
-          "current": 40795.0
+          "previous": 40795.0,
+          "current": 40180.0
         }
       }
     },
@@ -92,16 +100,16 @@
       "name": "BNP PARIBAS ACT.A",
       "fields": {
         "price": {
-          "previous": 99.3,
-          "current": 98.54
+          "previous": 98.54,
+          "current": 97.37
         },
         "change_pct": {
-          "previous": 0.88,
-          "current": -0.77
+          "previous": -0.77,
+          "current": -0.91
         },
         "market_cap_m": {
-          "previous": 109389.0,
-          "current": 108552.0
+          "previous": 108552.0,
+          "current": 107263.0
         }
       }
     },
@@ -110,16 +118,16 @@
       "name": "BUREAU VERITAS",
       "fields": {
         "price": {
-          "previous": 26.89,
-          "current": 26.68
+          "previous": 26.68,
+          "current": 27.03
         },
         "change_pct": {
-          "previous": 0.49,
-          "current": -0.78
+          "previous": -0.78,
+          "current": 1.73
         },
         "market_cap_m": {
-          "previous": 12205.0,
-          "current": 12109.0
+          "previous": 12109.0,
+          "current": 12268.0
         }
       }
     },
@@ -128,16 +136,16 @@
       "name": "CARREFOUR",
       "fields": {
         "price": {
-          "previous": 16.2,
-          "current": 16.56
+          "previous": 16.56,
+          "current": 16.26
         },
         "change_pct": {
-          "previous": 0.37,
-          "current": 2.19
+          "previous": 2.19,
+          "current": -1.43
         },
         "market_cap_m": {
-          "previous": 11928.0,
-          "current": 12190.0
+          "previous": 12190.0,
+          "current": 11969.0
         }
       }
     },
@@ -146,16 +154,16 @@
       "name": "CAPGEMINI",
       "fields": {
         "price": {
-          "previous": 104.5,
-          "current": 102.9
+          "previous": 102.9,
+          "current": 103.2
         },
         "change_pct": {
-          "previous": 0.72,
-          "current": -1.53
+          "previous": -1.53,
+          "current": 0.24
         },
         "market_cap_m": {
-          "previous": 17758.0,
-          "current": 17486.0
+          "previous": 17486.0,
+          "current": 17537.0
         }
       }
     },
@@ -164,16 +172,16 @@
       "name": "AXA",
       "fields": {
         "price": {
-          "previous": 44.0,
-          "current": 44.01
+          "previous": 44.01,
+          "current": 43.56
         },
         "change_pct": {
-          "previous": 0.07,
-          "current": 0.02
+          "previous": 0.02,
+          "current": -0.96
         },
         "market_cap_m": {
-          "previous": 92002.0,
-          "current": 92023.0
+          "previous": 92023.0,
+          "current": 91082.0
         }
       }
     },
@@ -182,16 +190,16 @@
       "name": "VINCI",
       "fields": {
         "price": {
-          "previous": 111.3,
-          "current": 111.2
+          "previous": 111.2,
+          "current": 108.55
         },
         "change_pct": {
-          "previous": 0.72,
-          "current": -0.09
+          "previous": -0.09,
+          "current": -2.34
         },
         "market_cap_m": {
-          "previous": 65337.0,
-          "current": 65278.0
+          "previous": 65278.0,
+          "current": 63723.0
         }
       }
     },
@@ -200,16 +208,16 @@
       "name": "DASSAULT SYSTEMES",
       "fields": {
         "price": {
-          "previous": 21.07,
-          "current": 21.16
+          "previous": 21.16,
+          "current": 20.7
         },
         "change_pct": {
-          "previous": -0.47,
-          "current": 0.43
+          "previous": 0.43,
+          "current": -1.76
         },
         "market_cap_m": {
-          "previous": 28273.0,
-          "current": 28394.0
+          "previous": 28394.0,
+          "current": 27776.0
         }
       }
     },
@@ -218,16 +226,16 @@
       "name": "ESSILORLUXOTTICA",
       "fields": {
         "price": {
-          "previous": 143.9,
-          "current": 147.05
+          "previous": 147.05,
+          "current": 144.65
         },
         "change_pct": {
-          "previous": -0.55,
-          "current": 2.19
+          "previous": 2.19,
+          "current": -0.99
         },
         "market_cap_m": {
-          "previous": 66805.0,
-          "current": 68268.0
+          "previous": 68268.0,
+          "current": 67153.0
         }
       }
     },
@@ -236,16 +244,16 @@
       "name": "BOUYGUES",
       "fields": {
         "price": {
-          "previous": 43.14,
-          "current": 43.06
+          "previous": 43.06,
+          "current": 42.65
         },
         "change_pct": {
-          "previous": 0.33,
-          "current": -0.19
+          "previous": -0.19,
+          "current": -0.81
         },
         "market_cap_m": {
-          "previous": 16755.0,
-          "current": 16724.0
+          "previous": 16724.0,
+          "current": 16565.0
         }
       }
     },
@@ -254,16 +262,16 @@
       "name": "ENGIE",
       "fields": {
         "price": {
-          "previous": 23.35,
-          "current": 23.27
+          "previous": 23.27,
+          "current": 23.1
         },
         "change_pct": {
-          "previous": -0.3,
-          "current": -0.34
+          "previous": -0.34,
+          "current": -0.43
         },
         "market_cap_m": {
-          "previous": 59366.0,
-          "current": 59162.0
+          "previous": 59162.0,
+          "current": 58730.0
         }
       }
     },
@@ -272,16 +280,16 @@
       "name": "EURONEXT",
       "fields": {
         "price": {
-          "previous": 159.5,
-          "current": 161.0
+          "previous": 161.0,
+          "current": 160.7
         },
         "change_pct": {
-          "previous": -0.31,
-          "current": 0.94
+          "previous": 0.94,
+          "current": 0.06
         },
         "market_cap_m": {
-          "previous": 16225.0,
-          "current": 16377.0
+          "previous": 16377.0,
+          "current": 16347.0
         }
       }
     },
@@ -290,16 +298,16 @@
       "name": "EUROFINS SCIENT.",
       "fields": {
         "price": {
-          "previous": 77.36,
-          "current": 78.78
+          "previous": 78.78,
+          "current": 76.7
         },
         "change_pct": {
-          "previous": -0.46,
-          "current": 1.84
+          "previous": 1.84,
+          "current": -2.57
         },
         "market_cap_m": {
-          "previous": 13615.0,
-          "current": 13865.0
+          "previous": 13865.0,
+          "current": 13499.0
         }
       }
     },
@@ -308,16 +316,16 @@
       "name": "EIFFAGE",
       "fields": {
         "price": {
-          "previous": 106.05,
-          "current": 105.85
+          "previous": 105.85,
+          "current": 102.6
         },
         "change_pct": {
-          "previous": 0.71,
-          "current": -0.19
+          "previous": -0.19,
+          "current": -3.21
         },
         "market_cap_m": {
-          "previous": 10393.0,
-          "current": 10373.0
+          "previous": 10373.0,
+          "current": 10055.0
         }
       }
     },
@@ -326,16 +334,16 @@
       "name": "SOCIETE GENERALE",
       "fields": {
         "price": {
-          "previous": 72.31,
-          "current": 71.68
+          "previous": 71.68,
+          "current": 70.97
         },
         "change_pct": {
-          "previous": 3.49,
-          "current": -0.87
+          "previous": -0.87,
+          "current": -0.69
         },
         "market_cap_m": {
-          "previous": 53456.0,
-          "current": 52990.0
+          "previous": 52990.0,
+          "current": 52466.0
         }
       }
     },
@@ -344,16 +352,16 @@
       "name": "THALES",
       "fields": {
         "price": {
-          "previous": 229.4,
-          "current": 226.4
+          "previous": 226.4,
+          "current": 226.8
         },
         "change_pct": {
-          "previous": -1.21,
-          "current": -1.31
+          "previous": -1.31,
+          "current": 0.35
         },
         "market_cap_m": {
-          "previous": 47243.0,
-          "current": 46625.0
+          "previous": 46625.0,
+          "current": 46708.0
         }
       }
     },
@@ -362,16 +370,16 @@
       "name": "KERING",
       "fields": {
         "price": {
-          "previous": 223.35,
-          "current": 227.15
+          "previous": 227.15,
+          "current": 224.4
         },
         "change_pct": {
-          "previous": -1.06,
-          "current": 1.7
+          "previous": 1.7,
+          "current": -1.67
         },
         "market_cap_m": {
-          "previous": 27566.0,
-          "current": 28035.0
+          "previous": 28035.0,
+          "current": 27696.0
         }
       }
     },
@@ -379,9 +387,17 @@
       "entity_key": "LR:FP",
       "name": "LEGRAND",
       "fields": {
+        "price": {
+          "previous": 134.85,
+          "current": 144.55
+        },
         "change_pct": {
-          "previous": 0.19,
-          "current": 0.0
+          "previous": 0.0,
+          "current": 7.19
+        },
+        "market_cap_m": {
+          "previous": 35364.0,
+          "current": 37908.0
         }
       }
     },
@@ -390,16 +406,16 @@
       "name": "LVMH",
       "fields": {
         "price": {
-          "previous": 396.85,
-          "current": 398.25
+          "previous": 398.25,
+          "current": 394.8
         },
         "change_pct": {
-          "previous": -0.06,
-          "current": 0.35
+          "previous": 0.35,
+          "current": -1.0
         },
         "market_cap_m": {
-          "previous": 196284.0,
-          "current": 196977.0
+          "previous": 196977.0,
+          "current": 195270.0
         }
       }
     },
@@ -408,16 +424,16 @@
       "name": "MICHELIN",
       "fields": {
         "price": {
-          "previous": 33.8,
-          "current": 33.82
+          "previous": 33.82,
+          "current": 33.87
         },
         "change_pct": {
-          "previous": 0.9,
-          "current": 0.06
+          "previous": 0.06,
+          "current": 0.24
         },
         "market_cap_m": {
-          "previous": 23241.0,
-          "current": 23255.0
+          "previous": 23255.0,
+          "current": 23289.0
         }
       }
     },
@@ -426,16 +442,16 @@
       "name": "ARCELORMITTAL SA",
       "fields": {
         "price": {
-          "previous": 61.78,
-          "current": 61.24
+          "previous": 61.24,
+          "current": 60.22
         },
         "change_pct": {
-          "previous": -0.35,
-          "current": -0.87
+          "previous": -0.87,
+          "current": -1.76
         },
         "market_cap_m": {
-          "previous": 47880.0,
-          "current": 47461.0
+          "previous": 47461.0,
+          "current": 46671.0
         }
       }
     },
@@ -444,16 +460,16 @@
       "name": "L'OREAL",
       "fields": {
         "price": {
-          "previous": 381.85,
-          "current": 386.25
+          "previous": 386.25,
+          "current": 379.9
         },
         "change_pct": {
-          "previous": -0.73,
-          "current": 1.15
+          "previous": 1.15,
+          "current": -1.33
         },
         "market_cap_m": {
-          "previous": 203392.0,
-          "current": 205736.0
+          "previous": 205736.0,
+          "current": 202354.0
         }
       }
     },
@@ -462,16 +478,16 @@
       "name": "ORANGE",
       "fields": {
         "price": {
-          "previous": 14.16,
-          "current": 13.99
+          "previous": 13.99,
+          "current": 13.74
         },
         "change_pct": {
-          "previous": 1.04,
-          "current": -1.24
+          "previous": -1.24,
+          "current": -1.44
         },
         "market_cap_m": {
-          "previous": 37666.0,
-          "current": 37201.0
+          "previous": 37201.0,
+          "current": 36549.0
         }
       }
     },
@@ -480,16 +496,16 @@
       "name": "PUBLICIS GROUPE SA",
       "fields": {
         "price": {
-          "previous": 97.86,
-          "current": 96.4
+          "previous": 96.4,
+          "current": 96.08
         },
         "change_pct": {
-          "previous": 0.2,
-          "current": -1.49
+          "previous": -1.49,
+          "current": -0.06
         },
         "market_cap_m": {
-          "previous": 24887.0,
-          "current": 24516.0
+          "previous": 24516.0,
+          "current": 24434.0
         }
       }
     },
@@ -498,16 +514,16 @@
       "name": "PERNOD RICARD",
       "fields": {
         "price": {
-          "previous": 59.04,
-          "current": 58.78
+          "previous": 58.78,
+          "current": 59.9
         },
         "change_pct": {
-          "previous": -0.91,
-          "current": -0.44
+          "previous": -0.44,
+          "current": 2.01
         },
         "market_cap_m": {
-          "previous": 14894.0,
-          "current": 14828.0
+          "previous": 14828.0,
+          "current": 15111.0
         }
       }
     },
@@ -516,16 +532,16 @@
       "name": "HERMES INTL",
       "fields": {
         "price": {
-          "previous": 1347.5,
-          "current": 1379.5
+          "previous": 1379.5,
+          "current": 1358.0
         },
         "change_pct": {
-          "previous": -0.52,
-          "current": 2.38
+          "previous": 2.38,
+          "current": -1.7
         },
         "market_cap_m": {
-          "previous": 142255.0,
-          "current": 145633.0
+          "previous": 145633.0,
+          "current": 143363.0
         }
       }
     },
@@ -534,16 +550,16 @@
       "name": "RENAULT",
       "fields": {
         "price": {
-          "previous": 26.3,
-          "current": 26.41
+          "previous": 26.41,
+          "current": 26.11
         },
         "change_pct": {
-          "previous": 0.57,
-          "current": 0.42
+          "previous": 0.42,
+          "current": -0.84
         },
         "market_cap_m": {
-          "previous": 7777.0,
-          "current": 7810.0
+          "previous": 7810.0,
+          "current": 7721.0
         }
       }
     },
@@ -552,16 +568,16 @@
       "name": "SAFRAN",
       "fields": {
         "price": {
-          "previous": 336.3,
-          "current": 333.5
+          "previous": 333.5,
+          "current": 336.6
         },
         "change_pct": {
-          "previous": 0.6,
-          "current": -0.83
+          "previous": -0.83,
+          "current": 1.08
         },
         "market_cap_m": {
-          "previous": 140689.0,
-          "current": 139518.0
+          "previous": 139518.0,
+          "current": 140815.0
         }
       }
     },
@@ -570,16 +586,16 @@
       "name": "SANOFI",
       "fields": {
         "price": {
-          "previous": 71.79,
-          "current": 72.15
+          "previous": 72.15,
+          "current": 71.38
         },
         "change_pct": {
-          "previous": -0.43,
-          "current": 0.5
+          "previous": 0.5,
+          "current": -0.86
         },
         "market_cap_m": {
-          "previous": 86706.0,
-          "current": 87141.0
+          "previous": 87141.0,
+          "current": 86211.0
         }
       }
     },
@@ -588,16 +604,16 @@
       "name": "SCHNEIDER ELECTRIC SE",
       "fields": {
         "price": {
-          "previous": 291.0,
-          "current": 290.7
+          "previous": 290.7,
+          "current": 298.15
         },
         "change_pct": {
-          "previous": 0.41,
-          "current": -0.1
+          "previous": -0.1,
+          "current": 2.63
         },
         "market_cap_m": {
-          "previous": 168374.0,
-          "current": 168201.0
+          "previous": 168201.0,
+          "current": 172511.0
         }
       }
     },
@@ -606,16 +622,16 @@
       "name": "SAINT GOBAIN",
       "fields": {
         "price": {
-          "previous": 69.82,
-          "current": 70.52
+          "previous": 70.52,
+          "current": 69.82
         },
         "change_pct": {
-          "previous": 0.0,
-          "current": 1.0
+          "previous": 1.0,
+          "current": -0.96
         },
         "market_cap_m": {
-          "previous": 34549.0,
-          "current": 34896.0
+          "previous": 34896.0,
+          "current": 34549.0
         }
       }
     },
@@ -624,16 +640,16 @@
       "name": "STELLANTIS NV",
       "fields": {
         "price": {
-          "previous": 4.03,
-          "current": 4.06
+          "previous": 4.06,
+          "current": 3.94
         },
         "change_pct": {
-          "previous": 1.44,
-          "current": 0.91
+          "previous": 0.91,
+          "current": -2.51
         },
         "market_cap_m": {
-          "previous": 11692.0,
-          "current": 11798.0
+          "previous": 11798.0,
+          "current": 11449.0
         }
       }
     },
@@ -642,16 +658,16 @@
       "name": "STMICROELECTRONICS",
       "fields": {
         "price": {
-          "previous": 45.11,
-          "current": 45.8
+          "previous": 45.8,
+          "current": 47.23
         },
         "change_pct": {
-          "previous": 0.5,
-          "current": 1.53
+          "previous": 1.53,
+          "current": 3.02
         },
         "market_cap_m": {
-          "previous": 41103.0,
-          "current": 41732.0
+          "previous": 41732.0,
+          "current": 43035.0
         }
       }
     },
@@ -660,16 +676,16 @@
       "name": "TOTALENERGIES",
       "fields": {
         "price": {
-          "previous": 79.99,
-          "current": 80.15
+          "previous": 80.15,
+          "current": 78.33
         },
         "change_pct": {
-          "previous": -1.31,
-          "current": 0.2
+          "previous": 0.2,
+          "current": -2.09
         },
         "market_cap_m": {
-          "previous": 182510.0,
-          "current": 182875.0
+          "previous": 182875.0,
+          "current": 178722.0
         }
       }
     },
@@ -678,16 +694,16 @@
       "name": "UNIBAIL-RODAMCO-WESTFIELD",
       "fields": {
         "price": {
-          "previous": 91.72,
-          "current": 91.7
+          "previous": 91.7,
+          "current": 91.02
         },
         "change_pct": {
-          "previous": -0.69,
-          "current": -0.02
+          "previous": -0.02,
+          "current": -0.74
         },
         "market_cap_m": {
-          "previous": 13253.0,
-          "current": 13250.0
+          "previous": 13250.0,
+          "current": 13152.0
         }
       }
     },
@@ -696,16 +712,16 @@
       "name": "VEOLIA ENVIRON.",
       "fields": {
         "price": {
-          "previous": 31.36,
-          "current": 31.15
+          "previous": 31.15,
+          "current": 31.01
         },
         "change_pct": {
-          "previous": 0.16,
-          "current": -0.67
+          "previous": -0.67,
+          "current": -0.26
         },
         "market_cap_m": {
-          "previous": 23285.0,
-          "current": 23129.0
+          "previous": 23129.0,
+          "current": 23025.0
         }
       }
     }
