@@ -880,6 +880,16 @@
     "security_path": "/data/securities/bbva-sm.json"
   },
   {
+    "entity_key": "BBY:LN",
+    "symbol": "BBY",
+    "name": "BALFOUR BEATTY PLC ORD 50P",
+    "bbg_ticker": "BBY:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/bby-ln.json"
+  },
+  {
     "entity_key": "BBY BBY:US",
     "symbol": "BBY BBY",
     "name": "Best Buy Company",
@@ -928,16 +938,6 @@
       "sp500"
     ],
     "security_path": "/data/securities/ben-ben-us.json"
-  },
-  {
-    "entity_key": "BEZ:LN",
-    "symbol": "BEZ",
-    "name": "BEAZLEY PLC ORD 5P",
-    "bbg_ticker": "BEZ:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/bez-ln.json"
   },
   {
     "entity_key": "BF.B BF.B:US",
@@ -5850,16 +5850,6 @@
     "security_path": "/data/securities/sdlf-ln.json"
   },
   {
-    "entity_key": "SDR:LN",
-    "symbol": "SDR",
-    "name": "SCHRODERS PLC ORD 20P",
-    "bbg_ticker": "SDR:LN",
-    "memberships": [
-      "ftse"
-    ],
-    "security_path": "/data/securities/sdr-ln.json"
-  },
-  {
     "entity_key": "SGE:LN",
     "symbol": "SGE",
     "name": "THE SAGE GROUP PLC ORD 1 4/77P",
@@ -7008,6 +6998,16 @@
       "sp500"
     ],
     "security_path": "/data/securities/wmt-wmt-us.json"
+  },
+  {
+    "entity_key": "WPP:LN",
+    "symbol": "WPP",
+    "name": "WPP PLC ORD 10P",
+    "bbg_ticker": "WPP:LN",
+    "memberships": [
+      "ftse"
+    ],
+    "security_path": "/data/securities/wpp-ln.json"
   },
   {
     "entity_key": "WRB WRB:US",
