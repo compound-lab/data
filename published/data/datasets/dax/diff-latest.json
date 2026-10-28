@@ -2,7 +2,28 @@
   "dataset": "dax",
   "current_date": "2026-10-28",
   "previous_date": "2026-10-27",
-  "added": [],
+  "added": [
+    {
+      "dataset": "dax",
+      "as_of_date": "2026-10-28",
+      "as_of_utc": "2026-10-28T17:04:51.323Z",
+      "name": "FRESENIUS SE & CO. KGAA",
+      "entity_key": "FRE:GR",
+      "symbol": "FRE",
+      "source_ticker": null,
+      "bbg_ticker": "FRE:GR",
+      "price": null,
+      "change": null,
+      "change_pct": 0.37,
+      "currency": null,
+      "weight": null,
+      "market_cap_m": 29030.0,
+      "extra": {
+        "change_5d_pct": null,
+        "ytd_pct": null
+      }
+    }
+  ],
   "removed": [],
   "changed": [
     {
@@ -409,7 +430,7 @@
       "fields": {
         "change_pct": {
           "previous": -0.08,
-          "current": 0.2
+          "current": 0.19
         },
         "market_cap_m": {
           "previous": 10420.0,
@@ -541,9 +562,9 @@
     }
   ],
   "summary": {
-    "added_count": 0,
+    "added_count": 1,
     "removed_count": 0,
-    "row_count_delta": 0,
+    "row_count_delta": 1,
     "common_count": 39,
     "changed_count": 39
   }
