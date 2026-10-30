@@ -2,21 +2,21 @@
   "dataset": "index_breadth",
   "kind": "raw",
   "as_of_date": "2026-10-30",
-  "as_of_utc": "2026-10-30T15:51:55.152Z",
+  "as_of_utc": "2026-10-30T17:25:00.602Z",
   "raw": {
-    "ts": "2026-10-30T15:51:55.152Z",
+    "ts": "2026-10-30T17:25:00.602Z",
     "dateUK": "2026-10-30",
     "rows": [
       {
         "Index": "CAC 40",
         "Source": "Euronext",
         "Total": 40,
-        "Up": 19,
-        "Down": 21,
+        "Up": 18,
+        "Down": 22,
         "Unchanged": 0,
         "Unknown": 0,
         "InputFile": "cac40-constituents-261030.json",
-        "Timestamp": "2026-10-30T15:51:55.152Z",
+        "Timestamp": "2026-10-30T17:25:00.602Z",
         "DateUK": "2026-10-30"
       },
       {
@@ -28,19 +28,19 @@
         "Unchanged": 1,
         "Unknown": 0,
         "InputFile": "dax-constituents-261030.json",
-        "Timestamp": "2026-10-30T15:51:55.152Z",
+        "Timestamp": "2026-10-30T17:25:00.602Z",
         "DateUK": "2026-10-30"
       },
       {
         "Index": "FTSE 100",
         "Source": "LSE",
         "Total": 100,
-        "Up": 46,
-        "Down": 53,
+        "Up": 44,
+        "Down": 52,
         "Unchanged": 0,
-        "Unknown": 1,
+        "Unknown": 4,
         "InputFile": "ftse100-lse-constituents-261030.json",
-        "Timestamp": "2026-10-30T15:51:55.152Z",
+        "Timestamp": "2026-10-30T17:25:00.602Z",
         "DateUK": "2026-10-30"
       },
       {
@@ -48,33 +48,27 @@
         "Source": "BME Exchange",
         "Total": 35,
         "Up": 13,
-        "Down": 21,
+        "Down": 22,
         "Unchanged": 0,
-        "Unknown": 1,
+        "Unknown": 0,
         "InputFile": "ibex35-constituents-261030.json",
-        "Timestamp": "2026-10-30T15:51:55.152Z",
+        "Timestamp": "2026-10-30T17:25:00.602Z",
+        "DateUK": "2026-10-30"
+      },
+      {
+        "Index": "S&P 500",
+        "Source": "Barchart (Download)",
+        "Total": 503,
+        "Up": 247,
+        "Down": 256,
+        "Unchanged": 0,
+        "Unknown": 0,
+        "InputFile": "sp500-barchart-download-components-261030.json",
+        "Timestamp": "2026-10-30T17:25:00.602Z",
         "DateUK": "2026-10-30"
       }
     ],
     "errors": [
-      {
-        "index": "S&P 500",
-        "source": "Barchart (Download)",
-        "prefix": "sp500-barchart-download-components-",
-        "changeField": "percentChange",
-        "kind": "constituents",
-        "exts": [
-          ".json"
-        ],
-        "symbolField": "symbol",
-        "excludeSymbols": [
-          "NWSA",
-          "FOXA",
-          "GOOGL"
-        ],
-        "error": "missing input file",
-        "lookedIn": "/home/henry/mission-control/daily/2026-10-30"
-      },
       {
         "index": "Nasdaq",
         "source": "TradingView (tvDatafeed)",
