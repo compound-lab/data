@@ -1,17 +1,27 @@
 {
   "dataset": "ibex",
-  "current_date": "2026-11-03",
-  "previous_date": "2026-11-02",
+  "current_date": "2026-11-04",
+  "previous_date": "2026-11-03",
   "added": [],
   "removed": [],
   "changed": [
+    {
+      "entity_key": "ACS:SM",
+      "name": "ACS",
+      "fields": {
+        "price": {
+          "previous": 91.15,
+          "current": 89.4
+        }
+      }
+    },
     {
       "entity_key": "ACX:SM",
       "name": "ACERINOX",
       "fields": {
         "price": {
-          "previous": 15.82,
-          "current": 15.7
+          "previous": 15.7,
+          "current": 15.91
         }
       }
     },
@@ -20,8 +30,8 @@
       "name": "AENA",
       "fields": {
         "price": {
-          "previous": 27.6,
-          "current": 27.4
+          "previous": 27.4,
+          "current": 28.16
         }
       }
     },
@@ -30,8 +40,8 @@
       "name": "AMADEUS",
       "fields": {
         "price": {
-          "previous": 59.4,
-          "current": 58.04
+          "previous": 58.04,
+          "current": 60.02
         }
       }
     },
@@ -40,8 +50,8 @@
       "name": "ACCIONA",
       "fields": {
         "price": {
-          "previous": 208.4,
-          "current": 209.6
+          "previous": 209.6,
+          "current": 215.8
         }
       }
     },
@@ -50,8 +60,8 @@
       "name": "ACCIONA ENER",
       "fields": {
         "price": {
-          "previous": 21.66,
-          "current": 21.8
+          "previous": 21.8,
+          "current": 21.92
         }
       }
     },
@@ -60,8 +70,8 @@
       "name": "BBVA",
       "fields": {
         "price": {
-          "previous": 21.58,
-          "current": 21.39
+          "previous": 21.39,
+          "current": 22.64
         }
       }
     },
@@ -70,8 +80,8 @@
       "name": "BANKINTER",
       "fields": {
         "price": {
-          "previous": 14.1,
-          "current": 13.895
+          "previous": 13.895,
+          "current": 14.405
         }
       }
     },
@@ -80,8 +90,8 @@
       "name": "CAIXABANK",
       "fields": {
         "price": {
-          "previous": 11.455,
-          "current": 11.385
+          "previous": 11.385,
+          "current": 11.93
         }
       }
     },
@@ -90,8 +100,8 @@
       "name": "CELLNEX",
       "fields": {
         "price": {
-          "previous": 26.25,
-          "current": 26.08
+          "previous": 26.08,
+          "current": 26.72
         }
       }
     },
@@ -100,8 +110,8 @@
       "name": "COLONIAL SFL",
       "fields": {
         "price": {
-          "previous": 5.18,
-          "current": 5.12
+          "previous": 5.12,
+          "current": 5.195
         }
       }
     },
@@ -110,8 +120,8 @@
       "name": "ENDESA",
       "fields": {
         "price": {
-          "previous": 43.43,
-          "current": 43.56
+          "previous": 43.56,
+          "current": 44.61
         }
       }
     },
@@ -120,8 +130,8 @@
       "name": "ENAGAS",
       "fields": {
         "price": {
-          "previous": 17.67,
-          "current": 17.75
+          "previous": 17.75,
+          "current": 17.68
         }
       }
     },
@@ -130,8 +140,8 @@
       "name": "FLUIDRA",
       "fields": {
         "price": {
-          "previous": 19.57,
-          "current": 19.52
+          "previous": 19.52,
+          "current": 19.8
         }
       }
     },
@@ -140,8 +150,8 @@
       "name": "FERROVIAL NV",
       "fields": {
         "price": {
-          "previous": 51.46,
-          "current": 51.18
+          "previous": 51.18,
+          "current": 52.66
         }
       }
     },
@@ -150,8 +160,8 @@
       "name": "GRIFOLS CL.A",
       "fields": {
         "price": {
-          "previous": 11.0,
-          "current": 11.155
+          "previous": 11.155,
+          "current": 11.175
         }
       }
     },
@@ -160,8 +170,8 @@
       "name": "IAG",
       "fields": {
         "price": {
-          "previous": 5.008,
-          "current": 4.995
+          "previous": 4.995,
+          "current": 5.184
         }
       }
     },
@@ -170,8 +180,8 @@
       "name": "IBERDROLA",
       "fields": {
         "price": {
-          "previous": 22.25,
-          "current": 22.19
+          "previous": 22.19,
+          "current": 22.65
         }
       }
     },
@@ -180,8 +190,8 @@
       "name": "INDRA A",
       "fields": {
         "price": {
-          "previous": 64.66,
-          "current": 62.68
+          "previous": 62.68,
+          "current": 60.9
         }
       }
     },
@@ -190,8 +200,8 @@
       "name": "INDITEX",
       "fields": {
         "price": {
-          "previous": 57.5,
-          "current": 56.82
+          "previous": 56.82,
+          "current": 58.92
         }
       }
     },
@@ -200,8 +210,8 @@
       "name": "LOGISTA",
       "fields": {
         "price": {
-          "previous": 36.68,
-          "current": 36.6
+          "previous": 36.6,
+          "current": 36.42
         }
       }
     },
@@ -210,8 +220,8 @@
       "name": "MAPFRE",
       "fields": {
         "price": {
-          "previous": 4.1,
-          "current": 4.068
+          "previous": 4.068,
+          "current": 4.206
         }
       }
     },
@@ -220,8 +230,8 @@
       "name": "MERLIN",
       "fields": {
         "price": {
-          "previous": 11.68,
-          "current": 11.69
+          "previous": 11.69,
+          "current": 11.74
         }
       }
     },
@@ -230,8 +240,8 @@
       "name": "ARCELORMIT.",
       "fields": {
         "price": {
-          "previous": 55.5,
-          "current": 54.12
+          "previous": 54.12,
+          "current": 55.8
         }
       }
     },
@@ -240,8 +250,8 @@
       "name": "NATURGY",
       "fields": {
         "price": {
-          "previous": 29.4,
-          "current": 29.2
+          "previous": 29.2,
+          "current": 29.32
         }
       }
     },
@@ -250,8 +260,8 @@
       "name": "PUIG BRANDS",
       "fields": {
         "price": {
-          "previous": 19.48,
-          "current": 19.4
+          "previous": 19.4,
+          "current": 19.92
         }
       }
     },
@@ -260,8 +270,8 @@
       "name": "REDEIA",
       "fields": {
         "price": {
-          "previous": 15.32,
-          "current": 15.42
+          "previous": 15.42,
+          "current": 15.59
         }
       }
     },
@@ -270,8 +280,8 @@
       "name": "REPSOL",
       "fields": {
         "price": {
-          "previous": 29.97,
-          "current": 30.58
+          "previous": 30.58,
+          "current": 30.01
         }
       }
     },
@@ -280,8 +290,8 @@
       "name": "ROVI",
       "fields": {
         "price": {
-          "previous": 63.3,
-          "current": 63.4
+          "previous": 63.4,
+          "current": 63.7
         }
       }
     },
@@ -290,8 +300,8 @@
       "name": "BA.SABADELL",
       "fields": {
         "price": {
-          "previous": 3.504,
-          "current": 3.447
+          "previous": 3.447,
+          "current": 3.601
         }
       }
     },
@@ -300,8 +310,8 @@
       "name": "B.SANTANDER",
       "fields": {
         "price": {
-          "previous": 10.386,
-          "current": 10.202
+          "previous": 10.202,
+          "current": 10.822
         }
       }
     },
@@ -310,8 +320,8 @@
       "name": "SACYR",
       "fields": {
         "price": {
-          "previous": 4.144,
-          "current": 4.106
+          "previous": 4.106,
+          "current": 4.138
         }
       }
     },
@@ -320,8 +330,8 @@
       "name": "SOLARIA",
       "fields": {
         "price": {
-          "previous": 15.25,
-          "current": 15.755
+          "previous": 15.755,
+          "current": 16.065
         }
       }
     },
@@ -330,8 +340,8 @@
       "name": "TELEFONICA",
       "fields": {
         "price": {
-          "previous": 3.38,
-          "current": 3.367
+          "previous": 3.367,
+          "current": 3.426
         }
       }
     },
@@ -340,8 +350,8 @@
       "name": "UNICAJA",
       "fields": {
         "price": {
-          "previous": 3.232,
-          "current": 3.218
+          "previous": 3.218,
+          "current": 3.33
         }
       }
     }
@@ -351,6 +361,6 @@
     "removed_count": 0,
     "row_count_delta": 0,
     "common_count": 35,
-    "changed_count": 34
+    "changed_count": 35
   }
 }
