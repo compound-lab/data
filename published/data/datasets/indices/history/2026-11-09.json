@@ -1,0 +1,439 @@
+{
+  "dataset": "indices",
+  "kind": "summary",
+  "as_of_date": "2026-11-09",
+  "as_of_utc": "2026-11-09T16:14:35.084Z",
+  "summary": {
+    "indices": [
+      {
+        "index": "S&P 500",
+        "price": null,
+        "change": null,
+        "change_pct": null,
+        "prev_close": null,
+        "quote_date": null,
+        "quote_time": null,
+        "symbol": null,
+        "advancers": null,
+        "decliners": null,
+        "unchanged": null,
+        "total": null,
+        "source_headlines": "yahoo/yfinance",
+        "source_breadth": null
+      },
+      {
+        "index": "Nasdaq 100",
+        "price": null,
+        "change": null,
+        "change_pct": null,
+        "prev_close": null,
+        "quote_date": null,
+        "quote_time": null,
+        "symbol": null,
+        "advancers": null,
+        "decliners": null,
+        "unchanged": null,
+        "total": null,
+        "source_headlines": "yahoo/yfinance",
+        "source_breadth": null
+      },
+      {
+        "index": "FTSE 100",
+        "price": null,
+        "change": null,
+        "change_pct": null,
+        "prev_close": null,
+        "quote_date": null,
+        "quote_time": null,
+        "symbol": null,
+        "advancers": 70,
+        "decliners": 27,
+        "unchanged": 0,
+        "total": 100,
+        "source_headlines": "yahoo/yfinance",
+        "source_breadth": "LSE"
+      },
+      {
+        "index": "CAC 40",
+        "price": null,
+        "change": null,
+        "change_pct": null,
+        "prev_close": null,
+        "quote_date": null,
+        "quote_time": null,
+        "symbol": null,
+        "advancers": 26,
+        "decliners": 13,
+        "unchanged": 1,
+        "total": 40,
+        "source_headlines": "yahoo/yfinance",
+        "source_breadth": "Euronext"
+      },
+      {
+        "index": "DAX",
+        "price": null,
+        "change": null,
+        "change_pct": null,
+        "prev_close": null,
+        "quote_date": null,
+        "quote_time": null,
+        "symbol": null,
+        "advancers": 26,
+        "decliners": 14,
+        "unchanged": 0,
+        "total": 40,
+        "source_headlines": "yahoo/yfinance",
+        "source_breadth": "Deutsche Börse"
+      },
+      {
+        "index": "IBEX 35",
+        "price": null,
+        "change": null,
+        "change_pct": null,
+        "prev_close": null,
+        "quote_date": null,
+        "quote_time": null,
+        "symbol": null,
+        "advancers": 33,
+        "decliners": 2,
+        "unchanged": 0,
+        "total": 35,
+        "source_headlines": "yahoo/yfinance",
+        "source_breadth": "BME Exchange"
+      }
+    ]
+  },
+  "raw": {
+    "index_headlines": {
+      "ts": "2026-11-09T16:14:29.428045+00:00",
+      "dateUK": "2026-11-09",
+      "source": "yahoo/yfinance",
+      "indices": [
+        {
+          "Name": "S&P 500",
+          "Symbol": "^GSPC",
+          "Price": 7523.35986328125,
+          "PrevClose": 7374.85009765625,
+          "Change": 148.509765625,
+          "PctChange": 2.0137326678978447,
+          "Timestamp": "2026-11-09T16:14:29.428045+00:00",
+          "QuoteTimestamp": "2026-11-09T16:14:32+00:00",
+          "QuoteTimestampRaw": null,
+          "DateUK": "2026-11-09",
+          "Source": "yahoo/yfinance",
+          "Method": "fast_info"
+        },
+        {
+          "Name": "Nasdaq 100",
+          "Symbol": "^NDX",
+          "Price": 27799.158203125,
+          "PrevClose": 26977.306640625,
+          "Change": 821.8515625,
+          "PctChange": 3.0464552056593286,
+          "Timestamp": "2026-11-09T16:14:29.428045+00:00",
+          "QuoteTimestamp": "2026-11-09T16:14:28+00:00",
+          "QuoteTimestampRaw": null,
+          "DateUK": "2026-11-09",
+          "Source": "yahoo/yfinance",
+          "Method": "fast_info"
+        },
+        {
+          "Name": "FTSE 100",
+          "Symbol": "^FTSE",
+          "Price": 10779.2802734375,
+          "PrevClose": 10670.26953125,
+          "Change": 109.0107421875,
+          "PctChange": 1.0216306333053764,
+          "Timestamp": "2026-11-09T16:14:29.428045+00:00",
+          "QuoteTimestamp": "2026-11-09T15:59:32+00:00",
+          "QuoteTimestampRaw": null,
+          "DateUK": "2026-11-09",
+          "Source": "yahoo/yfinance",
+          "Method": "fast_info"
+        },
+        {
+          "Name": "CAC 40",
+          "Symbol": "^FCHI",
+          "Price": 8239.7099609375,
+          "PrevClose": 8140.009765625,
+          "Change": 99.7001953125,
+          "PctChange": 1.2248166548095645,
+          "Timestamp": "2026-11-09T16:14:29.428045+00:00",
+          "QuoteTimestamp": "2026-11-09T15:59:30+00:00",
+          "QuoteTimestampRaw": null,
+          "DateUK": "2026-11-09",
+          "Source": "yahoo/yfinance",
+          "Method": "fast_info"
+        },
+        {
+          "Name": "DAX",
+          "Symbol": "^GDAXI",
+          "Price": 26269.359375,
+          "PrevClose": 25794.779296875,
+          "Change": 474.580078125,
+          "PctChange": 1.8398299619585994,
+          "Timestamp": "2026-11-09T16:14:29.428045+00:00",
+          "QuoteTimestamp": "2026-11-09T15:59:33+00:00",
+          "QuoteTimestampRaw": null,
+          "DateUK": "2026-11-09",
+          "Source": "yahoo/yfinance",
+          "Method": "fast_info"
+        },
+        {
+          "Name": "IBEX 35",
+          "Symbol": "^IBEX",
+          "Price": 19747.900390625,
+          "PrevClose": 19358.900390625,
+          "Change": 389.0,
+          "PctChange": 2.009411651233984,
+          "Timestamp": "2026-11-09T16:14:29.428045+00:00",
+          "QuoteTimestamp": "2026-11-09T15:59:30+00:00",
+          "QuoteTimestampRaw": null,
+          "DateUK": "2026-11-09",
+          "Source": "yahoo/yfinance",
+          "Method": "fast_info"
+        },
+        {
+          "Name": "TSX Composite",
+          "Symbol": "^GSPTSE",
+          "Price": 36329.6796875,
+          "PrevClose": 35799.51171875,
+          "Change": 530.16796875,
+          "PctChange": 1.4809363125260853,
+          "Timestamp": "2026-11-09T16:14:29.428045+00:00",
+          "QuoteTimestamp": "2026-11-09T16:14:31+00:00",
+          "QuoteTimestampRaw": null,
+          "DateUK": "2026-11-09",
+          "Source": "yahoo/yfinance",
+          "Method": "fast_info"
+        }
+      ],
+      "etfs": [
+        {
+          "Name": "CAC 40 ETF (UK)",
+          "Symbol": "CACX.L",
+          "Price": 6974.10009765625,
+          "PrevClose": 6879.5,
+          "Change": 94.60009765625,
+          "PctChange": 1.3751013541136712,
+          "Timestamp": "2026-11-09T16:14:29.428045+00:00",
+          "QuoteTimestamp": "2026-11-09T15:28:11+00:00",
+          "QuoteTimestampRaw": null,
+          "DateUK": "2026-11-09",
+          "Source": "yahoo/yfinance",
+          "Method": "fast_info"
+        },
+        {
+          "Name": "DAX ETF (UK)",
+          "Symbol": "CG1.L",
+          "Price": 38765.0,
+          "PrevClose": 38005.0,
+          "Change": 760.0,
+          "PctChange": 1.9997368767267467,
+          "Timestamp": "2026-11-09T16:14:29.428045+00:00",
+          "QuoteTimestamp": "2026-11-09T15:58:49+00:00",
+          "QuoteTimestampRaw": null,
+          "DateUK": "2026-11-09",
+          "Source": "yahoo/yfinance",
+          "Method": "fast_info"
+        },
+        {
+          "Name": "FTSE 100 ETF (UK)",
+          "Symbol": "ISF.L",
+          "Price": 1049.5999755859375,
+          "PrevClose": 1039.0,
+          "Change": 10.5999755859375,
+          "PctChange": 1.0202093922942734,
+          "Timestamp": "2026-11-09T16:14:29.428045+00:00",
+          "QuoteTimestamp": "2026-11-09T15:59:19+00:00",
+          "QuoteTimestampRaw": null,
+          "DateUK": "2026-11-09",
+          "Source": "yahoo/yfinance",
+          "Method": "fast_info"
+        },
+        {
+          "Name": "IBEX 35 ETF (UK)",
+          "Symbol": "CS1.L",
+          "Price": 42870.0,
+          "PrevClose": 41930.0,
+          "Change": 940.0,
+          "PctChange": 2.2418316241354637,
+          "Timestamp": "2026-11-09T16:14:29.428045+00:00",
+          "QuoteTimestamp": "2026-11-09T15:57:39+00:00",
+          "QuoteTimestampRaw": null,
+          "DateUK": "2026-11-09",
+          "Source": "yahoo/yfinance",
+          "Method": "fast_info"
+        },
+        {
+          "Name": "S&P 500 ETF (UK)",
+          "Symbol": "IUSA.L",
+          "Price": 5604.75,
+          "PrevClose": 5528.75,
+          "Change": 76.0,
+          "PctChange": 1.374632602306127,
+          "Timestamp": "2026-11-09T16:14:29.428045+00:00",
+          "QuoteTimestamp": "2026-11-09T15:59:21+00:00",
+          "QuoteTimestampRaw": null,
+          "DateUK": "2026-11-09",
+          "Source": "yahoo/yfinance",
+          "Method": "fast_info"
+        },
+        {
+          "Name": "Nasdaq 100 ETF (UK)",
+          "Symbol": "EQQQ.L",
+          "Price": 50864.0,
+          "PrevClose": 49671.0,
+          "Change": 1193.0,
+          "PctChange": 2.401803869461054,
+          "Timestamp": "2026-11-09T16:14:29.428045+00:00",
+          "QuoteTimestamp": "2026-11-09T15:59:35+00:00",
+          "QuoteTimestampRaw": null,
+          "DateUK": "2026-11-09",
+          "Source": "yahoo/yfinance",
+          "Method": "fast_info"
+        },
+        {
+          "Name": "TSX / Canada ETF (UK)",
+          "Symbol": "CSCA.L",
+          "Price": 23456.0,
+          "PrevClose": 23340.5,
+          "Change": 115.5,
+          "PctChange": 0.4948480109680598,
+          "Timestamp": "2026-11-09T16:14:29.428045+00:00",
+          "QuoteTimestamp": "2026-11-09T15:48:43+00:00",
+          "QuoteTimestampRaw": null,
+          "DateUK": "2026-11-09",
+          "Source": "yahoo/yfinance",
+          "Method": "fast_info"
+        },
+        {
+          "Name": "MSCI World ETF (UK)",
+          "Symbol": "SWDA.L",
+          "Price": 10761.0,
+          "PrevClose": 10599.0,
+          "Change": 162.0,
+          "PctChange": 1.5284460798188508,
+          "Timestamp": "2026-11-09T16:14:29.428045+00:00",
+          "QuoteTimestamp": "2026-11-09T15:59:06+00:00",
+          "QuoteTimestampRaw": null,
+          "DateUK": "2026-11-09",
+          "Source": "yahoo/yfinance",
+          "Method": "fast_info"
+        }
+      ],
+      "errors": []
+    },
+    "index_breadth": {
+      "ts": "2026-11-09T16:14:35.084Z",
+      "dateUK": "2026-11-09",
+      "rows": [
+        {
+          "Index": "CAC 40",
+          "Source": "Euronext",
+          "Total": 40,
+          "Up": 26,
+          "Down": 13,
+          "Unchanged": 1,
+          "Unknown": 0,
+          "InputFile": "cac40-constituents-261109.json",
+          "Timestamp": "2026-11-09T16:14:35.084Z",
+          "DateUK": "2026-11-09"
+        },
+        {
+          "Index": "DAX",
+          "Source": "Deutsche Börse",
+          "Total": 40,
+          "Up": 26,
+          "Down": 14,
+          "Unchanged": 0,
+          "Unknown": 0,
+          "InputFile": "dax-constituents-261109.json",
+          "Timestamp": "2026-11-09T16:14:35.084Z",
+          "DateUK": "2026-11-09"
+        },
+        {
+          "Index": "FTSE 100",
+          "Source": "LSE",
+          "Total": 100,
+          "Up": 70,
+          "Down": 27,
+          "Unchanged": 0,
+          "Unknown": 3,
+          "InputFile": "ftse100-lse-constituents-261109.json",
+          "Timestamp": "2026-11-09T16:14:35.084Z",
+          "DateUK": "2026-11-09"
+        },
+        {
+          "Index": "IBEX 35",
+          "Source": "BME Exchange",
+          "Total": 35,
+          "Up": 33,
+          "Down": 2,
+          "Unchanged": 0,
+          "Unknown": 0,
+          "InputFile": "ibex35-constituents-261109.json",
+          "Timestamp": "2026-11-09T16:14:35.084Z",
+          "DateUK": "2026-11-09"
+        }
+      ],
+      "errors": [
+        {
+          "index": "S&P 500",
+          "source": "Barchart (Download)",
+          "prefix": "sp500-barchart-download-components-",
+          "changeField": "percentChange",
+          "kind": "constituents",
+          "exts": [
+            ".json"
+          ],
+          "symbolField": "symbol",
+          "excludeSymbols": [
+            "NWSA",
+            "FOXA",
+            "GOOGL"
+          ],
+          "error": "missing input file",
+          "lookedIn": "/home/henry/mission-control/daily/2026-11-09"
+        },
+        {
+          "index": "Nasdaq",
+          "source": "TradingView (tvDatafeed)",
+          "prefix": "nasdaq-breadth-tv-",
+          "changeField": null,
+          "kind": "tvBreadth",
+          "exts": [
+            ".json"
+          ],
+          "error": "missing input file",
+          "lookedIn": "/home/henry/mission-control/daily/2026-11-09"
+        },
+        {
+          "index": "NYSE",
+          "source": "TradingView (tvDatafeed)",
+          "prefix": "nyse-breadth-tv-",
+          "changeField": null,
+          "kind": "tvBreadth",
+          "exts": [
+            ".json"
+          ],
+          "defaultUnchanged": 0,
+          "error": "missing input file",
+          "lookedIn": "/home/henry/mission-control/daily/2026-11-09"
+        },
+        {
+          "index": "TSX",
+          "source": "TradingView (tvDatafeed)",
+          "prefix": "tsx-breadth-tv-",
+          "changeField": null,
+          "kind": "tvBreadth",
+          "exts": [
+            ".json"
+          ],
+          "error": "missing input file",
+          "lookedIn": "/home/henry/mission-control/daily/2026-11-09"
+        }
+      ]
+    }
+  }
+}
