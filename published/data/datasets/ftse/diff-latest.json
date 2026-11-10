@@ -1,7 +1,7 @@
 {
   "dataset": "ftse",
-  "current_date": "2026-11-09",
-  "previous_date": "2026-11-06",
+  "current_date": "2026-11-10",
+  "previous_date": "2026-11-09",
   "added": [],
   "removed": [],
   "changed": [
@@ -10,20 +10,20 @@
       "name": "Airtel Africa Plc ORD USD0.50",
       "fields": {
         "price": {
-          "previous": 277.6,
-          "current": 287.0
+          "previous": 287.0,
+          "current": 286.2
         },
         "change": {
-          "previous": 11.6,
-          "current": 9.4
+          "previous": 9.4,
+          "current": 0.8
         },
         "change_pct": {
-          "previous": -4.01,
-          "current": 3.39
+          "previous": 3.39,
+          "current": -0.28
         },
         "market_cap_m": {
-          "previous": 10481.27,
-          "current": 10060.86
+          "previous": 10060.86,
+          "current": 10401.54
         }
       }
     },
@@ -32,16 +32,20 @@
       "name": "Anglo American Plc ORD USD0.623855311355311",
       "fields": {
         "price": {
-          "previous": 3701.0,
-          "current": 3894.0
+          "previous": 3894.0,
+          "current": 3818.0
         },
         "change": {
-          "previous": null,
-          "current": 193.0
+          "previous": 193.0,
+          "current": 76.0
         },
         "change_pct": {
-          "previous": null,
-          "current": 5.21
+          "previous": 5.21,
+          "current": -1.95
+        },
+        "market_cap_m": {
+          "previous": 43599.64,
+          "current": 45873.28
         }
       }
     },
@@ -50,20 +54,20 @@
       "name": "Aberdeen Group Plc ORD 13 61/63P",
       "fields": {
         "price": {
-          "previous": 223.8,
-          "current": 229.2
+          "previous": 229.2,
+          "current": 230.0
         },
         "change": {
-          "previous": 6.2,
-          "current": 5.4
+          "previous": 5.4,
+          "current": 0.8
         },
         "change_pct": {
-          "previous": -2.7,
-          "current": 2.41
+          "previous": 2.41,
+          "current": 0.35
         },
         "market_cap_m": {
-          "previous": 4233.72,
-          "current": 4119.59
+          "previous": 4119.59,
+          "current": 4218.99
         }
       }
     },
@@ -72,20 +76,20 @@
       "name": "Associated British Foods Plc ORD 5 15/22P",
       "fields": {
         "price": {
-          "previous": 1990.0,
-          "current": 2001.0
+          "previous": 2001.0,
+          "current": 2009.0
         },
         "change": {
-          "previous": 38.0,
-          "current": 11.0
+          "previous": 11.0,
+          "current": 8.0
         },
         "change_pct": {
-          "previous": -1.87,
-          "current": 0.55
+          "previous": 0.55,
+          "current": 0.4
         },
         "market_cap_m": {
-          "previous": 14255.77,
-          "current": 13988.65
+          "previous": 13988.65,
+          "current": 14065.97
         }
       }
     },
@@ -94,20 +98,20 @@
       "name": "Admiral Group Plc ORD 0.1P",
       "fields": {
         "price": {
-          "previous": 3934.0,
-          "current": 3912.0
+          "previous": 3912.0,
+          "current": 3884.0
         },
         "change": {
-          "previous": 122.0,
-          "current": 22.0
+          "previous": 22.0,
+          "current": 28.0
         },
         "change_pct": {
-          "previous": -3.01,
-          "current": -0.56
+          "previous": -0.56,
+          "current": -0.72
         },
         "market_cap_m": {
-          "previous": 12374.8,
-          "current": 12002.58
+          "previous": 12002.58,
+          "current": 11935.46
         }
       }
     },
@@ -116,20 +120,20 @@
       "name": "Alliance Witan Plc ORD 2.5P",
       "fields": {
         "price": {
-          "previous": 1336.0,
-          "current": 1352.0
+          "previous": 1352.0,
+          "current": 1360.0
         },
         "change": {
-          "previous": null,
-          "current": 16.0
+          "previous": 16.0,
+          "current": 8.0
         },
         "change_pct": {
-          "previous": null,
-          "current": 1.2
+          "previous": 1.2,
+          "current": 0.59
         },
         "market_cap_m": {
-          "previous": 4839.0,
-          "current": 4836.66
+          "previous": 4836.66,
+          "current": 4894.58
         }
       }
     },
@@ -138,20 +142,20 @@
       "name": "Antofagasta Plc ORD 5P",
       "fields": {
         "price": {
-          "previous": 3113.0,
-          "current": 3305.0
+          "previous": 3305.0,
+          "current": 3234.0
         },
         "change": {
-          "previous": 12.0,
-          "current": 192.0
+          "previous": 192.0,
+          "current": 71.0
         },
         "change_pct": {
-          "previous": -0.38,
-          "current": 6.17
+          "previous": 6.17,
+          "current": -2.15
         },
         "market_cap_m": {
-          "previous": 30808.02,
-          "current": 30689.72
+          "previous": 30689.72,
+          "current": 32582.56
         }
       }
     },
@@ -159,21 +163,17 @@
       "entity_key": "AUTO:LN",
       "name": "Autotrader Group Plc ORD 1P",
       "fields": {
-        "price": {
-          "previous": 555.4,
-          "current": 557.6
-        },
         "change": {
-          "previous": 2.8,
-          "current": 2.2
+          "previous": 2.2,
+          "current": null
         },
         "change_pct": {
-          "previous": -0.5,
-          "current": 0.4
+          "previous": 0.4,
+          "current": null
         },
         "market_cap_m": {
-          "previous": 4245.71,
-          "current": 4224.41
+          "previous": 4224.41,
+          "current": 4241.14
         }
       }
     },
@@ -182,20 +182,20 @@
       "name": "Aviva Plc ORD 32 17/19P",
       "fields": {
         "price": {
-          "previous": 733.8,
-          "current": 732.8
+          "previous": 732.8,
+          "current": 724.8
         },
         "change": {
-          "previous": 18.8,
-          "current": 1.0
+          "previous": 1.0,
+          "current": 8.0
         },
         "change_pct": {
-          "previous": -2.5,
-          "current": -0.14
+          "previous": -0.14,
+          "current": -1.09
         },
         "market_cap_m": {
-          "previous": 22588.95,
-          "current": 22024.68
+          "previous": 22024.68,
+          "current": 21994.66
         }
       }
     },
@@ -204,20 +204,20 @@
       "name": "Astrazeneca Plc ORD SHS $0.25",
       "fields": {
         "price": {
-          "previous": 13930.0,
-          "current": 14066.0
+          "previous": 14066.0,
+          "current": 13884.0
         },
         "change": {
-          "previous": 112.0,
-          "current": 136.0
+          "previous": 136.0,
+          "current": 182.0
         },
         "change_pct": {
-          "previous": -0.8,
-          "current": 0.98
+          "previous": 0.98,
+          "current": -1.29
         },
         "market_cap_m": {
-          "previous": 217800.58,
-          "current": 216063.39
+          "previous": 216063.39,
+          "current": 218172.84
         }
       }
     },
@@ -226,20 +226,20 @@
       "name": "Bae Systems Plc ORD 2.5P",
       "fields": {
         "price": {
-          "previous": 1846.0,
-          "current": 1913.0
+          "previous": 1913.0,
+          "current": 1925.0
         },
         "change": {
-          "previous": 34.5,
-          "current": 67.0
+          "previous": 67.0,
+          "current": 12.0
         },
         "change_pct": {
-          "previous": -1.83,
-          "current": 3.63
+          "previous": 3.63,
+          "current": 0.63
         },
         "market_cap_m": {
-          "previous": 56379.21,
-          "current": 55344.86
+          "previous": 55344.86,
+          "current": 57343.35
         }
       }
     },
@@ -248,20 +248,20 @@
       "name": "Babcock International Group Plc ORD 60P",
       "fields": {
         "price": {
-          "previous": 1006.5,
-          "current": 1054.5
+          "previous": 1054.5,
+          "current": 1062.0
         },
         "change": {
-          "previous": 12.0,
-          "current": 48.0
+          "previous": 48.0,
+          "current": 7.5
         },
         "change_pct": {
-          "previous": -1.18,
-          "current": 4.77
+          "previous": 4.77,
+          "current": 0.71
         },
         "market_cap_m": {
-          "previous": 4968.63,
-          "current": 4909.39
+          "previous": 4909.39,
+          "current": 5143.52
         }
       }
     },
@@ -270,20 +270,20 @@
       "name": "Barclays Plc ORD 25P",
       "fields": {
         "price": {
-          "previous": 420.25,
-          "current": 429.65
+          "previous": 429.65,
+          "current": 430.05
         },
         "change": {
-          "previous": 3.75,
-          "current": 9.4
+          "previous": 9.4,
+          "current": 0.4
         },
         "change_pct": {
-          "previous": -0.88,
-          "current": 2.24
+          "previous": 2.24,
+          "current": 0.09
         },
         "market_cap_m": {
-          "previous": 56461.97,
-          "current": 55962.6
+          "previous": 55962.6,
+          "current": 57214.36
         }
       }
     },
@@ -292,20 +292,20 @@
       "name": "British American Tobacco Plc ORD 25P",
       "fields": {
         "price": {
-          "previous": 4567.0,
-          "current": 4477.0
+          "previous": 4477.0,
+          "current": 4541.0
         },
         "change": {
-          "previous": 150.0,
-          "current": 90.0
+          "previous": 90.0,
+          "current": 64.0
         },
         "change_pct": {
-          "previous": -3.18,
-          "current": -1.97
+          "previous": -1.97,
+          "current": 1.43
         },
         "market_cap_m": {
-          "previous": 101638.45,
-          "current": 98406.36
+          "previous": 98406.36,
+          "current": 96467.11
         }
       }
     },
@@ -314,16 +314,20 @@
       "name": "Tritax Big Box Reit Plc ORD 1P",
       "fields": {
         "price": {
-          "previous": 146.3,
-          "current": 147.7
+          "previous": 147.7,
+          "current": 147.3
+        },
+        "change": {
+          "previous": 1.4,
+          "current": 0.4
         },
         "change_pct": {
-          "previous": -0.95,
-          "current": 0.96
+          "previous": 0.96,
+          "current": -0.27
         },
         "market_cap_m": {
-          "previous": 4324.53,
-          "current": 4283.54
+          "previous": 4283.54,
+          "current": 4324.53
         }
       }
     },
@@ -332,20 +336,20 @@
       "name": "Balfour Beatty Plc ORD 50P",
       "fields": {
         "price": {
-          "previous": 851.5,
-          "current": 875.0
+          "previous": 875.0,
+          "current": 880.0
         },
         "change": {
-          "previous": 5.5,
-          "current": 23.5
+          "previous": 23.5,
+          "current": 5.0
         },
         "change_pct": {
-          "previous": 0.65,
-          "current": 2.76
+          "previous": 2.76,
+          "current": 0.57
         },
         "market_cap_m": {
-          "previous": 3994.95,
-          "current": 4020.92
+          "previous": 4020.92,
+          "current": 4131.89
         }
       }
     },
@@ -354,20 +358,20 @@
       "name": "Lion Finance Group Plc ORD 1P",
       "fields": {
         "price": {
-          "previous": 12790.0,
-          "current": 13280.0
+          "previous": 13280.0,
+          "current": 13480.0
         },
         "change": {
-          "previous": 180.0,
-          "current": 490.0
+          "previous": 490.0,
+          "current": 200.0
         },
         "change_pct": {
-          "previous": 1.43,
-          "current": 3.83
+          "previous": 3.83,
+          "current": 1.51
         },
         "market_cap_m": {
-          "previous": 5418.19,
-          "current": 5494.76
+          "previous": 5494.76,
+          "current": 5705.27
         }
       }
     },
@@ -375,17 +379,17 @@
       "entity_key": "BLND:LN",
       "name": "British Land Company Plc ORD 25P",
       "fields": {
+        "price": {
+          "previous": 430.6,
+          "current": 430.0
+        },
         "change": {
-          "previous": 5.0,
-          "current": null
+          "previous": null,
+          "current": 0.6
         },
         "change_pct": {
-          "previous": -1.15,
-          "current": null
-        },
-        "market_cap_m": {
-          "previous": 4466.01,
-          "current": 4414.74
+          "previous": null,
+          "current": -0.14
         }
       }
     },
@@ -394,20 +398,20 @@
       "name": "Bunzl Plc ORD 32 1/7P",
       "fields": {
         "price": {
-          "previous": 2862.0,
-          "current": 2842.0
+          "previous": 2842.0,
+          "current": 2856.0
         },
         "change": {
-          "previous": 62.0,
-          "current": 20.0
+          "previous": 20.0,
+          "current": 14.0
         },
         "change_pct": {
-          "previous": -2.12,
-          "current": -0.7
+          "previous": -0.7,
+          "current": 0.49
         },
         "market_cap_m": {
-          "previous": 9209.95,
-          "current": 9014.67
+          "previous": 9014.67,
+          "current": 8951.67
         }
       }
     },
@@ -416,20 +420,20 @@
       "name": "Bp Plc $0.25",
       "fields": {
         "price": {
-          "previous": 559.4,
-          "current": 556.7
+          "previous": 556.7,
+          "current": 552.2
         },
         "change": {
-          "previous": 8.0,
-          "current": 2.7
+          "previous": 2.7,
+          "current": 4.5
         },
         "change_pct": {
-          "previous": -1.41,
-          "current": -0.48
+          "previous": -0.48,
+          "current": -0.81
         },
         "market_cap_m": {
-          "previous": 89116.02,
-          "current": 87859.54
+          "previous": 87859.54,
+          "current": 87435.47
         }
       }
     },
@@ -438,20 +442,20 @@
       "name": "Burberry Group Plc ORD 0.05P",
       "fields": {
         "price": {
-          "previous": 1108.0,
-          "current": 1113.5
+          "previous": 1113.5,
+          "current": 1102.0
         },
         "change": {
-          "previous": 19.5,
-          "current": 5.5
+          "previous": 5.5,
+          "current": 11.5
         },
         "change_pct": {
-          "previous": -1.73,
-          "current": 0.5
+          "previous": 0.5,
+          "current": -1.03
         },
         "market_cap_m": {
-          "previous": 4102.48,
-          "current": 4031.53
+          "previous": 4031.53,
+          "current": 4051.54
         }
       }
     },
@@ -460,20 +464,20 @@
       "name": "Bt Group Plc ORD 5P",
       "fields": {
         "price": {
-          "previous": 217.0,
-          "current": 213.4
+          "previous": 213.4,
+          "current": 209.9
         },
         "change": {
-          "previous": 14.8,
-          "current": 3.6
+          "previous": 3.6,
+          "current": 3.5
         },
         "change_pct": {
-          "previous": -6.38,
-          "current": -1.66
+          "previous": -1.66,
+          "current": -1.64
         },
         "market_cap_m": {
-          "previous": 23104.99,
-          "current": 21629.78
+          "previous": 21629.78,
+          "current": 21270.94
         }
       }
     },
@@ -482,20 +486,20 @@
       "name": "Barratt Redrow Plc ORD 10P",
       "fields": {
         "price": {
-          "previous": 332.7,
-          "current": 334.8
+          "previous": 334.8,
+          "current": 328.4
         },
         "change": {
-          "previous": 1.5,
-          "current": 2.1
+          "previous": 2.1,
+          "current": 6.4
         },
         "change_pct": {
-          "previous": 0.45,
-          "current": 0.63
+          "previous": 0.63,
+          "current": -1.91
         },
         "market_cap_m": {
-          "previous": 4538.65,
-          "current": 4559.2
+          "previous": 4559.2,
+          "current": 4587.98
         }
       }
     },
@@ -504,20 +508,20 @@
       "name": "Computacenter Plc ORD 7 5/9P",
       "fields": {
         "price": {
-          "previous": 4594.0,
-          "current": 4626.0
+          "previous": 4626.0,
+          "current": 4708.0
         },
         "change": {
-          "previous": 4.0,
-          "current": 32.0
+          "previous": 32.0,
+          "current": 82.0
         },
         "change_pct": {
-          "previous": -0.09,
-          "current": 0.7
+          "previous": 0.7,
+          "current": 1.77
         },
         "market_cap_m": {
-          "previous": 4885.1,
-          "current": 4880.85
+          "previous": 4880.85,
+          "current": 4914.84
         }
       }
     },
@@ -526,20 +530,20 @@
       "name": "Coca-cola Europacific Partners Plc ORD EUR0.01 (DI)",
       "fields": {
         "price": {
-          "previous": 8755.0,
-          "current": 8675.0
+          "previous": 8675.0,
+          "current": 8775.0
         },
         "change": {
-          "previous": 30.0,
-          "current": 80.0
+          "previous": 80.0,
+          "current": 100.0
         },
         "change_pct": {
-          "previous": 0.34,
-          "current": -0.91
+          "previous": -0.91,
+          "current": 1.15
         },
         "market_cap_m": {
-          "previous": 38277.31,
-          "current": 38182.66
+          "previous": 38182.66,
+          "current": 38368.26
         }
       }
     },
@@ -548,20 +552,20 @@
       "name": "Coca-cola Hbc Ag ORD CHF6.70 (CDI)",
       "fields": {
         "price": {
-          "previous": 4188.0,
-          "current": 4224.0
+          "previous": 4224.0,
+          "current": 4248.0
         },
         "change": {
-          "previous": 136.0,
-          "current": 36.0
+          "previous": 36.0,
+          "current": 24.0
         },
         "change_pct": {
-          "previous": 3.36,
-          "current": 0.86
+          "previous": 0.86,
+          "current": 0.57
         },
         "market_cap_m": {
-          "previous": 14768.1,
-          "current": 15263.78
+          "previous": 15263.78,
+          "current": 15394.98
         }
       }
     },
@@ -570,20 +574,20 @@
       "name": "Centrica Plc ORD 6 14/81P",
       "fields": {
         "price": {
-          "previous": 151.5,
-          "current": 154.35
+          "previous": 154.35,
+          "current": 153.45
         },
         "change": {
-          "previous": 0.2,
-          "current": 2.85
+          "previous": 2.85,
+          "current": 0.9
         },
         "change_pct": {
-          "previous": -0.13,
-          "current": 1.88
+          "previous": 1.88,
+          "current": -0.58
         },
         "market_cap_m": {
-          "previous": 7007.9,
-          "current": 6998.66
+          "previous": 6998.66,
+          "current": 7130.32
         }
       }
     },
@@ -592,20 +596,20 @@
       "name": "Compass Group Plc ORD 11 1/20P",
       "fields": {
         "price": {
-          "previous": 33.23,
-          "current": 33.25
+          "previous": 33.25,
+          "current": 33.11
         },
         "change": {
-          "previous": 0.88,
-          "current": 0.02
+          "previous": 0.02,
+          "current": 0.14
         },
         "change_pct": {
-          "previous": -2.58,
-          "current": 0.06
+          "previous": 0.06,
+          "current": -0.42
         },
         "market_cap_m": {
-          "previous": 43127.63,
-          "current": 42329.72
+          "previous": 42329.72,
+          "current": 42068.42
         }
       }
     },
@@ -614,20 +618,20 @@
       "name": "Croda International Plc ORD 10.609756P",
       "fields": {
         "price": {
-          "previous": 3666.0,
-          "current": 3622.0
+          "previous": 3622.0,
+          "current": 3641.0
         },
         "change": {
-          "previous": 15.0,
-          "current": 44.0
+          "previous": 44.0,
+          "current": 19.0
         },
         "change_pct": {
-          "previous": 0.41,
-          "current": -1.2
+          "previous": -1.2,
+          "current": 0.53
         },
         "market_cap_m": {
-          "previous": 5098.09,
-          "current": 5119.04
+          "previous": 5119.04,
+          "current": 5057.6
         }
       }
     },
@@ -635,21 +639,17 @@
       "entity_key": "CTEC:LN",
       "name": "Convatec Group Plc ORD 10P",
       "fields": {
-        "price": {
-          "previous": 250.4,
-          "current": 248.6
-        },
         "change": {
-          "previous": 2.6,
-          "current": 1.8
+          "previous": 1.8,
+          "current": null
         },
         "change_pct": {
-          "previous": -1.03,
-          "current": -0.72
+          "previous": -0.72,
+          "current": null
         },
         "market_cap_m": {
-          "previous": 4837.94,
-          "current": 4788.23
+          "previous": 4788.23,
+          "current": 4753.81
         }
       }
     },
@@ -657,17 +657,17 @@
       "entity_key": "DCC:LN",
       "name": "Dcc Energy Plc ORD EUR0.25 (CDI)",
       "fields": {
-        "price": {
-          "previous": 6450.0,
-          "current": 6460.0
+        "change": {
+          "previous": 10.0,
+          "current": null
         },
         "change_pct": {
-          "previous": -0.15,
-          "current": 0.15
+          "previous": 0.15,
+          "current": null
         },
         "market_cap_m": {
-          "previous": 5520.0,
-          "current": 5511.46
+          "previous": 5511.46,
+          "current": 5520.0
         }
       }
     },
@@ -676,20 +676,20 @@
       "name": "Diageo Plc ORD 28 101/108P",
       "fields": {
         "price": {
-          "previous": 1882.5,
-          "current": 1880.0
+          "previous": 1880.0,
+          "current": 1895.5
         },
         "change": {
-          "previous": 11.0,
-          "current": 2.5
+          "previous": 2.5,
+          "current": 15.5
         },
         "change_pct": {
-          "previous": 0.59,
-          "current": -0.13
+          "previous": -0.13,
+          "current": 0.82
         },
         "market_cap_m": {
-          "previous": 41689.38,
-          "current": 41934.41
+          "previous": 41934.41,
+          "current": 41878.72
         }
       }
     },
@@ -698,20 +698,20 @@
       "name": "Diploma Plc ORD 5P",
       "fields": {
         "price": {
-          "previous": 6990.0,
-          "current": 7155.0
+          "previous": 7155.0,
+          "current": 7200.0
         },
         "change": {
-          "previous": 10.0,
-          "current": 165.0
+          "previous": 165.0,
+          "current": 45.0
         },
         "change_pct": {
-          "previous": -0.14,
-          "current": 2.36
+          "previous": 2.36,
+          "current": 0.63
         },
         "market_cap_m": {
-          "previous": 9402.22,
-          "current": 9388.79
+          "previous": 9388.79,
+          "current": 9610.41
         }
       }
     },
@@ -720,20 +720,20 @@
       "name": "Endeavour Mining Plc ORD USD0.01",
       "fields": {
         "price": {
-          "previous": 4094.0,
-          "current": 4284.0
+          "previous": 4284.0,
+          "current": 4099.0
         },
         "change": {
-          "previous": 81.0,
-          "current": 190.0
+          "previous": 190.0,
+          "current": 185.0
         },
         "change_pct": {
-          "previous": 2.02,
-          "current": 4.64
+          "previous": 4.64,
+          "current": -4.32
         },
         "market_cap_m": {
-          "previous": 19481.25,
-          "current": 20292.75
+          "previous": 20292.75,
+          "current": 20563.36
         }
       }
     },
@@ -742,20 +742,20 @@
       "name": "Experian Plc ORD USD0.10",
       "fields": {
         "price": {
-          "previous": 3064.0,
-          "current": 3027.0
+          "previous": 3027.0,
+          "current": 2975.0
         },
         "change": {
-          "previous": 68.0,
-          "current": 37.0
+          "previous": 37.0,
+          "current": 52.0
         },
         "change_pct": {
-          "previous": -2.17,
-          "current": -1.21
+          "previous": -1.21,
+          "current": -1.72
         },
         "market_cap_m": {
-          "previous": 27539.16,
-          "current": 26941.25
+          "previous": 26941.25,
+          "current": 26615.91
         }
       }
     },
@@ -764,20 +764,20 @@
       "name": "Easyjet Plc ORD 27 2/7P",
       "fields": {
         "price": {
-          "previous": 684.4,
-          "current": 687.0
+          "previous": 687.0,
+          "current": 690.6
         },
         "change": {
-          "previous": 5.6,
-          "current": 2.6
+          "previous": 2.6,
+          "current": 3.6
         },
         "change_pct": {
-          "previous": -0.81,
-          "current": 0.38
+          "previous": 0.38,
+          "current": 0.52
         },
         "market_cap_m": {
-          "previous": 5230.27,
-          "current": 5187.82
+          "previous": 5187.82,
+          "current": 5207.53
         }
       }
     },
@@ -786,20 +786,20 @@
       "name": "F&c Investment Trust Plc ORD 6.25P",
       "fields": {
         "price": {
-          "previous": 328.4,
-          "current": 332.4
+          "previous": 332.4,
+          "current": 334.2
         },
         "change": {
-          "previous": 1.4,
-          "current": 4.0
+          "previous": 4.0,
+          "current": 1.8
         },
         "change_pct": {
-          "previous": -0.42,
-          "current": 1.22
+          "previous": 1.22,
+          "current": 0.54
         },
         "market_cap_m": {
-          "previous": 6099.21,
-          "current": 6072.56
+          "previous": 6072.56,
+          "current": 6146.52
         }
       }
     },
@@ -808,20 +808,16 @@
       "name": "Fresnillo Plc ORD USD0.50",
       "fields": {
         "price": {
-          "previous": 2513.0,
-          "current": 2638.0
-        },
-        "change": {
-          "previous": 18.0,
-          "current": 125.0
+          "previous": 2638.0,
+          "current": 2513.0
         },
         "change_pct": {
-          "previous": 0.72,
-          "current": 4.97
+          "previous": 4.97,
+          "current": -4.74
         },
         "market_cap_m": {
-          "previous": 18385.5,
-          "current": 18518.14
+          "previous": 18518.14,
+          "current": 19439.25
         }
       }
     },
@@ -830,20 +826,20 @@
       "name": "Games Workshop Group Plc ORD 5P",
       "fields": {
         "price": {
-          "previous": 16080.0,
-          "current": 16520.0
+          "previous": 16520.0,
+          "current": 16450.0
         },
         "change": {
-          "previous": 20.0,
-          "current": 440.0
+          "previous": 440.0,
+          "current": 70.0
         },
         "change_pct": {
-          "previous": -0.12,
-          "current": 2.74
+          "previous": 2.74,
+          "current": -0.42
         },
         "market_cap_m": {
-          "previous": 5325.8,
-          "current": 5319.18
+          "previous": 5319.18,
+          "current": 5464.73
         }
       }
     },
@@ -852,20 +848,20 @@
       "name": "Glencore Plc ORD USD0.01",
       "fields": {
         "price": {
-          "previous": 495.15,
-          "current": 515.4
+          "previous": 515.4,
+          "current": 504.6
         },
         "change": {
-          "previous": 1.75,
-          "current": 20.25
+          "previous": 20.25,
+          "current": 10.8
         },
         "change_pct": {
-          "previous": -0.35,
-          "current": 4.09
+          "previous": 4.09,
+          "current": -2.1
         },
         "market_cap_m": {
-          "previous": 58233.2,
-          "current": 57979.31
+          "previous": 57979.31,
+          "current": 60350.48
         }
       }
     },
@@ -874,16 +870,20 @@
       "name": "Gsk Plc ORD 31 1/4P",
       "fields": {
         "price": {
-          "previous": 1890.0,
-          "current": 1904.5
+          "previous": 1904.5,
+          "current": 1917.0
         },
         "change": {
-          "previous": null,
-          "current": 14.5
+          "previous": 14.5,
+          "current": 12.5
         },
         "change_pct": {
-          "previous": null,
-          "current": 0.77
+          "previous": 0.77,
+          "current": 0.66
+        },
+        "market_cap_m": {
+          "previous": 76458.8,
+          "current": 77045.39
         }
       }
     },
@@ -892,20 +892,20 @@
       "name": "Halma Plc ORD 10P",
       "fields": {
         "price": {
-          "previous": 3352.0,
-          "current": 3436.0
+          "previous": 3436.0,
+          "current": 3470.0
         },
         "change": {
-          "previous": 38.0,
-          "current": 84.0
+          "previous": 84.0,
+          "current": 34.0
         },
         "change_pct": {
-          "previous": 1.15,
-          "current": 2.51
+          "previous": 2.51,
+          "current": 0.99
         },
         "market_cap_m": {
-          "previous": 12581.45,
-          "current": 12725.71
+          "previous": 12725.71,
+          "current": 13044.61
         }
       }
     },
@@ -914,20 +914,20 @@
       "name": "Haleon Plc ORD GBP0.01",
       "fields": {
         "price": {
-          "previous": 338.9,
-          "current": 330.8
+          "previous": 330.8,
+          "current": 335.0
         },
         "change": {
-          "previous": 1.8,
-          "current": 8.1
+          "previous": 8.1,
+          "current": 4.2
         },
         "change_pct": {
-          "previous": -0.53,
-          "current": -2.39
+          "previous": -2.39,
+          "current": 1.27
         },
         "market_cap_m": {
-          "previous": 29954.69,
-          "current": 29796.44
+          "previous": 29796.44,
+          "current": 29084.28
         }
       }
     },
@@ -936,20 +936,20 @@
       "name": "Hsbc Holdings Plc ORD $0.50 (UK REG)",
       "fields": {
         "price": {
-          "previous": 1304.6,
-          "current": 1337.2
+          "previous": 1337.2,
+          "current": 1341.4
         },
         "change": {
-          "previous": 2.8,
-          "current": 32.6
+          "previous": 32.6,
+          "current": 4.2
         },
         "change_pct": {
-          "previous": -0.21,
-          "current": 2.5
+          "previous": 2.5,
+          "current": 0.31
         },
         "market_cap_m": {
-          "previous": 224014.41,
-          "current": 223485.04
+          "previous": 223485.04,
+          "current": 229069.59
         }
       }
     },
@@ -958,20 +958,20 @@
       "name": "Hiscox Ltd ORD 6.5P (DI)",
       "fields": {
         "price": {
-          "previous": 1913.0,
-          "current": 1910.0
+          "previous": 1910.0,
+          "current": 1926.0
         },
         "change": {
-          "previous": 67.0,
-          "current": 3.0
+          "previous": 3.0,
+          "current": 16.0
         },
         "change_pct": {
-          "previous": -3.38,
-          "current": -0.16
+          "previous": -0.16,
+          "current": 0.84
         },
         "market_cap_m": {
-          "previous": 6256.72,
-          "current": 6045.0
+          "previous": 6045.0,
+          "current": 6035.52
         }
       }
     },
@@ -980,20 +980,20 @@
       "name": "Howden Joinery Group Plc ORD 10P",
       "fields": {
         "price": {
-          "previous": 847.0,
-          "current": 852.0
+          "previous": 852.0,
+          "current": 855.5
         },
         "change": {
-          "previous": 11.5,
-          "current": 5.0
+          "previous": 5.0,
+          "current": 3.5
         },
         "change_pct": {
-          "previous": -1.34,
-          "current": 0.59
+          "previous": 0.59,
+          "current": 0.41
         },
         "market_cap_m": {
-          "previous": 4648.66,
-          "current": 4586.39
+          "previous": 4586.39,
+          "current": 4613.47
         }
       }
     },
@@ -1002,20 +1002,20 @@
       "name": "International Consolidated Airlines Group S.a. ORD EUR0.10 (CDI)",
       "fields": {
         "price": {
-          "previous": 433.7,
-          "current": 450.7
+          "previous": 450.7,
+          "current": 456.7
         },
         "change": {
-          "previous": 6.5,
-          "current": 17.0
+          "previous": 17.0,
+          "current": 6.0
         },
         "change_pct": {
-          "previous": 1.52,
-          "current": 3.92
+          "previous": 3.92,
+          "current": 1.33
         },
         "market_cap_m": {
-          "previous": 18535.78,
-          "current": 18817.81
+          "previous": 18817.81,
+          "current": 19528.95
         }
       }
     },
@@ -1024,20 +1024,20 @@
       "name": "Icg Plc ORD 26 1/4P",
       "fields": {
         "price": {
-          "previous": 1900.0,
-          "current": 1933.0
+          "previous": 1933.0,
+          "current": 1953.0
         },
         "change": {
-          "previous": 37.0,
-          "current": 33.0
+          "previous": 33.0,
+          "current": 20.0
         },
         "change_pct": {
-          "previous": -1.91,
-          "current": 1.74
+          "previous": 1.74,
+          "current": 1.03
         },
         "market_cap_m": {
-          "previous": 5333.79,
-          "current": 5231.9
+          "previous": 5231.9,
+          "current": 5322.77
         }
       }
     },
@@ -1046,20 +1046,20 @@
       "name": "Ig Group Holdings Plc ORD 0.005P",
       "fields": {
         "price": {
-          "previous": 936.0,
-          "current": 943.0
+          "previous": 943.0,
+          "current": 944.0
         },
         "change": {
-          "previous": 13.0,
-          "current": 7.0
+          "previous": 7.0,
+          "current": 1.0
         },
         "change_pct": {
-          "previous": -1.37,
-          "current": 0.75
+          "previous": 0.75,
+          "current": 0.11
         },
         "market_cap_m": {
-          "previous": 3198.47,
-          "current": 3154.65
+          "previous": 3154.65,
+          "current": 3178.25
         }
       }
     },
@@ -1068,20 +1068,20 @@
       "name": "Intercontinental Hotels Group Plc ORD 20 340/399P",
       "fields": {
         "price": {
-          "previous": 178.0,
-          "current": 179.8
+          "previous": 179.8,
+          "current": 179.0
         },
         "change": {
-          "previous": 1.05,
-          "current": 1.8
+          "previous": 1.8,
+          "current": 0.8
         },
         "change_pct": {
-          "previous": 0.59,
-          "current": 1.01
+          "previous": 1.01,
+          "current": -0.45
         },
         "market_cap_m": {
-          "previous": 19317.69,
-          "current": 19573.29
+          "previous": 19573.29,
+          "current": 19637.36
         }
       }
     },
@@ -1090,16 +1090,20 @@
       "name": "3i Group Plc ORD 73 19/22P",
       "fields": {
         "price": {
-          "previous": 2525.0,
-          "current": 2573.0
+          "previous": 2573.0,
+          "current": 2564.0
+        },
+        "change": {
+          "previous": 48.0,
+          "current": 9.0
         },
         "change_pct": {
-          "previous": -1.87,
-          "current": 1.9
+          "previous": 1.9,
+          "current": -0.35
         },
         "market_cap_m": {
-          "previous": 26265.22,
-          "current": 25775.23
+          "previous": 25775.23,
+          "current": 26265.22
         }
       }
     },
@@ -1108,20 +1112,20 @@
       "name": "Imperial Brands Plc ORD 10P",
       "fields": {
         "price": {
-          "previous": 2973.0,
-          "current": 2899.0
+          "previous": 2899.0,
+          "current": 2893.0
         },
         "change": {
-          "previous": 89.0,
-          "current": 74.0
+          "previous": 74.0,
+          "current": 6.0
         },
         "change_pct": {
-          "previous": -2.91,
-          "current": -2.49
+          "previous": -2.49,
+          "current": -0.21
         },
         "market_cap_m": {
-          "previous": 23122.93,
-          "current": 22450.84
+          "previous": 22450.84,
+          "current": 21892.02
         }
       }
     },
@@ -1130,20 +1134,20 @@
       "name": "Imi Plc ORD 28 4/7P",
       "fields": {
         "price": {
-          "previous": 2802.0,
-          "current": 2864.0
+          "previous": 2864.0,
+          "current": 2884.0
         },
         "change": {
-          "previous": 10.0,
-          "current": 62.0
+          "previous": 62.0,
+          "current": 20.0
         },
         "change_pct": {
-          "previous": -0.36,
-          "current": 2.21
+          "previous": 2.21,
+          "current": 0.7
         },
         "market_cap_m": {
-          "previous": 6617.32,
-          "current": 6578.27
+          "previous": 6578.27,
+          "current": 6723.83
         }
       }
     },
@@ -1152,20 +1156,20 @@
       "name": "Informa Plc ORD 0.1P",
       "fields": {
         "price": {
-          "previous": 836.8,
-          "current": 860.0
+          "previous": 860.0,
+          "current": 859.0
         },
         "change": {
-          "previous": 16.8,
-          "current": 23.2
+          "previous": 23.2,
+          "current": 1.0
         },
         "change_pct": {
-          "previous": -1.97,
-          "current": 2.77
+          "previous": 2.77,
+          "current": -0.12
         },
         "market_cap_m": {
-          "previous": 11662.86,
-          "current": 11433.32
+          "previous": 11433.32,
+          "current": 11750.3
         }
       }
     },
@@ -1174,20 +1178,20 @@
       "name": "Investec Plc ORD GBP0.0002",
       "fields": {
         "price": {
-          "previous": 614.5,
-          "current": 633.0
+          "previous": 633.0,
+          "current": 644.5
         },
         "change": {
-          "previous": 0.5,
-          "current": 18.5
+          "previous": 18.5,
+          "current": 11.5
         },
         "change_pct": {
-          "previous": -0.08,
-          "current": 3.01
+          "previous": 3.01,
+          "current": 1.82
         },
         "market_cap_m": {
-          "previous": 5735.45,
-          "current": 5736.05
+          "previous": 5736.05,
+          "current": 5811.98
         }
       }
     },
@@ -1196,20 +1200,20 @@
       "name": "Ithaca Energy Plc ORD 1P",
       "fields": {
         "price": {
-          "previous": 248.0,
-          "current": 249.2
+          "previous": 249.2,
+          "current": 250.6
         },
         "change": {
-          "previous": 6.8,
-          "current": 1.2
+          "previous": 1.2,
+          "current": 1.4
         },
         "change_pct": {
-          "previous": -2.67,
-          "current": 0.48
+          "previous": 0.48,
+          "current": 0.56
         },
         "market_cap_m": {
-          "previous": 4213.71,
-          "current": 4101.26
+          "previous": 4101.26,
+          "current": 4121.1
         }
       }
     },
@@ -1218,20 +1222,20 @@
       "name": "Intertek Group Plc ORD 1P",
       "fields": {
         "price": {
-          "previous": 5945.0,
-          "current": 5930.0
+          "previous": 5930.0,
+          "current": 5935.0
         },
         "change": {
-          "previous": 20.0,
-          "current": 15.0
+          "previous": 15.0,
+          "current": 5.0
         },
         "change_pct": {
-          "previous": -0.34,
-          "current": -0.25
+          "previous": -0.25,
+          "current": 0.08
         },
         "market_cap_m": {
-          "previous": 9182.03,
-          "current": 9151.25
+          "previous": 9151.25,
+          "current": 9128.16
         }
       }
     },
@@ -1240,20 +1244,20 @@
       "name": "Jd Sports Fashion Plc ORD 0.05P",
       "fields": {
         "price": {
-          "previous": 95.34,
-          "current": 96.28
+          "previous": 96.28,
+          "current": 97.6
         },
         "change": {
-          "previous": 1.46,
-          "current": 0.94
+          "previous": 0.94,
+          "current": 1.32
         },
         "change_pct": {
-          "previous": -1.51,
-          "current": 0.99
+          "previous": 0.99,
+          "current": 1.37
         },
         "market_cap_m": {
-          "previous": 4552.83,
-          "current": 4484.16
+          "previous": 4484.16,
+          "current": 4528.37
         }
       }
     },
@@ -1262,20 +1266,20 @@
       "name": "Kingfisher Plc ORD 15 5/7P",
       "fields": {
         "price": {
-          "previous": 374.5,
-          "current": 380.6
+          "previous": 380.6,
+          "current": 374.1
         },
         "change": {
-          "previous": 4.8,
-          "current": 6.1
+          "previous": 6.1,
+          "current": 6.5
         },
         "change_pct": {
-          "previous": -1.26,
-          "current": 1.63
+          "previous": 1.63,
+          "current": -1.71
         },
         "market_cap_m": {
-          "previous": 6201.17,
-          "current": 6122.69
+          "previous": 6122.69,
+          "current": 6222.42
         }
       }
     },
@@ -1283,21 +1287,17 @@
       "entity_key": "LAND:LN",
       "name": "Land Securities Group Plc ORD 10 2/3P",
       "fields": {
-        "price": {
-          "previous": 678.0,
-          "current": 678.5
-        },
         "change": {
-          "previous": 9.5,
-          "current": 0.5
+          "previous": 0.5,
+          "current": null
         },
         "change_pct": {
-          "previous": -1.38,
-          "current": 0.07
+          "previous": 0.07,
+          "current": null
         },
         "market_cap_m": {
-          "previous": 5695.94,
-          "current": 5617.24
+          "previous": 5617.24,
+          "current": 5621.38
         }
       }
     },
@@ -1306,20 +1306,20 @@
       "name": "Legal & General Group Plc ORD 2 1/2P",
       "fields": {
         "price": {
-          "previous": 304.7,
-          "current": 308.3
+          "previous": 308.3,
+          "current": 308.7
         },
         "change": {
-          "previous": 5.5,
-          "current": 3.6
+          "previous": 3.6,
+          "current": 0.4
         },
         "change_pct": {
-          "previous": -1.77,
-          "current": 1.18
+          "previous": 1.18,
+          "current": 0.13
         },
         "market_cap_m": {
-          "previous": 16765.31,
-          "current": 16468.05
+          "previous": 16468.05,
+          "current": 16662.62
         }
       }
     },
@@ -1328,20 +1328,20 @@
       "name": "Lloyds Banking Group Plc ORD 10P",
       "fields": {
         "price": {
-          "previous": 95.88,
-          "current": 97.96
+          "previous": 97.96,
+          "current": 96.74
         },
         "change": {
-          "previous": 1.06,
-          "current": 2.08
+          "previous": 2.08,
+          "current": 1.22
         },
         "change_pct": {
-          "previous": -1.09,
-          "current": 2.17
+          "previous": 2.17,
+          "current": -1.25
         },
         "market_cap_m": {
-          "previous": 55510.41,
-          "current": 54770.06
+          "previous": 54770.06,
+          "current": 55958.23
         }
       }
     },
@@ -1350,20 +1350,20 @@
       "name": "Londonmetric Property Plc ORD 10P",
       "fields": {
         "price": {
-          "previous": 187.9,
-          "current": 188.2
+          "previous": 188.2,
+          "current": 187.8
         },
         "change": {
-          "previous": 0.1,
-          "current": 0.3
+          "previous": 0.3,
+          "current": 0.4
         },
         "change_pct": {
-          "previous": -0.05,
-          "current": 0.16
+          "previous": 0.16,
+          "current": -0.21
         },
         "market_cap_m": {
-          "previous": 4604.08,
-          "current": 4601.64
+          "previous": 4601.64,
+          "current": 4608.98
         }
       }
     },
@@ -1372,20 +1372,20 @@
       "name": "London Stock Exchange Group Plc ORD SHS 6 79/86P",
       "fields": {
         "price": {
-          "previous": 9462.0,
-          "current": 9380.0
+          "previous": 9380.0,
+          "current": 9394.0
         },
         "change": {
-          "previous": 278.0,
-          "current": 82.0
+          "previous": 82.0,
+          "current": 14.0
         },
         "change_pct": {
-          "previous": -2.85,
-          "current": -0.87
+          "previous": -0.87,
+          "current": 0.15
         },
         "market_cap_m": {
-          "previous": 46776.51,
-          "current": 45441.41
+          "previous": 45441.41,
+          "current": 45047.6
         }
       }
     },
@@ -1394,20 +1394,20 @@
       "name": "Marks And Spencer Group Plc ORD 1P",
       "fields": {
         "price": {
-          "previous": 433.2,
-          "current": 437.6
+          "previous": 437.6,
+          "current": 455.4
         },
         "change": {
-          "previous": 11.0,
-          "current": 4.4
+          "previous": 4.4,
+          "current": 17.8
         },
         "change_pct": {
-          "previous": -2.48,
-          "current": 1.02
+          "previous": 1.02,
+          "current": 4.07
         },
         "market_cap_m": {
-          "previous": 9242.07,
-          "current": 9013.2
+          "previous": 9013.2,
+          "current": 9104.75
         }
       }
     },
@@ -1416,20 +1416,20 @@
       "name": "M&g Plc ORD £0.05",
       "fields": {
         "price": {
-          "previous": 320.1,
-          "current": 326.1
+          "previous": 326.1,
+          "current": 328.6
         },
         "change": {
-          "previous": 4.7,
-          "current": 6.0
+          "previous": 6.0,
+          "current": 2.5
         },
         "change_pct": {
-          "previous": -1.45,
-          "current": 1.87
+          "previous": 1.87,
+          "current": 0.77
         },
         "market_cap_m": {
-          "previous": 7828.11,
-          "current": 7714.84
+          "previous": 7714.84,
+          "current": 7859.44
         }
       }
     },
@@ -1438,20 +1438,20 @@
       "name": "Melrose Industries Plc ORD GBP0.001",
       "fields": {
         "price": {
-          "previous": 465.3,
-          "current": 479.7
+          "previous": 479.7,
+          "current": 479.1
         },
         "change": {
-          "previous": 0.2,
-          "current": 14.4
+          "previous": 14.4,
+          "current": 0.6
         },
         "change_pct": {
-          "previous": -0.04,
-          "current": 3.1
+          "previous": 3.1,
+          "current": -0.12
         },
         "market_cap_m": {
-          "previous": 5800.58,
-          "current": 5798.09
+          "previous": 5798.09,
+          "current": 5977.53
         }
       }
     },
@@ -1460,20 +1460,20 @@
       "name": "Metlen Energy & Metals Plc ORD EUR1.00",
       "fields": {
         "price": {
-          "previous": 44.5,
-          "current": 45.56
+          "previous": 45.56,
+          "current": 45.28
         },
         "change": {
-          "previous": 0.06,
-          "current": 1.06
+          "previous": 1.06,
+          "current": 0.28
         },
         "change_pct": {
-          "previous": -0.14,
-          "current": 2.38
+          "previous": 2.38,
+          "current": -0.61
         },
         "market_cap_m": {
-          "previous": 5284.22,
-          "current": 5281.09
+          "previous": 5281.09,
+          "current": 5408.83
         }
       }
     },
@@ -1482,20 +1482,20 @@
       "name": "National Grid Plc ORD 12 204/473P",
       "fields": {
         "price": {
-          "previous": 1249.5,
-          "current": 1255.5
+          "previous": 1255.5,
+          "current": 1246.5
         },
         "change": {
-          "previous": 36.0,
-          "current": 6.0
+          "previous": 6.0,
+          "current": 9.0
         },
         "change_pct": {
-          "previous": -2.8,
-          "current": 0.48
+          "previous": 0.48,
+          "current": -0.72
         },
         "market_cap_m": {
-          "previous": 64621.65,
-          "current": 62811.94
+          "previous": 62811.94,
+          "current": 63113.56
         }
       }
     },
@@ -1504,20 +1504,20 @@
       "name": "Natwest Group Plc ORD 107.69P",
       "fields": {
         "price": {
-          "previous": 587.4,
-          "current": 597.6
+          "previous": 597.6,
+          "current": 591.8
         },
         "change": {
-          "previous": 5.8,
-          "current": 10.2
+          "previous": 10.2,
+          "current": 5.8
         },
         "change_pct": {
-          "previous": -0.98,
-          "current": 1.74
+          "previous": 1.74,
+          "current": -0.97
         },
         "market_cap_m": {
-          "previous": 46863.34,
-          "current": 46405.14
+          "previous": 46405.14,
+          "current": 47210.95
         }
       }
     },
@@ -1526,20 +1526,20 @@
       "name": "Next Plc ORD 10P",
       "fields": {
         "price": {
-          "previous": 15485.0,
-          "current": 15530.0
+          "previous": 15530.0,
+          "current": 15655.0
         },
         "change": {
-          "previous": 505.0,
-          "current": 45.0
+          "previous": 45.0,
+          "current": 125.0
         },
         "change_pct": {
-          "previous": -3.16,
-          "current": 0.29
+          "previous": 0.29,
+          "current": 0.81
         },
         "market_cap_m": {
-          "previous": 19133.12,
-          "current": 18528.86
+          "previous": 18528.86,
+          "current": 18582.7
         }
       }
     },
@@ -1548,20 +1548,20 @@
       "name": "Polar Capital Technology Trust Plc ORD 2.5P",
       "fields": {
         "price": {
-          "previous": 546.5,
-          "current": 563.0
+          "previous": 563.0,
+          "current": 567.5
         },
         "change": {
-          "previous": 3.5,
-          "current": 16.5
+          "previous": 16.5,
+          "current": 4.5
         },
         "change_pct": {
-          "previous": 0.65,
-          "current": 3.02
+          "previous": 3.02,
+          "current": 0.8
         },
         "market_cap_m": {
-          "previous": 5968.14,
-          "current": 6006.61
+          "previous": 6006.61,
+          "current": 6187.96
         }
       }
     },
@@ -1570,20 +1570,20 @@
       "name": "Prudential Plc ORD 5P",
       "fields": {
         "price": {
-          "previous": 922.6,
-          "current": 956.6
+          "previous": 956.6,
+          "current": 955.8
         },
         "change": {
-          "previous": 5.6,
-          "current": 34.0
+          "previous": 34.0,
+          "current": 0.8
         },
         "change_pct": {
-          "previous": -0.6,
-          "current": 3.69
+          "previous": 3.69,
+          "current": -0.08
         },
         "market_cap_m": {
-          "previous": 22867.01,
-          "current": 22729.04
+          "previous": 22729.04,
+          "current": 23532.06
         }
       }
     },
@@ -1592,20 +1592,20 @@
       "name": "Pershing Square Holdings Ltd ORD NPV",
       "fields": {
         "price": {
-          "previous": 3866.0,
-          "current": 3926.0
+          "previous": 3926.0,
+          "current": 3952.0
         },
         "change": {
-          "previous": 16.0,
-          "current": 60.0
+          "previous": 60.0,
+          "current": 26.0
         },
         "change_pct": {
-          "previous": 0.42,
-          "current": 1.55
+          "previous": 1.55,
+          "current": 0.66
         },
         "market_cap_m": {
-          "previous": 6636.47,
-          "current": 6662.33
+          "previous": 6662.33,
+          "current": 6765.73
         }
       }
     },
@@ -1614,20 +1614,20 @@
       "name": "Pearson Plc ORD 25P",
       "fields": {
         "price": {
-          "previous": 1295.0,
-          "current": 1278.0
+          "previous": 1278.0,
+          "current": 1289.0
         },
         "change": {
-          "previous": 18.0,
-          "current": 17.0
+          "previous": 17.0,
+          "current": 11.0
         },
         "change_pct": {
-          "previous": -1.37,
-          "current": -1.31
+          "previous": -1.31,
+          "current": 0.86
         },
         "market_cap_m": {
-          "previous": 7901.84,
-          "current": 7793.51
+          "previous": 7793.51,
+          "current": 7691.2
         }
       }
     },
@@ -1636,20 +1636,20 @@
       "name": "Relx Plc ORD 14 51/116P",
       "fields": {
         "price": {
-          "previous": 3016.0,
-          "current": 2974.0
+          "previous": 2974.0,
+          "current": 2972.0
         },
         "change": {
-          "previous": 68.0,
-          "current": 42.0
+          "previous": 42.0,
+          "current": 2.0
         },
         "change_pct": {
-          "previous": -2.21,
-          "current": -1.39
+          "previous": -1.39,
+          "current": -0.07
         },
         "market_cap_m": {
-          "previous": 53683.69,
-          "current": 52500.01
+          "previous": 52500.01,
+          "current": 51749.62
         }
       }
     },
@@ -1658,20 +1658,20 @@
       "name": "Rio Tinto Plc ORD 10P",
       "fields": {
         "price": {
-          "previous": 6281.0,
-          "current": 6416.0
+          "previous": 6416.0,
+          "current": 6323.0
         },
         "change": {
-          "previous": 11.0,
-          "current": 135.0
+          "previous": 135.0,
+          "current": 93.0
         },
         "change_pct": {
-          "previous": 0.17,
-          "current": 2.15
+          "previous": 2.15,
+          "current": -1.45
         },
         "market_cap_m": {
-          "previous": 107556.27,
-          "current": 108541.62
+          "previous": 108541.62,
+          "current": 109279.87
         }
       }
     },
@@ -1680,20 +1680,20 @@
       "name": "Reckitt Benckiser Group Plc ORD 10 5/12P",
       "fields": {
         "price": {
-          "previous": 5590.0,
-          "current": 5578.0
+          "previous": 5578.0,
+          "current": 5656.0
         },
         "change": {
-          "previous": 64.0,
-          "current": 12.0
+          "previous": 12.0,
+          "current": 78.0
         },
         "change_pct": {
-          "previous": -1.13,
-          "current": -0.21
+          "previous": -0.21,
+          "current": 1.4
         },
         "market_cap_m": {
-          "previous": 35805.51,
-          "current": 35400.21
+          "previous": 35400.21,
+          "current": 35324.22
         }
       }
     },
@@ -1702,20 +1702,20 @@
       "name": "Rolls-royce Holdings Plc ORD SHS 20P",
       "fields": {
         "price": {
-          "previous": 1261.2,
-          "current": 1320.6
+          "previous": 1320.6,
+          "current": 1330.8
         },
         "change": {
-          "previous": 21.6,
-          "current": 59.4
+          "previous": 59.4,
+          "current": 10.2
         },
         "change_pct": {
-          "previous": 1.74,
-          "current": 4.71
+          "previous": 4.71,
+          "current": 0.77
         },
         "market_cap_m": {
-          "previous": 102477.31,
-          "current": 104262.98
+          "previous": 104262.98,
+          "current": 109173.56
         }
       }
     },
@@ -1724,20 +1724,20 @@
       "name": "Rentokil Initial Plc ORD 1P",
       "fields": {
         "price": {
-          "previous": 352.1,
-          "current": 353.0
+          "previous": 353.0,
+          "current": 354.4
         },
         "change": {
-          "previous": 7.1,
-          "current": 0.9
+          "previous": 0.9,
+          "current": 1.4
         },
         "change_pct": {
-          "previous": -1.98,
-          "current": 0.26
+          "previous": 0.26,
+          "current": 0.4
         },
         "market_cap_m": {
-          "previous": 9066.87,
-          "current": 8887.65
+          "previous": 8887.65,
+          "current": 8910.37
         }
       }
     },
@@ -1746,20 +1746,20 @@
       "name": "Sainsbury (j) Plc ORD 28 4/7P",
       "fields": {
         "price": {
-          "previous": 354.7,
-          "current": 352.4
+          "previous": 352.4,
+          "current": 350.8
         },
         "change": {
-          "previous": 4.5,
-          "current": 2.3
+          "previous": 2.3,
+          "current": 1.6
         },
         "change_pct": {
-          "previous": -1.25,
-          "current": -0.65
+          "previous": -0.65,
+          "current": -0.45
         },
         "market_cap_m": {
-          "previous": 7955.0,
-          "current": 7848.3
+          "previous": 7848.3,
+          "current": 7797.41
         }
       }
     },
@@ -1768,20 +1768,20 @@
       "name": "Standard Life Plc ORD 10P",
       "fields": {
         "price": {
-          "previous": 928.0,
-          "current": 941.0
+          "previous": 941.0,
+          "current": 933.5
         },
         "change": {
-          "previous": 16.5,
-          "current": 13.0
+          "previous": 13.0,
+          "current": 7.5
         },
         "change_pct": {
-          "previous": -1.75,
-          "current": 1.4
+          "previous": 1.4,
+          "current": -0.8
         },
         "market_cap_m": {
-          "previous": 9510.72,
-          "current": 9344.57
+          "previous": 9344.57,
+          "current": 9475.47
         }
       }
     },
@@ -1790,20 +1790,20 @@
       "name": "The Sage Group Plc ORD 1 4/77P",
       "fields": {
         "price": {
-          "previous": 1165.0,
-          "current": 1157.0
+          "previous": 1157.0,
+          "current": 1148.5
         },
         "change": {
-          "previous": 38.5,
-          "current": 8.0
+          "previous": 8.0,
+          "current": 8.5
         },
         "change_pct": {
-          "previous": -3.2,
-          "current": -0.69
+          "previous": -0.69,
+          "current": -0.73
         },
         "market_cap_m": {
-          "previous": 10899.26,
-          "current": 10550.59
+          "previous": 10550.59,
+          "current": 10478.14
         }
       }
     },
@@ -1812,20 +1812,20 @@
       "name": "Segro Plc ORD 10P",
       "fields": {
         "price": {
-          "previous": 913.4,
-          "current": 922.6
+          "previous": 922.6,
+          "current": 919.2
         },
         "change": {
-          "previous": 3.2,
-          "current": 9.2
+          "previous": 9.2,
+          "current": 3.4
         },
         "change_pct": {
-          "previous": -0.35,
-          "current": 1.01
+          "previous": 1.01,
+          "current": -0.37
         },
         "market_cap_m": {
-          "previous": 12411.88,
-          "current": 12368.55
+          "previous": 12368.55,
+          "current": 12493.13
         }
       }
     },
@@ -1834,20 +1834,20 @@
       "name": "Shell Plc ORD EUR0.07",
       "fields": {
         "price": {
-          "previous": 3722.5,
-          "current": 3701.0
+          "previous": 3701.0,
+          "current": 3624.5
         },
         "change": {
-          "previous": 61.5,
-          "current": 21.5
+          "previous": 21.5,
+          "current": 76.5
         },
         "change_pct": {
-          "previous": -1.62,
-          "current": -0.58
+          "previous": -0.58,
+          "current": -2.07
         },
         "market_cap_m": {
-          "previous": 215552.71,
-          "current": 211907.27
+          "previous": 211907.27,
+          "current": 210683.36
         }
       }
     },
@@ -1856,20 +1856,20 @@
       "name": "Smiths Group Plc ORD 37.5P",
       "fields": {
         "price": {
-          "previous": 2573.0,
-          "current": 2625.0
+          "previous": 2625.0,
+          "current": 2646.0
         },
         "change": {
-          "previous": 42.0,
-          "current": 52.0
+          "previous": 52.0,
+          "current": 21.0
         },
         "change_pct": {
-          "previous": -1.61,
-          "current": 2.02
+          "previous": 2.02,
+          "current": 0.8
         },
         "market_cap_m": {
-          "previous": 7179.13,
-          "current": 7049.57
+          "previous": 7049.57,
+          "current": 7192.04
         }
       }
     },
@@ -1878,20 +1878,20 @@
       "name": "Scottish Mortgage Investment Trust Plc ORD 5P",
       "fields": {
         "price": {
-          "previous": 1470.0,
-          "current": 1502.0
+          "previous": 1502.0,
+          "current": 1501.5
         },
         "change": {
-          "previous": 36.0,
-          "current": 32.0
+          "previous": 32.0,
+          "current": 0.5
         },
         "change_pct": {
-          "previous": 2.51,
-          "current": 2.18
+          "previous": 2.18,
+          "current": -0.03
         },
         "market_cap_m": {
-          "previous": 14795.32,
-          "current": 15150.21
+          "previous": 15150.21,
+          "current": 15480.02
         }
       }
     },
@@ -1900,20 +1900,20 @@
       "name": "Smith & Nephew Plc ORD USD0.20",
       "fields": {
         "price": {
-          "previous": 1161.0,
-          "current": 1140.5
+          "previous": 1140.5,
+          "current": 1138.5
         },
         "change": {
-          "previous": 22.0,
-          "current": 20.5
+          "previous": 20.5,
+          "current": 2.0
         },
         "change_pct": {
-          "previous": -1.86,
-          "current": -1.77
+          "previous": -1.77,
+          "current": -0.17
         },
         "market_cap_m": {
-          "previous": 9906.85,
-          "current": 9722.61
+          "previous": 9722.61,
+          "current": 9550.94
         }
       }
     },
@@ -1922,20 +1922,20 @@
       "name": "Spirax Group Plc ORD 26 12/13P",
       "fields": {
         "price": {
-          "previous": 7300.0,
-          "current": 7335.0
+          "previous": 7335.0,
+          "current": 7355.0
         },
         "change": {
-          "previous": 50.0,
-          "current": 35.0
+          "previous": 35.0,
+          "current": 20.0
         },
         "change_pct": {
-          "previous": -0.68,
-          "current": 0.48
+          "previous": 0.48,
+          "current": 0.27
         },
         "market_cap_m": {
-          "previous": 5426.21,
-          "current": 5389.3
+          "previous": 5389.3,
+          "current": 5415.14
         }
       }
     },
@@ -1944,20 +1944,20 @@
       "name": "Sse Plc ORD 50P",
       "fields": {
         "price": {
-          "previous": 2649.0,
-          "current": 2681.0
+          "previous": 2681.0,
+          "current": 2670.0
         },
         "change": {
-          "previous": 3.0,
-          "current": 32.0
+          "previous": 32.0,
+          "current": 11.0
         },
         "change_pct": {
-          "previous": -0.11,
-          "current": 1.21
+          "previous": 1.21,
+          "current": -0.41
         },
         "market_cap_m": {
-          "previous": 32351.79,
-          "current": 32315.19
+          "previous": 32315.19,
+          "current": 32705.56
         }
       }
     },
@@ -1966,20 +1966,20 @@
       "name": "Standard Chartered Plc ORD USD0.50",
       "fields": {
         "price": {
-          "previous": 2093.0,
-          "current": 2157.0
+          "previous": 2157.0,
+          "current": 2174.0
         },
         "change": {
-          "previous": 2.0,
-          "current": 64.0
+          "previous": 64.0,
+          "current": 17.0
         },
         "change_pct": {
-          "previous": 0.1,
-          "current": 3.06
+          "previous": 3.06,
+          "current": 0.79
         },
         "market_cap_m": {
-          "previous": 45303.36,
-          "current": 45346.7
+          "previous": 45346.7,
+          "current": 46733.31
         }
       }
     },
@@ -1988,20 +1988,20 @@
       "name": "St. James's Place Plc ORD 15P",
       "fields": {
         "price": {
-          "previous": 1124.0,
-          "current": 1141.5
+          "previous": 1141.5,
+          "current": 1142.5
         },
         "change": {
-          "previous": 13.0,
-          "current": 17.5
+          "previous": 17.5,
+          "current": 1.0
         },
         "change_pct": {
-          "previous": -1.14,
-          "current": 1.56
+          "previous": 1.56,
+          "current": 0.09
         },
         "market_cap_m": {
-          "previous": 5757.27,
-          "current": 5691.44
+          "previous": 5691.44,
+          "current": 5780.05
         }
       }
     },
@@ -2010,20 +2010,20 @@
       "name": "Severn Trent Plc ORD 97 17/19P",
       "fields": {
         "price": {
-          "previous": 3306.0,
-          "current": 3320.0
+          "previous": 3320.0,
+          "current": 3298.0
         },
         "change": {
-          "previous": 24.0,
-          "current": 14.0
+          "previous": 14.0,
+          "current": 22.0
         },
         "change_pct": {
-          "previous": -0.72,
-          "current": 0.42
+          "previous": 0.42,
+          "current": -0.66
         },
         "market_cap_m": {
-          "previous": 10059.97,
-          "current": 9987.46
+          "previous": 9987.46,
+          "current": 10029.75
         }
       }
     },
@@ -2032,20 +2032,20 @@
       "name": "Tesco Plc ORD 6 1/3P",
       "fields": {
         "price": {
-          "previous": 554.0,
-          "current": 551.0
+          "previous": 551.0,
+          "current": 550.6
         },
         "change": {
-          "previous": 6.8,
-          "current": 3.0
+          "previous": 3.0,
+          "current": 0.4
         },
         "change_pct": {
-          "previous": -1.21,
-          "current": -0.54
+          "previous": -0.54,
+          "current": -0.07
         },
         "market_cap_m": {
-          "previous": 34952.91,
-          "current": 34529.09
+          "previous": 34529.09,
+          "current": 34342.11
         }
       }
     },
@@ -2054,20 +2054,20 @@
       "name": "Unilever Plc ORD 3.5P",
       "fields": {
         "price": {
-          "previous": 4930.0,
-          "current": 4916.0
+          "previous": 4916.0,
+          "current": 4939.0
         },
         "change": {
-          "previous": 102.0,
-          "current": 14.0
+          "previous": 14.0,
+          "current": 23.0
         },
         "change_pct": {
-          "previous": -2.03,
-          "current": -0.28
+          "previous": -0.28,
+          "current": 0.47
         },
         "market_cap_m": {
-          "previous": 108405.85,
-          "current": 106208.43
+          "previous": 106208.43,
+          "current": 105906.83
         }
       }
     },
@@ -2076,20 +2076,20 @@
       "name": "United Utilities Group Plc ORD 5P",
       "fields": {
         "price": {
-          "previous": 1543.0,
-          "current": 1546.0
+          "previous": 1546.0,
+          "current": 1542.0
         },
         "change": {
-          "previous": 20.0,
-          "current": 3.0
+          "previous": 3.0,
+          "current": 4.0
         },
         "change_pct": {
-          "previous": -1.28,
-          "current": 0.19
+          "previous": 0.19,
+          "current": -0.26
         },
         "market_cap_m": {
-          "previous": 11610.96,
-          "current": 11462.39
+          "previous": 11462.39,
+          "current": 11484.68
         }
       }
     },
@@ -2098,20 +2098,20 @@
       "name": "Vodafone Group Plc ORD USD0.20 20/21",
       "fields": {
         "price": {
-          "previous": 116.5,
-          "current": 116.95
+          "previous": 116.95,
+          "current": 115.75
         },
         "change": {
-          "previous": 2.9,
-          "current": 0.45
+          "previous": 0.45,
+          "current": 1.2
         },
         "change_pct": {
-          "previous": -2.43,
-          "current": 0.39
+          "previous": 0.39,
+          "current": -1.03
         },
         "market_cap_m": {
-          "previous": 27663.36,
-          "current": 26991.47
+          "previous": 26991.47,
+          "current": 27095.72
         }
       }
     },
@@ -2120,16 +2120,20 @@
       "name": "Weir Plc ORD 12.5P",
       "fields": {
         "price": {
-          "previous": 2358.0,
-          "current": 2370.0
+          "previous": 2370.0,
+          "current": 2368.0
         },
         "change": {
-          "previous": null,
-          "current": 12.0
+          "previous": 12.0,
+          "current": 2.0
         },
         "change_pct": {
-          "previous": null,
-          "current": 0.51
+          "previous": 0.51,
+          "current": -0.08
+        },
+        "market_cap_m": {
+          "previous": 6121.65,
+          "current": 6152.81
         }
       }
     },
@@ -2138,20 +2142,20 @@
       "name": "Wpp Plc ORD 10P",
       "fields": {
         "price": {
-          "previous": 408.7,
-          "current": 413.2
+          "previous": 413.2,
+          "current": 415.2
         },
         "change": {
-          "previous": 10.3,
-          "current": 4.5
+          "previous": 4.5,
+          "current": 2.0
         },
         "change_pct": {
-          "previous": -2.46,
-          "current": 1.1
+          "previous": 1.1,
+          "current": 0.48
         },
         "market_cap_m": {
-          "previous": 4520.19,
-          "current": 4409.07
+          "previous": 4409.07,
+          "current": 4457.61
         }
       }
     },
@@ -2160,20 +2164,20 @@
       "name": "Whitbread Plc ORD 76 122/153P",
       "fields": {
         "price": {
-          "previous": 2827.0,
-          "current": 2763.0
+          "previous": 2763.0,
+          "current": 2799.0
         },
         "change": {
-          "previous": 8.0,
-          "current": 64.0
+          "previous": 64.0,
+          "current": 36.0
         },
         "change_pct": {
-          "previous": -0.28,
-          "current": -2.26
+          "previous": -2.26,
+          "current": 1.3
         },
         "market_cap_m": {
-          "previous": 4755.47,
-          "current": 4742.05
+          "previous": 4742.05,
+          "current": 4634.7
         }
       }
     }
