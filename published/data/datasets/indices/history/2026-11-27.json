@@ -2,7 +2,7 @@
   "dataset": "indices",
   "kind": "summary",
   "as_of_date": "2026-11-27",
-  "as_of_utc": "2026-11-27T21:55:01.517Z",
+  "as_of_utc": "2026-11-27T22:52:01.346Z",
   "summary": {
     "indices": [
       {
@@ -325,7 +325,7 @@
       "errors": []
     },
     "index_breadth": {
-      "ts": "2026-11-27T21:55:01.517Z",
+      "ts": "2026-11-27T22:52:01.346Z",
       "dateUK": "2026-11-27",
       "rows": [
         {
@@ -337,7 +337,7 @@
           "Unchanged": 1,
           "Unknown": 0,
           "InputFile": "cac40-constituents-261127.json",
-          "Timestamp": "2026-11-27T21:55:01.517Z",
+          "Timestamp": "2026-11-27T22:52:01.346Z",
           "DateUK": "2026-11-27"
         },
         {
@@ -349,7 +349,7 @@
           "Unchanged": 1,
           "Unknown": 0,
           "InputFile": "dax_ms-constituents-261127.json",
-          "Timestamp": "2026-11-27T21:55:01.517Z",
+          "Timestamp": "2026-11-27T22:52:01.346Z",
           "DateUK": "2026-11-27"
         },
         {
@@ -361,7 +361,7 @@
           "Unchanged": 0,
           "Unknown": 2,
           "InputFile": "ftse100-lse-constituents-261127.json",
-          "Timestamp": "2026-11-27T21:55:01.517Z",
+          "Timestamp": "2026-11-27T22:52:01.346Z",
           "DateUK": "2026-11-27"
         },
         {
@@ -373,7 +373,7 @@
           "Unchanged": 0,
           "Unknown": 0,
           "InputFile": "ibex35-constituents-261127.json",
-          "Timestamp": "2026-11-27T21:55:01.517Z",
+          "Timestamp": "2026-11-27T22:52:01.346Z",
           "DateUK": "2026-11-27"
         },
         {
@@ -385,49 +385,47 @@
           "Unchanged": 0,
           "Unknown": 1,
           "InputFile": "sp500-barchart-download-components-261127.json",
-          "Timestamp": "2026-11-27T21:55:01.517Z",
+          "Timestamp": "2026-11-27T22:52:01.346Z",
+          "DateUK": "2026-11-27"
+        },
+        {
+          "Index": "Nasdaq",
+          "Source": "TradingView (tvDatafeed)",
+          "Total": 3122,
+          "Up": 2334,
+          "Down": 708,
+          "Unchanged": 80,
+          "Unknown": 0,
+          "InputFile": "nasdaq-breadth-tv-261127.json",
+          "Timestamp": "2026-11-27T22:52:01.346Z",
+          "DateUK": "2026-11-27"
+        },
+        {
+          "Index": "NYSE",
+          "Source": "TradingView (tvDatafeed)",
+          "Total": 1821,
+          "Up": 1520,
+          "Down": 301,
+          "Unchanged": 0,
+          "Unknown": 0,
+          "InputFile": "nyse-breadth-tv-261127.json",
+          "Timestamp": "2026-11-27T22:52:01.346Z",
+          "DateUK": "2026-11-27"
+        },
+        {
+          "Index": "TSX",
+          "Source": "TradingView (tvDatafeed)",
+          "Total": 2395,
+          "Up": 1611,
+          "Down": 657,
+          "Unchanged": 127,
+          "Unknown": 0,
+          "InputFile": "tsx-breadth-tv-261127.json",
+          "Timestamp": "2026-11-27T22:52:01.346Z",
           "DateUK": "2026-11-27"
         }
       ],
-      "errors": [
-        {
-          "index": "Nasdaq",
-          "source": "TradingView (tvDatafeed)",
-          "prefix": "nasdaq-breadth-tv-",
-          "changeField": null,
-          "kind": "tvBreadth",
-          "exts": [
-            ".json"
-          ],
-          "error": "missing input file",
-          "lookedIn": "/home/henry/mission-control/daily/2026-11-27"
-        },
-        {
-          "index": "NYSE",
-          "source": "TradingView (tvDatafeed)",
-          "prefix": "nyse-breadth-tv-",
-          "changeField": null,
-          "kind": "tvBreadth",
-          "exts": [
-            ".json"
-          ],
-          "defaultUnchanged": 0,
-          "error": "missing input file",
-          "lookedIn": "/home/henry/mission-control/daily/2026-11-27"
-        },
-        {
-          "index": "TSX",
-          "source": "TradingView (tvDatafeed)",
-          "prefix": "tsx-breadth-tv-",
-          "changeField": null,
-          "kind": "tvBreadth",
-          "exts": [
-            ".json"
-          ],
-          "error": "missing input file",
-          "lookedIn": "/home/henry/mission-control/daily/2026-11-27"
-        }
-      ]
+      "errors": []
     }
   }
 }
